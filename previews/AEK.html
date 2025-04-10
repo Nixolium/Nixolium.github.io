@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/AEK-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>AEK visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/AEK-files/logo.png" />
+	<img class="preload-hidden" src="/sets/AEK-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="AEK"><img src="/sets/AEK-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/AEK-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\AEK-files\img\9_Azalea, New Apocrypha.png" id="9_Azalea, New Apocrypha" data-flag="@X" onclick="openSidebar('9_Azalea, New Apocrypha',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\34_All the Time in the World.png" id="34_All the Time in the World" data-flag="@X" onclick="openSidebar('34_All the Time in the World',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\68_Introversion.png" id="68_Introversion" data-flag="@X" onclick="openSidebar('68_Introversion',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\88_Celosia on Burning Wings.png" id="88_Celosia on Burning Wings" data-flag="@X" onclick="openSidebar('88_Celosia on Burning Wings',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\113_Blade Alley Vigilantes.png" id="113_Blade Alley Vigilantes" data-flag="@X" onclick="openSidebar('113_Blade Alley Vigilantes',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\18_Luminescent Idol.png" id="18_Luminescent Idol" data-flag="@X" onclick="openSidebar('18_Luminescent Idol',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\48_Inspiring Idol.png" id="48_Inspiring Idol" data-flag="@X" onclick="openSidebar('48_Inspiring Idol',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\78_Spark Hunter Kajiwara Ai.png" id="78_Spark Hunter Kajiwara Ai" data-flag="@X" onclick="openSidebar('78_Spark Hunter Kajiwara Ai',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\105_Resplendent Idol.png" id="105_Resplendent Idol" data-flag="@X" onclick="openSidebar('105_Resplendent Idol',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\117_Hyacin, Crown of Wonder.png" id="117_Hyacin, Crown of Wonder" data-flag="@X" onclick="openSidebar('117_Hyacin, Crown of Wonder',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\32_White Lies.png" id="32_White Lies" data-flag="@X" onclick="openSidebar('32_White Lies',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\53_Shiroyuki, the Everygirl.png" id="53_Shiroyuki, the Everygirl" data-flag="@X" onclick="openSidebar('53_Shiroyuki, the Everygirl',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\82_Touka, Afterlife Specialist.png" id="82_Touka, Afterlife Specialist" data-flag="@X" onclick="openSidebar('82_Touka, Afterlife Specialist',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\107_Screaming into the Rain.png" id="107_Screaming into the Rain" data-flag="@X" onclick="openSidebar('107_Screaming into the Rain',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\120_Idyllic Idol.png" id="120_Idyllic Idol" data-flag="@X" onclick="openSidebar('120_Idyllic Idol',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\8_Autumn Winds.png" id="8_Autumn Winds" data-flag="@X" onclick="openSidebar('8_Autumn Winds',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\33_Aethershell Holo.png" id="33_Aethershell Holo" data-flag="@X" onclick="openSidebar('33_Aethershell Holo',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\84_Villainous Idol.png" id="84_Villainous Idol" data-flag="@X" onclick="openSidebar('84_Villainous Idol',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\86_Alicia, the Final Dawn.png" id="86_Alicia, the Final Dawn" data-flag="@X" onclick="openSidebar('86_Alicia, the Final Dawn',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\112_Apotheosis Lab.png" id="112_Apotheosis Lab" data-flag="@X" onclick="openSidebar('112_Apotheosis Lab',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\11_Cursed Catlover.png" id="11_Cursed Catlover" data-flag="@X" onclick="openSidebar('11_Cursed Catlover',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\36_Aspire.png" id="36_Aspire" data-flag="@X" onclick="openSidebar('36_Aspire',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\61_Eyes That Bite.png" id="61_Eyes That Bite" data-flag="@X" onclick="openSidebar('61_Eyes That Bite',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\89_Citron Bartender.png" id="89_Citron Bartender" data-flag="@X" onclick="openSidebar('89_Citron Bartender',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\114_Ellis, Paradise Painter.png" id="114_Ellis, Paradise Painter" data-flag="@X" onclick="openSidebar('114_Ellis, Paradise Painter',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\13_Embrace.png" id="13_Embrace" data-flag="@X" onclick="openSidebar('13_Embrace',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\40_Extraplanar Explorer.png" id="40_Extraplanar Explorer" data-flag="@X" onclick="openSidebar('40_Extraplanar Explorer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\64_Gleaming Importance.png" id="64_Gleaming Importance" data-flag="@X" onclick="openSidebar('64_Gleaming Importance',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\90_Clear the Stage.png" id="90_Clear the Stage" data-flag="@X" onclick="openSidebar('90_Clear the Stage',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\115_From Grassroots.png" id="115_From Grassroots" data-flag="@X" onclick="openSidebar('115_From Grassroots',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\17_Kairos, Colorsmith.png" id="17_Kairos, Colorsmith" data-flag="@X" onclick="openSidebar('17_Kairos, Colorsmith',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\42_Festival Shrinemaiden.png" id="42_Festival Shrinemaiden" data-flag="@X" onclick="openSidebar('42_Festival Shrinemaiden',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\65_Haunted Conspiracist.png" id="65_Haunted Conspiracist" data-flag="@X" onclick="openSidebar('65_Haunted Conspiracist',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\91_Ezren, Speedrunner.png" id="91_Ezren, Speedrunner" data-flag="@X" onclick="openSidebar('91_Ezren, Speedrunner',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\119_Idolize.png" id="119_Idolize" data-flag="@X" onclick="openSidebar('119_Idolize',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\20_Make Believe Together.png" id="20_Make Believe Together" data-flag="@X" onclick="openSidebar('20_Make Believe Together',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\43_Fiona Tsukuri.png" id="43_Fiona Tsukuri" data-flag="@X" onclick="openSidebar('43_Fiona Tsukuri',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\66_Here Without You.png" id="66_Here Without You" data-flag="@X" onclick="openSidebar('66_Here Without You',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\95_Heartsprung.png" id="95_Heartsprung" data-flag="@X" onclick="openSidebar('95_Heartsprung',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\122_Midnight Stroller.png" id="122_Midnight Stroller" data-flag="@X" onclick="openSidebar('122_Midnight Stroller',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\23_Miseko Producer.png" id="23_Miseko Producer" data-flag="@X" onclick="openSidebar('23_Miseko Producer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\44_Flirt with Disaster.png" id="44_Flirt with Disaster" data-flag="@X" onclick="openSidebar('44_Flirt with Disaster',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\70_Kenji and Momoka.png" id="70_Kenji and Momoka" data-flag="@X" onclick="openSidebar('70_Kenji and Momoka',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\99_Lamplighter.png" id="99_Lamplighter" data-flag="@X" onclick="openSidebar('99_Lamplighter',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\126_Pastel Travelers.png" id="126_Pastel Travelers" data-flag="@X" onclick="openSidebar('126_Pastel Travelers',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\26_A Practical Guide to Evil.png" id="26_A Practical Guide to Evil" data-flag="@X" onclick="openSidebar('26_A Practical Guide to Evil',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\45_From the Mirror.png" id="45_From the Mirror" data-flag="@X" onclick="openSidebar('45_From the Mirror',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\71_Lost but Found.png" id="71_Lost but Found" data-flag="@X" onclick="openSidebar('71_Lost but Found',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\102_Nexus Savant.png" id="102_Nexus Savant" data-flag="@X" onclick="openSidebar('102_Nexus Savant',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\128_Serin, Exponent Mage.png" id="128_Serin, Exponent Mage" data-flag="@X" onclick="openSidebar('128_Serin, Exponent Mage',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\27_Puddle Stomper.png" id="27_Puddle Stomper" data-flag="@X" onclick="openSidebar('27_Puddle Stomper',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\47_Iason, Watercolor Mage.png" id="47_Iason, Watercolor Mage" data-flag="@X" onclick="openSidebar('47_Iason, Watercolor Mage',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\73_Omniscent Reader.png" id="73_Omniscent Reader" data-flag="@X" onclick="openSidebar('73_Omniscent Reader',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\103_Nezuri, Toxic Princess.png" id="103_Nezuri, Toxic Princess" data-flag="@X" onclick="openSidebar('103_Nezuri, Toxic Princess',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\129_Showrunner.png" id="129_Showrunner" data-flag="@X" onclick="openSidebar('129_Showrunner',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\29_Sly Consigliere.png" id="29_Sly Consigliere" data-flag="@X" onclick="openSidebar('29_Sly Consigliere',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\52_Miko, Sings Her Heart Out.png" id="52_Miko, Sings Her Heart Out" data-flag="@X" onclick="openSidebar('52_Miko, Sings Her Heart Out',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\75_Prominence Lost.png" id="75_Prominence Lost" data-flag="@X" onclick="openSidebar('75_Prominence Lost',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\108_Sempiternal Witch.png" id="108_Sempiternal Witch" data-flag="@X" onclick="openSidebar('108_Sempiternal Witch',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\133_Social Executioner.png" id="133_Social Executioner" data-flag="@X" onclick="openSidebar('133_Social Executioner',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\31_Virtualize.png" id="31_Virtualize" data-flag="@X" onclick="openSidebar('31_Virtualize',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\54_Shorekeeper.png" id="54_Shorekeeper" data-flag="@X" onclick="openSidebar('54_Shorekeeper',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\77_Shadowbinding.png" id="77_Shadowbinding" data-flag="@X" onclick="openSidebar('77_Shadowbinding',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\110_Skybridge Rider.png" id="110_Skybridge Rider" data-flag="@X" onclick="openSidebar('110_Skybridge Rider',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\134_Sunshine Idol.png" id="134_Sunshine Idol" data-flag="@X" onclick="openSidebar('134_Sunshine Idol',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\7_Atalier Raycaster.png" id="7_Atalier Raycaster" data-flag="@X" onclick="openSidebar('7_Atalier Raycaster',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\35_Alone With My Thoughts.png" id="35_Alone With My Thoughts" data-flag="@X" onclick="openSidebar('35_Alone With My Thoughts',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\85_We Could Be Supervillains.png" id="85_We Could Be Supervillains" data-flag="@X" onclick="openSidebar('85_We Could Be Supervillains',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\87_Cabaret Bouncer.png" id="87_Cabaret Bouncer" data-flag="@X" onclick="openSidebar('87_Cabaret Bouncer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\116_Hobby Shop.png" id="116_Hobby Shop" data-flag="@X" onclick="openSidebar('116_Hobby Shop',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\10_Cheering Fangirl.png" id="10_Cheering Fangirl" data-flag="@X" onclick="openSidebar('10_Cheering Fangirl',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\37_Birdbrained.png" id="37_Birdbrained" data-flag="@X" onclick="openSidebar('37_Birdbrained',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\59_Beloved Antihero.png" id="59_Beloved Antihero" data-flag="@X" onclick="openSidebar('59_Beloved Antihero',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\92_Foul-tongued Acolyte.png" id="92_Foul-tongued Acolyte" data-flag="@X" onclick="openSidebar('92_Foul-tongued Acolyte',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\118_Hydric Biomancer.png" id="118_Hydric Biomancer" data-flag="@X" onclick="openSidebar('118_Hydric Biomancer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\12_Dark Comedy Duo.png" id="12_Dark Comedy Duo" data-flag="@X" onclick="openSidebar('12_Dark Comedy Duo',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\38_Blade Alley Fixer.png" id="38_Blade Alley Fixer" data-flag="@X" onclick="openSidebar('38_Blade Alley Fixer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\60_Blackhat Apothecary.png" id="60_Blackhat Apothecary" data-flag="@X" onclick="openSidebar('60_Blackhat Apothecary',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\93_Furious Songstress.png" id="93_Furious Songstress" data-flag="@X" onclick="openSidebar('93_Furious Songstress',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\121_Lightshow Ascetic.png" id="121_Lightshow Ascetic" data-flag="@X" onclick="openSidebar('121_Lightshow Ascetic',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\14_Experienced Animator.png" id="14_Experienced Animator" data-flag="@X" onclick="openSidebar('14_Experienced Animator',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\39_Cancel.png" id="39_Cancel" data-flag="@X" onclick="openSidebar('39_Cancel',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\62_Fan Following.png" id="62_Fan Following" data-flag="@X" onclick="openSidebar('62_Fan Following',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\94_Getaway Driver.png" id="94_Getaway Driver" data-flag="@X" onclick="openSidebar('94_Getaway Driver',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\123_Murasi Runaway.png" id="123_Murasi Runaway" data-flag="@X" onclick="openSidebar('123_Murasi Runaway',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\15_Falling Star.png" id="15_Falling Star" data-flag="@X" onclick="openSidebar('15_Falling Star',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\41_Fall Out.png" id="41_Fall Out" data-flag="@X" onclick="openSidebar('41_Fall Out',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\63_The Girl in the Chair.png" id="63_The Girl in the Chair" data-flag="@X" onclick="openSidebar('63_The Girl in the Chair',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\96_Host of Merely Players.png" id="96_Host of Merely Players" data-flag="@X" onclick="openSidebar('96_Host of Merely Players',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\124_Neon Streetcleaner.png" id="124_Neon Streetcleaner" data-flag="@X" onclick="openSidebar('124_Neon Streetcleaner',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\16_Fantasy Aspirant.png" id="16_Fantasy Aspirant" data-flag="@X" onclick="openSidebar('16_Fantasy Aspirant',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\46_Holo Operator.png" id="46_Holo Operator" data-flag="@X" onclick="openSidebar('46_Holo Operator',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\67_Hero From Fiction.png" id="67_Hero From Fiction" data-flag="@X" onclick="openSidebar('67_Hero From Fiction',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\97_Idol of Playthings.png" id="97_Idol of Playthings" data-flag="@X" onclick="openSidebar('97_Idol of Playthings',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\125_Not Today.png" id="125_Not Today" data-flag="@X" onclick="openSidebar('125_Not Today',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\19_Lunar Contessa.png" id="19_Lunar Contessa" data-flag="@X" onclick="openSidebar('19_Lunar Contessa',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\49_Isolated Wayfarer.png" id="49_Isolated Wayfarer" data-flag="@X" onclick="openSidebar('49_Isolated Wayfarer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\69_Jealous Rival.png" id="69_Jealous Rival" data-flag="@X" onclick="openSidebar('69_Jealous Rival',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\98_Kaede Troublemakers.png" id="98_Kaede Troublemakers" data-flag="@X" onclick="openSidebar('98_Kaede Troublemakers',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\127_Rhythm Seer.png" id="127_Rhythm Seer" data-flag="@X" onclick="openSidebar('127_Rhythm Seer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\21_Masked Singer.png" id="21_Masked Singer" data-flag="@X" onclick="openSidebar('21_Masked Singer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\50_Koi Painter.png" id="50_Koi Painter" data-flag="@X" onclick="openSidebar('50_Koi Painter',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\72_Memento Mori.png" id="72_Memento Mori" data-flag="@X" onclick="openSidebar('72_Memento Mori',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\100_Neon City Racer.png" id="100_Neon City Racer" data-flag="@X" onclick="openSidebar('100_Neon City Racer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\130_Sky Scraper.png" id="130_Sky Scraper" data-flag="@X" onclick="openSidebar('130_Sky Scraper',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\22_Meet Me At Sundown.png" id="22_Meet Me At Sundown" data-flag="@X" onclick="openSidebar('22_Meet Me At Sundown',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\51_Midnight Dreamer.png" id="51_Midnight Dreamer" data-flag="@X" onclick="openSidebar('51_Midnight Dreamer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\74_Perhaps.png" id="74_Perhaps" data-flag="@X" onclick="openSidebar('74_Perhaps',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\101_Neon Lights.png" id="101_Neon Lights" data-flag="@X" onclick="openSidebar('101_Neon Lights',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\131_Skybridge Fixer.png" id="131_Skybridge Fixer" data-flag="@X" onclick="openSidebar('131_Skybridge Fixer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\24_Missing Papers.png" id="24_Missing Papers" data-flag="@X" onclick="openSidebar('24_Missing Papers',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\55_Sudden Star.png" id="55_Sudden Star" data-flag="@X" onclick="openSidebar('55_Sudden Star',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\76_Rooftop Denizen.png" id="76_Rooftop Denizen" data-flag="@X" onclick="openSidebar('76_Rooftop Denizen',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\104_Reflected Frame.png" id="104_Reflected Frame" data-flag="@X" onclick="openSidebar('104_Reflected Frame',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\132_Smirking Delinquent.png" id="132_Smirking Delinquent" data-flag="@X" onclick="openSidebar('132_Smirking Delinquent',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\25_Out of Spacetime.png" id="25_Out of Spacetime" data-flag="@X" onclick="openSidebar('25_Out of Spacetime',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\56_Tsukuri Freerunner.png" id="56_Tsukuri Freerunner" data-flag="@X" onclick="openSidebar('56_Tsukuri Freerunner',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\79_Steal the Show.png" id="79_Steal the Show" data-flag="@X" onclick="openSidebar('79_Steal the Show',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\106_Scorch.png" id="106_Scorch" data-flag="@X" onclick="openSidebar('106_Scorch',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\135_Superstar.png" id="135_Superstar" data-flag="@X" onclick="openSidebar('135_Superstar',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\28_Satsukai Fixer.png" id="28_Satsukai Fixer" data-flag="@X" onclick="openSidebar('28_Satsukai Fixer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\57_Twirl.png" id="57_Twirl" data-flag="@X" onclick="openSidebar('57_Twirl',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\80_Talent Scout.png" id="80_Talent Scout" data-flag="@X" onclick="openSidebar('80_Talent Scout',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\109_She Has a Gun.png" id="109_She Has a Gun" data-flag="@X" onclick="openSidebar('109_She Has a Gun',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\136_Traverse the City.png" id="136_Traverse the City" data-flag="@X" onclick="openSidebar('136_Traverse the City',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\30_University Hobbyist.png" id="30_University Hobbyist" data-flag="@X" onclick="openSidebar('30_University Hobbyist',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\58_Undercity Peacekeeper.png" id="58_Undercity Peacekeeper" data-flag="@X" onclick="openSidebar('58_Undercity Peacekeeper',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\81_Top of the Charts.png" id="81_Top of the Charts" data-flag="@X" onclick="openSidebar('81_Top of the Charts',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\111_Waiting for You.png" id="111_Waiting for You" data-flag="@X" onclick="openSidebar('111_Waiting for You',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\137_Wondrous Gateway.png" id="137_Wondrous Gateway" data-flag="@X" onclick="openSidebar('137_Wondrous Gateway',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\83_Treasured Memories.png" id="83_Treasured Memories" data-flag="@X" onclick="openSidebar('83_Treasured Memories',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\140_Holographic Darling.png" id="140_Holographic Darling" data-flag="@X" onclick="openSidebar('140_Holographic Darling',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\154_Vielle Never Sleeps.png" id="154_Vielle Never Sleeps" data-flag="@X" onclick="openSidebar('154_Vielle Never Sleeps',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\145_Lurking Insomniac.png" id="145_Lurking Insomniac" data-flag="@X" onclick="openSidebar('145_Lurking Insomniac',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\146_Midnight Sommelier.png" id="146_Midnight Sommelier" data-flag="@X" onclick="openSidebar('146_Midnight Sommelier',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\151_Shock Paintress.png" id="151_Shock Paintress" data-flag="@X" onclick="openSidebar('151_Shock Paintress',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\163_Serenyi's Shell.png" id="163_Serenyis Shell" data-flag="@X" onclick="openSidebar('163_Serenyis Shell',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\152_Snapshot Storyteller.png" id="152_Snapshot Storyteller" data-flag="@X" onclick="openSidebar('152_Snapshot Storyteller',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\157_Burn Fast, Burn Bright.png" id="157_Burn Fast, Burn Bright" data-flag="@X" onclick="openSidebar('157_Burn Fast, Burn Bright',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\162_Party Planner.png" id="162_Party Planner" data-flag="@X" onclick="openSidebar('162_Party Planner',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\139_Exalted Gossipers.png" id="139_Exalted Gossipers" data-flag="@X" onclick="openSidebar('139_Exalted Gossipers',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\155_Beloved Idol.png" id="155_Beloved Idol" data-flag="@X" onclick="openSidebar('155_Beloved Idol',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\164_Sunflower Painter.png" id="164_Sunflower Painter" data-flag="@X" onclick="openSidebar('164_Sunflower Painter',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\148_Reclusive Cynic.png" id="148_Reclusive Cynic" data-flag="@X" onclick="openSidebar('148_Reclusive Cynic',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\147_Neon Streetracer.png" id="147_Neon Streetracer" data-flag="@X" onclick="openSidebar('147_Neon Streetracer',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\138_Dozing Furball.png" id="138_Dozing Furball" data-flag="@X" onclick="openSidebar('138_Dozing Furball',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\143_Kalista, Citron Don.png" id="143_Kalista, Citron Don" data-flag="@X" onclick="openSidebar('143_Kalista, Citron Don',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\142_Idolatry Aesthete.png" id="142_Idolatry Aesthete" data-flag="@X" onclick="openSidebar('142_Idolatry Aesthete',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\141_Idiosyncratic Savant.png" id="141_Idiosyncratic Savant" data-flag="@X" onclick="openSidebar('141_Idiosyncratic Savant',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\161_Need For Speed.png" id="161_Need For Speed" data-flag="@X" onclick="openSidebar('161_Need For Speed',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\159_Leyline Traveler.png" id="159_Leyline Traveler" data-flag="@X" onclick="openSidebar('159_Leyline Traveler',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\153_Tsukuri Kiteflier.png" id="153_Tsukuri Kiteflier" data-flag="@X" onclick="openSidebar('153_Tsukuri Kiteflier',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\160_Moonlit Lantern Festival.png" id="160_Moonlit Lantern Festival" data-flag="@X" onclick="openSidebar('160_Moonlit Lantern Festival',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\158_Digitization Rig.png" id="158_Digitization Rig" data-flag="@X" onclick="openSidebar('158_Digitization Rig',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\156_Bounding Companion.png" id="156_Bounding Companion" data-flag="@X" onclick="openSidebar('156_Bounding Companion',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\144_Kyv, Sanguine Avante.png" id="144_Kyv, Sanguine Avante" data-flag="@X" onclick="openSidebar('144_Kyv, Sanguine Avante',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\150_Serenyi, the Benevolent.png" id="150_Serenyi, the Benevolent" data-flag="@X" onclick="openSidebar('150_Serenyi, the Benevolent',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\149_Sacred Wish.png" id="149_Sacred Wish" data-flag="@X" onclick="openSidebar('149_Sacred Wish',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\167_Lunar Halo.png" id="167_Lunar Halo" data-flag="@X" onclick="openSidebar('167_Lunar Halo',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\168_The Serra Ring.png" id="168_The Serra Ring" data-flag="@X" onclick="openSidebar('168_The Serra Ring',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\2_Echo and None Reply.png" id="2_Echo and None Reply" data-flag="@X" onclick="openSidebar('2_Echo and None Reply',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\165_Hardened Pickup.png" id="165_Hardened Pickup" data-flag="@X" onclick="openSidebar('165_Hardened Pickup',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\166_Incomplete Aethershell.png" id="166_Incomplete Aethershell" data-flag="@X" onclick="openSidebar('166_Incomplete Aethershell',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\1_Dream.png" id="1_Dream" data-flag="@X" onclick="openSidebar('1_Dream',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\3_Mistencharm Resplendant.png" id="3_Mistencharm Resplendant" data-flag="@X" onclick="openSidebar('3_Mistencharm Resplendant',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\4_Rainbow Seeker.png" id="4_Rainbow Seeker" data-flag="@X" onclick="openSidebar('4_Rainbow Seeker',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\5_Vielle's Perch.png" id="5_Vielles Perch" data-flag="@X" onclick="openSidebar('5_Vielles Perch',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\6_Virtual Avatar.png" id="6_Virtual Avatar" data-flag="@X" onclick="openSidebar('6_Virtual Avatar',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="land" class="anchor"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\176_Miseko, Aekyu's Crossroads.png" id="176_Miseko, Aekyus Crossroads" data-flag="@X" onclick="openSidebar('176_Miseko, Aekyus Crossroads',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\182_Tsukuri, Lantern Sanctum.png" id="182_Tsukuri, Lantern Sanctum" data-flag="@X" onclick="openSidebar('182_Tsukuri, Lantern Sanctum',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\175_Kaede, the City Below.png" id="175_Kaede, the City Below" data-flag="@X" onclick="openSidebar('175_Kaede, the City Below',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\178_Satsukai, City of Lights.png" id="178_Satsukai, City of Lights" data-flag="@X" onclick="openSidebar('178_Satsukai, City of Lights',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\177_Nyano, Serene Shrine.png" id="177_Nyano, Serene Shrine" data-flag="@X" onclick="openSidebar('177_Nyano, Serene Shrine',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\169_Aviation Hub.png" id="169_Aviation Hub" data-flag="@X" onclick="openSidebar('169_Aviation Hub',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\180_Skyline Lookout.png" id="180_Skyline Lookout" data-flag="@X" onclick="openSidebar('180_Skyline Lookout',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\173_Exclusive Nightclub.png" id="173_Exclusive Nightclub" data-flag="@X" onclick="openSidebar('173_Exclusive Nightclub',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\179_Shopping Mall.png" id="179_Shopping Mall" data-flag="@X" onclick="openSidebar('179_Shopping Mall',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\171_Capitol Square.png" id="171_Capitol Square" data-flag="@X" onclick="openSidebar('171_Capitol Square',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\174_Glamorous Stage.png" id="174_Glamorous Stage" data-flag="@X" onclick="openSidebar('174_Glamorous Stage',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\172_Construction Zone.png" id="172_Construction Zone" data-flag="@X" onclick="openSidebar('172_Construction Zone',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\183_Undercity Alley.png" id="183_Undercity Alley" data-flag="@X" onclick="openSidebar('183_Undercity Alley',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\170_Busy Intersection.png" id="170_Busy Intersection" data-flag="@X" onclick="openSidebar('170_Busy Intersection',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\184_Urban Gardens.png" id="184_Urban Gardens" data-flag="@X" onclick="openSidebar('184_Urban Gardens',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\181_Thunder Stage.png" id="181_Thunder Stage" data-flag="@X" onclick="openSidebar('181_Thunder Stage',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\185_Wayfarer's Shrine.png" id="185_Wayfarers Shrine" data-flag="@X" onclick="openSidebar('185_Wayfarers Shrine',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\188_Swamp.png" id="188_Swamp" data-flag="@X" onclick="openSidebar('188_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\189_Mountain.png" id="189_Mountain" data-flag="@X" onclick="openSidebar('189_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\186_Plains.png" id="186_Plains" data-flag="@X" onclick="openSidebar('186_Plains',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\187_Island.png" id="187_Island" data-flag="@X" onclick="openSidebar('187_Island',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\190_Forest.png" id="190_Forest" data-flag="@X" onclick="openSidebar('190_Forest',false)"></div>
+			<div class="container"><img alt="/sets\AEK-files\img\191_Wastes.png" id="191_Wastes" data-flag="@X" onclick="openSidebar('191_Wastes',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
