@@ -160,6 +160,8 @@
 	<img class="preload-hidden" src="/sets/EPS-files/logo.png" />
 	<img class="preload-hidden" src="/sets/AEK-files/icon.png" />
 		<img class="preload-hidden" src="/sets/EPS-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="/sets/EPS-files/bg.png" />
+		
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -417,7 +419,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		loadImages();
 	});
 
