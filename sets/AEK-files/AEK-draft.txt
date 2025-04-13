@@ -1893,7 +1893,7 @@
 		{
 			"name": "Lost but Found",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "71",
 			"image_uris": {
