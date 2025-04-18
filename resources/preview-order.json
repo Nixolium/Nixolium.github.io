@@ -1,4 +1,4 @@
-﻿[
+﻿﻿[
 	{ "cards":  [ "W", "U", "B", "R", "G" ] },
 	{ "title": "gold", "cards":  [ "WU", "UB", "BR", "RG", "GW" ] },
 	{ "cards":  [ "WB", "UR", "BG", "RW", "GU" ] },
@@ -12,7 +12,6 @@
 	{ "cards":  [ "L" ] },
 	{ "cards":  [ "basic" ] },
 	{ "title": "token", "cards":  [ "token" ] },
-	{ "title": "masterpiece", "cards":  [ "mp" ] },
-	{ "cards":  [ "sort_group1" ] },
-	{ "cards":  [ "sort_group2" ] }
+	{ "title": "conjure", "cards":  [ "conjure" ] },
+	{ "title": "masterpiece", "cards":  [ "mp" ] }
 ]
