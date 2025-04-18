@@ -361,16 +361,6 @@
 			}
 		},
 		{
-			"name": "Bounding Companion",
-			"rarity": "common",
-			"mana_cost": "{1}{R/W}",
-			"type": "Enchantment Creature — Cat ",
-			"collector_number": "162",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/162_Bounding Companion.png"
-			}
-		},
-		{
 			"name": "Sunflower Painter",
 			"rarity": "common",
 			"mana_cost": "{2}{G/W}",
@@ -398,16 +388,6 @@
 			"collector_number": "166",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/166_Moonlit Lantern Festival.png"
-			}
-		},
-		{
-			"name": "Need For Speed",
-			"rarity": "common",
-			"mana_cost": "{1}{U/R}",
-			"type": "Instant",
-			"collector_number": "167",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/167_Need For Speed.png"
 			}
 		},
 		{
@@ -465,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment Creature — Avatar ",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/108_Reflected Frame.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/107_Reflected Frame.png"
 			}
 		},
 		{
@@ -1373,7 +1353,7 @@
 		{
 			"name": "Aspire",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "{5/U}",
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
@@ -1625,9 +1605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/109_Resplendent Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/108_Resplendent Idol.png"
 			}
 		},
 		{
@@ -1872,7 +1852,7 @@
 		},
 		{
 			"name": "Wastes",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
 			"collector_number": "0",
@@ -1902,7 +1882,7 @@
 		},
 		{
 			"name": "Furious Songstress_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "0",
@@ -1912,7 +1892,7 @@
 		},
 		{
 			"name": "Lightshow Ascetic_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "0",
@@ -1922,7 +1902,7 @@
 		},
 		{
 			"name": "Blackhat Apothecary_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Cleric Artist ",
 			"collector_number": "0",
@@ -1932,7 +1912,7 @@
 		},
 		{
 			"name": "Lunar Contessa_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Enchantment Creature — Avatar ",
 			"collector_number": "0",
@@ -1942,7 +1922,7 @@
 		},
 		{
 			"name": "Midnight Dreamer_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Enchantment Creature — Avatar  ",
 			"collector_number": "0",
@@ -1952,7 +1932,7 @@
 		},
 		{
 			"name": "Mistencharm Resplendant_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "0",
@@ -1962,7 +1942,7 @@
 		},
 		{
 			"name": "Neon City Racer_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Pilot ",
 			"collector_number": "0",
@@ -1972,7 +1952,7 @@
 		},
 		{
 			"name": "Neon Streetracer_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Pilot ",
 			"collector_number": "0",
@@ -1982,7 +1962,7 @@
 		},
 		{
 			"name": "Serin, Exponent Mage_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artificer ",
 			"collector_number": "0",
@@ -1992,7 +1972,7 @@
 		},
 		{
 			"name": "Smirking Delinquent_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Reveler ",
 			"collector_number": "0",
@@ -2002,7 +1982,7 @@
 		},
 		{
 			"name": "Sudden Star_sen",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "0",
@@ -2012,7 +1992,7 @@
 		},
 		{
 			"name": "Divination",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "0",
@@ -2022,7 +2002,7 @@
 		},
 		{
 			"name": "Rising Flames",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "0",
@@ -2032,7 +2012,7 @@
 		},
 		{
 			"name": "Sea Cache",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "0",
@@ -2042,7 +2022,7 @@
 		},
 		{
 			"name": "Demonic Tutor",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "0",
@@ -2052,7 +2032,7 @@
 		},
 		{
 			"name": "Drain",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "0",
@@ -2062,7 +2042,7 @@
 		},
 		{
 			"name": "Storm Crow",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird ",
 			"collector_number": "0",
@@ -2072,7 +2052,7 @@
 		},
 		{
 			"name": "Thoughts",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "0",
@@ -2082,7 +2062,7 @@
 		},
 		{
 			"name": "Aethershell Holo Version",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Reminder Creature",
 			"collector_number": "0",
@@ -2092,7 +2072,7 @@
 		},
 		{
 			"name": "Reclusive Cynic Version",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Reminder Creature",
 			"collector_number": "0",
@@ -2102,7 +2082,7 @@
 		},
 		{
 			"name": "Colorful Aesthete Version",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Reminder Creature",
 			"collector_number": "0",
@@ -2112,7 +2092,7 @@
 		},
 		{
 			"name": "Yri, Utonian Hero",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Rogue ",
 			"collector_number": "4",
@@ -2122,7 +2102,7 @@
 		},
 		{
 			"name": "Hannah on Leave",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Artificer ",
 			"collector_number": "7",
@@ -2152,9 +2132,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human ",
-			"collector_number": "8",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/8_Human_2.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/11_Human_2.png"
 			}
 		},
 		{
@@ -2172,9 +2152,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Horror ",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/7_Horror.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/9_Horror.png"
 			}
 		},
 		{
@@ -2182,9 +2162,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Toy ",
-			"collector_number": "11",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/11_Toy.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/16_Toy.png"
 			}
 		},
 		{
@@ -2192,9 +2172,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Soldier ",
-			"collector_number": "10",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/10_Soldier.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/15_Soldier.png"
 			}
 		},
 		{
@@ -2202,9 +2182,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food ",
-			"collector_number": "9",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/9_Food.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/14_Food.png"
 			}
 		},
 		{
@@ -2212,9 +2192,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Cat ",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/6_Cat.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/8_Cat.png"
 			}
 		},
 		{
@@ -2229,7 +2209,7 @@
 		},
 		{
 			"name": "Winmeari, Scarlet Sentinel",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Planeswalker — Winmeari ",
 			"collector_number": "10",
@@ -2239,7 +2219,7 @@
 		},
 		{
 			"name": "Vielle, Undercity Wayfarer",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Axiom ",
 			"collector_number": "9",
@@ -2249,7 +2229,7 @@
 		},
 		{
 			"name": "Tolen, the Paradisiac",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Planeswalker — Tolen ",
 			"collector_number": "8",
@@ -2259,7 +2239,7 @@
 		},
 		{
 			"name": "Alice, Wonderbane",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Planeswalker — Alice ",
 			"collector_number": "2",
@@ -2269,7 +2249,7 @@
 		},
 		{
 			"name": "The Icelord of Severed Chains",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Warrior ",
 			"collector_number": "3",
@@ -2279,7 +2259,7 @@
 		},
 		{
 			"name": "Naoko, Onigaiko Transfer",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "1",
@@ -2289,7 +2269,7 @@
 		},
 		{
 			"name": "Shayu on Fizzling Screens",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Human Scout ",
 			"collector_number": "6",
@@ -2299,7 +2279,7 @@
 		},
 		{
 			"name": "Victoria, the Heartline",
-			"rarity": "mythic",
+			"rarity": "masterpiece",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Elf Wizard ",
 			"collector_number": "5",
@@ -2309,7 +2289,7 @@
 		},
 		{
 			"name": "Secret Rendezvous",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "0",
@@ -2322,9 +2302,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental ",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/4_Elemental.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/5_Elemental.png"
 			}
 		},
 		{
@@ -2332,14 +2312,14 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Student ",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/5_Student.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/7_Student.png"
 			}
 		},
 		{
 			"name": "Loot",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "0",
@@ -2378,16 +2358,6 @@
 			}
 		},
 		{
-			"name": "Inspiring Vision",
-			"rarity": "uncommon",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "50",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/50_Inspiring Vision.png"
-			}
-		},
-		{
 			"name": "Ambitious Vision",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
@@ -2398,13 +2368,13 @@
 			}
 		},
 		{
-			"name": "Radiant Vision",
+			"name": "Resplendent Vision",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/107_Radiant Vision.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/109_Resplendent Vision.png"
 			}
 		},
 		{
@@ -2416,215 +2386,280 @@
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/125_Idyllic Vision.png"
 			}
+		},
+		{
+			"name": "Need For Speed",
+			"rarity": "common",
+			"mana_cost": "{1{U}/R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/167_Need For Speed.png"
+			}
+		},
+		{
+			"name": "Bounding Companion",
+			"rarity": "common",
+			"mana_cost": "{1{R}/W}",
+			"type": "Enchantment Creature — Cat ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/162_Bounding Companion.png"
+			}
+		},
+		{
+			"name": "Inspiring Vision",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/50_Inspiring Vision.png"
+			}
+		},
+		{
+			"name": "Idol's Blessing",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/13_Idol's Blessing.png"
+			}
+		},
+		{
+			"name": "Idol's Creativity",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/6_Idol's Creativity.png"
+			}
+		},
+		{
+			"name": "Idol's Radiance",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/12_Idol's Radiance.png"
+			}
+		},
+		{
+			"name": "Idol's Anthem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/10_Idol's Anthem.png"
+			}
+		},
+		{
+			"name": "Idol's Ambition",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/4_Idol's Ambition.png"
+			}
 		}
 	]
-[WildcardSlot(14)]
-10 Aviation Hub
-10 Busy Intersection
-10 Virtual Avatar
-10 Mistencharm Resplendant
-10 Dream
-10 Rainbow Seeker
-10 Capitol Square
-10 Blackhat Apothecary
-10 Rooftop Violinist
-10 Jealous Rival
-10 Beloved Antihero
-10 Fan Following
-10 Hero From Fiction
-10 The Girl in the Chair
-10 Top of the Charts
-10 Talent Scout
-10 Perhaps
-10 Steal the Show
-10 Treasured Memories
-10 Memento Mori
-10 Superstar
-10 Smirking Delinquent
-10 Lightshow Ascetic
-10 Hobby Shop
-10 Skybridge Fixer
-10 Murasi Runaway
-10 Wondrous Gateway
-10 Rhythm Seer
-10 Hydric Biomancer
-10 Neon Streetcleaner
-10 Sky Scraper
-10 Traverse the City
-10 Not Today
-10 Beloved Idol
-10 Digitization Rig
-10 Serenyi's Shell
-10 Bounding Companion
-10 Sunflower Painter
-10 Party Planner
-10 Moonlit Lantern Festival
-10 Need For Speed
-10 Leyline Traveler
-10 Burn Fast, Burn Bright
-10 Construction Zone
-10 Neon City Racer
-10 Furious Songstress
-10 Reflected Frame
-10 Getaway Driver
-10 Kaede Troublemakers
-10 Idol of Playthings
-10 Foul-tongued Acolyte
-10 Host of Merely Players
-10 Cabaret Bouncer
-10 Waiting for You
-10 She Has a Gun
-10 Neon Lights
-10 Scorch
-10 Midnight Dreamer
-10 Undercity Peacekeeper
-10 Blade Alley Fixer
-10 Sudden Star
-10 Koi Painter
-10 Isolated Wayfarer
-10 Holo Operator
-10 Tsukuri Freerunner
-10 Twirl
-10 Cancel
-10 Alone With My Thoughts
-10 Fall Out
-10 Birdbrained
-10 Lunar Contessa
-10 Masked Singer
-10 Satsukai Fixer
-10 University Hobbyist
-10 Fantasy Aspirant
-10 Atelier Voyager
-10 Cheering Fangirl
-10 Falling Star
-10 Dark Comedy Duo
-10 Out of Spacetime
-10 Experienced Animator
-10 Meet Me At Sundown
-10 Missing Papers
-10 Gilded Nightclub
-10 Glamorous Stage
-10 Shopping Mall
-10 Skyline Lookout
-10 Thunder Stage
-10 Undercity Alley
-10 Urban Gardens
-10 Wayfarer's Shrine
-10 Hardened Pickup
-10 Incomplete Aethershell
-10 Haunted Conspiracist
-10 We Could Be Supervillains
-10 Kenji and Momoka
-10 Omniscent Reader
-10 Prominence Lost
-10 Shadowbinding
-10 Gleaming Importance
-10 Eyes That Bite
-10 Here Without You
-10 Midnight Stroller
-10 Showrunner
-10 Pastel Travelers
-10 Serin, Exponent Mage
-10 Social Executioner
-10 Apotheosis Lab
-10 Sunshine Idol
-10 From Grassroots
-10 Idolize
-10 Ellios, Paradise Painter
-10 Snapshot Storyteller
-10 Idiosyncratic Savant
-10 Holographic Darling
-10 Tsukuri Kiteflier
-10 Exalted Gossipers
-10 Midnight Sommelier
-10 Colorful Aesthete
-10 Neon Streetracer
-10 Dozing Furball
-10 Lurking Insomniac
-10 Skybridge Rider
-10 Alicia, the Final Dawn
-10 Nexus Savant
-10 Sempiternal Witch
-10 Citron Bartender
-10 Ezren, Speedrunner
-10 Clear the Stage
-10 Nezuri, Toxic Princess
-10 Heartsprung
-10 Lamplighter
-10 Iason, Watercolor Mage
-10 Extraplanar Explorer
-10 Shorekeeper
-10 Festival Shrinemaiden
-10 Miko, Sings Her Heart Out
-10 Aspire
-10 Flirt with Disaster
-10 From the Mirror
-10 Aethershell Holo
-10 Make Believe Together
-10 Sly Consigliere
-10 Miseko Producer
-10 Cursed Catlover
-10 Autumn Winds
-10 Puddle Stomper
-10 Virtualize
-10 A Practical Guide to Evil
-10 Embrace
-10 Kairos, Colorsmith
-10 All the Time in the World
-10 Azalea, New Apocrypha
-10 Celosia on Burning Wings
-10 Blade Alley Vigilantes
-10 Hyacin, Crown of Wonder
-10 Idyllic Idol
-10 Inspiring Idol
-10 Introversion
-10 Kyv, Sanguine Avante
-10 Luminescent Idol
-10 Lunar Halo
-10 Resplendent Idol
-10 Screaming into the Rain
-10 Spark Hunter Kajiwara Ai
-10 The Serra Ring
-10 Touka, Afterlife Specialist
-10 Serenyi, the Benevolent
-10 Villainous Idol
-10 White Lies
-10 Kaede, the City Below
-10 Miseko, Aekyu's Crossroads
-10 Satsukai, City of Lights
-10 Tsukuri, Lantern Sanctum
-10 Nyano, Serene Shrine
-10 Echo and None Reply
-10 Vielle's Perch
-10 Vielle Never Sleeps
-10 Kalista, Citron Don
-10 Shock Paintress
-10 Shiroyuki, the Everygirl
-10 Reclusive Cynic
-10 Lost but Found
-10 Fiona Tsukuri
-10 Corsenna, the Sightseer
-10 Bleed
-10 Luminescent Vision
-10 Inspiring Vision
-10 Ambitious Vision
-10 Radiant Vision
-10 Idyllic Vision
+[RareSlot(1)]
+2 All the Time in the World
+2 Azalea, New Apocrypha
+2 Celosia on Burning Wings
+2 Blade Alley Vigilantes
+2 Hyacin, Crown of Wonder
+2 Idyllic Idol
+2 Inspiring Idol
+2 Introversion
+2 Kyv, Sanguine Avante
+2 Luminescent Idol
+2 Lunar Halo
+2 Resplendent Idol
+2 Screaming into the Rain
+2 Spark Hunter Kajiwara Ai
+2 The Serra Ring
+2 Touka, Afterlife Specialist
+2 Serenyi, the Benevolent
+2 Villainous Idol
+2 White Lies
+2 Vielle Never Sleeps
+2 Kalista, Citron Don
+2 Shock Paintress
+2 Shiroyuki, the Everygirl
+2 Reclusive Cynic
+2 Corsenna, the Sightseer
+2 Bleed
+[UncommonSlot(4)]
+9 Hardened Pickup
+9 Incomplete Aethershell
+9 Haunted Conspiracist
+9 We Could Be Supervillains
+9 Kenji and Momoka
+9 Omniscent Reader
+9 Prominence Lost
+9 Shadowbinding
+9 Gleaming Importance
+9 Eyes That Bite
+9 Here Without You
+9 Midnight Stroller
+9 Showrunner
+9 Pastel Travelers
+9 Serin, Exponent Mage
+9 Social Executioner
+9 Apotheosis Lab
+9 Sunshine Idol
+9 From Grassroots
+9 Idolize
+9 Ellios, Paradise Painter
+9 Snapshot Storyteller
+9 Idiosyncratic Savant
+9 Holographic Darling
+9 Tsukuri Kiteflier
+9 Exalted Gossipers
+9 Midnight Sommelier
+9 Colorful Aesthete
+9 Neon Streetracer
+9 Dozing Furball
+9 Lurking Insomniac
+9 Skybridge Rider
+9 Alicia, the Final Dawn
+9 Nexus Savant
+9 Sempiternal Witch
+9 Citron Bartender
+9 Ezren, Speedrunner
+9 Clear the Stage
+9 Nezuri, Toxic Princess
+9 Heartsprung
+9 Lamplighter
+9 Iason, Watercolor Mage
+9 Extraplanar Explorer
+9 Shorekeeper
+9 Festival Shrinemaiden
+9 Miko, Sings Her Heart Out
+9 Aspire
+9 Flirt with Disaster
+9 From the Mirror
+9 Aethershell Holo
+9 Make Believe Together
+9 Sly Consigliere
+9 Miseko Producer
+9 Cursed Catlover
+9 Autumn Winds
+9 Puddle Stomper
+9 Virtualize
+9 A Practical Guide to Evil
+9 Embrace
+9 Kairos, Colorsmith
+9 Kaede, the City Below
+9 Miseko, Aekyu's Crossroads
+9 Satsukai, City of Lights
+9 Tsukuri, Lantern Sanctum
+9 Nyano, Serene Shrine
+9 Echo and None Reply
+9 Lost but Found
+9 Fiona Tsukuri
+9 Luminescent Vision
+9 Ambitious Vision
+9 Resplendent Vision
+9 Idyllic Vision
+9 Inspiring Vision
+[CommonSlot(9)]
+30 Aviation Hub
+30 Busy Intersection
+30 Virtual Avatar
+30 Mistencharm Resplendant
+30 Dream
+30 Rainbow Seeker
+30 Capitol Square
+30 Blackhat Apothecary
+30 Rooftop Violinist
+30 Jealous Rival
+30 Beloved Antihero
+30 Fan Following
+30 Hero From Fiction
+30 The Girl in the Chair
+30 Top of the Charts
+30 Talent Scout
+30 Perhaps
+30 Steal the Show
+30 Treasured Memories
+30 Memento Mori
+30 Superstar
+30 Smirking Delinquent
+30 Lightshow Ascetic
+30 Hobby Shop
+30 Skybridge Fixer
+30 Murasi Runaway
+30 Wondrous Gateway
+30 Rhythm Seer
+30 Hydric Biomancer
+30 Neon Streetcleaner
+30 Sky Scraper
+30 Traverse the City
+30 Not Today
+30 Beloved Idol
+30 Digitization Rig
+30 Serenyi's Shell
+30 Sunflower Painter
+30 Party Planner
+30 Moonlit Lantern Festival
+30 Leyline Traveler
+30 Burn Fast, Burn Bright
+30 Construction Zone
+30 Neon City Racer
+30 Furious Songstress
+30 Reflected Frame
+30 Getaway Driver
+30 Kaede Troublemakers
+30 Idol of Playthings
+30 Foul-tongued Acolyte
+30 Host of Merely Players
+30 Cabaret Bouncer
+30 Waiting for You
+30 She Has a Gun
+30 Neon Lights
+30 Scorch
+30 Midnight Dreamer
+30 Undercity Peacekeeper
+30 Blade Alley Fixer
+30 Sudden Star
+30 Koi Painter
+30 Isolated Wayfarer
+30 Holo Operator
+30 Tsukuri Freerunner
+30 Twirl
+30 Cancel
+30 Alone With My Thoughts
+30 Fall Out
+30 Birdbrained
+30 Lunar Contessa
+30 Masked Singer
+30 Satsukai Fixer
+30 University Hobbyist
+30 Fantasy Aspirant
+30 Atelier Voyager
+30 Cheering Fangirl
+30 Falling Star
+30 Dark Comedy Duo
+30 Out of Spacetime
+30 Experienced Animator
+30 Meet Me At Sundown
+30 Missing Papers
+30 Gilded Nightclub
+30 Glamorous Stage
+30 Shopping Mall
+30 Skyline Lookout
+30 Thunder Stage
+30 Undercity Alley
+30 Urban Gardens
+30 Wayfarer's Shrine
+30 Vielle's Perch
+30 Need For Speed
+30 Bounding Companion
 [LandSlot(1)]
-10 Aviation Hub
-10 Busy Intersection
-10 Capitol Square
-10 Construction Zone
-10 Gilded Nightclub
-10 Glamorous Stage
-10 Kaede, the City Below
-10 Miseko, Aekyu's Crossroads
-10 Nyano, Serene Shrine
-10 Satsukai, City of Lights
-10 Shopping Mall
-10 Skyline Lookout
-10 Thunder Stage
-10 Tsukuri, Lantern Sanctum
-10 Undercity Alley
-10 Urban Gardens
-10 Wayfarer's Shrine
