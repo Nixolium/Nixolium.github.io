@@ -481,13 +481,13 @@
 			}
 		},
 		{
-			"name": "Foul-tongued Acolyte",
+			"name": "Foul Tongued Acolyte",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Cleric ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/95_Foul-tongued Acolyte.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/95_Foul Tongued Acolyte.png"
 			}
 		},
 		{
@@ -2618,7 +2618,7 @@
 30 Getaway Driver
 30 Kaede Troublemakers
 30 Idol of Playthings
-30 Foul-tongued Acolyte
+30 Foul Tongued Acolyte
 30 Host of Merely Players
 30 Cabaret Bouncer
 30 Waiting for You
