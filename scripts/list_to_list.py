@@ -25,7 +25,7 @@ def convertList(setCode):
 	sort_groups = []
 	
 	#Nix's badly coded band-aid
-	sort_groups.append("conjure")
+	#sort_groups.append("conjure")
  
 	#F: This gets any alt-arts in a single set and adds their card number to a list of cards to skip.
 	for i in range(len(cards)):
