@@ -12,5 +12,6 @@
 	{ "cards":  [ "L" ] },
 	{ "cards":  [ "basic" ] },
 	{ "title": "token", "cards":  [ "token" ] },
+	{ "title": "conjure", "cards":  [ "conjure" ] },
 	{ "title": "masterpiece", "cards":  [ "mp" ] }
 ]
