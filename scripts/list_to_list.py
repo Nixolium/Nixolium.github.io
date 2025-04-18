@@ -23,6 +23,7 @@ def convertList(setCode):
 	skipdex = []
 	#CE: array of special sort groups
 	sort_groups = []
+	sort_groups.append("conjure")
 	#F: This gets any alt-arts in a single set and adds their card number to a list of cards to skip.
 	for i in range(len(cards)):
 		match = re.match(r'!group ([^ \n]+)', cards[i]['notes'])
