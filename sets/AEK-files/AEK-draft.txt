@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Cleric Artist ",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/63_Blackhat Apothecary.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/62_Blackhat Apothecary.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/79_Rooftop Violinist.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/78_Rooftop Violinist.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/72_Jealous Rival.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/71_Jealous Rival.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Nephilim Artist ",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/62_Beloved Antihero.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/61_Beloved Antihero.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/65_Fan Following.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/64_Fan Following.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Creature — Avatar ",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/70_Hero From Fiction.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/69_Hero From Fiction.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Artificer ",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/66_The Girl in the Chair.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/65_The Girl in the Chair.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/84_Top of the Charts.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/83_Top of the Charts.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/83_Talent Scout.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/82_Talent Scout.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/77_Perhaps.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/76_Perhaps.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/82_Steal the Show.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/81_Steal the Show.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/86_Treasured Memories.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/85_Treasured Memories.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/75_Memento Mori.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/74_Memento Mori.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/68_Haunted Conspiracist.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/67_Haunted Conspiracist.png"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Spirit  ",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/73_Kenji and Momoka.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/72_Kenji and Momoka.png"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/76_Omniscent Reader.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/75_Omniscent Reader.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/78_Prominence Lost.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/77_Prominence Lost.png"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/80_Shadowbinding.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/79_Shadowbinding.png"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/67_Gleaming Importance.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/66_Gleaming Importance.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/64_Eyes That Bite.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/63_Eyes That Bite.png"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/69_Here Without You.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/68_Here Without You.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/71_Introversion.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/70_Introversion.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Ai ",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/81_Spark Hunter Kajiwara Ai.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/80_Spark Hunter Kajiwara Ai.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/85_Touka, Afterlife Specialist.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/84_Touka, Afterlife Specialist.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}{B}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/87_Villainous Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/86_Villainous Idol.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/74_Lost but Found.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/73_Lost but Found.png"
 			}
 		},
 		{
@@ -2358,13 +2358,13 @@
 			}
 		},
 		{
-			"name": "Ambitious Vision",
+			"name": "Villainous Vision",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/61_Ambitious Vision.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/87_Villainous Vision.png"
 			}
 		},
 		{
@@ -2448,23 +2448,103 @@
 			}
 		},
 		{
-			"name": "Idol's Anthem",
+			"name": "Idol's Ambition",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/10_Idol's Anthem.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/10_Idol's Ambition.png"
 			}
 		},
 		{
-			"name": "Idol's Ambition",
+			"name": "Idol's Anthem",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/4_Idol's Ambition.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/4_Idol's Anthem.png"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Lightning Strike.png"
+			}
+		},
+		{
+			"name": "Volcanic Dragon",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Volcanic Dragon.png"
+			}
+		},
+		{
+			"name": "Unsummon",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Unsummon.png"
+			}
+		},
+		{
+			"name": "Counterspell",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Counterspell.png"
+			}
+		},
+		{
+			"name": "Exeunt",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Exeunt.png"
+			}
+		},
+		{
+			"name": "Sign in Blood",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Sign in Blood.png"
+			}
+		},
+		{
+			"name": "Zombify",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Zombify.png"
+			}
+		},
+		{
+			"name": "Superstar",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Artist ",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Superstar.png"
 			}
 		}
 	]
@@ -2565,7 +2645,7 @@
 9 Lost but Found
 9 Fiona Tsukuri
 9 Luminescent Vision
-9 Ambitious Vision
+9 Villainous Vision
 9 Resplendent Vision
 9 Idyllic Vision
 9 Inspiring Vision
@@ -2662,4 +2742,5 @@
 30 Vielle's Perch
 30 Need For Speed
 30 Bounding Companion
+30 Superstar
 [LandSlot(1)]
