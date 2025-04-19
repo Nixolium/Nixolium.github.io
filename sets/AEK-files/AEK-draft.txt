@@ -2061,33 +2061,33 @@
 			}
 		},
 		{
-			"name": "Aethershell Holo Version",
+			"name": "Aethershell Holo_version",
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Reminder Creature",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Aethershell Holo Version.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Aethershell Holo_version.png"
 			}
 		},
 		{
-			"name": "Reclusive Cynic Version",
+			"name": "Reclusive Cynic_version",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Reminder Creature",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Reclusive Cynic Version.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Reclusive Cynic_version.png"
 			}
 		},
 		{
-			"name": "Colorful Aesthete Version",
+			"name": "Colorful Aesthete_version",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Reminder Creature",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Colorful Aesthete Version.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Colorful Aesthete_version.png"
 			}
 		},
 		{
@@ -2538,13 +2538,13 @@
 			}
 		},
 		{
-			"name": "Superstar",
+			"name": "Superstar_sen",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Artist ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Superstar.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Superstar_sen.png"
 			}
 		}
 	]
@@ -2742,5 +2742,5 @@
 30 Vielle's Perch
 30 Need For Speed
 30 Bounding Companion
-30 Superstar
+30 Superstar_sen
 [LandSlot(1)]
