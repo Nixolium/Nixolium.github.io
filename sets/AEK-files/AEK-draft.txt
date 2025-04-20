@@ -121,13 +121,13 @@
 			}
 		},
 		{
-			"name": "Hero From Fiction",
+			"name": "Hero from Fiction",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Creature — Avatar ",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/69_Hero From Fiction.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/69_Hero from Fiction.png"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 			"name": "Steal the Show",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/81_Steal the Show.png"
@@ -521,13 +521,13 @@
 			}
 		},
 		{
-			"name": "She Has a Gun",
+			"name": "She has a Gun",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/113_She Has a Gun.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/113_She has a Gun.png"
 			}
 		},
 		{
@@ -2212,9 +2212,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Planeswalker — Winmeari ",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/10_Winmeari, Scarlet Sentinel.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/11_Winmeari, Scarlet Sentinel.png"
 			}
 		},
 		{
@@ -2222,9 +2222,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Axiom ",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/9_Vielle, Undercity Wayfarer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/10_Vielle, Undercity Wayfarer.png"
 			}
 		},
 		{
@@ -2232,9 +2232,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Planeswalker — Tolen ",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/8_Tolen, the Paradisiac.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/9_Tolen, the Paradisiac.png"
 			}
 		},
 		{
@@ -2546,6 +2546,16 @@
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Superstar_sen.png"
 			}
+		},
+		{
+			"name": "Sparkle, Masked Fool",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Sparkle ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/8_Sparkle, Masked Fool.png"
+			}
 		}
 	]
 [RareSlot(1)]
@@ -2662,7 +2672,7 @@
 30 Jealous Rival
 30 Beloved Antihero
 30 Fan Following
-30 Hero From Fiction
+30 Hero from Fiction
 30 The Girl in the Chair
 30 Top of the Charts
 30 Talent Scout
@@ -2702,7 +2712,7 @@
 30 Host of Merely Players
 30 Cabaret Bouncer
 30 Waiting for You
-30 She Has a Gun
+30 She has a Gun
 30 Neon Lights
 30 Scorch
 30 Midnight Dreamer
