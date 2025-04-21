@@ -14,5 +14,5 @@
 	{ "title": "token", "cards":  [ "token" ] },
 	{ "title": "conjure", "cards":  [ "!group conjure" ] },
 	{ "title": "masterpiece", "cards":  [ "mp" ] },
-	{ "title": "who is", "cards":  [ "!group sparkle" ] }
+	{ "cards":  [ "!group sparkle" ] }
 ]
