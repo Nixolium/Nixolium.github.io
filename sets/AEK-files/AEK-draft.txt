@@ -1115,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/162_Idiosyncratic Savant.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/161_Idiosyncratic Savant.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment Creature — Avatar Artist ",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/159_Holographic Darling.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/158_Holographic Darling.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/165_Lurking Insomniac.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/164_Lurking Insomniac.png"
 			}
 		},
 		{
@@ -1252,7 +1252,7 @@
 		},
 		{
 			"name": "Ezren, Speedrunner",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Pilot ",
 			"collector_number": "99",
@@ -1525,9 +1525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Nephilim Artist ",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/160_Hyacin, Crown of Wonder.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/159_Hyacin, Crown of Wonder.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Human Vampire ",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/164_Kyv, Sanguine Avante.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/163_Kyv, Sanguine Avante.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Advisor ",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/163_Kalista, Citron Don.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/162_Kalista, Citron Don.png"
 			}
 		},
 		{
@@ -2092,19 +2092,19 @@
 		},
 		{
 			"name": "Hannah on Leave",
-			"rarity": "rare",
+			"rarity": "masterpiece",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "157",
+			"collector_number": "1",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Nixolium.github.io/sets/AEK-files/img/157_Hannah on Leave_back.png"
+					"en": "https://Nixolium.github.io/sets/AEK-files/img/1_Hannah on Leave_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/157_Hannah on Leave_front.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/1_Hannah on Leave_front.png"
 			}
 		},
 		{
@@ -2242,9 +2242,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/161_The Icelord of Severed Chains.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/160_The Icelord of Severed Chains.png"
 			}
 		},
 		{
@@ -2269,7 +2269,7 @@
 		},
 		{
 			"name": "Victoria, the Heartline",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Elf Wizard ",
 			"collector_number": "120",
@@ -2528,13 +2528,13 @@
 			}
 		},
 		{
-			"name": "Sparkle, Masked Fool",
-			"rarity": "masterpiece",
+			"name": "The Masked Fool",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Planeswalker — Sparkle ",
-			"collector_number": "1",
+			"type": "Legendary Planeswalker — Okus Hanabi ",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/1_Sparkle, Masked Fool.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/165_The Masked Fool.png"
 			}
 		},
 		{
@@ -2599,7 +2599,7 @@
 		},
 		{
 			"name": "Secret Journal",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "188",
@@ -2612,9 +2612,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/158_Heroes are Never Late.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/157_Heroes are Never Late.png"
 			}
 		},
 		{
@@ -2638,17 +2638,18 @@
 			}
 		},
 		{
-			"name": "Who is Sparkle",
+			"name": "Who Are You",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/8_Who is Sparkle.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/8_Who Are You.png"
 			}
 		}
 	]
 [RareSlot(1)]
+2 Ezren, Speedrunner
 2 All the Time in the World
 2 Azalea, New Apocrypha
 2 Celosia on Burning Wings
@@ -2674,19 +2675,18 @@
 2 Shiroyuki, the Everygirl
 2 Reclusive Cynic
 2 Yri, Utonian Hero
-2 Hannah on Leave
 2 Tolen, the Paradisiac
 2 Alice, Wonderbane
 2 The Icelord of Severed Chains
 2 Naoko, Onigaiko Transfer
 2 Shayu on Fizzling Screens
-2 Victoria, the Heartline
 2 Corsenna, the Sightseer
+2 The Masked Fool
 2 Destine
 2 Heroes are Never Late
 2 Bleed
 2 Chroma Drop Headliner
-2 Who is Sparkle
+2 Who Are You
 [UncommonSlot(4)]
 9 Hardened Pickup
 9 Incomplete Aethershell
@@ -2724,7 +2724,6 @@
 9 Nexus Savant
 9 Sempiternal Witch
 9 Citron Bartender
-9 Ezren, Speedrunner
 9 Clear the Stage
 9 Nezuri, Toxic Princess
 9 Heartsprung
@@ -2755,13 +2754,13 @@
 9 Echo and None Reply
 9 Lost but Found
 9 Fiona Tsukuri
+9 Victoria, the Heartline
 9 Luminescent Vision
 9 Villainous Vision
 9 Resplendent Vision
 9 Idyllic Vision
 9 Inspiring Vision
 9 Akane, Linearity Breaker
-9 Secret Journal
 [CommonSlot(9)]
 30 Aviation Hub
 30 Busy Intersection
@@ -2860,4 +2859,5 @@
 30 Wayfarer's Shrine_4
 30 Wayfarer's Shrine_3
 30 Amateur Ensemble
+30 Secret Journal
 [LandSlot(1)]
