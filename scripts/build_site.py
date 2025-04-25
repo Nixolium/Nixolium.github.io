@@ -138,6 +138,7 @@ for code in set_codes:
 		except:
 			print('Unable to generate draft file for {0}.'.format(code))
 
+	"""
 	#CE: this code is all for version history
 	if 'version' not in raw:
 		versions = glob.glob(os.path.join('sets', 'versions', '*' + code + '*'))
@@ -201,6 +202,7 @@ for code in set_codes:
 			prettifyJSON(os.path.join('sets', 'versions', str(new_version) + '_' + code + '.json'))
 			os.remove(os.path.join('sets', 'versions', str(old_version) + '_' + code + '.json'))
 			raw['version'] = new_version
+	"""
 
 	#CE: trims border radius of images
 	if raw['trimmed'] == 'n':
@@ -212,6 +214,7 @@ for code in set_codes:
 
 	#F: list_to_list.convertList is a long and important function
 	list_to_list.convertList(code)
+
 
 #CE: print html for card page
 print_html_for_card.generateHTML()

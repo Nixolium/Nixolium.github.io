@@ -61,13 +61,13 @@
 			}
 		},
 		{
-			"name": "Capitol Square",
+			"name": "Capitol Plaza",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/192_Capitol Square.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/192_Capitol Plaza.png"
 			}
 		},
 		{
@@ -1091,13 +1091,13 @@
 			}
 		},
 		{
-			"name": "Ellios, Paradise Painter",
+			"name": "Ellis, Paradise Painter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Planeswalker — Ellios ",
+			"type": "Legendary Planeswalker — Ellis ",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/125_Ellios, Paradise Painter.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/125_Ellis, Paradise Painter.png"
 			}
 		},
 		{
@@ -2091,23 +2091,6 @@
 			}
 		},
 		{
-			"name": "Hannah on Leave",
-			"rarity": "masterpiece",
-			"mana_cost": "{U}{R}",
-			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "1",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://Nixolium.github.io/sets/AEK-files/img/1_Hannah on Leave_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/1_Hannah on Leave_front.png"
-			}
-		},
-		{
 			"name": "Human_1",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2198,23 +2181,13 @@
 			}
 		},
 		{
-			"name": "Winmeari, Scarlet Sentinel",
-			"rarity": "masterpiece",
-			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Planeswalker — Winmeari ",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/3_Winmeari, Scarlet Sentinel.png"
-			}
-		},
-		{
 			"name": "Vielle, Undercity Wayfarer",
 			"rarity": "masterpiece",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Axiom ",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/2_Vielle, Undercity Wayfarer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/1_Vielle, Undercity Wayfarer.png"
 			}
 		},
 		{
@@ -2708,7 +2681,7 @@
 9 Sunshine Idol
 9 From Grassroots
 9 Idolize
-9 Ellios, Paradise Painter
+9 Ellis, Paradise Painter
 9 Snapshot Storyteller
 9 Idiosyncratic Savant
 9 Holographic Darling
@@ -2768,7 +2741,7 @@
 30 Mistencharm Resplendant
 30 Dream
 30 Rainbow Seeker
-30 Capitol Square
+30 Capitol Plaza
 30 Blackhat Apothecary
 30 Rooftop Violinist
 30 Jealous Rival
