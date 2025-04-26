@@ -141,7 +141,7 @@ for code in set_codes:
 	"""
 	#CE: this code is all for version history
 	if 'version' not in raw:
-		versions = glob.glob(os.path.join('sets', 'versions', '*' + code + '*'))
+		versions = glob.glob(os.path.join('sets', 'versions', '*' + code + '_*'))
 		if len(versions) == 0:
 			shutil.copyfile(os.path.join('sets', code + '-files', code + '.json'), os.path.join('sets', 'versions', '1_' + code + '.json'))
 			prettifyJSON(os.path.join('sets', 'versions', '1_' + code + '.json'))
@@ -149,7 +149,7 @@ for code in set_codes:
 			with open(os.path.join('sets', 'versions', 'changelogs', 'chl_' + code + '.txt'), 'w', encoding='utf-8-sig') as f:
 				f.write('VERSION 1 CHANGELOG\n====================\n\nFirst version published.')
 		else:
-			regex = r'/([0-9]+)_'
+			regex = r'[/\\]([0-9]+)_'
 			match = re.search(regex, versions[0])
 			old_version = int(match.group(1))
 			new_version = int(match.group(1)) + 1
@@ -193,7 +193,7 @@ for code in set_codes:
 				file_content = f.read()
 				f.seek(0, 0)
 				if not changed:
-					to_write = '\n'.join( [ chl_string, 'No changes.' ] )
+					to_write = '\n'.join( [ chl_string, 'No changes.\n' ] )
 				else:
 					to_write = '\n'.join([ chl_string, added_string, removed_string, changed_string ])
 				f.write(to_write + '\n' + file_content)
