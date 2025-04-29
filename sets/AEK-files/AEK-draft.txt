@@ -2241,13 +2241,13 @@
 			}
 		},
 		{
-			"name": "Victoria, the Heartline",
+			"name": "Viktoria, the Heartline",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature — Elf Wizard ",
+			"type": "Legendary Creature — Human Elf Wizard ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/120_Victoria, the Heartline.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/120_Viktoria, the Heartline.png"
 			}
 		},
 		{
@@ -2291,13 +2291,13 @@
 			}
 		},
 		{
-			"name": "Corsenna, the Sightseer",
+			"name": "Corsenna, Planar Sightseer",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Human Wizard Scout ",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/153_Corsenna, the Sightseer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/153_Corsenna, Planar Sightseer.png"
 			}
 		},
 		{
@@ -2653,7 +2653,7 @@
 2 The Icelord of Severed Chains
 2 Naoko, Onigaiko Transfer
 2 Shayu on Fizzling Screens
-2 Corsenna, the Sightseer
+2 Corsenna, Planar Sightseer
 2 The Masked Fool
 2 Destine
 2 Heroes are Never Late
@@ -2727,7 +2727,7 @@
 9 Echo and None Reply
 9 Lost but Found
 9 Fiona Tsukuri
-9 Victoria, the Heartline
+9 Viktoria, the Heartline
 9 Luminescent Vision
 9 Villainous Vision
 9 Resplendent Vision

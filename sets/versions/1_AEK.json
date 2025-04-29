@@ -1,7 +1,7 @@
 ﻿{
     "name": "Aekyu: Idyllic Days",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "cards": [
         {
@@ -3957,7 +3957,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever one or more counters are removed from Tolen, amass that many Zombies. [i](Put +1/+1 counters on an Army. If you don't control one, create a 0/0 black Zombie Army token first.)[/i]\n[0]: Proliferate.\n[-X]: Zombies you control gain deathtouch and haste until end of turn.\n[-7]: You may sacrifice a creature. If you do, you draw cards and gain life equal to the sacrificed creature's power.",
+            "special_text": "When you cast Tolen, the Paradisiac, you may search your library for a card, put it into your graveyard, then shuffle.\n[+2]: Conjure a duplicate of target card in a graveyard into your graveyard.\n[0]: Conjure Everywhere into your hand. [i](It's a land with every basic land type.)[/i]\n[-3]: Return target card from your graveyard to your hand.",
             "shape": "planeswalker",
             "set": "AEK",
             "loyalty": "4",
@@ -4037,10 +4037,10 @@
             "notes": ""
         },
         {
-            "card_name": "Victoria, the Heartline",
+            "card_name": "Viktoria, the Heartline",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Elf Wizard",
+            "type": "Legendary Creature \u2014 Human Elf Wizard",
             "number": 120,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
@@ -4127,7 +4127,7 @@
             "notes": "!group conjure\nVision conjure"
         },
         {
-            "card_name": "Corsenna, the Sightseer",
+            "card_name": "Corsenna, Planar Sightseer",
             "color": "URG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Wizard Scout",
