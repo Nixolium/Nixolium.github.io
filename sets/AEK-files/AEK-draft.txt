@@ -404,7 +404,7 @@
 			"name": "Burn Fast, Burn Bright",
 			"rarity": "common",
 			"mana_cost": "{2}{B/R}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/177_Burn Fast, Burn Bright.png"
@@ -533,7 +533,7 @@
 		{
 			"name": "Neon Lights",
 			"rarity": "common",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "109",
 			"image_uris": {
@@ -1105,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/171_Snapshot Storyteller.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/170_Snapshot Storyteller.png"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/161_Idiosyncratic Savant.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/160_Idiosyncratic Savant.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment Creature — Avatar Artist ",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/158_Holographic Darling.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/157_Holographic Darling.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/156_Exalted Gossipers.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/155_Exalted Gossipers.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Reveler ",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/166_Midnight Sommelier.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/165_Midnight Sommelier.png"
 			}
 		},
 		{
@@ -1175,19 +1175,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Pilot ",
-			"collector_number": "167",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/167_Neon Streetracer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/166_Neon Streetracer.png"
 			}
 		},
 		{
-			"name": "Dozing Furball",
+			"name": "Sundown Slow Dancers",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
-			"type": "Enchantment Creature — Cat ",
-			"collector_number": "155",
+			"type": "Enchantment Creature — Human Avatar ",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/155_Dozing Furball.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/171_Sundown Slow Dancers.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/164_Lurking Insomniac.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/163_Lurking Insomniac.png"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Nephilim Artist ",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/159_Hyacin, Crown of Wonder.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/158_Hyacin, Crown of Wonder.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Human Vampire ",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/163_Kyv, Sanguine Avante.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/162_Kyv, Sanguine Avante.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Human Fractal ",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/169_Serenyi, the Benevolent.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/168_Serenyi, the Benevolent.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Advisor ",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/162_Kalista, Citron Don.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/161_Kalista, Citron Don.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/170_Shock Paintress.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/169_Shock Paintress.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Human Coward  ",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/168_Reclusive Cynic.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/167_Reclusive Cynic.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/243_Wastes.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/244_Wastes.png"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artist ",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/215_Furious Songstress_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/216_Furious Songstress_sen.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artist ",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/216_Lightshow Ascetic_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/217_Lightshow Ascetic_sen.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artist ",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/217_Mistencharm Resplendant_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/218_Mistencharm Resplendant_sen.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Pilot ",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/218_Neon City Racer_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/219_Neon City Racer_sen.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Pilot ",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/219_Neon Streetracer_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/220_Neon Streetracer_sen.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artificer ",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/221_Serin, Exponent Mage_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/222_Serin, Exponent Mage_sen.png"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Reveler ",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/222_Smirking Delinquent_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/223_Smirking Delinquent_sen.png"
 			}
 		},
 		{
@@ -1975,19 +1975,19 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Legendary Creature — Human Artist ",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/223_Sudden Star_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/224_Sudden Star_sen.png"
 			}
 		},
 		{
-			"name": "Divination",
+			"name": "Concentrate",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/227_Divination.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/227_Concentrate.png"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/239_Rising Flames.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/240_Rising Flames.png"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/228_Sea Cache.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/229_Sea Cache.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/232_Demonic Tutor.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/233_Demonic Tutor.png"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/233_Drain.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/234_Drain.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird ",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/229_Storm Crow.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/230_Storm Crow.png"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/230_Thoughts.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/231_Thoughts.png"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Reminder Creature",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/225_Aethershell Holo_version.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/226_Aethershell Holo_version.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Reminder Creature",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/242_Reclusive Cynic_version.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/243_Reclusive Cynic_version.png"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Reminder Creature",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/241_Colorful Aesthete_version.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/242_Colorful Aesthete_version.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/160_The Icelord of Severed Chains.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/159_The Icelord of Severed Chains.png"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/224_Secret Rendezvous.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/225_Secret Rendezvous.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/238_Loot.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/239_Loot.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/237_Lightning Strike.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/238_Lightning Strike.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon ",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/240_Volcanic Dragon.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/241_Volcanic Dragon.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/231_Unsummon.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/232_Unsummon.png"
 			}
 		},
 		{
@@ -2455,9 +2455,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "226",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/226_Counterspell.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/228_Counterspell.png"
 			}
 		},
 		{
@@ -2465,9 +2465,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/234_Exeunt.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/235_Exeunt.png"
 			}
 		},
 		{
@@ -2475,9 +2475,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/235_Sign in Blood.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/236_Sign in Blood.png"
 			}
 		},
 		{
@@ -2485,9 +2485,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/236_Zombify.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/237_Zombify.png"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Planeswalker — Okus Hanabi ",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/165_The Masked Fool.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/164_The Masked Fool.png"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/157_Heroes are Never Late.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/156_Heroes are Never Late.png"
 			}
 		},
 		{
@@ -2601,13 +2601,13 @@
 			}
 		},
 		{
-			"name": "Chroma Drop Headliner",
+			"name": "Chroma Drop Rival",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Human Artist ",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/124_Chroma Drop Headliner.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/124_Chroma Drop Rival.png"
 			}
 		},
 		{
@@ -2635,9 +2635,19 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Sorcery",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/220_Repose.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/221_Repose.png"
+			}
+		},
+		{
+			"name": "Who Are You",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/215_Who Are You.png"
 			}
 		}
 	]
@@ -2678,7 +2688,7 @@
 2 Destine
 2 Heroes are Never Late
 2 Bleed
-2 Chroma Drop Headliner
+2 Chroma Drop Rival
 2 Who Are You
 [UncommonSlot(4)]
 9 Hardened Pickup
@@ -2710,7 +2720,7 @@
 9 Midnight Sommelier
 9 Colorful Aesthete
 9 Neon Streetracer
-9 Dozing Furball
+9 Sundown Slow Dancers
 9 Lurking Insomniac
 9 Skybridge Rider
 9 Alicia, the Final Dawn
