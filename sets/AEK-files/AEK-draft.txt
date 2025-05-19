@@ -11,13 +11,13 @@
 			}
 		},
 		{
-			"name": "Busy Intersection",
+			"name": "Bustling Intersection",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/191_Busy Intersection.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/191_Bustling Intersection.png"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 			"name": "Burn Fast, Burn Bright",
 			"rarity": "common",
 			"mana_cost": "{2}{B/R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "177",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/177_Burn Fast, Burn Bright.png"
@@ -851,13 +851,13 @@
 			}
 		},
 		{
-			"name": "Wayfarer's Shrine_1",
+			"name": "Multi_1",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/205_Wayfarer's Shrine_1.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/205_Multi_1.png"
 			}
 		},
 		{
@@ -881,13 +881,13 @@
 			}
 		},
 		{
-			"name": "Wayfarer's Shrine_2",
+			"name": "Multi_2",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/206_Wayfarer's Shrine_2.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/206_Multi_2.png"
 			}
 		},
 		{
@@ -1681,13 +1681,13 @@
 			}
 		},
 		{
-			"name": "Miseko, Aekyu's Crossroads",
+			"name": "Miseko, Urban Crossroads",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/197_Miseko, Aekyu's Crossroads.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/197_Miseko, Urban Crossroads.png"
 			}
 		},
 		{
@@ -2531,33 +2531,33 @@
 			}
 		},
 		{
-			"name": "Wayfarer's Shrine_5",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "209",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/209_Wayfarer's Shrine_5.png"
-			}
-		},
-		{
-			"name": "Wayfarer's Shrine_4",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "208",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/208_Wayfarer's Shrine_4.png"
-			}
-		},
-		{
-			"name": "Wayfarer's Shrine_3",
+			"name": "Multi_3",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/207_Wayfarer's Shrine_3.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/207_Multi_3.png"
+			}
+		},
+		{
+			"name": "Multi_4",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/208_Multi_4.png"
+			}
+		},
+		{
+			"name": "Multi_5",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/209_Multi_5.png"
 			}
 		},
 		{
@@ -2750,7 +2750,7 @@
 9 Embrace
 9 Kairos, Colorsmith
 9 Kaede, the City Below
-9 Miseko, Aekyu's Crossroads
+9 Miseko, Urban Crossroads
 9 Satsukai, City of Lights
 9 Tsukuri, Lantern Sanctum
 9 Nyano, Serene Shrine
@@ -2766,7 +2766,7 @@
 9 Akane, Linearity Breaker
 [CommonSlot(9)]
 30 Aviation Hub
-30 Busy Intersection
+30 Bustling Intersection
 30 Virtual Avatar
 30 Mistencharm Resplendant
 30 Dream
@@ -2850,17 +2850,17 @@
 30 Glamorous Stage
 30 Shopping Mall
 30 Skyline Lookout
-30 Wayfarer's Shrine_1
+30 Multi_1
 30 Undercity Alley
 30 Urban Gardens
-30 Wayfarer's Shrine_2
+30 Multi_2
 30 Vielle's Perch
 30 Need For Speed
 30 Bounding Companion
 30 Superstar_sen
-30 Wayfarer's Shrine_5
-30 Wayfarer's Shrine_4
-30 Wayfarer's Shrine_3
+30 Multi_3
+30 Multi_4
+30 Multi_5
 30 Amateur Ensemble
 30 Secret Journal
 [LandSlot(1)]
