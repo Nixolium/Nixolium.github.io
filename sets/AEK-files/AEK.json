@@ -1,7 +1,7 @@
 ﻿{
     "name": "Aekyu: Idyllic Days",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "png",
     "cards": [
         {
@@ -4748,5 +4748,6 @@
             "artist": "ALCD",
             "notes": ""
         }
-    ]
+    ],
+    "version": 1
 }
