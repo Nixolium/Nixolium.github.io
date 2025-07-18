@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/LOR-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>LOR visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/LOR-files/logo.png" />
+	<img class="preload-hidden" src="/sets/AEK-files/icon.png" />
+		<img class="preload-hidden" src="/sets/AQJ-files/icon.png" />
+		<img class="preload-hidden" src="/sets/EPS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/LOR-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="AEK"><img src="/sets/AEK-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="AQJ"><img src="/sets/AQJ-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="EPS"><img src="/sets/EPS-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="LOR"><img src="/sets/LOR-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/LOR-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\LOR-files\img\13_Fixer's Tenacity.png" id="13_Fixers Tenacity" data-flag="@X" onclick="openSidebar('13_Fixers Tenacity',false)"></div>
+			<div class="container"><img data-alt_src="/sets\LOR-files\img\18_Bookhunter's Intervention_back.png" alt="/sets\LOR-files\img\18_Bookhunter's Intervention_front.png" id="18_Bookhunters Intervention" data-flag="@XD" onclick="openSidebar('18_Bookhunters Intervention',false)"><button class="flip-btn" onclick="imgFlip('18_Bookhunters Intervention')"></button></div>
+			<div class="container"><img data-alt_src="/sets\LOR-files\img\45_Punishing Bird_back.png" alt="/sets\LOR-files\img\45_Punishing Bird_front.png" id="45_Punishing Bird" data-flag="@XD" onclick="openSidebar('45_Punishing Bird',false)"><button class="flip-btn" onclick="imgFlip('45_Punishing Bird')"></button></div>
+			<div class="container"><img alt="/sets\LOR-files\img\49_Ashen Matchstick Boy.png" id="49_Ashen Matchstick Boy" data-flag="@X" onclick="openSidebar('49_Ashen Matchstick Boy',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\64_Azrael, the Nihilist.png" id="64_Azrael, the Nihilist" data-flag="@X" onclick="openSidebar('64_Azrael, the Nihilist',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\14_Israfil, the Mourning.png" id="14_Israfil, the Mourning" data-flag="@X" onclick="openSidebar('14_Israfil, the Mourning',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\19_CENSORED.png" id="19_CENSORED" data-flag="@X" onclick="openSidebar('19_CENSORED',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\47_Serenyi, the Bookkeeper.png" id="47_Serenyi, the Bookkeeper" data-flag="@X" onclick="openSidebar('47_Serenyi, the Bookkeeper',false)"></div>
+			<div class="container"><img data-alt_src="/sets\LOR-files\img\50_The Azure Marksman_back.png" alt="/sets\LOR-files\img\50_The Azure Marksman_front.png" id="50_The Azure Marksman" data-flag="@XD" onclick="openSidebar('50_The Azure Marksman',false)"><button class="flip-btn" onclick="imgFlip('50_The Azure Marksman')"></button></div>
+			<div class="container"><img alt="/sets\LOR-files\img\66_CG07.png" id="66_CG07" data-flag="@X" onclick="openSidebar('66_CG07',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\15_Naki, the Cheerful.png" id="15_Naki, the Cheerful" data-flag="@X" onclick="openSidebar('15_Naki, the Cheerful',false)"></div>
+			<div class="container"><img data-alt_src="/sets\LOR-files\img\20_Children of the City_back.png" alt="/sets\LOR-files\img\20_Children of the City_front.png" id="20_Children of the City" data-flag="@XD" onclick="openSidebar('20_Children of the City',false)"><button class="flip-btn" onclick="imgFlip('20_Children of the City')"></button></div>
+			<div class="container"><img alt="/sets\LOR-files\img\33_Big Bird.png" id="33_Big Bird" data-flag="@X" onclick="openSidebar('33_Big Bird',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\51_A Burdened King.png" id="51_A Burdened King" data-flag="@X" onclick="openSidebar('51_A Burdened King',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\75_Depths Mad.png" id="75_Depths Mad" data-flag="@X" onclick="openSidebar('75_Depths Mad',false)"></div>
+			<div class="container"><img data-alt_src="/sets\LOR-files\img\16_The Timeless Penitent_back.png" alt="/sets\LOR-files\img\16_The Timeless Penitent_front.png" id="16_The Timeless Penitent" data-flag="@XD" onclick="openSidebar('16_The Timeless Penitent',false)"><button class="flip-btn" onclick="imgFlip('16_The Timeless Penitent')"></button></div>
+			<div class="container"><img alt="/sets\LOR-files\img\30_Hateful Princessling.png" id="30_Hateful Princessling" data-flag="@X" onclick="openSidebar('30_Hateful Princessling',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\39_CB15.png" id="39_CB15" data-flag="@X" onclick="openSidebar('39_CB15',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\56_Gilded Awe.png" id="56_Gilded Awe" data-flag="@X" onclick="openSidebar('56_Gilded Awe',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\76_Gaunde Roughhouser.png" id="76_Gaunde Roughhouser" data-flag="@X" onclick="openSidebar('76_Gaunde Roughhouser',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\17_Yin, Doomed Messenger.png" id="17_Yin, Doomed Messenger" data-flag="@X" onclick="openSidebar('17_Yin, Doomed Messenger',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\31_Mikhail, the Faithless.png" id="31_Mikhail, the Faithless" data-flag="@X" onclick="openSidebar('31_Mikhail, the Faithless',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\40_Cry.png" id="40_Cry" data-flag="@X" onclick="openSidebar('40_Cry',false)"></div>
+			<div class="container"><img data-alt_src="/sets\LOR-files\img\57_Kalika, the Crimson_back.png" alt="/sets\LOR-files\img\57_Kalika, the Crimson_front.png" id="57_Kalika, the Crimson" data-flag="@XD" onclick="openSidebar('57_Kalika, the Crimson',false)"><button class="flip-btn" onclick="imgFlip('57_Kalika, the Crimson')"></button></div>
+			<div class="container"><img alt="/sets\LOR-files\img\77_Kiramenne, the Meek.png" id="77_Kiramenne, the Meek" data-flag="@X" onclick="openSidebar('77_Kiramenne, the Meek',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\3_CW03.png" id="3_CW03" data-flag="@X" onclick="openSidebar('3_CW03',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\32_Rizvan, the Beloved.png" id="32_Rizvan, the Beloved" data-flag="@X" onclick="openSidebar('32_Rizvan, the Beloved',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\41_Despair.png" id="41_Despair" data-flag="@X" onclick="openSidebar('41_Despair',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\58_Keening Adoration.png" id="58_Keening Adoration" data-flag="@X" onclick="openSidebar('58_Keening Adoration',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\78_Unamused Cleaning Crew.png" id="78_Unamused Cleaning Crew" data-flag="@X" onclick="openSidebar('78_Unamused Cleaning Crew',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\4_CW04.png" id="4_CW04" data-flag="@X" onclick="openSidebar('4_CW04',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\21_CU03.png" id="21_CU03" data-flag="@X" onclick="openSidebar('21_CU03',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\42_Gayeon's Psychosis.png" id="42_Gayeons Psychosis" data-flag="@X" onclick="openSidebar('42_Gayeons Psychosis',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\59_Munkar, the Dilligent.png" id="59_Munkar, the Dilligent" data-flag="@X" onclick="openSidebar('59_Munkar, the Dilligent',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\65_CG06.png" id="65_CG06" data-flag="@X" onclick="openSidebar('65_CG06',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\5_CW06.png" id="5_CW06" data-flag="@X" onclick="openSidebar('5_CW06',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\22_CU04.png" id="22_CU04" data-flag="@X" onclick="openSidebar('22_CU04',false)"></div>
+			<div class="container"><img data-alt_src="/sets\LOR-files\img\43_Jibril, Cruel Arbiter_back.png" alt="/sets\LOR-files\img\43_Jibril, Cruel Arbiter_front.png" id="43_Jibril, Cruel Arbiter" data-flag="@XD" onclick="openSidebar('43_Jibril, Cruel Arbiter',false)"><button class="flip-btn" onclick="imgFlip('43_Jibril, Cruel Arbiter')"></button></div>
+			<div class="container"><img alt="/sets\LOR-files\img\60_Red Riding Sellsword.png" id="60_Red Riding Sellsword" data-flag="@X" onclick="openSidebar('60_Red Riding Sellsword',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\67_CG08.png" id="67_CG08" data-flag="@X" onclick="openSidebar('67_CG08',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\6_CW07.png" id="6_CW07" data-flag="@X" onclick="openSidebar('6_CW07',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\23_CU05.png" id="23_CU05" data-flag="@X" onclick="openSidebar('23_CU05',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\44_Judgment Bird.png" id="44_Judgment Bird" data-flag="@X" onclick="openSidebar('44_Judgment Bird',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\61_Soulfused Bullet.png" id="61_Soulfused Bullet" data-flag="@X" onclick="openSidebar('61_Soulfused Bullet',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\68_CG09.png" id="68_CG09" data-flag="@X" onclick="openSidebar('68_CG09',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\7_CW08.png" id="7_CW08" data-flag="@X" onclick="openSidebar('7_CW08',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\24_CU08.png" id="24_CU08" data-flag="@X" onclick="openSidebar('24_CU08',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\46_Red-eyed Weaver.png" id="46_Red-eyed Weaver" data-flag="@X" onclick="openSidebar('46_Red-eyed Weaver',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\62_Uncovered Mimic.png" id="62_Uncovered Mimic" data-flag="@X" onclick="openSidebar('62_Uncovered Mimic',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\69_CG10.png" id="69_CG10" data-flag="@X" onclick="openSidebar('69_CG10',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\8_CW09.png" id="8_CW09" data-flag="@X" onclick="openSidebar('8_CW09',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\25_CU09.png" id="25_CU09" data-flag="@X" onclick="openSidebar('25_CU09',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\48_Unblinking Heiress.png" id="48_Unblinking Heiress" data-flag="@X" onclick="openSidebar('48_Unblinking Heiress',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\63_Wicked Saintly Wings.png" id="63_Wicked Saintly Wings" data-flag="@X" onclick="openSidebar('63_Wicked Saintly Wings',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\70_CG11.png" id="70_CG11" data-flag="@X" onclick="openSidebar('70_CG11',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\9_CW10.png" id="9_CW10" data-flag="@X" onclick="openSidebar('9_CW10',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\26_CU11.png" id="26_CU11" data-flag="@X" onclick="openSidebar('26_CU11',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\34_CB03.png" id="34_CB03" data-flag="@X" onclick="openSidebar('34_CB03',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\52_CR04.png" id="52_CR04" data-flag="@X" onclick="openSidebar('52_CR04',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\71_CG12.png" id="71_CG12" data-flag="@X" onclick="openSidebar('71_CG12',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\10_CW11.png" id="10_CW11" data-flag="@X" onclick="openSidebar('10_CW11',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\27_CU12.png" id="27_CU12" data-flag="@X" onclick="openSidebar('27_CU12',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\35_CB07.png" id="35_CB07" data-flag="@X" onclick="openSidebar('35_CB07',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\53_CR10.png" id="53_CR10" data-flag="@X" onclick="openSidebar('53_CR10',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\72_CG13.png" id="72_CG13" data-flag="@X" onclick="openSidebar('72_CG13',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\11_CW12.png" id="11_CW12" data-flag="@X" onclick="openSidebar('11_CW12',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\28_CU13.png" id="28_CU13" data-flag="@X" onclick="openSidebar('28_CU13',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\36_CB08.png" id="36_CB08" data-flag="@X" onclick="openSidebar('36_CB08',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\54_CR11.png" id="54_CR11" data-flag="@X" onclick="openSidebar('54_CR11',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\73_CG14.png" id="73_CG14" data-flag="@X" onclick="openSidebar('73_CG14',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\12_CW13.png" id="12_CW13" data-flag="@X" onclick="openSidebar('12_CW13',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\29_CU14.png" id="29_CU14" data-flag="@X" onclick="openSidebar('29_CU14',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\37_CB11.png" id="37_CB11" data-flag="@X" onclick="openSidebar('37_CB11',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\55_CR12.png" id="55_CR12" data-flag="@X" onclick="openSidebar('55_CR12',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\74_CG15.png" id="74_CG15" data-flag="@X" onclick="openSidebar('74_CG15',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\38_CB14.png" id="38_CB14" data-flag="@X" onclick="openSidebar('38_CB14',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\80_Biofusion Chamber.png" id="80_Biofusion Chamber" data-flag="@X" onclick="openSidebar('80_Biofusion Chamber',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\87_Vielle, Distortion Detective.png" id="87_Vielle, Distortion Detective" data-flag="@X" onclick="openSidebar('87_Vielle, Distortion Detective',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\81_Bloodfiend Elegist.png" id="81_Bloodfiend Elegist" data-flag="@X" onclick="openSidebar('81_Bloodfiend Elegist',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\89_Yakji Apprentice.png" id="89_Yakji Apprentice" data-flag="@X" onclick="openSidebar('89_Yakji Apprentice',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\79_Arba Association Fixer.png" id="79_Arba Association Fixer" data-flag="@X" onclick="openSidebar('79_Arba Association Fixer',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\83_Happy Everlaughing.png" id="83_Happy Everlaughing" data-flag="@X" onclick="openSidebar('83_Happy Everlaughing',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\82_Gayeon, the Burdened.png" id="82_Gayeon, the Burdened" data-flag="@X" onclick="openSidebar('82_Gayeon, the Burdened',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\88_Warp Train Regulars.png" id="88_Warp Train Regulars" data-flag="@X" onclick="openSidebar('88_Warp Train Regulars',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\85_The Monochrome Man.png" id="85_The Monochrome Man" data-flag="@X" onclick="openSidebar('85_The Monochrome Man',false)"></div>
+			<div class="container"><img data-alt_src="/sets\LOR-files\img\86_Sukoshi, the Wildfire_back.png" alt="/sets\LOR-files\img\86_Sukoshi, the Wildfire_front.png" id="86_Sukoshi, the Wildfire" data-flag="@XD" onclick="openSidebar('86_Sukoshi, the Wildfire',false)"><button class="flip-btn" onclick="imgFlip('86_Sukoshi, the Wildfire')"></button></div>
+			<div class="container"><img alt="/sets\LOR-files\img\84_Kinesis Corp Researcher.png" id="84_Kinesis Corp Researcher" data-flag="@X" onclick="openSidebar('84_Kinesis Corp Researcher',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\91_The Grand Librarian.png" id="91_The Grand Librarian" data-flag="@X" onclick="openSidebar('91_The Grand Librarian',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\2_The Fall of a Corporation.png" id="2_The Fall of a Corporation" data-flag="@X" onclick="openSidebar('2_The Fall of a Corporation',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\90_Corporation Smokestack.png" id="90_Corporation Smokestack" data-flag="@X" onclick="openSidebar('90_Corporation Smokestack',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\92_Raw Psychoment Blade.png" id="92_Raw Psychoment Blade" data-flag="@X" onclick="openSidebar('92_Raw Psychoment Blade',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\93_The Seongjang Pit.png" id="93_The Seongjang Pit" data-flag="@X" onclick="openSidebar('93_The Seongjang Pit',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\1_CA03.png" id="1_CA03" data-flag="@X" onclick="openSidebar('1_CA03',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\97_Fog-ridden Wharf.png" id="97_Fog-ridden Wharf" data-flag="@X" onclick="openSidebar('97_Fog-ridden Wharf',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\100_Macabre Pools.png" id="100_Macabre Pools" data-flag="@X" onclick="openSidebar('100_Macabre Pools',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\99_Hellfire Crater.png" id="99_Hellfire Crater" data-flag="@X" onclick="openSidebar('99_Hellfire Crater',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\96_Eerie Wildwood.png" id="96_Eerie Wildwood" data-flag="@X" onclick="openSidebar('96_Eerie Wildwood',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\94_Blessed Grounds.png" id="94_Blessed Grounds" data-flag="@X" onclick="openSidebar('94_Blessed Grounds',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\103_Solemn Bastion.png" id="103_Solemn Bastion" data-flag="@X" onclick="openSidebar('103_Solemn Bastion',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\95_Coastal Cairn.png" id="95_Coastal Cairn" data-flag="@X" onclick="openSidebar('95_Coastal Cairn',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\101_Putrid Corcass.png" id="101_Putrid Corcass" data-flag="@X" onclick="openSidebar('101_Putrid Corcass',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\104_Sunswept Grange.png" id="104_Sunswept Grange" data-flag="@X" onclick="openSidebar('104_Sunswept Grange',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\102_Secret Lagoon.png" id="102_Secret Lagoon" data-flag="@X" onclick="openSidebar('102_Secret Lagoon',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\LOR-files\img\98_Halcyon Road.png" id="98_Halcyon Road" data-flag="@X" onclick="openSidebar('98_Halcyon Road',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

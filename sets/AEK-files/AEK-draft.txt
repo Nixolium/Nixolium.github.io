@@ -643,7 +643,7 @@
 		{
 			"name": "Nah",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
@@ -1664,7 +1664,7 @@
 			"name": "Kaede, the City Below",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — District ",
 			"collector_number": "202",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/202_Kaede, the City Below.png"
@@ -1674,7 +1674,7 @@
 			"name": "Miseko, Urban Crossroads",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — District  ",
 			"collector_number": "203",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/203_Miseko, Urban Crossroads.png"
@@ -1684,7 +1684,7 @@
 			"name": "Satsukai, Nexus of Lights",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — District  ",
 			"collector_number": "210",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/210_Satsukai, Nexus of Lights.png"
@@ -1694,7 +1694,7 @@
 			"name": "Tsukuri, Lantern Sanctum",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — District ",
 			"collector_number": "214",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/214_Tsukuri, Lantern Sanctum.png"
@@ -1704,7 +1704,7 @@
 			"name": "Nyano, Serene Shrine",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — District  ",
 			"collector_number": "209",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/209_Nyano, Serene Shrine.png"
