@@ -520,9 +520,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/66_CG08 mv 5, go wide.png"
+				"en": "https:///sets/LOR-files/img/67_CG08 mv 5, go wide.png"
 			}
 		},
 		{
@@ -597,9 +597,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Human Scientist ",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/64_Azrael, the Nihilist.png"
+				"en": "https:///sets/LOR-files/img/65_Azrael, the Nihilist.png"
 			}
 		},
 		{
@@ -607,19 +607,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/75_Gaunde Roughhouser.png"
+				"en": "https:///sets/LOR-files/img/76_Gaunde Roughhouser.png"
 			}
 		},
 		{
-			"name": "Unamused Cleaning Crew",
+			"name": "Aftermath Liturgist",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scientist ",
-			"collector_number": "78",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/78_Unamused Cleaning Crew.png"
+				"en": "https:///sets/LOR-files/img/64_Aftermath Liturgist.png"
 			}
 		},
 		{
@@ -627,9 +627,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Scientist ",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/77_Kiramenne, the Meek.png"
+				"en": "https:///sets/LOR-files/img/78_Kiramenne, the Meek.png"
 			}
 		},
 		{
@@ -637,9 +637,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Horror ",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/74_Depths Mad.png"
+				"en": "https:///sets/LOR-files/img/75_Depths Mad.png"
 			}
 		},
 		{
@@ -647,19 +647,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/65_CG06 mana value 3/4.png"
+				"en": "https:///sets/LOR-files/img/66_CG06 mana value 3/4.png"
 			}
 		},
 		{
-			"name": "Heart-seeking Blacksmith",
+			"name": "Heartseeking Blacksmith",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact Creature — Construct Horror ",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/76_Heart-seeking Blacksmith.png"
+				"en": "https:///sets/LOR-files/img/77_Heartseeking Blacksmith.png"
 			}
 		},
 		{
@@ -684,9 +684,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/67_CG09.png"
+				"en": "https:///sets/LOR-files/img/68_CG09.png"
 			}
 		},
 		{
@@ -694,9 +694,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
 			"type": "",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/68_CG10 Huge pricy giga bomb.png"
+				"en": "https:///sets/LOR-files/img/69_CG10 Huge pricy giga bomb.png"
 			}
 		},
 		{
@@ -704,9 +704,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/69_CG11 Fight spell.png"
+				"en": "https:///sets/LOR-files/img/70_CG11 Fight spell.png"
 			}
 		},
 		{
@@ -714,9 +714,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/70_CG12 Bite spell.png"
+				"en": "https:///sets/LOR-files/img/71_CG12 Bite spell.png"
 			}
 		},
 		{
@@ -724,9 +724,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/71_CG13 modal combat trick.png"
+				"en": "https:///sets/LOR-files/img/72_CG13 modal combat trick.png"
 			}
 		},
 		{
@@ -734,9 +734,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/72_CG14 Ramp or explore.png"
+				"en": "https:///sets/LOR-files/img/73_CG14 Ramp or explore.png"
 			}
 		},
 		{
@@ -744,9 +744,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/73_CG15 Super cheap land fixer.png"
+				"en": "https:///sets/LOR-files/img/74_CG15 Super cheap land fixer.png"
 			}
 		},
 		{
@@ -770,13 +770,13 @@
 			}
 		},
 		{
-			"name": "CA03",
+			"name": "CA03 mana value4 or more",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{4}",
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/1_CA03.png"
+				"en": "https:///sets/LOR-files/img/1_CA03 mana value4 or more.png"
 			}
 		},
 		{
