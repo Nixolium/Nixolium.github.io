@@ -5,9 +5,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Human ",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/14_Israfil, the Mourning.png"
+				"en": "https:///sets/LOR-files/img/13_Israfil, the Mourning.png"
 			}
 		},
 		{
@@ -15,25 +15,25 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Scientist ",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/15_Naki, the Cheerful.png"
+				"en": "https:///sets/LOR-files/img/14_Naki, the Cheerful.png"
 			}
 		},
 		{
-			"name": "CW03",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "",
-			"collector_number": "3",
+			"name": "Cursed Crone's Apple",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fruit Horror ",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/3_CW03.png"
+				"en": "https:///sets/LOR-files/img/30_Cursed Crone's Apple.png"
 			}
 		},
 		{
 			"name": "CW04",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{W}",
 			"type": "",
 			"collector_number": "4",
 			"image_uris": {
@@ -53,7 +53,7 @@
 		{
 			"name": "CW06",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{2}{W}",
 			"type": "",
 			"collector_number": "5",
 			"image_uris": {
@@ -63,7 +63,7 @@
 		{
 			"name": "CW07",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{2}{W}",
 			"type": "",
 			"collector_number": "6",
 			"image_uris": {
@@ -71,53 +71,60 @@
 			}
 		},
 		{
-			"name": "CW08",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "7",
+			"name": "Feathered Justice",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/7_CW08.png"
+				"en": "https:///sets/LOR-files/img/11_Feathered Justice.png"
 			}
 		},
 		{
 			"name": "CW09",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{3}{W}",
 			"type": "",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/8_CW09.png"
+				"en": "https:///sets/LOR-files/img/7_CW09.png"
 			}
 		},
 		{
 			"name": "CW10",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{4}{W}",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/9_CW10.png"
+				"en": "https:///sets/LOR-files/img/8_CW10.png"
 			}
 		},
 		{
 			"name": "CW11",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{5}{W}",
 			"type": "",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/10_CW11.png"
+				"en": "https:///sets/LOR-files/img/9_CW11.png"
 			}
 		},
 		{
-			"name": "CW12",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "11",
+			"name": "Bite of Lost Paradise",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/LOR-files/img/3_Bite of Lost Paradise_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/11_CW12.png"
+				"en": "https:///sets/LOR-files/img/3_Bite of Lost Paradise_front.png"
 			}
 		},
 		{
@@ -125,16 +132,16 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "12",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/12_CW13.png"
+				"en": "https:///sets/LOR-files/img/10_CW13.png"
 			}
 		},
 		{
 			"name": "The Timeless Penitent",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Human Cleric ",
+			"type": "Legendary Creature — Spirit Cleric ",
 			"collector_number": "16",
 			"back": {
 				"name": "",
@@ -150,11 +157,11 @@
 		{
 			"name": "Rizvan, the Beloved",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Advisor ",
-			"collector_number": "32",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/32_Rizvan, the Beloved.png"
+				"en": "https:///sets/LOR-files/img/15_Rizvan, the Beloved.png"
 			}
 		},
 		{
@@ -187,7 +194,7 @@
 		{
 			"name": "CU04",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{2}{U}",
 			"type": "",
 			"collector_number": "22",
 			"image_uris": {
@@ -197,7 +204,7 @@
 		{
 			"name": "CU05",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{2}{U}",
 			"type": "",
 			"collector_number": "23",
 			"image_uris": {
@@ -209,9 +216,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Noble Horror ",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/30_Hateful Princessling.png"
+				"en": "https:///sets/LOR-files/img/31_Hateful Princessling.png"
 			}
 		},
 		{
@@ -219,15 +226,15 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}",
 			"type": "Legendary Creature — Human Scientist ",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/31_Mikhail, the Faithless.png"
+				"en": "https:///sets/LOR-files/img/32_Mikhail, the Faithless.png"
 			}
 		},
 		{
 			"name": "CU08",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{5}{U}",
 			"type": "",
 			"collector_number": "24",
 			"image_uris": {
@@ -235,13 +242,13 @@
 			}
 		},
 		{
-			"name": "CU09",
+			"name": "CU09 defensive instant",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{U}",
 			"type": "",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/25_CU09.png"
+				"en": "https:///sets/LOR-files/img/25_CU09 defensive instant.png"
 			}
 		},
 		{
@@ -255,43 +262,43 @@
 			}
 		},
 		{
-			"name": "CU11",
+			"name": "CU11 cantrip",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/26_CU11.png"
+				"en": "https:///sets/LOR-files/img/26_CU11 cantrip.png"
 			}
 		},
 		{
-			"name": "CU12",
+			"name": "CU12 draw 2 or 3, bigger CA",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/27_CU12.png"
+				"en": "https:///sets/LOR-files/img/27_CU12 draw 2 or 3, bigger CA.png"
 			}
 		},
 		{
-			"name": "CU13",
+			"name": "CU13 generic removal/quench",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/28_CU13.png"
+				"en": "https:///sets/LOR-files/img/28_CU13 generic removal/quench.png"
 			}
 		},
 		{
-			"name": "CU14",
+			"name": "CU14 mind control or Wild card",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/29_CU14.png"
+				"en": "https:///sets/LOR-files/img/29_CU14 mind control or Wild card.png"
 			}
 		},
 		{
@@ -312,13 +319,13 @@
 			}
 		},
 		{
-			"name": "Red-eyed Weaver",
+			"name": "Red-eyed Weaverblade",
 			"rarity": "rare",
 			"mana_cost": "{B}",
-			"type": "Creature — Spider Horror ",
+			"type": "Creature — Spider Human Horror ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/46_Red-eyed Weaver.png"
+				"en": "https:///sets/LOR-files/img/46_Red-eyed Weaverblade.png"
 			}
 		},
 		{
@@ -339,13 +346,13 @@
 			}
 		},
 		{
-			"name": "CB03",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "34",
+			"name": "The Clinging Chorus",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Weird Hand Horror ",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/34_CB03.png"
+				"en": "https:///sets/LOR-files/img/36_The Clinging Chorus.png"
 			}
 		},
 		{
@@ -379,23 +386,23 @@
 			}
 		},
 		{
-			"name": "CB07",
+			"name": "CB07 mana value 4/5",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{3}{B}{B}",
 			"type": "",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/35_CB07.png"
+				"en": "https:///sets/LOR-files/img/34_CB07 mana value 4/5.png"
 			}
 		},
 		{
-			"name": "CB08",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "36",
+			"name": "Gayeon, the Burdened",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Legendary Creature — Human Scientist ",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/36_CB08.png"
+				"en": "https:///sets/LOR-files/img/40_Gayeon, the Burdened.png"
 			}
 		},
 		{
@@ -403,19 +410,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https:///sets/LOR-files/img/40_Cry.png"
-			}
-		},
-		{
-			"name": "CB11",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/37_CB11.png"
+				"en": "https:///sets/LOR-files/img/37_Cry.png"
 			}
 		},
 		{
@@ -423,9 +420,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/42_Gayeon's Psychosis.png"
+				"en": "https:///sets/LOR-files/img/41_Gayeon's Psychosis.png"
 			}
 		},
 		{
@@ -433,19 +430,19 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "41",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/41_Despair.png"
+				"en": "https:///sets/LOR-files/img/38_Despair.png"
 			}
 		},
 		{
-			"name": "CB14",
-			"rarity": "common",
-			"mana_cost": "",
+			"name": "CB14 Universal kill spell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
 			"type": "",
-			"collector_number": "38",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/38_CB14.png"
+				"en": "https:///sets/LOR-files/img/35_CB14 Universal kill spell.png"
 			}
 		},
 		{
@@ -463,9 +460,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Scientist ",
-			"collector_number": "59",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/59_Munkar, the Dilligent.png"
+				"en": "https:///sets/LOR-files/img/56_Munkar, the Dilligent.png"
 			}
 		},
 		{
@@ -473,19 +470,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Shapeshifter Horror ",
-			"collector_number": "58",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/58_Keening Adoration.png"
+				"en": "https:///sets/LOR-files/img/55_Keening Adoration.png"
 			}
 		},
 		{
-			"name": "CR04",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "52",
+			"name": "Yuri, Boundless Future",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/52_CR04.png"
+				"en": "https:///sets/LOR-files/img/63_Yuri, Boundless Future.png"
 			}
 		},
 		{
@@ -493,19 +490,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Incarnation Horror ",
-			"collector_number": "60",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/60_Red Riding Sellsword.png"
+				"en": "https:///sets/LOR-files/img/57_Red Riding Sellsword.png"
 			}
 		},
 		{
 			"name": "Wicked Saintly Wings",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Angel Horror ",
-			"collector_number": "63",
+			"type": "Creature — Eldrazi Angel Horror ",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/63_Wicked Saintly Wings.png"
+				"en": "https:///sets/LOR-files/img/62_Wicked Saintly Wings.png"
 			}
 		},
 		{
@@ -513,49 +510,56 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Shapeshifter Horror ",
-			"collector_number": "62",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/62_Uncovered Mimic.png"
+				"en": "https:///sets/LOR-files/img/60_Uncovered Mimic.png"
 			}
 		},
 		{
-			"name": "CG08",
+			"name": "CG08 mv 5, go wide",
 			"rarity": "common",
-			"mana_cost": "{6}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/67_CG08.png"
+				"en": "https:///sets/LOR-files/img/66_CG08 mv 5, go wide.png"
 			}
 		},
 		{
-			"name": "CR10",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
+			"name": "I.N.L.H.E.",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/53_CR10.png"
+				"en": "https:///sets/LOR-files/img/53_I.N.L.H.E..png"
 			}
 		},
 		{
-			"name": "CR11",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "54",
+			"name": "Welcome to the Library",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/54_CR11.png"
+				"en": "https:///sets/LOR-files/img/61_Welcome to the Library.png"
 			}
 		},
 		{
-			"name": "CR12",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "55",
+			"name": "The Silent Vigilante",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "58",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https:///sets/LOR-files/img/58_The Silent Vigilante_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/55_CR12.png"
+				"en": "https:///sets/LOR-files/img/58_The Silent Vigilante_front.png"
 			}
 		},
 		{
@@ -563,9 +567,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/61_Soulfused Bullet.png"
+				"en": "https:///sets/LOR-files/img/59_Soulfused Bullet.png"
 			}
 		},
 		{
@@ -583,9 +587,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{R}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/56_Gilded Awe.png"
+				"en": "https:///sets/LOR-files/img/52_Gilded Awe.png"
 			}
 		},
 		{
@@ -603,9 +607,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/76_Gaunde Roughhouser.png"
+				"en": "https:///sets/LOR-files/img/75_Gaunde Roughhouser.png"
 			}
 		},
 		{
@@ -633,29 +637,29 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Horror ",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/75_Depths Mad.png"
+				"en": "https:///sets/LOR-files/img/74_Depths Mad.png"
 			}
 		},
 		{
-			"name": "CG06",
+			"name": "CG06 mana value 3/4",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{G}{G}",
 			"type": "",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/65_CG06.png"
+				"en": "https:///sets/LOR-files/img/65_CG06 mana value 3/4.png"
 			}
 		},
 		{
-			"name": "CG07",
+			"name": "Heart-seeking Blacksmith",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "",
-			"collector_number": "66",
+			"type": "Artifact Creature — Construct Horror ",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/66_CG07.png"
+				"en": "https:///sets/LOR-files/img/76_Heart-seeking Blacksmith.png"
 			}
 		},
 		{
@@ -678,71 +682,71 @@
 		{
 			"name": "CG09",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{5}{G}",
+			"type": "",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https:///sets/LOR-files/img/67_CG09.png"
+			}
+		},
+		{
+			"name": "CG10 Huge pricy giga bomb",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
 			"type": "",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/68_CG09.png"
+				"en": "https:///sets/LOR-files/img/68_CG10 Huge pricy giga bomb.png"
 			}
 		},
 		{
-			"name": "CG10",
+			"name": "CG11 Fight spell",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{G}",
 			"type": "",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/69_CG10.png"
+				"en": "https:///sets/LOR-files/img/69_CG11 Fight spell.png"
 			}
 		},
 		{
-			"name": "CG11",
+			"name": "CG12 Bite spell",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{G}",
 			"type": "",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/70_CG11.png"
+				"en": "https:///sets/LOR-files/img/70_CG12 Bite spell.png"
 			}
 		},
 		{
-			"name": "CG12",
+			"name": "CG13 modal combat trick",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{G}",
+			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/71_CG12.png"
+				"en": "https:///sets/LOR-files/img/71_CG13 modal combat trick.png"
 			}
 		},
 		{
-			"name": "CG13",
+			"name": "CG14 Ramp or explore",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{1}{G}",
 			"type": "",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/72_CG13.png"
+				"en": "https:///sets/LOR-files/img/72_CG14 Ramp or explore.png"
 			}
 		},
 		{
-			"name": "CG14",
+			"name": "CG15 Super cheap land fixer",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{G}",
 			"type": "",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/73_CG14.png"
-			}
-		},
-		{
-			"name": "CG15",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "74",
-			"image_uris": {
-				"en": "https:///sets/LOR-files/img/74_CG15.png"
+				"en": "https:///sets/LOR-files/img/73_CG15 Super cheap land fixer.png"
 			}
 		},
 		{
@@ -786,13 +790,13 @@
 			}
 		},
 		{
-			"name": "Corporation Smokestack",
+			"name": "Corporate Smokestack",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/90_Corporation Smokestack.png"
+				"en": "https:///sets/LOR-files/img/90_Corporate Smokestack.png"
 			}
 		},
 		{
@@ -837,16 +841,16 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "57",
+			"collector_number": "54",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https:///sets/LOR-files/img/57_Kalika, the Crimson_back.png"
+					"en": "https:///sets/LOR-files/img/54_Kalika, the Crimson_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/57_Kalika, the Crimson_front.png"
+				"en": "https:///sets/LOR-files/img/54_Kalika, the Crimson_front.png"
 			}
 		},
 		{
@@ -854,16 +858,16 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "86",
+			"collector_number": "85",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https:///sets/LOR-files/img/86_Sukoshi, the Wildfire_back.png"
+					"en": "https:///sets/LOR-files/img/85_Sukoshi, the Wildfire_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/86_Sukoshi, the Wildfire_front.png"
+				"en": "https:///sets/LOR-files/img/85_Sukoshi, the Wildfire_front.png"
 			}
 		},
 		{
@@ -871,9 +875,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/13_Fixer's Tenacity.png"
+				"en": "https:///sets/LOR-files/img/12_Fixer's Tenacity.png"
 			}
 		},
 		{
@@ -881,9 +885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Scientist ",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/84_Kinesis Corp Researcher.png"
+				"en": "https:///sets/LOR-files/img/83_Kinesis Corp Researcher.png"
 			}
 		},
 		{
@@ -891,9 +895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Noble Horror ",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/83_Happy Everlaughing.png"
+				"en": "https:///sets/LOR-files/img/82_Happy Everlaughing.png"
 			}
 		},
 		{
@@ -927,13 +931,13 @@
 			}
 		},
 		{
-			"name": "Gayeon, the Burdened",
+			"name": "The Monochrome Man",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Human Scientist ",
-			"collector_number": "82",
+			"type": "Legendary Creature — Horror ",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/82_Gayeon, the Burdened.png"
+				"en": "https:///sets/LOR-files/img/84_The Monochrome Man.png"
 			}
 		},
 		{
@@ -947,13 +951,13 @@
 			}
 		},
 		{
-			"name": "The Monochrome Man",
+			"name": "Ten Thousand Bodies",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
-			"type": "Legendary Creature — Incarnation Horror ",
-			"collector_number": "85",
+			"type": "Creature — Zombie Horror ",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/85_The Monochrome Man.png"
+				"en": "https:///sets/LOR-files/img/86_Ten Thousand Bodies.png"
 			}
 		},
 		{
@@ -1087,13 +1091,23 @@
 			}
 		},
 		{
-			"name": "CB15",
+			"name": "Doomsday Ensemble",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/39_CB15.png"
+				"en": "https:///sets/LOR-files/img/39_Doomsday Ensemble.png"
+			}
+		},
+		{
+			"name": "Here Without You",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https:///sets/LOR-files/img/42_Here Without You.png"
 			}
 		}
 	]
