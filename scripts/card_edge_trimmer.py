@@ -34,7 +34,7 @@ def batch_process_images(setCode):
     for file_name in os.listdir(input_dir):
         if file_name.endswith(".png"):
             img_path = os.path.join(input_dir, file_name)
-            print(f"Processing {file_name}...")
+            # print(f"Processing {file_name}...")
             process_image(img_path)
 
     print("Batch processing of " + setCode + " images complete.")
