@@ -1,7 +1,7 @@
 ﻿{
     "name": "Liturgies of Ruhnacht",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "png",
     "cards": [
         {
@@ -2004,5 +2004,6 @@
             "artist": "Project Moon",
             "notes": ""
         }
-    ]
+    ],
+    "version": 1
 }
