@@ -28,16 +28,6 @@
 			}
 		},
 		{
-			"name": "Cursed Crone Employee",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Horror Scientist ",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https:///sets/LOR-files/img/22_Cursed Crone Employee.png"
-			}
-		},
-		{
 			"name": "Playful Pianist",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
@@ -50,7 +40,7 @@
 		{
 			"name": "Yin, Doomed Messenger",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Scout ",
 			"collector_number": "17",
 			"image_uris": {
@@ -109,7 +99,7 @@
 		},
 		{
 			"name": "Bloodstained Seraph",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}{W}",
 			"type": "Creature — Angel Demigod ",
 			"collector_number": "5",
@@ -201,7 +191,7 @@
 		{
 			"name": "Leviathan Stirs",
 			"rarity": "rare",
-			"mana_cost": "{X}{U}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
 			"collector_number": "25",
 			"image_uris": {
@@ -330,46 +320,46 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Spider Horror Scientist  ",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/45_Red-eyed Weaverblade.png"
+				"en": "https:///sets/LOR-files/img/44_Red-eyed Weaverblade.png"
 			}
 		},
 		{
-			"name": "Punishing Bird",
+			"name": "Punishment Bird",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Bird Horror ",
-			"collector_number": "44",
+			"collector_number": "43",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https:///sets/LOR-files/img/44_Punishing Bird_back.png"
+					"en": "https:///sets/LOR-files/img/43_Punishment Bird_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/44_Punishing Bird_front.png"
+				"en": "https:///sets/LOR-files/img/43_Punishment Bird_front.png"
 			}
 		},
 		{
-			"name": "The Clinging Chorus",
+			"name": "Clinging Chorus",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Hand Horror  ",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/34_The Clinging Chorus.png"
+				"en": "https:///sets/LOR-files/img/33_Clinging Chorus.png"
 			}
 		},
 		{
-			"name": "Judgment Bird",
+			"name": "Unbalancing Bird",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Horror ",
-			"collector_number": "43",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/43_Judgment Bird.png"
+				"en": "https:///sets/LOR-files/img/46_Unbalancing Bird.png"
 			}
 		},
 		{
@@ -383,23 +373,23 @@
 			}
 		},
 		{
-			"name": "Big Bird",
+			"name": "Lantern Bird",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Bird Horror ",
-			"collector_number": "33",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/33_Big Bird.png"
+				"en": "https:///sets/LOR-files/img/42_Lantern Bird.png"
 			}
 		},
 		{
-			"name": "Corpseraiser Witch",
+			"name": "Corpseraiser Heretic",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Demon Horror Scientist ",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/35_Corpseraiser Witch.png"
+				"en": "https:///sets/LOR-files/img/34_Corpseraiser Heretic.png"
 			}
 		},
 		{
@@ -407,9 +397,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}",
 			"type": "Legendary Creature — Human Scientist ",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/39_Gayeon, the Burdened.png"
+				"en": "https:///sets/LOR-files/img/38_Gayeon, the Burdened.png"
 			}
 		},
 		{
@@ -417,9 +407,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/36_Cry.png"
+				"en": "https:///sets/LOR-files/img/35_Cry.png"
 			}
 		},
 		{
@@ -427,9 +417,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/40_Gayeon's Psychosis.png"
+				"en": "https:///sets/LOR-files/img/39_Gayeon's Psychosis.png"
 			}
 		},
 		{
@@ -437,9 +427,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/37_Despair.png"
+				"en": "https:///sets/LOR-files/img/36_Despair.png"
 			}
 		},
 		{
@@ -751,9 +741,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/99_Halcyon Road.png"
+				"en": "https:///sets/LOR-files/img/100_Halcyon Road.png"
 			}
 		},
 		{
@@ -761,29 +751,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/94_Seongjang Corpse Pit.png"
+				"en": "https:///sets/LOR-files/img/95_Seongjang Corpse Pit.png"
 			}
 		},
 		{
-			"name": "Meltdown Thaumiel",
+			"name": "Calamity Thaumiel",
 			"rarity": "rare",
 			"mana_cost": "{10}",
 			"type": "Enchantment Creature — Avatar ",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/2_Meltdown Thaumiel.png"
+				"en": "https:///sets/LOR-files/img/1_Calamity Thaumiel.png"
 			}
 		},
 		{
-			"name": "The Fall of a Corporation",
+			"name": "Corporation Meltdown",
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Enchantment",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/1_The Fall of a Corporation.png"
+				"en": "https:///sets/LOR-files/img/2_Corporation Meltdown.png"
 			}
 		},
 		{
@@ -791,9 +781,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/92_Inquisition Punishing Grounds.png"
+				"en": "https:///sets/LOR-files/img/93_Inquisition Punishing Grounds.png"
 			}
 		},
 		{
@@ -801,9 +791,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment ",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/93_Raw Psychoment Blade.png"
+				"en": "https:///sets/LOR-files/img/94_Raw Psychoment Blade.png"
 			}
 		},
 		{
@@ -811,9 +801,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Serenyi ",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/46_Serenyi, the Bookkeeper.png"
+				"en": "https:///sets/LOR-files/img/45_Serenyi, the Bookkeeper.png"
 			}
 		},
 		{
@@ -821,16 +811,16 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Human Advisor ",
-			"collector_number": "42",
+			"collector_number": "41",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https:///sets/LOR-files/img/42_Jibril, Cruel Arbiter_back.png"
+					"en": "https:///sets/LOR-files/img/41_Jibril, Cruel Arbiter_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/42_Jibril, Cruel Arbiter_front.png"
+				"en": "https:///sets/LOR-files/img/41_Jibril, Cruel Arbiter_front.png"
 			}
 		},
 		{
@@ -855,16 +845,16 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Warrior ",
-			"collector_number": "86",
+			"collector_number": "87",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https:///sets/LOR-files/img/86_Sukoshi, the Wildfire_back.png"
+					"en": "https:///sets/LOR-files/img/87_Sukoshi, the Wildfire_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/86_Sukoshi, the Wildfire_front.png"
+				"en": "https:///sets/LOR-files/img/87_Sukoshi, the Wildfire_front.png"
 			}
 		},
 		{
@@ -878,13 +868,13 @@
 			}
 		},
 		{
-			"name": "Kinesis Corp Researcher",
+			"name": "Kinesis Researcher",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Scientist ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/84_Kinesis Corp Researcher.png"
+				"en": "https:///sets/LOR-files/img/84_Kinesis Researcher.png"
 			}
 		},
 		{
@@ -912,9 +902,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/90_Yakji Apprentice.png"
+				"en": "https:///sets/LOR-files/img/91_Yakji Apprentice.png"
 			}
 		},
 		{
@@ -932,9 +922,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Horror ",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/85_The Monochrome Man.png"
+				"en": "https:///sets/LOR-files/img/86_The Monochrome Man.png"
 			}
 		},
 		{
@@ -942,9 +932,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/89_Warp Train Regulars.png"
+				"en": "https:///sets/LOR-files/img/90_Warp Train Regulars.png"
 			}
 		},
 		{
@@ -952,15 +942,15 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Zombie Horror Scientist  ",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/87_Ten Thousand Bodies.png"
+				"en": "https:///sets/LOR-files/img/88_Ten Thousand Bodies.png"
 			}
 		},
 		{
 			"name": "Biofusion Chamber",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}{U}",
+			"mana_cost": "{W}{U}",
 			"type": "Artifact",
 			"collector_number": "80",
 			"image_uris": {
@@ -972,9 +962,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact Creature — Human ",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/91_The Grand Librarian.png"
+				"en": "https:///sets/LOR-files/img/92_The Grand Librarian.png"
 			}
 		},
 		{
@@ -982,9 +972,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Axiom ",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/88_Vielle, Distortion Diabolist.png"
+				"en": "https:///sets/LOR-files/img/89_Vielle, Distortion Diabolist.png"
 			}
 		},
 		{
@@ -992,9 +982,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "101",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/101_Macabre Pools.png"
+				"en": "https:///sets/LOR-files/img/103_Macabre Pools.png"
 			}
 		},
 		{
@@ -1002,9 +992,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "105",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/105_Solemn Bastion.png"
+				"en": "https:///sets/LOR-files/img/107_Solemn Bastion.png"
 			}
 		},
 		{
@@ -1012,9 +1002,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/100_Hellfire Crater.png"
+				"en": "https:///sets/LOR-files/img/101_Hellfire Crater.png"
 			}
 		},
 		{
@@ -1022,9 +1012,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "106",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/106_Sunswept Grange.png"
+				"en": "https:///sets/LOR-files/img/108_Sunswept Grange.png"
 			}
 		},
 		{
@@ -1032,9 +1022,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/97_Eerie Wildwood.png"
+				"en": "https:///sets/LOR-files/img/98_Eerie Wildwood.png"
 			}
 		},
 		{
@@ -1042,9 +1032,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/98_Fog-ridden Wharf.png"
+				"en": "https:///sets/LOR-files/img/99_Fog-ridden Wharf.png"
 			}
 		},
 		{
@@ -1052,9 +1042,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/95_Blessed Grounds.png"
+				"en": "https:///sets/LOR-files/img/96_Blessed Grounds.png"
 			}
 		},
 		{
@@ -1062,9 +1052,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "102",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/102_Putrid Corcass.png"
+				"en": "https:///sets/LOR-files/img/104_Putrid Corcass.png"
 			}
 		},
 		{
@@ -1072,9 +1062,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/96_Coastal Cairn.png"
+				"en": "https:///sets/LOR-files/img/97_Coastal Cairn.png"
 			}
 		},
 		{
@@ -1082,9 +1072,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "104",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/104_Secret Lagoon.png"
+				"en": "https:///sets/LOR-files/img/106_Secret Lagoon.png"
 			}
 		},
 		{
@@ -1092,9 +1082,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/38_Doomsday Ensemble.png"
+				"en": "https:///sets/LOR-files/img/37_Doomsday Ensemble.png"
 			}
 		},
 		{
@@ -1102,9 +1092,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/41_Here Without You.png"
+				"en": "https:///sets/LOR-files/img/40_Here Without You.png"
 			}
 		},
 		{
@@ -1122,15 +1112,15 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "103",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/103_Ruined Backstreets.png"
+				"en": "https:///sets/LOR-files/img/105_Ruined Backstreets.png"
 			}
 		},
 		{
 			"name": "Jericho, Weary Detective",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{U}",
+			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Planeswalker — Jericho ",
 			"collector_number": "83",
 			"back": {
@@ -1142,6 +1132,36 @@
 			},
 			"image_uris": {
 				"en": "https:///sets/LOR-files/img/83_Jericho, Weary Detective_front.png"
+			}
+		},
+		{
+			"name": "Drifting Starchild",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https:///sets/LOR-files/img/22_Drifting Starchild.png"
+			}
+		},
+		{
+			"name": "Mili, Spirited Hearttaker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Vampire Artist ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https:///sets/LOR-files/img/85_Mili, Spirited Hearttaker.png"
+			}
+		},
+		{
+			"name": "Luminous City",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https:///sets/LOR-files/img/102_Luminous City.png"
 			}
 		}
 	]
