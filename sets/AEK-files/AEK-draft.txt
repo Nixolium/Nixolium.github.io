@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "211",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/211_Secluded Hideout.png"
+				"en": "https:///sets/AEK-files/img/208_Secluded Hideout.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "212",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/212_Shopping Mall.png"
+				"en": "https:///sets/AEK-files/img/209_Shopping Mall.png"
 			}
 		},
 		{
@@ -845,19 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "213",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/213_Skyline Lookout.png"
-			}
-		},
-		{
-			"name": "WVista_1",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "204",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/204_WVista_1.png"
+				"en": "https:///sets/AEK-files/img/210_Skyline Lookout.png"
 			}
 		},
 		{
@@ -865,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "215",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/215_Undercity Alley.png"
+				"en": "https:///sets/AEK-files/img/212_Undercity Alley.png"
 			}
 		},
 		{
@@ -875,19 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "216",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/216_Urban Gardens.png"
-			}
-		},
-		{
-			"name": "WVista_2",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "205",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/205_WVista_2.png"
+				"en": "https:///sets/AEK-files/img/213_Urban Gardens.png"
 			}
 		},
 		{
@@ -1175,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Pilot ",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/166_Neon Streetracer.png"
+				"en": "https:///sets/AEK-files/img/167_Neon Streetracer.png"
 			}
 		},
 		{
@@ -1665,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — District ",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/202_Kaede, the City Below.png"
+				"en": "https:///sets/AEK-files/img/203_Kaede, the City Below.png"
 			}
 		},
 		{
@@ -1675,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — District  ",
-			"collector_number": "203",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/203_Miseko, Urban Crossroads.png"
+				"en": "https:///sets/AEK-files/img/205_Miseko, Urban Crossroads.png"
 			}
 		},
 		{
@@ -1685,9 +1665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — District  ",
-			"collector_number": "210",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/210_Satsukai, Nexus of Lights.png"
+				"en": "https:///sets/AEK-files/img/207_Satsukai, Nexus of Lights.png"
 			}
 		},
 		{
@@ -1695,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — District ",
-			"collector_number": "214",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/214_Tsukuri, Lantern Sanctum.png"
+				"en": "https:///sets/AEK-files/img/211_Tsukuri, Lantern Sanctum.png"
 			}
 		},
 		{
@@ -1705,9 +1685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — District  ",
-			"collector_number": "209",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/209_Nyano, Serene Shrine.png"
+				"en": "https:///sets/AEK-files/img/206_Nyano, Serene Shrine.png"
 			}
 		},
 		{
@@ -1785,9 +1765,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "219",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/219_Swamp.png"
+				"en": "https:///sets/AEK-files/img/217_Swamp.png"
 			}
 		},
 		{
@@ -1795,9 +1775,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "220",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/220_Mountain.png"
+				"en": "https:///sets/AEK-files/img/218_Mountain.png"
 			}
 		},
 		{
@@ -1805,9 +1785,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "217",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/217_Plains.png"
+				"en": "https:///sets/AEK-files/img/215_Plains.png"
 			}
 		},
 		{
@@ -1815,9 +1795,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "218",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/218_Island.png"
+				"en": "https:///sets/AEK-files/img/216_Island.png"
 			}
 		},
 		{
@@ -1825,9 +1805,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "221",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/221_Forest.png"
+				"en": "https:///sets/AEK-files/img/219_Forest.png"
 			}
 		},
 		{
@@ -2471,16 +2451,6 @@
 			}
 		},
 		{
-			"name": "Reach for the Stars",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{R}{W}",
-			"type": "Sorcery",
-			"collector_number": "167",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/167_Reach for the Stars.png"
-			}
-		},
-		{
 			"name": "Akane, Linearity Breaker",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
@@ -2488,36 +2458,6 @@
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/36_Akane, Linearity Breaker.png"
-			}
-		},
-		{
-			"name": "WVista_3",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "206",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/206_WVista_3.png"
-			}
-		},
-		{
-			"name": "WVista_4",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "207",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/207_WVista_4.png"
-			}
-		},
-		{
-			"name": "WVista_5",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "208",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/208_WVista_5.png"
 			}
 		},
 		{
@@ -2702,9 +2642,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/165_Moonglow Dreamer.png"
+				"en": "https:///sets/AEK-files/img/166_Moonglow Dreamer.png"
 			}
 		},
 		{
@@ -2725,6 +2665,46 @@
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/6_Human Artist.png"
+			}
+		},
+		{
+			"name": "Miss Navia Cosgrove",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Planeswalker — Navia ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/165_Miss Navia Cosgrove.png"
+			}
+		},
+		{
+			"name": "Luminous City",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/204_Luminous City.png"
+			}
+		},
+		{
+			"name": "Halcyon Road",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/202_Halcyon Road.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/214_Wayfarer's Shrine.png"
 			}
 		}
 	]
