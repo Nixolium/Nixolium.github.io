@@ -737,16 +737,6 @@
 			}
 		},
 		{
-			"name": "Halcyon Road",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "100",
-			"image_uris": {
-				"en": "https:///sets/LOR-files/img/100_Halcyon Road.png"
-			}
-		},
-		{
 			"name": "Seongjang Corpse Pit",
 			"rarity": "rare",
 			"mana_cost": "{2}",
@@ -872,9 +862,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Scientist ",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/84_Kinesis Researcher.png"
+				"en": "https:///sets/LOR-files/img/83_Kinesis Researcher.png"
 			}
 		},
 		{
@@ -922,9 +912,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Horror ",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/86_The Monochrome Man.png"
+				"en": "https:///sets/LOR-files/img/85_The Monochrome Man.png"
 			}
 		},
 		{
@@ -1118,23 +1108,6 @@
 			}
 		},
 		{
-			"name": "Jericho, Weary Detective",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{U}",
-			"type": "Legendary Planeswalker — Jericho ",
-			"collector_number": "83",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https:///sets/LOR-files/img/83_Jericho, Weary Detective_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https:///sets/LOR-files/img/83_Jericho, Weary Detective_front.png"
-			}
-		},
-		{
 			"name": "Drifting Starchild",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
@@ -1149,9 +1122,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Vampire Artist ",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https:///sets/LOR-files/img/85_Mili, Spirited Hearttaker.png"
+				"en": "https:///sets/LOR-files/img/84_Mili, Spirited Hearttaker.png"
 			}
 		},
 		{
@@ -1162,6 +1135,26 @@
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https:///sets/LOR-files/img/102_Luminous City.png"
+			}
+		},
+		{
+			"name": "Halcyon Road",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https:///sets/LOR-files/img/100_Halcyon Road.png"
+			}
+		},
+		{
+			"name": "Navia, Future Detective",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Planeswalker — Navia ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https:///sets/LOR-files/img/86_Navia, Future Detective.png"
 			}
 		}
 	]
