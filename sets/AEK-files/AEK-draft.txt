@@ -1481,16 +1481,6 @@
 			}
 		},
 		{
-			"name": "Celosia on Burning Wings",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Planeswalker — Celosia ",
-			"collector_number": "90",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/90_Celosia on Burning Wings.png"
-			}
-		},
-		{
 			"name": "Blade Alley Vigilantes",
 			"rarity": "rare",
 			"mana_cost": "{6}{G}{G}",
@@ -2695,6 +2685,16 @@
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/8_Shiroyuki's Emblem.png"
+			}
+		},
+		{
+			"name": "Celosia on Burning Wings",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Celosia ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/90_Celosia on Burning Wings.png"
 			}
 		}
 	]
