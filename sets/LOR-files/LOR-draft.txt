@@ -816,7 +816,7 @@
 		{
 			"name": "Kalika, the Crimson",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Legendary Creature — Human Warrior ",
 			"collector_number": "56",
 			"back": {
@@ -1246,7 +1246,7 @@
 		},
 		{
 			"name": "Kill Everything in Sight",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "88",
@@ -1282,6 +1282,16 @@
 			"collector_number": "97",
 			"image_uris": {
 				"en": "https:///sets/LOR-files/img/97_Serra's Flawed Replacement.png"
+			}
+		},
+		{
+			"name": "Vielle Serialized",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https:///sets/LOR-files/img/1_Vielle Serialized.png"
 			}
 		}
 	]

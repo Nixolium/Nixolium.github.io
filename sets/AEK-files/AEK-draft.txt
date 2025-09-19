@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/128_Lightshow Ascetic.png"
+				"en": "https:///sets/AEK-files/img/127_Lightshow Ascetic.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/129_Murasi Runaway.png"
+				"en": "https:///sets/AEK-files/img/128_Murasi Runaway.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/133_Rhythm Seer.png"
+				"en": "https:///sets/AEK-files/img/132_Rhythm Seer.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Artifact Creature — Samurai Construct ",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/130_Neon Streetcleaner.png"
+				"en": "https:///sets/AEK-files/img/129_Neon Streetcleaner.png"
 			}
 		},
 		{
@@ -325,19 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/131_Not Today.png"
-			}
-		},
-		{
-			"name": "Beloved Idol",
-			"rarity": "common",
-			"mana_cost": "{3}{U/B}{U/B}",
-			"type": "Creature — Human Artist ",
-			"collector_number": "179",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/179_Beloved Idol.png"
+				"en": "https:///sets/AEK-files/img/130_Not Today.png"
 			}
 		},
 		{
@@ -353,7 +343,7 @@
 		{
 			"name": "Serenyi's Shell",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment Creature — Avatar ",
 			"collector_number": "168",
 			"image_uris": {
@@ -375,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/G}",
 			"type": "Creature — Human Reveler ",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/186_Party Planner.png"
+				"en": "https:///sets/AEK-files/img/187_Party Planner.png"
 			}
 		},
 		{
@@ -385,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/184_Moonlit Lantern Festival.png"
+				"en": "https:///sets/AEK-files/img/185_Moonlit Lantern Festival.png"
 			}
 		},
 		{
@@ -395,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{B/G}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/183_Leyline Traveler.png"
+				"en": "https:///sets/AEK-files/img/184_Leyline Traveler.png"
 			}
 		},
 		{
@@ -591,13 +581,13 @@
 			}
 		},
 		{
-			"name": "Akiyama Rim, Soulweaver",
+			"name": "Akiyama Rim",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/35_Akiyama Rim, Soulweaver.png"
+				"en": "https:///sets/AEK-files/img/35_Akiyama Rim.png"
 			}
 		},
 		{
@@ -914,7 +904,7 @@
 			"name": "Kenji and Momoka",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Human Spirit  ",
+			"type": "Legendary Creature — Human Cleric ",
 			"collector_number": "73",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/73_Kenji and Momoka.png"
@@ -1005,9 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/132_Pastel Travelers.png"
+				"en": "https:///sets/AEK-files/img/131_Pastel Travelers.png"
 			}
 		},
 		{
@@ -1062,12 +1052,12 @@
 		},
 		{
 			"name": "Idolize",
-			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/125_Idolize.png"
+				"en": "https:///sets/AEK-files/img/183_Idolize.png"
 			}
 		},
 		{
@@ -1361,16 +1351,6 @@
 			}
 		},
 		{
-			"name": "Make Believe Together",
-			"rarity": "uncommon",
-			"mana_cost": "{W}",
-			"type": "Enchantment",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/18_Make Believe Together.png"
-			}
-		},
-		{
 			"name": "Sly Consigliere",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
@@ -1441,46 +1421,6 @@
 			}
 		},
 		{
-			"name": "Embrace",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Sorcery",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/10_Embrace.png"
-			}
-		},
-		{
-			"name": "Kairos, Colorsmith",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Legendary Planeswalker — Kairos ",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/14_Kairos, Colorsmith.png"
-			}
-		},
-		{
-			"name": "All the Time in the World",
-			"rarity": "rare",
-			"mana_cost": "{4}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/37_All the Time in the World.png"
-			}
-		},
-		{
-			"name": "Azalea, New Apocrypha",
-			"rarity": "rare",
-			"mana_cost": "{8}{W}{W}",
-			"type": "Legendary Creature — Elder Horror ",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/4_Azalea, New Apocrypha.png"
-			}
-		},
-		{
 			"name": "Blade Alley Vigilantes",
 			"rarity": "rare",
 			"mana_cost": "{6}{G}{G}",
@@ -1498,16 +1438,6 @@
 			"collector_number": "154",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/154_Hyacin, Crown of Wonder.png"
-			}
-		},
-		{
-			"name": "Idyllic Idol",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}{G}{G}",
-			"type": "Creature — Human Artist ",
-			"collector_number": "126",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/126_Idyllic Idol.png"
 			}
 		},
 		{
@@ -1634,7 +1564,7 @@
 			"name": "Kaede, the City Below",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — District ",
+			"type": "Land",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/200_Kaede, the City Below.png"
@@ -1644,7 +1574,7 @@
 			"name": "Miseko, Urban Crossroads",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — District  ",
+			"type": "Land",
 			"collector_number": "202",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/202_Miseko, Urban Crossroads.png"
@@ -1654,7 +1584,7 @@
 			"name": "Satsukai, Nexus of Lights",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — District  ",
+			"type": "Land",
 			"collector_number": "204",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/204_Satsukai, Nexus of Lights.png"
@@ -1664,7 +1594,7 @@
 			"name": "Tsukuri, Lantern Sanctum",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — District ",
+			"type": "Land",
 			"collector_number": "208",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/208_Tsukuri, Lantern Sanctum.png"
@@ -1674,7 +1604,7 @@
 			"name": "Nyano, Serene Shrine",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — District  ",
+			"type": "Land",
 			"collector_number": "203",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/203_Nyano, Serene Shrine.png"
@@ -2095,9 +2025,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Axiom ",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/1_Vielle, Undercity Wayfarer.png"
+				"en": "https:///sets/AEK-files/img/2_Vielle, Undercity Wayfarer.png"
 			}
 		},
 		{
@@ -2245,19 +2175,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/127_Idyllic Vision.png"
+				"en": "https:///sets/AEK-files/img/126_Idyllic Vision.png"
 			}
 		},
 		{
 			"name": "Need For Speed",
 			"rarity": "common",
 			"mana_cost": "{1{U}/R}",
-			"type": "Instant",
-			"collector_number": "185",
+			"type": "Sorcery",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/185_Need For Speed.png"
+				"en": "https:///sets/AEK-files/img/186_Need For Speed.png"
 			}
 		},
 		{
@@ -2441,16 +2371,6 @@
 			}
 		},
 		{
-			"name": "Banishment Gaze",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Instant",
-			"collector_number": "146",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/146_Banishment Gaze.png"
-			}
-		},
-		{
 			"name": "Bleed",
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{R}{R}",
@@ -2538,20 +2458,10 @@
 			}
 		},
 		{
-			"name": "Suturday Night Magic",
-			"rarity": "common",
-			"mana_cost": "{G/W}",
-			"type": "Enchantment — Idolatry ",
-			"collector_number": "187",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/187_Suturday Night Magic.png"
-			}
-		},
-		{
 			"name": "Watching the Glowmoths",
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "188",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/188_Watching the Glowmoths.png"
@@ -2575,16 +2485,6 @@
 			"collector_number": "170",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/170_Seventh Street Assembly.png"
-			}
-		},
-		{
-			"name": "Conduct",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}{B}",
-			"type": "Sorcery",
-			"collector_number": "149",
-			"image_uris": {
-				"en": "https:///sets/AEK-files/img/149_Conduct.png"
 			}
 		},
 		{
@@ -2695,6 +2595,116 @@
 			"collector_number": "90",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/90_Celosia on Burning Wings.png"
+			}
+		},
+		{
+			"name": "Serenyi Serialized",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/1_Serenyi Serialized.png"
+			}
+		},
+		{
+			"name": "Conduct",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/149_Conduct.png"
+			}
+		},
+		{
+			"name": "Banishment Gaze",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/146_Banishment Gaze.png"
+			}
+		},
+		{
+			"name": "Beloved Idol",
+			"rarity": "common",
+			"mana_cost": "{3}{U/B}{U/B}",
+			"type": "Creature — Human Artist ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/179_Beloved Idol.png"
+			}
+		},
+		{
+			"name": "Embrace",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/10_Embrace.png"
+			}
+		},
+		{
+			"name": "Kairos, Colorsmith",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Planeswalker — Kairos ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/14_Kairos, Colorsmith.png"
+			}
+		},
+		{
+			"name": "Make Believer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Avatar Artist ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/18_Make Believer.png"
+			}
+		},
+		{
+			"name": "Saturday Night Magic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Idolatry ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/133_Saturday Night Magic.png"
+			}
+		},
+		{
+			"name": "Idyllic Idol",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}{G}",
+			"type": "Creature — Human Artist ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/125_Idyllic Idol.png"
+			}
+		},
+		{
+			"name": "Azalea, New Apocrypha",
+			"rarity": "rare",
+			"mana_cost": "{8}{W}{W}",
+			"type": "Legendary Creature — Elder Horror ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/4_Azalea, New Apocrypha.png"
+			}
+		},
+		{
+			"name": "All the Time in the World",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/37_All the Time in the World.png"
 			}
 		}
 	]
