@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/77_Rooftop Violinist.png"
+				"en": "https:///sets/AEK-files/img/78_Rooftop Violinist.png"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 			}
 		},
 		{
-			"name": "Steal the Show",
+			"name": "Pull From the Hat",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "80",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/80_Steal the Show.png"
+				"en": "https:///sets/AEK-files/img/77_Pull From the Hat.png"
 			}
 		},
 		{
@@ -352,7 +352,7 @@
 		},
 		{
 			"name": "Sunflower Painter",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Artist ",
 			"collector_number": "174",
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/112_She has a Gun.png"
+				"en": "https:///sets/AEK-files/img/111_She has a Gun.png"
 			}
 		},
 		{
@@ -531,13 +531,13 @@
 			}
 		},
 		{
-			"name": "Scorch",
+			"name": "Spice",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/109_Scorch.png"
+				"en": "https:///sets/AEK-files/img/113_Spice.png"
 			}
 		},
 		{
@@ -744,7 +744,7 @@
 			"name": "Fallen Star",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Reflection Artist ",
+			"type": "Creature — Human Artist ",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/12_Fallen Star.png"
@@ -935,15 +935,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/78_Shadowbinding.png"
+				"en": "https:///sets/AEK-files/img/79_Shadowbinding.png"
 			}
 		},
 		{
 			"name": "Gleaming Importance",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "66",
 			"image_uris": {
@@ -1175,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Pilot ",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/113_Skybridge Rider.png"
+				"en": "https:///sets/AEK-files/img/112_Skybridge Rider.png"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Artist Reveler ",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/111_Sempiternal Witch.png"
+				"en": "https:///sets/AEK-files/img/110_Sempiternal Witch.png"
 			}
 		},
 		{
@@ -1225,19 +1225,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Pilot ",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/93_Ezren, Speedrunner.png"
+				"en": "https:///sets/AEK-files/img/92_Ezren, Speedrunner.png"
 			}
 		},
 		{
-			"name": "Clear the Stage",
+			"name": "Fiery Stardom",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/92_Clear the Stage.png"
+				"en": "https:///sets/AEK-files/img/93_Fiery Stardom.png"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/110_Screaming into the Rain.png"
+				"en": "https:///sets/AEK-files/img/109_Screaming into the Rain.png"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Ai ",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/79_Spark Hunter Kajiwara Ai.png"
+				"en": "https:///sets/AEK-files/img/80_Spark Hunter Kajiwara Ai.png"
 			}
 		},
 		{
@@ -2071,13 +2071,13 @@
 			}
 		},
 		{
-			"name": "Shayu on Fizzling Screens",
+			"name": "Shayu, Seeker of Solace",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Scout ",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/134_Shayu on Fizzling Screens.png"
+				"en": "https:///sets/AEK-files/img/134_Shayu, Seeker of Solace.png"
 			}
 		},
 		{
