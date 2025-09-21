@@ -2163,7 +2163,7 @@
 		{
 			"name": "Need For Speed",
 			"rarity": "common",
-			"mana_cost": "{1{U}/R}",
+			"mana_cost": "{1}{U/R}",
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
@@ -2173,7 +2173,7 @@
 		{
 			"name": "Bounding Companion",
 			"rarity": "common",
-			"mana_cost": "{1{R}/W}",
+			"mana_cost": "{1}{R/W}",
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "191",
 			"image_uris": {
@@ -2450,7 +2450,7 @@
 		{
 			"name": "Crescendo for the Crown",
 			"rarity": "common",
-			"mana_cost": "{1{B}/R}",
+			"mana_cost": "{1}{B/R}",
 			"type": "Enchantment",
 			"collector_number": "192",
 			"image_uris": {
