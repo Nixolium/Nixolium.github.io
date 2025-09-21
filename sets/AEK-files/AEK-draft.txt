@@ -7,7 +7,7 @@
 			"type": "Land",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/204_Aviation Hub.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/204_Aviation Hub.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Land",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/205_Bustling Intersection.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/205_Bustling Intersection.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Enchantment Creature — Avatar ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Virtual Avatar.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Virtual Avatar.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/3_Mistencharm Resplendant.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/3_Mistencharm Resplendant.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/2_Dream.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/2_Dream.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/4_Rainbow Seeker.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/4_Rainbow Seeker.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Land",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/206_Capitol Plaza.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/206_Capitol Plaza.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature — Human Cleric Artist ",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/66_Blackhat Apothecary.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/66_Blackhat Apothecary.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/84_Rooftop Violinist.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/84_Rooftop Violinist.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/78_Jealous Rival.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/78_Jealous Rival.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Nephilim Artist ",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/65_Beloved Antihero.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/65_Beloved Antihero.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Enchantment",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/68_Fan Following.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/68_Fan Following.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Enchantment Creature — Avatar ",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/74_Hero from Fiction.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/74_Hero from Fiction.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/69_The Girl in the Chair.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/69_The Girl in the Chair.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/89_Top of the Charts.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/89_Top of the Charts.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/88_Talent Scout.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/88_Talent Scout.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/82_Perhaps.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/82_Perhaps.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/83_Pull From the Hat.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/83_Pull From the Hat.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/85_Scandalous Rumor.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/85_Scandalous Rumor.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/80_Memories Come and Go.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/80_Memories Come and Go.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/152_Superstar.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/152_Superstar.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Human Reveler ",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/149_Smirking Delinquent.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/149_Smirking Delinquent.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/136_Lightshow Ascetic.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/136_Lightshow Ascetic.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Enchantment — Idolatry  ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/132_Hobby Shop.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/132_Hobby Shop.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/148_Skybridge Fixer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/148_Skybridge Fixer.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/137_Murasi Runaway.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/137_Murasi Runaway.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/154_Wondrous Gateway.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/154_Wondrous Gateway.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/142_Rhythm Seer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/142_Rhythm Seer.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Human Druid ",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/133_Hydric Biomancer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/133_Hydric Biomancer.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Artifact Creature — Samurai Construct ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/138_Neon Streetcleaner.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/138_Neon Streetcleaner.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Enchantment Creature — Avatar Horror ",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/147_Sky Scraper.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/147_Sky Scraper.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/153_Traverse the City.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/153_Traverse the City.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/139_Not Today.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/139_Not Today.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Enchantment",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/193_Digitization Rig.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/193_Digitization Rig.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Enchantment Creature — Avatar ",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/180_Serenyi's Shell.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/180_Serenyi's Shell.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/185_Sunflower Painter.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/185_Sunflower Painter.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Human Reveler ",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/198_Party Planner.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/198_Party Planner.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Sorcery",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/196_Moonlit Lantern Festival.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/196_Moonlit Lantern Festival.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/195_Leyline Traveler.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/195_Leyline Traveler.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/158_Burn Fast, Burn Bright.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/158_Burn Fast, Burn Bright.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Land",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/207_Construction Zone.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/207_Construction Zone.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Creature — Human Pilot ",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/110_Neon City Racer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/110_Neon City Racer.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/103_Furious Songstress.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/103_Furious Songstress.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Enchantment Creature — Avatar Shapeshifter ",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/114_Reflected Frame.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/114_Reflected Frame.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature — Human Pilot ",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/104_Getaway Driver.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/104_Getaway Driver.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Human Rogue ",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/108_Kaede Troublemakers.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/108_Kaede Troublemakers.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Enchantment Creature — Avatar Artist ",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/107_Idol of Playthings.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/107_Idol of Playthings.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Human Cleric ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/102_Foul Tongued Acolyte.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/102_Foul Tongued Acolyte.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Enchantment Creature — Avatar Artist ",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/106_Host of Merely Players.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/106_Host of Merely Players.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Enchantment Creature — Avatar Reveler  ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/97_Cabaret Bouncer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/97_Cabaret Bouncer.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/124_Waiting for You.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/124_Waiting for You.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Instant",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/119_She has a Gun.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/119_She has a Gun.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/111_Neon Lights.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/111_Neon Lights.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/121_Spice.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/121_Spice.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Enchantment Creature — Avatar ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/54_Midnight Dreamer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/54_Midnight Dreamer.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/64_Undercity Peacekeeper.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/64_Undercity Peacekeeper.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/35_7th Street Fixer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/35_7th Street Fixer.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/60_Sudden Star.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/60_Sudden Star.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/38_Akiyama Rim.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/38_Akiyama Rim.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/53_Isolated Wayfarer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/53_Isolated Wayfarer.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/49_Holofield Operator.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/49_Holofield Operator.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/62_Tsukuri Freerunner.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/62_Tsukuri Freerunner.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/63_Twirl.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/63_Twirl.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Instant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/56_Nah.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/56_Nah.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Sorcery",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/41_Alone With My Thoughts.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/41_Alone With My Thoughts.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Sorcery",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/44_Fall Out.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/44_Fall Out.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/42_Birdbrained.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/42_Birdbrained.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Enchantment Creature — Avatar ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/19_Lunar Contessa.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/19_Lunar Contessa.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Enchantment Creature — Avatar Artist ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/20_Masked Singer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/20_Masked Singer.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/28_Satsukai Fixer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/28_Satsukai Fixer.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/32_University Hobbyist.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/32_University Hobbyist.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/14_Fantasy Aspirant.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/14_Fantasy Aspirant.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/10_Edgeworld Voyager.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/10_Edgeworld Voyager.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Creature — Human Reveler ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/7_Cheering Fangirl.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/7_Cheering Fangirl.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/13_Fallen Star.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/13_Fallen Star.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Human Horse Artist ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/9_Dark Comedy Duo.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/9_Dark Comedy Duo.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Sorcery",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/25_Out of Spacetime.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/25_Out of Spacetime.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/12_Experienced Animator.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/12_Experienced Animator.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Instant",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/21_Meet Me At Sundown.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/21_Meet Me At Sundown.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Artifact",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/23_Missing Papers.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/23_Missing Papers.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Land",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/208_Gilded Nightclub.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/208_Gilded Nightclub.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Land",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/215_Secluded Hideout.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/215_Secluded Hideout.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Land",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/216_Shopping Mall.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/216_Shopping Mall.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Land",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/217_Skyline Lookout.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/217_Skyline Lookout.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Land",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/219_Undercity Alley.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/219_Undercity Alley.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Land",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/220_Urban Gardens.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/220_Urban Gardens.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Artifact — Vehicle ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/200_Hardened Pickup.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/200_Hardened Pickup.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/72_Haunted Conspiracist.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/72_Haunted Conspiracist.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Enchantment",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/93_We Could Be Supervillains.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/93_We Could Be Supervillains.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Legendary Creature — Human Cleric ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/79_Kenji and Momoka.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/79_Kenji and Momoka.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/81_Omniscent Reader.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/81_Omniscent Reader.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Sorcery",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/77_Irrelevance.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/77_Irrelevance.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/86_Shadowbinding.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/86_Shadowbinding.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Enchantment",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/70_Gleaming Importance.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/70_Gleaming Importance.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/67_Eyes That Bite.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/67_Eyes That Bite.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Sorcery",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/73_Here Without You.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/73_Here Without You.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Creature — Human Reveler ",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/130_Firework Reveler.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/130_Firework Reveler.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/146_Showrunner.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/146_Showrunner.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/140_Pastel Travelers.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/140_Pastel Travelers.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Legendary Creature — Human Artificer ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/181_Serin, Exponent Mage.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/181_Serin, Exponent Mage.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Creature — Human Assassin Artist ",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/150_Social Executioner.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/150_Social Executioner.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Enchantment",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/125_Apotheosis Lab.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/125_Apotheosis Lab.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Enchantment Creature — Avatar Artist ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/151_Sunshine Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/151_Sunshine Idol.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Enchantment",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/131_From Grassroots.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/131_From Grassroots.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/194_Idolize.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/194_Idolize.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Legendary Planeswalker — Ellis ",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/128_Ellis, Paradise Painter.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/128_Ellis, Paradise Painter.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Legendary Creature — Human Scout ",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/169_Koto, Snapshot Storyteller.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/169_Koto, Snapshot Storyteller.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/167_Idiosyncratic Savant.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/167_Idiosyncratic Savant.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Enchantment Creature — Avatar Artist ",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/164_Holographic Darling.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/164_Holographic Darling.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/187_Tsukuri Kiteflier.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/187_Tsukuri Kiteflier.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/162_Exalted Gossipers.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/162_Exalted Gossipers.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Creature — Human Reveler ",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/174_Midnight Sommelier.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/174_Midnight Sommelier.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/127_Colorful Aesthete.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/127_Colorful Aesthete.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Human Pilot ",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/177_Neon Streetracer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/177_Neon Streetracer.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Enchantment Creature — Human Avatar ",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/184_Sundown Slow Dancers.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/184_Sundown Slow Dancers.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/171_Lurking Insomniac.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/171_Lurking Insomniac.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Creature — Human Pilot ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/120_Skybridge Joyrider.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/120_Skybridge Joyrider.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/95_Alicia, the Final Dawn.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/95_Alicia, the Final Dawn.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Creature — Human Gamer Artificer ",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/112_Nexus Apprentice.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/112_Nexus Apprentice.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Creature — Human Artist Reveler ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/118_Sempiternal Witch.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/118_Sempiternal Witch.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/99_Citron Bartender.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/99_Citron Bartender.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Legendary Creature — Human Pilot ",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/100_Ezren, Speedrunner.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/100_Ezren, Speedrunner.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/101_Fiery Stardom.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/101_Fiery Stardom.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Legendary Creature — Nephilim Horror ",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/113_Nezuri, Toxic Princess.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/113_Nezuri, Toxic Princess.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/105_Heartsprung.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/105_Heartsprung.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Creature — Human Reveler ",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/109_Lamplighter.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/109_Lamplighter.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/50_Iason, Watercolor Mage.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/50_Iason, Watercolor Mage.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/43_Extraplanar Explorer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/43_Extraplanar Explorer.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/59_Shorekeeper.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/59_Shorekeeper.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Creature — Human Cleric Artist ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/45_Festival Shrinemaiden.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/45_Festival Shrinemaiden.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/55_Miko, Sings Her Heart Out.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/55_Miko, Sings Her Heart Out.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/47_Flirt with Disaster.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/47_Flirt with Disaster.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/48_From the Mirror.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/48_From the Mirror.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Enchantment Creature — Avatar Angel ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/36_Aethershell Angel.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/36_Aethershell Angel.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/30_Sly Consigliere.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/30_Sly Consigliere.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Creature — Human Advisor Artist ",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/22_Miseko Producer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/22_Miseko Producer.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/8_Cursed Catlover.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/8_Cursed Catlover.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Enchantment",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/155_Autumn Winds.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/155_Autumn Winds.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Creature — Human Reveler ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/27_Puddle Stomper.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/27_Puddle Stomper.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/33_Virtualize.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/33_Virtualize.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Enchantment",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/26_A Practical Guide to Evil.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/26_A Practical Guide to Evil.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Creature — Human Rogue ",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/126_Blade Alley Vigilantes.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/126_Blade Alley Vigilantes.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Legendary Creature — Nephilim Artist ",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/165_Hyacin, Crown of Wonder.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/165_Hyacin, Crown of Wonder.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/51_Inspiring Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/51_Inspiring Idol.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Enchantment",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/76_Introversion.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/76_Introversion.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Legendary Creature — Human Vampire ",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/170_Kyv, Sanguine Avante.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/170_Kyv, Sanguine Avante.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/17_Luminescent Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/17_Luminescent Idol.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/201_Lunar Halo.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/201_Lunar Halo.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/115_Resplendent Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/115_Resplendent Idol.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Enchantment",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/117_Screaming into the Rain.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/117_Screaming into the Rain.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Legendary Planeswalker — Ai ",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/87_Spark Hunter Kajiwara Ai.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/87_Spark Hunter Kajiwara Ai.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Legendary Creature — Human Fractal ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/179_Serenyi, the Benevolent.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/179_Serenyi, the Benevolent.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/91_Villainous Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/91_Villainous Idol.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Sorcery",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/34_White Lies.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/34_White Lies.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Land",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/210_Kaede, the City Below.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/210_Kaede, the City Below.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Land",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/212_Miseko, Urban Crossroads.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/212_Miseko, Urban Crossroads.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Land",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/214_Satsukai, Nexus of Lights.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/214_Satsukai, Nexus of Lights.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Land",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/218_Tsukuri, Lantern Sanctum.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/218_Tsukuri, Lantern Sanctum.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Land",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/213_Nyano, Serene Shrine.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/213_Nyano, Serene Shrine.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Enchantment",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/189_Vielle's Perch.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/189_Vielle's Perch.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Legendary Creature — Human Axiom ",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/188_Vielle Never Sleeps.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/188_Vielle Never Sleeps.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Legendary Creature — Human Advisor ",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/168_Kalista, Citron Don.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/168_Kalista, Citron Don.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/145_Shock Paintress.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/145_Shock Paintress.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Legendary Planeswalker — Shiroyuki ",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/58_Shiroyuki, the Everygirl.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/58_Shiroyuki, the Everygirl.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Creature — Human Coward  ",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/178_Reclusive Cynic.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/178_Reclusive Cynic.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Basic Land — Swamp ",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/223_Swamp.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/223_Swamp.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Basic Land — Mountain ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/224_Mountain.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/224_Mountain.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Basic Land — Plains ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/221_Plains.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/221_Plains.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Basic Land — Island ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/222_Island.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/222_Island.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Basic Land — Forest ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/225_Forest.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/225_Forest.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Basic Land",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Wastes.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Wastes.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Legendary Planeswalker — Fiona ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/46_Fiona Tsukuri.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/46_Fiona Tsukuri.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Furious Songstress_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Furious Songstress_sen.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Lightshow Ascetic_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Lightshow Ascetic_sen.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Legendary Creature — Human Cleric Artist ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Blackhat Apothecary_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Blackhat Apothecary_sen.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Legendary Enchantment Creature — Avatar ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Lunar Contessa_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Lunar Contessa_sen.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Legendary Enchantment Creature — Avatar  ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Midnight Dreamer_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Midnight Dreamer_sen.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Mistencharm Resplendant_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Mistencharm Resplendant_sen.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Legendary Creature — Human Pilot ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Neon City Racer_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Neon City Racer_sen.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Legendary Creature — Human Pilot ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Neon Streetracer_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Neon Streetracer_sen.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Legendary Creature — Human Artificer ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Serin, Exponent Mage_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Serin, Exponent Mage_sen.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Legendary Creature — Human Reveler ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Smirking Delinquent_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Smirking Delinquent_sen.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Sudden Star_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Sudden Star_sen.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Concentrate.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Concentrate.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Rising Flames.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Rising Flames.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Instant",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Sea Cache.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Sea Cache.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Demonic Tutor.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Demonic Tutor.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Drain.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Drain.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Storm Crow.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Storm Crow.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Instant",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Thoughts.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Thoughts.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Legendary Creature — Human Rogue ",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/94_Yri, Utonian Hero.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/94_Yri, Utonian Hero.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Token Creature — Human ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/4_Human_1.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/4_Human_1.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Token Creature — Human ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/15_Human_2.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/15_Human_2.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/1_Copy.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/1_Copy.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Token Creature — Horror ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/12_Horror.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/12_Horror.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Token Artifact Creature — Toy ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/20_Toy.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/20_Toy.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Token Artifact Creature — Soldier ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/19_Soldier.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/19_Soldier.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Token Artifact — Food ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/18_Food.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/18_Food.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Token Creature — Cat ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/11_Cat.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/11_Cat.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Token Enchantment — Idolatry ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/2_Idolatry.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/2_Idolatry.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Legendary Creature — Human Axiom ",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/226_Vielle, Undercity Wayfarer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/226_Vielle, Undercity Wayfarer.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Legendary Planeswalker — Tolen ",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/186_Tolen, the Paradisiac.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/186_Tolen, the Paradisiac.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Legendary Planeswalker — Alice ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/39_Alice, Wonderbane.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/39_Alice, Wonderbane.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Legendary Creature — Human Warrior ",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/166_The Icelord of Severed Chains.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/166_The Icelord of Severed Chains.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/24_Naoko, Onigaiko Transfer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/24_Naoko, Onigaiko Transfer.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Legendary Creature — Human Scout ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/144_Shayu, Epsilon Remnant.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/144_Shayu, Epsilon Remnant.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Legendary Creature — Human Elf Wizard ",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/123_Viktoria, the Heartline.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/123_Viktoria, the Heartline.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Secret Rendezvous.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Secret Rendezvous.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Token Creature — Elemental ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/6_Elemental.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/6_Elemental.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Token Creature — Human Student ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/10_Student.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/10_Student.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Loot.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Loot.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Legendary Creature — Human Wizard Scout ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/161_Corsenna, Planar Sightseer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/161_Corsenna, Planar Sightseer.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/18_Luminescent Vision.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/18_Luminescent Vision.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Instant",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/92_Villainous Vision.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/92_Villainous Vision.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Instant",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/116_Resplendent Vision.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/116_Resplendent Vision.png"
 			}
 		},
 		{
@@ -2157,27 +2157,27 @@
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/135_Idyllic Vision.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/135_Idyllic Vision.png"
 			}
 		},
 		{
 			"name": "Need For Speed",
 			"rarity": "common",
-			"mana_cost": "{1}{U/R}",
+			"mana_cost": "{1{U}/R}",
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/197_Need For Speed.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/197_Need For Speed.png"
 			}
 		},
 		{
 			"name": "Bounding Companion",
 			"rarity": "common",
-			"mana_cost": "{1}{R/W}",
+			"mana_cost": "{1{R}/W}",
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/191_Bounding Companion.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/191_Bounding Companion.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Instant",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/52_Inspiring Vision.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/52_Inspiring Vision.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/17_Idol's Blessing.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/17_Idol's Blessing.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/8_Idol's Creativity.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/8_Idol's Creativity.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/16_Idol's Radiance.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/16_Idol's Radiance.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/13_Idol's Ambition.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/13_Idol's Ambition.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/5_Idol's Anthem.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/5_Idol's Anthem.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Instant",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Lightning Strike.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Lightning Strike.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Volcanic Dragon.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Volcanic Dragon.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Instant",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Unsummon.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Unsummon.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Creature — Scout ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Voyager.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Voyager.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Instant",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Exeunt.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Exeunt.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Sign in Blood.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Sign in Blood.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Redemption.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Redemption.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Superstar_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Superstar_sen.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Legendary Planeswalker — Okus Hanabi ",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/173_The Masked Fool.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/173_The Masked Fool.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/37_Akane, Linearity Breaker.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/37_Akane, Linearity Breaker.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Artifact — Book ",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/202_Secret Journal.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/202_Secret Journal.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Instant",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/157_Bleed.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/157_Bleed.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/159_Chroma Drop Rival.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/159_Chroma Drop Rival.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Repose.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Repose.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Setting Sun.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Setting Sun.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Instant",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Disenchant.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Disenchant.png"
 			}
 		},
 		{
@@ -2410,11 +2410,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https:///sets/AEK-files/img/90_Touka, Afterlife Specialist_back.png"
+					"en": "https://Nixolium.github.io/sets/AEK-files/img/90_Touka, Afterlife Specialist_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/90_Touka, Afterlife Specialist_front.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/90_Touka, Afterlife Specialist_front.png"
 			}
 		},
 		{
@@ -2424,7 +2424,7 @@
 			"type": "Creature — Nephilim Artist ",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Beloved Antihero_sen.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Beloved Antihero_sen.png"
 			}
 		},
 		{
@@ -2434,7 +2434,7 @@
 			"type": "Enchantment",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/6_Barhopping in Miseko.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/6_Barhopping in Miseko.png"
 			}
 		},
 		{
@@ -2444,17 +2444,17 @@
 			"type": "Instant",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/199_Watching the Glowmoths.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/199_Watching the Glowmoths.png"
 			}
 		},
 		{
 			"name": "Crescendo for the Crown",
 			"rarity": "common",
-			"mana_cost": "{1}{B/R}",
+			"mana_cost": "{1{B}/R}",
 			"type": "Enchantment",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/192_Crescendo for the Crown.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/192_Crescendo for the Crown.png"
 			}
 		},
 		{
@@ -2464,7 +2464,7 @@
 			"type": "Sorcery",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/182_Seventh Street Assembly.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/182_Seventh Street Assembly.png"
 			}
 		},
 		{
@@ -2474,7 +2474,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/57_Rainy Night Voyager.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/57_Rainy Night Voyager.png"
 			}
 		},
 		{
@@ -2484,7 +2484,7 @@
 			"type": "Enchantment",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/183_Six Requiems.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/183_Six Requiems.png"
 			}
 		},
 		{
@@ -2494,7 +2494,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/176_Moonglow Romantic.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/176_Moonglow Romantic.png"
 			}
 		},
 		{
@@ -2504,7 +2504,7 @@
 			"type": "Enchantment",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/163_Heartfelt Phenomenon.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/163_Heartfelt Phenomenon.png"
 			}
 		},
 		{
@@ -2514,7 +2514,7 @@
 			"type": "Token Creature — Human Artist ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/7_Human Artist.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/7_Human Artist.png"
 			}
 		},
 		{
@@ -2524,7 +2524,7 @@
 			"type": "Legendary Planeswalker — Navia ",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/175_Miss Navia Cosgrove.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/175_Miss Navia Cosgrove.png"
 			}
 		},
 		{
@@ -2534,7 +2534,7 @@
 			"type": "Land",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/211_Luminous City.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/211_Luminous City.png"
 			}
 		},
 		{
@@ -2544,7 +2544,7 @@
 			"type": "Land",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/209_Halcyon Road.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/209_Halcyon Road.png"
 			}
 		},
 		{
@@ -2554,7 +2554,7 @@
 			"type": "Emblem — Celosia ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/14_Celosia's Emblem.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/14_Celosia's Emblem.png"
 			}
 		},
 		{
@@ -2564,7 +2564,7 @@
 			"type": "Emblem — Shiroyuki ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/9_Shiroyuki's Emblem.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/9_Shiroyuki's Emblem.png"
 			}
 		},
 		{
@@ -2574,7 +2574,7 @@
 			"type": "Legendary Planeswalker — Celosia ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/98_Celosia on Burning Wings.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/98_Celosia on Burning Wings.png"
 			}
 		},
 		{
@@ -2584,7 +2584,7 @@
 			"type": "Sorcery",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/160_Conduct.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/160_Conduct.png"
 			}
 		},
 		{
@@ -2594,7 +2594,7 @@
 			"type": "Instant",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/156_Banishment Gaze.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/156_Banishment Gaze.png"
 			}
 		},
 		{
@@ -2604,7 +2604,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/190_Beloved Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/190_Beloved Idol.png"
 			}
 		},
 		{
@@ -2614,7 +2614,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/11_Embrace.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/11_Embrace.png"
 			}
 		},
 		{
@@ -2624,7 +2624,7 @@
 			"type": "Legendary Planeswalker — Kairos ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/16_Kairos, Colorsmith.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/16_Kairos, Colorsmith.png"
 			}
 		},
 		{
@@ -2634,7 +2634,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/15_Imaginary Sojourner.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/15_Imaginary Sojourner.png"
 			}
 		},
 		{
@@ -2644,7 +2644,7 @@
 			"type": "Enchantment — Idolatry ",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/143_Saturday Night Magic.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/143_Saturday Night Magic.png"
 			}
 		},
 		{
@@ -2654,7 +2654,7 @@
 			"type": "Creature — Human Artist ",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/134_Idyllic Idol.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/134_Idyllic Idol.png"
 			}
 		},
 		{
@@ -2664,7 +2664,7 @@
 			"type": "Legendary Creature — Elder Horror ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/5_Azalea, New Apocrypha.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/5_Azalea, New Apocrypha.png"
 			}
 		},
 		{
@@ -2674,7 +2674,7 @@
 			"type": "Sorcery",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/40_All the Time in the World.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/40_All the Time in the World.png"
 			}
 		},
 		{
@@ -2684,7 +2684,7 @@
 			"type": "Enchantment Creature — Avatar ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/1_Azuscent Starchild.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/1_Azuscent Starchild.png"
 			}
 		},
 		{
@@ -2694,7 +2694,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/203_Vielle's Eglantine Crown.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/203_Vielle's Eglantine Crown.png"
 			}
 		},
 		{
@@ -2704,7 +2704,7 @@
 			"type": "Creature — Human Reveler Pilot ",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/71_Gravity Defier.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/71_Gravity Defier.png"
 			}
 		},
 		{
@@ -2714,7 +2714,7 @@
 			"type": "Enchantment",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/31_Thunder Stage.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/31_Thunder Stage.png"
 			}
 		},
 		{
@@ -2724,7 +2724,7 @@
 			"type": "Token Creature — Angel ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/3_Angel.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/3_Angel.png"
 			}
 		},
 		{
@@ -2734,7 +2734,7 @@
 			"type": "Instant",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/75_Heroes Are Never Late.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/75_Heroes Are Never Late.png"
 			}
 		},
 		{
@@ -2744,7 +2744,7 @@
 			"type": "Creature — Human Artist Reveler ",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/96_Alicia's Daybreaker.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/96_Alicia's Daybreaker.png"
 			}
 		},
 		{
@@ -2757,11 +2757,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https:///sets/AEK-files/img/129_Eventide Rendezvous_back.png"
+					"en": "https://Nixolium.github.io/sets/AEK-files/img/129_Eventide Rendezvous_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/129_Eventide Rendezvous_front.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/129_Eventide Rendezvous_front.png"
 			}
 		},
 		{
@@ -2771,7 +2771,7 @@
 			"type": "Enchantment Creature — Avatar Horror ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/29_Selunite Flowergirl.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/29_Selunite Flowergirl.png"
 			}
 		},
 		{
@@ -2781,7 +2781,7 @@
 			"type": "Creature — Human Reveler ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/172_Make Believer.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/172_Make Believer.png"
 			}
 		},
 		{
@@ -2791,7 +2791,7 @@
 			"type": "Artifact — Book ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/61_The 99 Lives of Shiroyuki.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/61_The 99 Lives of Shiroyuki.png"
 			}
 		},
 		{
@@ -2801,7 +2801,7 @@
 			"type": "Enchantment Creature — Avatar Wizard ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/122_Tsukuri Holo-Witch.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/122_Tsukuri Holo-Witch.png"
 			}
 		},
 		{
@@ -2811,7 +2811,7 @@
 			"type": "Enchantment",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/141_Planesculpting.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/141_Planesculpting.png"
 			}
 		},
 		{
@@ -2821,7 +2821,7 @@
 			"type": "Sorcery",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Regrowth.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Regrowth.png"
 			}
 		},
 		{
@@ -2831,7 +2831,7 @@
 			"type": "Instant",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/0_Nebula's Blessing.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/0_Nebula's Blessing.png"
 			}
 		}
 	]
