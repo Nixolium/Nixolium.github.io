@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Cleric Artist ",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/67_Blackhat Apothecary.png"
+				"en": "https:///sets/AEK-files/img/66_Blackhat Apothecary.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/85_Rooftop Violinist.png"
+				"en": "https:///sets/AEK-files/img/84_Rooftop Violinist.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Artist ",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/79_Jealous Rival.png"
+				"en": "https:///sets/AEK-files/img/78_Jealous Rival.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Nephilim Artist ",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/66_Beloved Antihero.png"
+				"en": "https:///sets/AEK-files/img/65_Beloved Antihero.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/69_Fan Following.png"
+				"en": "https:///sets/AEK-files/img/68_Fan Following.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Creature — Avatar ",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/75_Hero from Fiction.png"
+				"en": "https:///sets/AEK-files/img/74_Hero from Fiction.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Artificer ",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/70_The Girl in the Chair.png"
+				"en": "https:///sets/AEK-files/img/69_The Girl in the Chair.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/83_Perhaps.png"
+				"en": "https:///sets/AEK-files/img/82_Perhaps.png"
 			}
 		},
 		{
@@ -175,19 +175,19 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/84_Pull From the Hat.png"
+				"en": "https:///sets/AEK-files/img/83_Pull From the Hat.png"
 			}
 		},
 		{
-			"name": "At the End of the Day",
+			"name": "Scandalous Rumor",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/65_At the End of the Day.png"
+				"en": "https:///sets/AEK-files/img/85_Scandalous Rumor.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/81_Memories Come and Go.png"
+				"en": "https:///sets/AEK-files/img/80_Memories Come and Go.png"
 			}
 		},
 		{
@@ -434,7 +434,7 @@
 			"name": "Reflected Frame",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment Creature — Avatar ",
+			"type": "Enchantment Creature — Avatar Shapeshifter ",
 			"collector_number": "114",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/114_Reflected Frame.png"
@@ -875,9 +875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/73_Haunted Conspiracist.png"
+				"en": "https:///sets/AEK-files/img/72_Haunted Conspiracist.png"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Cleric ",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/80_Kenji and Momoka.png"
+				"en": "https:///sets/AEK-files/img/79_Kenji and Momoka.png"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/82_Omniscent Reader.png"
+				"en": "https:///sets/AEK-files/img/81_Omniscent Reader.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/78_Irrelevance.png"
+				"en": "https:///sets/AEK-files/img/77_Irrelevance.png"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/71_Gleaming Importance.png"
+				"en": "https:///sets/AEK-files/img/70_Gleaming Importance.png"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/68_Eyes That Bite.png"
+				"en": "https:///sets/AEK-files/img/67_Eyes That Bite.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/74_Here Without You.png"
+				"en": "https:///sets/AEK-files/img/73_Here Without You.png"
 			}
 		},
 		{
@@ -1103,7 +1103,7 @@
 		{
 			"name": "Exalted Gossipers",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Human Advisor ",
 			"collector_number": "162",
 			"image_uris": {
@@ -1172,7 +1172,7 @@
 		},
 		{
 			"name": "Alicia, the Final Dawn",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "95",
@@ -1244,7 +1244,7 @@
 			"name": "Heartsprung",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Instant",
+			"type": "Enchantment — Aura ",
 			"collector_number": "105",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/105_Heartsprung.png"
@@ -1445,9 +1445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/77_Introversion.png"
+				"en": "https:///sets/AEK-files/img/76_Introversion.png"
 			}
 		},
 		{
@@ -2043,7 +2043,7 @@
 		{
 			"name": "Naoko, Onigaiko Transfer",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "24",
 			"image_uris": {
@@ -2062,8 +2062,8 @@
 		},
 		{
 			"name": "Viktoria, the Heartline",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}{R}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Elf Wizard ",
 			"collector_number": "123",
 			"image_uris": {
@@ -2702,16 +2702,16 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Reveler Pilot ",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/72_Gravity Defier.png"
+				"en": "https:///sets/AEK-files/img/71_Gravity Defier.png"
 			}
 		},
 		{
 			"name": "Thunder Stage",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Enchantment",
+			"type": "Enchantment",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/31_Thunder Stage.png"
@@ -2732,9 +2732,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https:///sets/AEK-files/img/76_Heroes Are Never Late.png"
+				"en": "https:///sets/AEK-files/img/75_Heroes Are Never Late.png"
 			}
 		},
 		{
@@ -2812,6 +2812,26 @@
 			"collector_number": "141",
 			"image_uris": {
 				"en": "https:///sets/AEK-files/img/141_Planesculpting.png"
+			}
+		},
+		{
+			"name": "Regrowth",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/0_Regrowth.png"
+			}
+		},
+		{
+			"name": "Nebula's Blessing",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https:///sets/AEK-files/img/0_Nebula's Blessing.png"
 			}
 		}
 	]
