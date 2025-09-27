@@ -2478,7 +2478,7 @@
             "number": 160,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "At the beginning of your first main phase, you may put a storied permanent card with mana value X or less from your hand onto the battlefield, where X is the number of storied permanents you control. [i](Enchantments and legendary permanents are storied.)[/i]",
+            "rules_text": "At the beginning of your first main phase, you may put a storied permanent card with mana value X or less from your hand onto the battlefield, where X is the number of differently named storied permanents you control. [i](Enchantments and legendary permanents are storied.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
