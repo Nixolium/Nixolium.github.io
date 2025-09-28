@@ -1272,7 +1272,7 @@
 		},
 		{
 			"name": "Extraplanar Explorer",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scout ",
 			"collector_number": "43",
@@ -2811,7 +2811,6 @@
 2 Alicia, the Final Dawn
 2 Ezren, Speedrunner
 2 Fiery Prominence
-2 Extraplanar Explorer
 2 Miko, Sings Her Heart Out
 2 Autumn Winds
 2 Blade Alley Vigilantes
@@ -2910,6 +2909,7 @@
 9 Heartsprung
 9 Lamplighter
 9 Iason, Watercolor Mage
+9 Extraplanar Explorer
 9 Shorekeeper
 9 Flirt with Disaster
 9 From the Mirror
