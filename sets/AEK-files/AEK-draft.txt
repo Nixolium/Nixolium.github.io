@@ -1301,13 +1301,13 @@
 			}
 		},
 		{
-			"name": "Miko, Sings Her Heart Out",
+			"name": "Miko, Who Sings With Heart",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Human Artist ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/55_Miko, Sings Her Heart Out.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/55_Miko, Who Sings With Heart.png"
 			}
 		},
 		{
@@ -2811,7 +2811,7 @@
 2 Alicia, the Final Dawn
 2 Ezren, Speedrunner
 2 Fiery Prominence
-2 Miko, Sings Her Heart Out
+2 Miko, Who Sings With Heart
 2 Autumn Winds
 2 Blade Alley Vigilantes
 2 Hyacin, the Awemaker
