@@ -11,13 +11,13 @@
 			}
 		},
 		{
-			"name": "Bustling Intersection",
+			"name": "Construction Zone",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/208_Bustling Intersection.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/208_Construction Zone.png"
 			}
 		},
 		{
@@ -61,13 +61,13 @@
 			}
 		},
 		{
-			"name": "Capitol Plaza",
+			"name": "Frostbitten Park",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "209",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/209_Capitol Plaza.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/211_Frostbitten Park.png"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 		{
 			"name": "Smirking Delinquent",
 			"rarity": "common",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Reveler ",
 			"collector_number": "154",
 			"image_uris": {
@@ -223,7 +223,7 @@
 		{
 			"name": "Lightshow Ascetic",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Creature — Human Artist Wizard ",
 			"collector_number": "143",
 			"image_uris": {
@@ -401,13 +401,13 @@
 			}
 		},
 		{
-			"name": "Construction Zone",
+			"name": "Opulent Casino",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "210",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/210_Construction Zone.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/217_Opulent Casino.png"
 			}
 		},
 		{
@@ -801,13 +801,13 @@
 			}
 		},
 		{
-			"name": "Gilded Nightclub",
+			"name": "Decadent Nightclub",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "212",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/212_Gilded Nightclub.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/209_Decadent Nightclub.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/211_Feline Sanctuary.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/210_Feline Sanctuary.png"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/214_Kaede, the City Below.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/213_Kaede, the City Below.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/216_Miseko, Urban Crossroads.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/215_Miseko, Urban Crossroads.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/217_Nyano, Serene Shrine.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/216_Nyano, Serene Shrine.png"
 			}
 		},
 		{
@@ -2322,9 +2322,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/215_Luminous City.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/214_Luminous City.png"
 			}
 		},
 		{
@@ -2332,9 +2332,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/AEK-files/img/213_Halcyon Road.png"
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/212_Halcyon Road.png"
 			}
 		},
 		{
@@ -2420,8 +2420,8 @@
 		{
 			"name": "Dreamglass Melody",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Enchantment — Idolatry  ",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/134_Dreamglass Melody.png"
@@ -2949,11 +2949,11 @@
 9 Campfire Storyteller
 [CommonSlot(9)]
 30 Aviation Hub
-30 Bustling Intersection
+30 Construction Zone
 30 Mistencharm Resplendant
 30 Dream
 30 Rainbow Seeker
-30 Capitol Plaza
+30 Frostbitten Park
 30 Blackhat Apothecary
 30 Rooftop Violinist
 30 Jealous Rival
@@ -2982,7 +2982,7 @@
 30 Party Planner
 30 Moonlit Lantern Festival
 30 Leyline Traveler
-30 Construction Zone
+30 Opulent Casino
 30 Neon City Racer
 30 Roaring Songstress
 30 Reflected Frame
@@ -3018,7 +3018,7 @@
 30 Existential Paradox
 30 Experienced Animator
 30 Meet Me At Sundown
-30 Gilded Nightclub
+30 Decadent Nightclub
 30 Feline Sanctuary
 30 Shopping Mall
 30 Skyline Lookout
