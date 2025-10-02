@@ -1,1 +1,19 @@
-﻿{"sets": [{"set_code": "AEK", "set_name": "Aekyu: Idyllic Days", "formats": ""}, {"set_code": "EPS", "set_name": "Epsil", "formats": ""}, {"set_code": "LOR", "set_name": "Liturgies of Ruhnacht", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "AEK",
+            "set_name": "Aekyu: Idyllic Days",
+            "formats": ""
+        },
+        {
+            "set_code": "EPS",
+            "set_name": "Epsil",
+            "formats": ""
+        },
+        {
+            "set_code": "LOR",
+            "set_name": "Liturgies of Ruhnacht",
+            "formats": ""
+        }
+    ]
+}
