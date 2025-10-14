@@ -106,7 +106,7 @@
     },
     {
         "card_name": "Luminescent Idol",
-        "number": 20,
+        "number": 21,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -141,7 +141,7 @@
     },
     {
         "card_name": "Naoko, Onigaiko Transfer",
-        "number": 26,
+        "number": 27,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -176,7 +176,7 @@
     },
     {
         "card_name": "Selenite Flowergirl",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -385,8 +385,8 @@
         "position": ""
     },
     {
-        "card_name": "Luminescent Vision",
-        "number": 21,
+        "card_name": "Kalista's Consigliere",
+        "number": 20,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -406,7 +406,7 @@
         "position": ""
     },
     {
-        "card_name": "Nexus Chaotician",
+        "card_name": "Nexus Technician",
         "number": 116,
         "shape": "normal",
         "set": "AEK",
@@ -420,8 +420,8 @@
         "position": ""
     },
     {
-        "card_name": "Missing Papers",
-        "number": 25,
+        "card_name": "Luminescent Vision",
+        "number": 22,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -455,8 +455,8 @@
         "position": ""
     },
     {
-        "card_name": "A Practical Guide to Evil",
-        "number": 27,
+        "card_name": "Missing Papers",
+        "number": 26,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -490,7 +490,7 @@
         "position": ""
     },
     {
-        "card_name": "Puddle Stomper",
+        "card_name": "A Practical Guide to Evil",
         "number": 28,
         "shape": "normal",
         "set": "AEK",
@@ -525,8 +525,8 @@
         "position": ""
     },
     {
-        "card_name": "Sly Consigliere",
-        "number": 32,
+        "card_name": "Puddle Stomper",
+        "number": 29,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -911,7 +911,7 @@
     },
     {
         "card_name": "Lunar Contessa",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -946,7 +946,7 @@
     },
     {
         "card_name": "Masked Singer",
-        "number": 23,
+        "number": 24,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -981,7 +981,7 @@
     },
     {
         "card_name": "Meet Me At Sundown",
-        "number": 24,
+        "number": 25,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1016,7 +1016,7 @@
     },
     {
         "card_name": "Rhythm Seer",
-        "number": 29,
+        "number": 30,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1051,7 +1051,7 @@
     },
     {
         "card_name": "Satsukai Fixer",
-        "number": 30,
+        "number": 31,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1242,7 +1242,7 @@
     },
     {
         "card_name": "Vielle, Undercity Wayfarer",
-        "number": 247,
+        "number": 237,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1551,205 +1551,135 @@
     "a->land",
     {
         "card_name": "Miseko, Urban Crossroads",
-        "number": 222,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Tsukuri, Lantern Sanctum",
-        "number": 232,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Kaede, the City Below",
-        "number": 219,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Satsukai, Nexus of Lights",
-        "number": 226,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Nyano, Serene Shrine",
-        "number": 224,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Frozen Ocean",
         "number": 217,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Mysterious Cove",
+        "card_name": "Tsukuri, Lantern Sanctum",
         "number": 223,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Daunting Precipice",
-        "number": 213,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Shadowy Crossroads",
-        "number": 228,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Charming Agora",
-        "number": 211,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Aviation Hub",
-        "number": 210,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Skyline Lookout",
-        "number": 230,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Decadent Nightclub",
-        "number": 214,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Shopping Mall",
-        "number": 229,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Frostbitten Park",
-        "number": 216,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Abandoned Arcade",
-        "number": 209,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Waterlogged Bridge",
-        "number": 235,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Secluded Cemetery",
-        "number": 227,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Lonesome Road",
-        "number": 220,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Teeming Wreckage",
-        "number": 231,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Feline Sanctuary",
+        "card_name": "Kaede, the City Below",
         "number": 215,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Opulent Casino",
-        "number": 225,
+        "card_name": "Satsukai, Nexus of Lights",
+        "number": 220,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Undercity Alley",
-        "number": 233,
+        "card_name": "Nyano, Serene Shrine",
+        "number": 218,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Construction Zone",
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Aviation Hub",
+        "number": 209,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
+        "card_name": "Skyline Lookout",
+        "number": 222,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
+        "card_name": "Decadent Nightclub",
+        "number": 211,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
+        "card_name": "Shopping Mall",
+        "number": 221,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
+        "card_name": "Frostbitten Park",
+        "number": 213,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Feline Sanctuary",
         "number": 212,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
+        "card_name": "Opulent Casino",
+        "number": 219,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
+        "card_name": "Undercity Alley",
+        "number": 224,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
+        "card_name": "Construction Zone",
+        "number": 210,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
         "card_name": "Urban Gardens",
-        "number": 234,
+        "number": 225,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1771,21 +1701,21 @@
     },
     {
         "card_name": "Halcyon Road",
-        "number": 218,
+        "number": 214,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Yri's Secret Hideout",
-        "number": 236,
+        "number": 226,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Luminous City",
-        "number": 221,
+        "number": 216,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1813,70 +1743,70 @@
     },
     {
         "card_name": "island_swamp",
-        "number": 242,
+        "number": 232,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "island_mountain",
-        "number": 244,
+        "number": 234,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "island_plains",
-        "number": 238,
+        "number": 228,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "island_full",
-        "number": 240,
+        "number": 230,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "island_forest",
-        "number": 246,
+        "number": 236,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Plains",
-        "number": 237,
+        "number": 227,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Island",
-        "number": 239,
+        "number": 229,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Swamp",
-        "number": 241,
+        "number": 231,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Mountain",
-        "number": 243,
+        "number": 233,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Forest",
-        "number": 245,
+        "number": 235,
         "shape": "normal",
         "set": "AEK",
         "position": ""

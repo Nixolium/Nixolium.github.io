@@ -1,4 +1,88 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Nexus Technician added.
+Kalista's Consigliere added.
+
+Nexus Chaotician removed.
+Sly Consigliere removed.
+Abandoned Arcade removed.
+Charming Agora removed.
+Daunting Precipice removed.
+Frozen Ocean removed.
+Lonesome Road removed.
+Mysterious Cove removed.
+Secluded Cemetery removed.
+Shadowy Crossroads removed.
+Teeming Wreckage removed.
+Waterlogged Bridge removed.
+
+Blackhat Apothecary
+rules_text: Stardom {4}{B}{B} [i](Pay {4}{B}{B} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Deathtouch
+As long as you control a legendary creature or planeswalker, Blackhat Apothecary has lifelink. => Stardom {3}{B}{B} [i](Pay {3}{B}{B} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Deathtouch
+As long as you control a legendary creature or planeswalker, Blackhat Apothecary has lifelink.
+
+Beloved Antihero
+rules_text: Stardom {3}{B}{B} [i](Pay {3}{B}{B} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+When Beloved Antihero enters, you draw a card and lose 1 life. If Beloved Antihero is legendary, you may repeat this process once. => Stardom {3}{B}{B} [i](Pay {3}{B}{B} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+When Beloved Antihero enters, you draw a card and lose 1 life. If you control a legendary creature or planeswalker, you may repeat this process once.
+
+Waiting for You
+
+Missing Papers
+cost: {W}{W} => {1}{W}
+rules_text: When Missing Papers enters, exile target creature or planeswalker until Missing Papers leaves the battlefield.
+{7}, {T}: Choose target permanent card exiled with Missing Papers. Put it onto the battlefield under your control. Sacrifice Missing Papers. => When Missing Papers enters, exile target creature or planeswalker until Missing Papers leaves the battlefield.
+{5}, {T}: Choose target permanent card exiled with Missing Papers. Put it onto the battlefield under your control. Sacrifice Missing Papers.
+
+Kagami, Firework Reveler
+pt: 2/3 => 1/3
+
+Seventh Street Vandal
+rules_text: Trample, haste
+Other Human creatures you control have trample and haste.
+Whenever Seventh Street Vandal or another creature you control enters, it gets +2/+1 until end of turn. => Trample, haste
+Other Human creatures you control have trample and haste.
+Whenever Seventh Street Vandal or another creature you control enters, that creature gets +2/+1 until end of turn.
+
+Aethershell Holo
+rules_text: Flying
+When Aethershell Holo enters, name a creature or planeswalker card. If an opponent controls a creature or planeswalker with the chosen name, conjure a duplicate of that card into your hand. => Flying
+When Aethershell Holo enters, choose a creature or planeswalker card name. If an opponent controls a creature or planeswalker with the chosen name, conjure a duplicate of that card into your hand.
+
+Nyano, Serene Shrine
+
+Shock Paintress
+cost: {1}{G}{G} => {2}{G}
+
+Hyperlight Phenomenon
+rules_text: Whenever you conjure one or more cards, create a 1/1 blue Elemental creature token with flying.
+{2}{U}: Conjure Mischief into your hand. [i](It's a {R} sorcery with “Draw two cards, then discard two cards.”)[/i] => Whenever you conjure one or more cards, create a 1/1 blue Elemental creature token with flying.
+{1}{U}: Conjure Mischief into your hand. Activate only once each turn and only as a sorcery. [i](It's a {R} sorcery with “Draw two cards, then discard two cards.”)[/i]
+
+Thunder Stage Singer
+rules_text: Stardom {2}{W}{W} [i](Pay {2}{W}{W} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+If an opponent would conjure a card into their hand, instead no cards are conjured unless they pay {X}, where X is Thunder Stage Singer's power. => Stardom {2}{W}{W} [i](Pay {2}{W}{W} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+If an opponent would conjure one or more cards, instead no cards are conjured unless that player pays {X}, where X is Thunder Stage Singer's power.
+
+Lunar Kitsune
+rules_text:  => [i](This card is conjured and isn't legal.)[/i]
+
+Unconventional Artistry
+rules_text: Affinity for Artists and Revelers [i](This spell costs {1} less to cast for each Artists and Reveler you control.)[/i]
+Choose one —
+• Draw three cards.
+• You may sacrifice a creature. If you do, draw cards equal to its power. => Affinity for Artists and Revelers [i](This spell costs {1} less to cast for each Artist and/or Reveler you control.)[/i]
+Choose one —
+• Draw three cards.
+• You may sacrifice a creature. If you do, draw cards equal to its power.
+
+Urban Gardens
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Moyro Familia Fixer added.
