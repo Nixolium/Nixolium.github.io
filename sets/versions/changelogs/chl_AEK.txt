@@ -1,4 +1,116 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Brazen Delinquent added.
+Tsukuri Biomancer added.
+Inseparable Besties added.
+I am a Rockstar added.
+
+Smirking Delinquent removed.
+Hydric Biomancer removed.
+Tsukuri Freerunner removed.
+Idolize removed.
+
+Mistencharm Resplendant
+rules_text: Stardom {5} [i](Pay {5} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+{7}, Discard Mistencharm Resplendant: Exile target nonland permanent. => Stardom {7} [i](Pay {7} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+When Mistencharm Resplendant enters, if its legendary, destroy target nonland permanent an opponent controls.
+
+Top of the Charts
+rules_text: Deathtouch
+When Top of the Charts enters, you may put five legendary counters on it. [i](This creature becomes legendary.)[/i]
+{2}, Discard Top of the Charts: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Menace
+When Top of the Charts enters, you may put five legendary counters on it. [i](This creature becomes legendary.)[/i]
+{2}, Discard Top of the Charts: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+pt: 6/5 => 5/4
+
+Lightshow Ascetic
+cost: {G} => {GW}
+rules_text: Stardom {4}{G}{G} [i](Pay {4}{G}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is Lightshow Ascetic's power. => Stardom {4}{GW}{GW} [i](Pay {4}{GW}{GW} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is Lightshow Ascetic's power.
+
+Rhythm Seer
+rules_text: When Rhythm Seer enters, idolize. [i](Create an Idolatry enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+Avatarcycling {1}{W} [i]({1}{W}, Discard this card: Search your library for an Avatar card, reveal it, put it into your hand, then shuffle.)[/i] => When Rhythm Seer enters, create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+Avatarcycling {1}{W} [i]({1}{W}, Discard this card: Search your library for an Avatar card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Cabaret Bouncer
+rules_text: Menace
+Whenever Cabaret Bouncer attacks, it deals 2 damage to any target.
+{2}, Discard Cabaret Bouncer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Haste
+When Cabaret Bouncer enters, it deals 4 damage to target creature or planeswalker.
+{2}, Discard Cabaret Bouncer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+pt: 5/5 => 4/5
+
+Edgeworld Voyager
+rules_text: Flash
+When Edgeworld Voyager enters, exile up to one other target permanent. As long as it remains exiled, its owner may pay {1} as a sorcery to put it onto the battlefield. => Flash
+When Edgeworld Voyager enters, exile up to one other target nonland permanent. As long as it remains exiled, its owner may pay {1} as a sorcery to put it onto the battlefield.
+
+Cheering Fangirl
+rules_text: Affinity for Humans [i](This spell costs {1} less to cast for each Human you control.)[/i]
+When Cheering Fangirl enters, idolize. [i](Create an Idolatry enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i] => Affinity for Humans [i](This spell costs {1} less to cast for each Human you control.)[/i]
+When Cheering Fangirl enters, create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+
+Experienced Animator
+pt: 5/5 => 5/4
+
+Exalted Gossipers
+cost: {2}{G}{W} => {1}{G}{W}
+rules_text: When Exalted Gossipers enters, idolize. [i](Create an Idolatry enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create a tapped and attacking 2/1 red Human creature token. Sacrifice it at the beginning of the next end step. => When Exalted Gossipers enters, create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+Whenever a creature you control attacks alone, it gains trample and indestructible until end of turn.
+pt: 3/3 => 2/3
+
+Alicia, the Final Dawn
+type: Legendary Creature — Human Artist => Legendary Creature — Human Wizard Reveler
+
+Lamplighter
+pt: 2/1 => 1/2
+
+Yume, Miseko Producer
+rules_text: When Yume enters, idolize. [i](Create an Idolatry enchantment token with exalted.)[/i]
+Whenever another creature you control attacks alone, if Yume didn't enter the battlefield this turn, you may exile Yume, then return her to the battlefield tapped and attacking. => When Yume enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create X tapped and attacking 1/1 white Human creature tokens, where X is that creature's power. Sacrifice those tokens at the beginning of the next end step.
+pt: 4/5 => 3/5
+
+Luminescent Idol
+rules_text: When Luminescent Idol enters, create a 2/1 red Human creature token.
+Humans you control have “Sacrifice this permanent: Another target creature you control gains hexproof and indestructible until end of turn.” => When Luminescent Idol enters, create a 2/1 red Human creature token.
+Humans you control have “Sacrifice this permanent: Another target creature or planeswalker you control gains hexproof until end of turn.”
+
+Resplendent Idol
+rules_text: When Resplendent Idol enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.)[/i]
+Treasures you control have “Whenever this artifact or a creature you control enters, this deals 1 damage to each opponent.” => When Resplendent Idol enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.)[/i]
+Treasures you control have “Whenever another artifact or creature you control enters, this deals 1 damage to each opponent.”
+
+Lightning Strike
+
+Chroma Network Rival
+rules_text: Chroma Network Rival can't be blocked by creatures with power 2 or less.
+Whenever a basic land you control enters, idolize. [i](Create an Idolatry enchantment token with exalted.)[/i] => Chroma Network Rival can't be blocked by creatures with power 2 or less.
+Whenever a basic land you control enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+
+Kairos, Colorsmith
+special_text: When Kairos enters, idolize. [i](Create an Idolatry enchantment token with exalted.)[/i]
+[+1]: Each player draws a card.
+[-2]: Target creature or enchantment you control becomes a 3/3 white Avatar enchantment creature in addition to its other colors and types. => When Kairos enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+[+1]: Each player draws a card.
+[-2]: Target creature or enchantment you control becomes a 3/3 white Avatar enchantment creature in addition to its other colors and types.
+
+Dreamglass Melody
+rules_text: Conjure a Virtual Avatar into your hand. Then each player discards a card. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Exile Dreamglass Melody and two other cards with the same name as it from your graveyard: Search your graveyard, hand, and/or library for an Avatar permanent card and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery. => Conjure a Virtual Avatar into your hand. Then each player discards a card. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Exile Dreamglass Melody and three other cards with the same name as it from your graveyard: Search your graveyard, hand, and/or library for an Avatar permanent card and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery.
+
+Idyllic Idol
+rules_text: When Idyllic Idol enters, create an Idolatry token. [i](It's an enchantment with exalted.)[/i]
+Idolatry tokens you control have “Sacrifice this enchantment: Mill two cards. When you do, return target land card from your graveyard to the battlefield.” => When Idyllic Idol enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Idolatries you control are enchantment lands in addition to their other types and have “{T}: Add one mana of any color.”
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Nexus Technician added.

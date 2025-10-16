@@ -1,7 +1,7 @@
 ﻿{
     "name": "Aekyu: Idyllic Days",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "cards": [
         {
@@ -5046,6 +5046,5 @@
             "artist": "Shijohane",
             "notes": "repose land"
         }
-    ],
-    "version": 5
+    ]
 }
