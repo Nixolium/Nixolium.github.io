@@ -1,4 +1,220 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Critique added.
+Let Him Cook added.
+Moyro Fixer added.
+Kataleptic Scholar added.
+Miseko Kiteflier added.
+
+Scandalous Rumor removed.
+Skybridge Fixer removed.
+All the World's a Stage removed.
+Moyro Familia Fixer removed.
+Tsukuri Kiteflier removed.
+
+Aethershell Holo
+type: Enchantment Creature — Avatar Angel => Enchantment Creature — Avatar Artist
+cost: {2}{U} => {3}
+rules_text: Flying
+When Aethershell Holo enters, choose a creature or planeswalker card name. If an opponent controls a creature or planeswalker with the chosen name, conjure a duplicate of that card into your hand. => Stardom {5} [i](Pay {5} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+{7}, Discard Aethershell Holo: Destroy target nonland permanent.
+pt: 2/2 => 3/2
+
+Lightshow Ascetic
+rules_text: Stardom {4}{GW}{GW} [i](Pay {4}{GW}{GW} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is Lightshow Ascetic's power. => Stardom {4}{GW}{GW} [i](Pay {4}{GW}{GW} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever a creature you control attacks alone, that creature gets +X/+X until end of turn, where X is Lightshow Ascetic's power.
+
+Rhythm Seer
+rules_text: When Rhythm Seer enters, create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+Avatarcycling {1}{W} [i]({1}{W}, Discard this card: Search your library for an Avatar card, reveal it, put it into your hand, then shuffle.)[/i] => When Rhythm Seer enters, create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+Discard Rhythm Seer: Conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+
+Tsukuri Biomancer
+cost: {3}{G} => {2}{G}
+rules_text: As long as you've conjured this turn, Tsukuri Biomancer costs {2} less to cast.
+When Tsukuri Biomancer enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => [/b]When Tsukuri Biomancer dies, mill three cards. You may put a permanent card from among them into your hand.
+pt: 3/4 => 3/3
+
+Digitization Rig
+rules_text: When Digitization Rig enters, conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Avatar creatures you control get +1/+1. => When Digitization Rig enters, conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Avatars you control get +1/+0.
+
+Inseparable Besties
+rules_text: Hexproof
+At the beginning of your combat on your turn, you may draw a card. If you do, discard a card.
+{2}, Discard Inseparable Besties: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Ward {2}
+Inseparable Besties can't be blocked.
+{2}, Discard Inseparable Besties: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Masked Singer
+rules_text: Stardom {4}{W}{W} [i](Pay {4}{W}{W} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever Masked Singer attacks, draw a card if it has power 3 or greater. => [/b]Whenever a creature you control attacks alone, untap it. Then if it has power 4 or greater, draw a card.
+
+Satsukai Fixer
+rules_text: Vigilance
+Whenever another creature you control attacks alone, untap it. => Whenever a creature you control attacks alone, that creature gains first strike until end of turn.
+
+Fallen Icon
+cost: {2}{G} => {4}{G}{G}
+rules_text: When Fallen Icon dies, mill three cards. You may put a permanent card from among them into your hand. => Stardom {3}{G} [i](Pay {3}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+pt: 3/3 => 6/6
+
+Dark Comedy Duo
+pt: 3/4 => 4/3
+
+Missing Papers
+rules_text: When Missing Papers enters, exile target creature or planeswalker until Missing Papers leaves the battlefield.
+{5}, {T}: Choose target permanent card exiled with Missing Papers. Put it onto the battlefield under your control. Sacrifice Missing Papers. => When Missing Papers enters, exile target creature or planeswalker until Missing Papers leaves the battlefield.
+{2}, {T}, Sacrifice Missing Papers: Draw a card.
+
+Showrunner
+
+Serin, Exponent Mage
+rules_text: Each creature card in your hand and each other attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i] => Serin, Exponent Mage enters with three +1/+1 counter on her.
+[/b]Each creature card in your hand and each other attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+pt: 3/3 => 0/0
+
+I am a Rockstar
+
+Ellis, Paradise Painter
+special_text: Whenever you cast a multicolored or planeswalker spell, create a 1/1 white Human creature token.
+[-1]: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+[-2]: Put target permanent card from your graveyard on top of your library. => Whenever you cast another multicolored or planeswalker spell, create a 1/1 white Human creature token.
+[-1]: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+[-2]: Put target permanent card from your graveyard on top of your library.
+
+Exalted Gossipers
+rules_text: When Exalted Gossipers enters, create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+Whenever a creature you control attacks alone, it gains trample and indestructible until end of turn. => When Exalted Gossipers enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create a tapped and attacking 2/1 red Human creature token. Sacrifice it at the beginning of the next end step.
+pt: 2/3 => 0/3
+
+Sundown Slow Dancers
+type: Enchantment Creature — Human Avatar => Creature — Human Artist
+
+Omniscent Reader
+cost: {3}{B} => {2}{U}
+rules_text: When Omniscent Reader enters, if you control a storied permanent, it deals 3 damage to any target. This ability deals damage to creatures in the form of -1/-1 counters. [i](Enchantments and legendary permanents are storied.)[/i] => You can't cast spells named Repose.
+At the beginning of your end step, conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+pt: 3/3 => 2/4
+
+Blade Alley Vigilantes
+cost: {6}{G}{G} => {2}{G}
+rules_text: Vigilance, trample
+Whenever Blade Alley Vigilantes or another creature you control attacks alone, you may search your library for a creature card with lesser mana value, put it onto the battlefield tapped and attacking, then shuffle. => Vigilance
+Whenever a creature you control attacks alone, that creature gets +2/+2 and gains trample until end of turn.
+pt: 6/6 => 2/2
+
+Screaming into the Rain
+rules_text: Your maximum hand size is 1.
+Whenever you discard a card, put a scream counter on Screaming into the Rain.
+At the beginning of your first main phase, exile a card from the top of your library for each counter on Screaming into the Rain. You may play them this turn. => Your maximum hand size is 1.
+Whenever you draw a card, put a scream counter on Screaming into the Rain.
+At the beginning of your first main phase, draw a card for each counter on Screaming into the Rain.
+
+Unsummon
+
+Vielle's Rosethorn Crown
+type: Legendary Artifact => Legendary Artifact Enchantment
+
+Eventide Rendezvous
+rules_text: You gain 3 life. Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+Exile Eventide Rendezvous. As long as it remains exiled, you may pay {4}{G}{G} as a sorcery to put Eventide Rendezvous onto the battlefield transformed. => You gain 3 life. Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+Exile Eventide Rendezvous. As long as it remains exiled, you may pay {3}{G}{G} as a sorcery to put Eventide Rendezvous onto the battlefield transformed.
+
+To Save a Broken Heart
+rules_text: Whenever you casting a noncreature spell causes one or more abilities of a permanent you control to trigger, create a 1/1 white Human creature token. It can't block this turn. => Whenever you casting a noncreature spell causes one or more abilities of a permanent you control to trigger, create a 1/1 white Human creature token.
+
+Amyuki, Slightly Clumsy
+rules_text: Haste
+When Amyuki enters, you may tap her. If you do, destroy all artifacts and enchantments.
+{U}, {Q}: Put a +1/+1 counter on Amyuki.
+{W}, {T}, Remove a counter from Amyuki: Create a 1/1 black Cat creature token with lifelink. => Haste
+When Amyuki enters, you may tap her. If you do, destroy all artifacts and enchantments.
+{R}, {Q}: Put a +1/+1 counter on Amyuki.
+{W}, {T}, Remove a counter from Amyuki: Create a 1/1 black Cat creature token with lifelink.
+
+Aviation Hub
+rules_text: Aviation Hub enters tapped.
+{T}: Add {W} or {U}.
+{T}, Sacrifice Aviation Hub: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Aviation Hub enters tapped unless you've conjured this turn.
+{T}: Add {W} or {U}.
+{T}, Sacrifice Aviation Hub: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Construction Zone
+rules_text: Construction Zone enters tapped.
+{T}: Add {R} or {W}.
+{T}, Sacrifice Construction Zone: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Construction Zone enters tapped unless you've conjured this turn.
+{T}: Add {R} or {W}.
+{T}, Sacrifice Construction Zone: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Decadent Nightclub
+rules_text: Decadent Nightclub enters tapped.
+{T}: Add {B} or {R}.
+{T}, Sacrifice Decadent Nightclub: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Decadent Nightclub enters tapped unless you've conjured this turn.
+{T}: Add {B} or {R}.
+{T}, Sacrifice Decadent Nightclub: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Feline Sanctuary
+rules_text: Feline Sanctuary enters tapped.
+{T}: Add {W} or {B}.
+{T}, Sacrifice Feline Sanctuary: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Feline Sanctuary enters tapped unless you've conjured this turn.
+{T}: Add {W} or {B}.
+{T}, Sacrifice Feline Sanctuary: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Frostbitten Park
+rules_text: Frostbitten Park enters tapped.
+{T}: Add {G} or {W}.
+{T}, Sacrifice Frostbitten Park: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Frostbitten Park enters tapped unless you've conjured this turn.
+{T}: Add {G} or {W}.
+{T}, Sacrifice Frostbitten Park: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Opulent Casino
+rules_text: Opulent Casino enters tapped.
+{T}: Add {U} or {R}.
+{T}, Sacrifice Opulent Casino: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Opulent Casino enters tapped unless you've conjured this turn.
+{T}: Add {U} or {R}.
+{T}, Sacrifice Opulent Casino: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Shopping Mall
+rules_text: Shopping Mall enters tapped.
+{T}: Add {R} or {G}.
+{T}, Sacrifice Shopping Mall: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Shopping Mall enters tapped unless you've conjured this turn.
+{T}: Add {R} or {G}.
+{T}, Sacrifice Shopping Mall: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Skyline Lookout
+rules_text: Skyline Lookout enters tapped.
+{T}: Add {U} or {B}.
+{T}, Sacrifice Skyline Lookout: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Skyline Lookout enters tapped unless you've conjured this turn.
+{T}: Add {U} or {B}.
+{T}, Sacrifice Skyline Lookout: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Undercity Alley
+rules_text: Undercity Alley enters tapped.
+{T}: Add {B} or {G}.
+{T}, Sacrifice Undercity Alley: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Undercity Alley enters tapped unless you've conjured this turn.
+{T}: Add {B} or {G}.
+{T}, Sacrifice Undercity Alley: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Urban Gardens
+rules_text: Urban Gardens enters tapped.
+{T}: Add {G} or {U}.
+{T}, Sacrifice Urban Gardens: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Urban Gardens enters tapped unless you've conjured this turn.
+{T}: Add {G} or {U}.
+{T}, Sacrifice Urban Gardens: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Mistencharm Resplendant
+cost: {3} => {2}{G}
+rules_text: Stardom {7} [i](Pay {7} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+When Mistencharm Resplendant enters, if its legendary, destroy target nonland permanent an opponent controls. => Stardom {5}{G}{G} [i](Pay {5}{G}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever Mistencharm Resplendant or another creature you control enters, if it has power 4 or greater, put two +1/+1 counters on it and draw a card.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Brazen Delinquent added.
