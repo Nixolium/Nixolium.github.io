@@ -15,7 +15,7 @@
     },
     {
         "card_name": "Gravity Defier",
-        "number": 77,
+        "number": 78,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -49,8 +49,8 @@
         "position": ""
     },
     {
-        "card_name": "Heroes Are Never Late",
-        "number": 80,
+        "card_name": "Heroes are Never Late",
+        "number": 81,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -85,7 +85,7 @@
     },
     {
         "card_name": "Introversion",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -106,7 +106,7 @@
     },
     {
         "card_name": "Luminescent Idol",
-        "number": 21,
+        "number": 22,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -141,7 +141,7 @@
     },
     {
         "card_name": "Naoko, Onigaiko Transfer",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -176,7 +176,7 @@
     },
     {
         "card_name": "Selenite Flowergirl",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Villainous Idol",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -329,7 +329,7 @@
         "position": ""
     },
     {
-        "card_name": "Eyes That Bite",
+        "card_name": "Evil Wins in the End",
         "number": 74,
         "shape": "normal",
         "set": "AEK",
@@ -350,9 +350,9 @@
         "position": ""
     },
     {
-        "card_name": "Kairos, Colorsmith",
+        "card_name": "Imaginative Sojourner",
         "number": 19,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "AEK",
         "position": ""
     },
@@ -364,7 +364,7 @@
         "position": ""
     },
     {
-        "card_name": "Fan Following",
+        "card_name": "Eyes That Bite",
         "number": 75,
         "shape": "normal",
         "set": "AEK",
@@ -385,9 +385,9 @@
         "position": ""
     },
     {
-        "card_name": "Kalista's Consigliere",
+        "card_name": "Kairos, Colorsmith",
         "number": 20,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "AEK",
         "position": ""
     },
@@ -399,8 +399,8 @@
         "position": ""
     },
     {
-        "card_name": "Haunted Conspiracist",
-        "number": 78,
+        "card_name": "Fan Following",
+        "number": 76,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -420,8 +420,8 @@
         "position": ""
     },
     {
-        "card_name": "Luminescent Vision",
-        "number": 22,
+        "card_name": "Kalista's Consigliere",
+        "number": 21,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -434,7 +434,7 @@
         "position": ""
     },
     {
-        "card_name": "Here Without You",
+        "card_name": "Haunted Conspiracist",
         "number": 79,
         "shape": "normal",
         "set": "AEK",
@@ -455,8 +455,8 @@
         "position": ""
     },
     {
-        "card_name": "Missing Papers",
-        "number": 26,
+        "card_name": "Luminescent Vision",
+        "number": 23,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -469,8 +469,8 @@
         "position": ""
     },
     {
-        "card_name": "Irrelevance",
-        "number": 82,
+        "card_name": "Here Without You",
+        "number": 80,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -490,8 +490,8 @@
         "position": ""
     },
     {
-        "card_name": "A Practical Guide to Evil",
-        "number": 28,
+        "card_name": "Missing Papers",
+        "number": 27,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -504,8 +504,8 @@
         "position": ""
     },
     {
-        "card_name": "Kataleptic Scholar",
-        "number": 84,
+        "card_name": "Irrelevance",
+        "number": 83,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -525,7 +525,7 @@
         "position": ""
     },
     {
-        "card_name": "Puddle Stomper",
+        "card_name": "A Practical Guide to Evil",
         "number": 29,
         "shape": "normal",
         "set": "AEK",
@@ -539,7 +539,7 @@
         "position": ""
     },
     {
-        "card_name": "Kenji and Momoka",
+        "card_name": "Kataleptic Scholar",
         "number": 85,
         "shape": "normal",
         "set": "AEK",
@@ -560,8 +560,8 @@
         "position": ""
     },
     {
-        "card_name": "Sojourner of Imagination",
-        "number": 33,
+        "card_name": "Puddle Stomper",
+        "number": 30,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -574,8 +574,8 @@
         "position": ""
     },
     {
-        "card_name": "Shadowbinding",
-        "number": 91,
+        "card_name": "Kenji and Momoka",
+        "number": 86,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -609,8 +609,8 @@
         "position": ""
     },
     {
-        "card_name": "Villainous Vision",
-        "number": 97,
+        "card_name": "Shadowbinding",
+        "number": 91,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -644,7 +644,7 @@
         "position": ""
     },
     {
-        "card_name": "We Could Be Supervillains",
+        "card_name": "Villainous Vision",
         "number": 98,
         "shape": "normal",
         "set": "AEK",
@@ -820,7 +820,7 @@
     },
     {
         "card_name": "The Girl in the Chair",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -855,7 +855,7 @@
     },
     {
         "card_name": "Jealous Rival",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -889,8 +889,8 @@
         "position": ""
     },
     {
-        "card_name": "Memories Come and Go",
-        "number": 86,
+        "card_name": "Perhaps",
+        "number": 88,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -911,7 +911,7 @@
     },
     {
         "card_name": "Lunar Contessa",
-        "number": 23,
+        "number": 24,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -924,8 +924,8 @@
         "position": ""
     },
     {
-        "card_name": "Perhaps",
-        "number": 88,
+        "card_name": "Pull From the Hat",
+        "number": 89,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -946,7 +946,7 @@
     },
     {
         "card_name": "Masked Singer",
-        "number": 24,
+        "number": 25,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -959,8 +959,8 @@
         "position": ""
     },
     {
-        "card_name": "Pull From the Hat",
-        "number": 89,
+        "card_name": "Rooftop Violinist",
+        "number": 90,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -981,7 +981,7 @@
     },
     {
         "card_name": "Meet Me At Sundown",
-        "number": 25,
+        "number": 26,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -994,8 +994,8 @@
         "position": ""
     },
     {
-        "card_name": "Rooftop Violinist",
-        "number": 90,
+        "card_name": "Talent Scout",
+        "number": 93,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1016,7 +1016,7 @@
     },
     {
         "card_name": "Rhythm Seer",
-        "number": 30,
+        "number": 31,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1029,8 +1029,8 @@
         "position": ""
     },
     {
-        "card_name": "Talent Scout",
-        "number": 93,
+        "card_name": "Top of the Charts",
+        "number": 94,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1051,7 +1051,7 @@
     },
     {
         "card_name": "Satsukai Fixer",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1064,11 +1064,7 @@
         "position": ""
     },
     {
-        "card_name": "Top of the Charts",
-        "number": 94,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Spice",
@@ -1962,6 +1958,13 @@
     },
     "a->conjure",
     {
+        "card_name": "Unlucky Crossing",
+        "number": 96,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
+    },
+    {
         "card_name": "Virtual Avatar",
         "number": 0,
         "shape": "normal",
@@ -2142,9 +2145,6 @@
         "shape": "normal",
         "set": "AEK",
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

@@ -1,4 +1,112 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+No changes.
+
+VERSION 7 CHANGELOG
+====================
+
+Evil Wins in the End added.
+Imaginative Sojourner added.
+Heroes are Never Late added.
+Unlucky Crossing added.
+
+Memories Come and Go removed.
+We Could Be Supervillains removed.
+Sojourner of Imagination removed.
+Heroes Are Never Late removed.
+
+Rainbow Seeker
+
+Rooftop Violinist
+rules_text: When Rooftop Violinist enters or dies, conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i] => When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+Once each turn, when you gain life, put a +1/+1 counter on Rooftop Violinist.
+pt: 3/1 => 2/1
+
+Traverse the City
+rules_text: Choose one —
+• Target creature you control fights target creature you don't control.
+• Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Choose one —
+• You gain 3 life.
+• Target creature you control fights target creature you don't control.
+• Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Let Him Cook
+rules_text: When Let Him Cook enters or leaves the battlefield, conjure Rising Flames into your hand. [i](It's a {R} sorcery with “Rising Flames deals X damage each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.”)[/i]
+{2}{R}, Sacrifice Let Him Cook: Create a 2/1 red Human creature token. => When Let Him Cook enters or leaves the battlefield, conjure Rising Flames into your hand. [i](It's a {R} sorcery with “Rising Flames deals X damage each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.”)[/i]
+{3}{R}{R}, Sacrifice Let Him Cook: Create a 2/1 red Human creature token.
+
+Isolated Wayfarer
+
+Inseparable Besties
+
+Lunar Contessa
+
+Masked Singer
+rules_text: [/b]Whenever a creature you control attacks alone, untap it. Then if it has power 4 or greater, draw a card. => [/b]Whenever a creature you control attacks alone, draw a card if it has power 4 or greater.
+
+Satsukai Fixer
+rules_text: Whenever a creature you control attacks alone, that creature gains first strike until end of turn. => Whenever a creature you control attacks alone, that creature gains first strike until end of turn. Untap it.
+
+Serin, Exponent Mage
+rules_text: Serin, Exponent Mage enters with three +1/+1 counter on her.
+[/b]Each creature card in your hand and each other attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i] => Serin, Exponent Mage enters with three +1/+1 counters on her.
+[/b]Each creature card in your hand and each other attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+
+I am a Rockstar
+rules_text: Flash
+[/b]Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+When I am a Rockstar enters, target creature you control gets +2/+1 until end of turn. => Flash
+[/b]Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+When I am a Rockstar enters, target creature you control gets +2/+2 until end of turn.
+
+Exalted Gossipers
+pt: 0/3 => 0/2
+
+Fiery Prominence
+rules_text: Fiery Prominence has flash as long as you control an Artist or Reveler creature.
+Choose one —
+• Fiery Prominence deals 3 damage to any target.
+• Fiery Prominence deals 3 damage to each creature and planeswalker. => Fiery Prominence has flash as long as you control an Artist or Reveler.
+Choose one —
+• Fiery Prominence deals 3 damage to any target.
+• Fiery Prominence deals 3 damage to each creature and planeswalker.
+
+Exeunt
+
+Touka, Afterlife Specialist
+rules_text: When Touka enters, draw a card if a creature or planeswalker died this turn.
+When Touka dies during your turn, you may exile her. Until the end of your next turn, you may pay {1}{U}{B}{R} as a sorcery to put her to the battlefield transformed. => When Touka enters, draw a card if a creature or planeswalker died this turn.
+When Touka dies during your turn, you may exile her. Until the end of your next turn, you may pay {1}{U}{B}{R} as a sorcery to put her onto the battlefield transformed.
+
+Eventide Rendezvous
+cost: {1}{G} => {G}
+rules_text: You gain 3 life. Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+Exile Eventide Rendezvous. As long as it remains exiled, you may pay {3}{G}{G} as a sorcery to put Eventide Rendezvous onto the battlefield transformed. => Create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Memento {3}{G}{G} [i](You may cast this from your graveyard for {3}{G}{G}. If you do, put it onto the battlefield transformed after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Lunar Halo
+rules_text: Whenever you attack, you may draw a card if a legendary creature you control has power 4 or greater.
+{T}: Add two mana of any one color. You can't spend this mana to cast spells from your hand without stardom.[/b] => Whenever you attack, draw a card if you control a legendary creature with power 4 or greater.
+{T}: Add two mana of any one color. You can't spend this mana to cast spells from your hand without stardom.[/b]
+
+Amyuki, Slightly Clumsy
+rules_text: Haste
+When Amyuki enters, you may tap her. If you do, destroy all artifacts and enchantments.
+{R}, {Q}: Put a +1/+1 counter on Amyuki.
+{W}, {T}, Remove a counter from Amyuki: Create a 1/1 black Cat creature token with lifelink. => Haste
+When Amyuki enters, you may tap her. If you do, destroy all artifacts and enchantments.
+{U}, {Q}: Put a +1/+1 counter on Amyuki.
+{W}, {T}, Remove a counter from Amyuki: Create a 1/1 black Cat creature token with lifelink.
+
+Mistencharm Resplendant
+cost: {2}{G} => {1}{G}{G}
+rules_text: Stardom {5}{G}{G} [i](Pay {5}{G}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever Mistencharm Resplendant or another creature you control enters, if it has power 4 or greater, put two +1/+1 counters on it and draw a card. => Stardom {4}{G}{G} [i](Pay {4}{G}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever Mistencharm Resplendant or another creature you control enters, if it has power 4 or greater, put two +1/+1 counters on it and draw a card.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Critique added.
