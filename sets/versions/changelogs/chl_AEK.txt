@@ -1,4 +1,27 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Like No Tomorrow added.
+
+Burn Fast, Burn Bright removed.
+
+Sunflower Painter
+pt: 2/3 => 2/1
+
+Moyro Fixer
+
+Evil Wins in the End
+rules_text: When Evil Wins in the End enters, create a 1/1 white Human creature token. It enters with a menace counter on it.
+Whenever a creature you control with menace attacks, each opponent loses 1 life. => Whenever one or more creatures you control with menace, deathtouch, or lifelink attack, each opponent loses that much life.
+{3}{B}: Each opponent loses 2 life.
+
+Lightning Strike
+
+Bleed
+rules_text: Bleed deals 5 damage to any target. You gain 5 life. => Bleed deals 5 damage to any target and you gain 5 life.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

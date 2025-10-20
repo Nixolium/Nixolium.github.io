@@ -1120,35 +1120,35 @@
     },
     {
         "card_name": "Hyacin, the Awemaker",
-        "number": 170,
+        "number": 169,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Chroma Network Rival",
-        "number": 165,
+        "number": 164,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Harmonic Soul",
-        "number": 168,
+        "number": 167,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Koto, Snapshot Storyteller",
-        "number": 175,
+        "number": 174,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Burn Fast, Burn Bright",
-        "number": 164,
+        "card_name": "Like No Tomorrow",
+        "number": 176,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1162,14 +1162,14 @@
     },
     {
         "card_name": "Exalted Gossipers",
-        "number": 167,
+        "number": 166,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Holographic Darling",
-        "number": 169,
+        "number": 168,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1280,7 +1280,7 @@
     },
     {
         "card_name": "Hyperlight Phenomenon",
-        "number": 171,
+        "number": 170,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1294,7 +1294,7 @@
     },
     {
         "card_name": "Kalista, Citron Don",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1308,7 +1308,7 @@
     },
     {
         "card_name": "Idiosyncratic Savant",
-        "number": 172,
+        "number": 171,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1336,7 +1336,7 @@
     },
     {
         "card_name": "Ishakawa, Chroma Prodigy",
-        "number": 173,
+        "number": 172,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1428,14 +1428,14 @@
     },
     {
         "card_name": "Corsenna, Planar Sightseer",
-        "number": 166,
+        "number": 165,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Kyv, Sanguine Avante",
-        "number": 176,
+        "number": 175,
         "shape": "normal",
         "set": "AEK",
         "position": ""
