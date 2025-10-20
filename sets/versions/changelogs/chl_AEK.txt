@@ -1,4 +1,35 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Rooftop Violinist
+rules_text: When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+Once each turn, when you gain life, put a +1/+1 counter on Rooftop Violinist. => When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+Once each turn, when you gain or lose life, put a +1/+1 counter on Rooftop Violinist.
+
+Missing Papers
+
+Heroes are Never Late
+rules_text: All creatures get -4/-4 until end of turn. 
+Search your library for a legendary creature or planeswalker card with mana value 4 or less, put it onto the battlefield, then shuffle. => All creatures get -4/-4 until end of turn. 
+Search your library for a planeswalker or Axiom card with mana value 4 or less, put it onto the battlefield, then shuffle.
+
+Anticello, Cold Confidence
+special_text: Discard a card: Put a loyalty counter on Anticello. Activate only as a sorcery.
+[0]: Conjure two duplicates of Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i] => Once each turn, when you gain or lose life, put a loyalty counter on Anticello.
+[+1]: Conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i]
+
+Unlucky Crossing
+cost: {3}{B} => {1}{B}
+rules_text: Destroy target creature or planeswalker.
+Create a 1/1 black Cat creature token with lifelink. => Target opponent sacrifices a creature or planeswalker.
+If you've conjured this turn, create a 1/1 black Cat creature token with lifelink.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.

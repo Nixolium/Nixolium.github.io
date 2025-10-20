@@ -1064,7 +1064,11 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Unlucky Crossing",
+        "number": 96,
+        "shape": "normal",
+        "set": "AEK",
+        "position": ""
     },
     {
         "card_name": "Spice",
@@ -1958,13 +1962,6 @@
     },
     "a->conjure",
     {
-        "card_name": "Unlucky Crossing",
-        "number": 96,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
         "card_name": "Virtual Avatar",
         "number": 0,
         "shape": "normal",
@@ -2145,6 +2142,9 @@
         "shape": "normal",
         "set": "AEK",
         "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
