@@ -1,4 +1,23 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Live Like No Tomorrow added.
+
+Like No Tomorrow removed.
+
+Vielle Never Sleeps
+rules_text: Deathtouch, protection from legendary
+When Vielle enters, up to one other target nonland permanent becomes a planeswalker and gains “[-1]: You draw a card and lose 1 life.” Put loyalty counters on it equal to its mana value. [i](It loses its other card types.)[/i] => Deathtouch, protection from legendary
+When Vielle enters, up to one other target nonland permanent gains “[-1]: You draw a card and lose 1 life.” and becomes a planeswalker. Put loyalty counters on it equal to its mana value. [i](It loses its other card types.)[/i]
+
+Vielle's Rosethorn Crown
+type: Legendary Artifact Enchantment => Legendary Artifact
+rules_text: Each legendary creature you control has all loyalty abilities among cards in your graveyard with mana value less than or equal to it.
+{1}, {T}, Discard a card: Draw a card. => Whenever you activate a loyalty ability of a permanent, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+{1}, {T}: Scry 2.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Doublecast added.
