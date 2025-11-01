@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/CHOAS-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>CHOAS visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/CHOAS-files/logo.png" />
+	<img class="preload-hidden" src="/sets/AEK-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CHOAS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/EPS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/LOR-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="CHOAS"><img src="/sets/CHOAS-files/icon.png"></a>
+	
+		<a class="set-bar inactive" href="AEK"><img src="/sets/AEK-files/icon.png">Aekyu: Idyllic Days</a>
+	
+		<a class="set-bar inactive" href="EPS"><img src="/sets/EPS-files/icon.png">Epsil</a>
+	
+		<a class="set-bar inactive" href="LOR"><img src="/sets/LOR-files/icon.png">Liturgies of Ruhnacht</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/CHOAS-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\1_Almgrove Champion.png" id="1_Almgrove Champion" data-flag="@X" onclick="openSidebar('1_Almgrove Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\17_All the Stars are Mine.png" id="17_All the Stars are Mine" data-flag="@X" onclick="openSidebar('17_All the Stars are Mine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\45_Arcet, Life's Bane.png" id="45_Arcet, Lifes Bane" data-flag="@X" onclick="openSidebar('45_Arcet, Lifes Bane',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\72_Autumnal Watch.png" id="72_Autumnal Watch" data-flag="@X" onclick="openSidebar('72_Autumnal Watch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\93_Ardy's Study.png" id="93_Ardys Study" data-flag="@X" onclick="openSidebar('93_Ardys Study',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\2_Bind in Silence.png" id="2_Bind in Silence" data-flag="@X" onclick="openSidebar('2_Bind in Silence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\18_Ancestral Council.png" id="18_Ancestral Council" data-flag="@X" onclick="openSidebar('18_Ancestral Council',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\46_Black Hole Musings.png" id="46_Black Hole Musings" data-flag="@X" onclick="openSidebar('46_Black Hole Musings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\73_Avatar of Basat.png" id="73_Avatar of Basat" data-flag="@X" onclick="openSidebar('73_Avatar of Basat',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\94_Breach the Lilies.png" id="94_Breach the Lilies" data-flag="@X" onclick="openSidebar('94_Breach the Lilies',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\3_Cerys, Heart of Klemnae.png" id="3_Cerys, Heart of Klemnae" data-flag="@X" onclick="openSidebar('3_Cerys, Heart of Klemnae',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\19_Boundless Hopes.png" id="19_Boundless Hopes" data-flag="@X" onclick="openSidebar('19_Boundless Hopes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\47_Blood Jade Prophet.png" id="47_Blood Jade Prophet" data-flag="@X" onclick="openSidebar('47_Blood Jade Prophet',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\74_Cinderfeather Phoenix.png" id="74_Cinderfeather Phoenix" data-flag="@X" onclick="openSidebar('74_Cinderfeather Phoenix',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\95_Cyclical Symmetry.png" id="95_Cyclical Symmetry" data-flag="@X" onclick="openSidebar('95_Cyclical Symmetry',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\4_Children of the Clouds.png" id="4_Children of the Clouds" data-flag="@X" onclick="openSidebar('4_Children of the Clouds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\20_Cane Dancer.png" id="20_Cane Dancer" data-flag="@X" onclick="openSidebar('20_Cane Dancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\48_Clawing Shaman.png" id="48_Clawing Shaman" data-flag="@X" onclick="openSidebar('48_Clawing Shaman',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\75_Culminating Chaos.png" id="75_Culminating Chaos" data-flag="@X" onclick="openSidebar('75_Culminating Chaos',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\96_Force of the Tugae.png" id="96_Force of the Tugae" data-flag="@X" onclick="openSidebar('96_Force of the Tugae',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\5_Chronicles of the Kitsune.png" id="5_Chronicles of the Kitsune" data-flag="@X" onclick="openSidebar('5_Chronicles of the Kitsune',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\21_Captivating Dreams.png" id="21_Captivating Dreams" data-flag="@X" onclick="openSidebar('21_Captivating Dreams',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\49_Cranial Violation.png" id="49_Cranial Violation" data-flag="@X" onclick="openSidebar('49_Cranial Violation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\76_Eltensian Hospitality.png" id="76_Eltensian Hospitality" data-flag="@X" onclick="openSidebar('76_Eltensian Hospitality',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\97_Hierarch Ranger.png" id="97_Hierarch Ranger" data-flag="@X" onclick="openSidebar('97_Hierarch Ranger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\6_Coralight Champion.png" id="6_Coralight Champion" data-flag="@X" onclick="openSidebar('6_Coralight Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\22_Confirm Hypothesis.png" id="22_Confirm Hypothesis" data-flag="@X" onclick="openSidebar('22_Confirm Hypothesis',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\50_Dark Rite Cultist.png" id="50_Dark Rite Cultist" data-flag="@X" onclick="openSidebar('50_Dark Rite Cultist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\77_Exhilarating Prescience.png" id="77_Exhilarating Prescience" data-flag="@X" onclick="openSidebar('77_Exhilarating Prescience',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\98_Logger Recluse.png" id="98_Logger Recluse" data-flag="@X" onclick="openSidebar('98_Logger Recluse',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\7_Embodied Soul.png" id="7_Embodied Soul" data-flag="@X" onclick="openSidebar('7_Embodied Soul',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\23_Cosmic Sinkhole.png" id="23_Cosmic Sinkhole" data-flag="@X" onclick="openSidebar('23_Cosmic Sinkhole',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\51_Destiny of Undeath.png" id="51_Destiny of Undeath" data-flag="@X" onclick="openSidebar('51_Destiny of Undeath',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\78_Fiery Burst.png" id="78_Fiery Burst" data-flag="@X" onclick="openSidebar('78_Fiery Burst',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\99_Master Chef.png" id="99_Master Chef" data-flag="@X" onclick="openSidebar('99_Master Chef',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\8_Fox of the Orange Orchard.png" id="8_Fox of the Orange Orchard" data-flag="@X" onclick="openSidebar('8_Fox of the Orange Orchard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\24_Crest.png" id="24_Crest" data-flag="@X" onclick="openSidebar('24_Crest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\52_Exeunt.png" id="52_Exeunt" data-flag="@X" onclick="openSidebar('52_Exeunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\79_Latent Potential.png" id="79_Latent Potential" data-flag="@X" onclick="openSidebar('79_Latent Potential',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\100_Nitrous Renewer.png" id="100_Nitrous Renewer" data-flag="@X" onclick="openSidebar('100_Nitrous Renewer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\9_Glimpse of Something Great.png" id="9_Glimpse of Something Great" data-flag="@X" onclick="openSidebar('9_Glimpse of Something Great',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\25_Curse of Doubt.png" id="25_Curse of Doubt" data-flag="@X" onclick="openSidebar('25_Curse of Doubt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\53_Find Happiness in Misery.png" id="53_Find Happiness in Misery" data-flag="@X" onclick="openSidebar('53_Find Happiness in Misery',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\80_Merkurio's Familiar.png" id="80_Merkurios Familiar" data-flag="@X" onclick="openSidebar('80_Merkurios Familiar',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\101_Primal Resurgence.png" id="101_Primal Resurgence" data-flag="@X" onclick="openSidebar('101_Primal Resurgence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\10_Golden Touch.png" id="10_Golden Touch" data-flag="@X" onclick="openSidebar('10_Golden Touch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\26_Endless Discoveries.png" id="26_Endless Discoveries" data-flag="@X" onclick="openSidebar('26_Endless Discoveries',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\54_Flesh to Rot.png" id="54_Flesh to Rot" data-flag="@X" onclick="openSidebar('54_Flesh to Rot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\81_Oil Driller.png" id="81_Oil Driller" data-flag="@X" onclick="openSidebar('81_Oil Driller',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\102_Ramzi, Traveling Merchant.png" id="102_Ramzi, Traveling Merchant" data-flag="@X" onclick="openSidebar('102_Ramzi, Traveling Merchant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\11_Idyllic Odyssey.png" id="11_Idyllic Odyssey" data-flag="@X" onclick="openSidebar('11_Idyllic Odyssey',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\27_Etherium Leviathan.png" id="27_Etherium Leviathan" data-flag="@X" onclick="openSidebar('27_Etherium Leviathan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\55_The Girl Who Wouldn't Die.png" id="55_The Girl Who Wouldnt Die" data-flag="@X" onclick="openSidebar('55_The Girl Who Wouldnt Die',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\82_Olson's Flockmaster.png" id="82_Olsons Flockmaster" data-flag="@X" onclick="openSidebar('82_Olsons Flockmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\103_Savage Congregation.png" id="103_Savage Congregation" data-flag="@X" onclick="openSidebar('103_Savage Congregation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\12_Out-of-Body Experience.png" id="12_Out-of-Body Experience" data-flag="@X" onclick="openSidebar('12_Out-of-Body Experience',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\28_Eye of the Beholder.png" id="28_Eye of the Beholder" data-flag="@X" onclick="openSidebar('28_Eye of the Beholder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\56_Impden Mother.png" id="56_Impden Mother" data-flag="@X" onclick="openSidebar('56_Impden Mother',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\83_Paint with Starflame.png" id="83_Paint with Starflame" data-flag="@X" onclick="openSidebar('83_Paint with Starflame',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\104_Scratch's Horseman.png" id="104_Scratchs Horseman" data-flag="@X" onclick="openSidebar('104_Scratchs Horseman',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\13_Serene Prayer.png" id="13_Serene Prayer" data-flag="@X" onclick="openSidebar('13_Serene Prayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\29_Glimmer.png" id="29_Glimmer" data-flag="@X" onclick="openSidebar('29_Glimmer',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\CHOAS-files\img\57_Inishtu, Desert Healer_back.png" alt="/sets\CHOAS-files\img\57_Inishtu, Desert Healer_front.png" id="57_Inishtu, Desert Healer" data-flag="@XD" onclick="openSidebar('57_Inishtu, Desert Healer',false)"><button class="flip-btn" onclick="imgFlip('57_Inishtu, Desert Healer')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\84_Rakkiri Dissident.png" id="84_Rakkiri Dissident" data-flag="@X" onclick="openSidebar('84_Rakkiri Dissident',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\105_Seeker of Untouched Beauty.png" id="105_Seeker of Untouched Beauty" data-flag="@X" onclick="openSidebar('105_Seeker of Untouched Beauty',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\14_Slaffield Workgate.png" id="14_Slaffield Workgate" data-flag="@X" onclick="openSidebar('14_Slaffield Workgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\30_Hunter's Mark.png" id="30_Hunters Mark" data-flag="@X" onclick="openSidebar('30_Hunters Mark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\58_Inked Summoner.png" id="58_Inked Summoner" data-flag="@X" onclick="openSidebar('58_Inked Summoner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\85_Roggar's Frenzy.png" id="85_Roggars Frenzy" data-flag="@X" onclick="openSidebar('85_Roggars Frenzy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\106_Thriving Budling.png" id="106_Thriving Budling" data-flag="@X" onclick="openSidebar('106_Thriving Budling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\15_Soul Reader.png" id="15_Soul Reader" data-flag="@X" onclick="openSidebar('15_Soul Reader',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\31_Lord of the Bubbledome.png" id="31_Lord of the Bubbledome" data-flag="@X" onclick="openSidebar('31_Lord of the Bubbledome',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\59_Jara Champion.png" id="59_Jara Champion" data-flag="@X" onclick="openSidebar('59_Jara Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\86_Scorch.png" id="86_Scorch" data-flag="@X" onclick="openSidebar('86_Scorch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\107_Thriving Hydra.png" id="107_Thriving Hydra" data-flag="@X" onclick="openSidebar('107_Thriving Hydra',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\16_Unbound Expanse.png" id="16_Unbound Expanse" data-flag="@X" onclick="openSidebar('16_Unbound Expanse',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\32_Master of Tranquility.png" id="32_Master of Tranquility" data-flag="@X" onclick="openSidebar('32_Master of Tranquility',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\60_Mastery of the Veil.png" id="60_Mastery of the Veil" data-flag="@X" onclick="openSidebar('60_Mastery of the Veil',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\87_Stormsurge.png" id="87_Stormsurge" data-flag="@X" onclick="openSidebar('87_Stormsurge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\108_What Lurks Beyond.png" id="108_What Lurks Beyond" data-flag="@X" onclick="openSidebar('108_What Lurks Beyond',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\33_Megalokraken.png" id="33_Megalokraken" data-flag="@X" onclick="openSidebar('33_Megalokraken',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\61_Nighthallow Ritual.png" id="61_Nighthallow Ritual" data-flag="@X" onclick="openSidebar('61_Nighthallow Ritual',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\88_Suisei the Southern Star.png" id="88_Suisei the Southern Star" data-flag="@X" onclick="openSidebar('88_Suisei the Southern Star',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\109_Rock.png" id="109_Rock" data-flag="@X" onclick="openSidebar('109_Rock',true)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\34_Monkeyshines.png" id="34_Monkeyshines" data-flag="@X" onclick="openSidebar('34_Monkeyshines',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\62_Nightmares Unseen.png" id="62_Nightmares Unseen" data-flag="@X" onclick="openSidebar('62_Nightmares Unseen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\89_Unceasing Flames.png" id="89_Unceasing Flames" data-flag="@X" onclick="openSidebar('89_Unceasing Flames',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\35_Mystic Meddling.png" id="35_Mystic Meddling" data-flag="@X" onclick="openSidebar('35_Mystic Meddling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\63_Pay Up.png" id="63_Pay Up" data-flag="@X" onclick="openSidebar('63_Pay Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\90_Unrivaled Fireweaver.png" id="90_Unrivaled Fireweaver" data-flag="@X" onclick="openSidebar('90_Unrivaled Fireweaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\36_Pocket Aces.png" id="36_Pocket Aces" data-flag="@X" onclick="openSidebar('36_Pocket Aces',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\CHOAS-files\img\64_Performer of Ambition_back.png" alt="/sets\CHOAS-files\img\64_Performer of Ambition_front.png" id="64_Performer of Ambition" data-flag="@XD" onclick="openSidebar('64_Performer of Ambition',false)"><button class="flip-btn" onclick="imgFlip('64_Performer of Ambition')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\91_Vidal, Rune Thief.png" id="91_Vidal, Rune Thief" data-flag="@X" onclick="openSidebar('91_Vidal, Rune Thief',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\37_Portal Fracture.png" id="37_Portal Fracture" data-flag="@X" onclick="openSidebar('37_Portal Fracture',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\65_Seal the Tomb.png" id="65_Seal the Tomb" data-flag="@X" onclick="openSidebar('65_Seal the Tomb',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\92_The Whisper of Eltensia.png" id="92_The Whisper of Eltensia" data-flag="@X" onclick="openSidebar('92_The Whisper of Eltensia',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\38_Prodigious Panya.png" id="38_Prodigious Panya" data-flag="@X" onclick="openSidebar('38_Prodigious Panya',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\66_Skirsdag Edict.png" id="66_Skirsdag Edict" data-flag="@X" onclick="openSidebar('66_Skirsdag Edict',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\168_District of Artisans.png" id="168_District of Artisans" data-flag="@X" onclick="openSidebar('168_District of Artisans',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\39_Reflected Moment.png" id="39_Reflected Moment" data-flag="@X" onclick="openSidebar('39_Reflected Moment',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\67_Stolen Secrets.png" id="67_Stolen Secrets" data-flag="@X" onclick="openSidebar('67_Stolen Secrets',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\40_Seek Prophecy.png" id="40_Seek Prophecy" data-flag="@X" onclick="openSidebar('40_Seek Prophecy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\68_Tidehollow Lich.png" id="68_Tidehollow Lich" data-flag="@X" onclick="openSidebar('68_Tidehollow Lich',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\41_Sphinx of Ill Omens.png" id="41_Sphinx of Ill Omens" data-flag="@X" onclick="openSidebar('41_Sphinx of Ill Omens',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\69_Unearth.png" id="69_Unearth" data-flag="@X" onclick="openSidebar('69_Unearth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\42_Sunken Ambitions.png" id="42_Sunken Ambitions" data-flag="@X" onclick="openSidebar('42_Sunken Ambitions',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\70_Vaultkeeper.png" id="70_Vaultkeeper" data-flag="@X" onclick="openSidebar('70_Vaultkeeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\43_Union Rail Strikebreaker.png" id="43_Union Rail Strikebreaker" data-flag="@X" onclick="openSidebar('43_Union Rail Strikebreaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\71_Villainy.png" id="71_Villainy" data-flag="@X" onclick="openSidebar('71_Villainy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\44_Unraveling.png" id="44_Unraveling" data-flag="@X" onclick="openSidebar('44_Unraveling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\186_Spark Hunter Kajiwara Ai.png" id="186_Spark Hunter Kajiwara Ai" data-flag="@X" onclick="openSidebar('186_Spark Hunter Kajiwara Ai',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\116_Caylin Whirlwind.png" id="116_Caylin Whirlwind" data-flag="@X" onclick="openSidebar('116_Caylin Whirlwind',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\114_Buy Time.png" id="114_Buy Time" data-flag="@X" onclick="openSidebar('114_Buy Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\130_Lady Genvieve of Caulder.png" id="130_Lady Genvieve of Caulder" data-flag="@X" onclick="openSidebar('130_Lady Genvieve of Caulder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\128_Into the Unknown.png" id="128_Into the Unknown" data-flag="@X" onclick="openSidebar('128_Into the Unknown',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\122_Endless Helpless Souls.png" id="122_Endless Helpless Souls" data-flag="@X" onclick="openSidebar('122_Endless Helpless Souls',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\132_Manira the Wayward.png" id="132_Manira the Wayward" data-flag="@X" onclick="openSidebar('132_Manira the Wayward',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\129_Kywon, Nostalgic Visionary.png" id="129_Kywon, Nostalgic Visionary" data-flag="@X" onclick="openSidebar('129_Kywon, Nostalgic Visionary',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\131_Lucille, Ruthless Warlord.png" id="131_Lucille, Ruthless Warlord" data-flag="@X" onclick="openSidebar('131_Lucille, Ruthless Warlord',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\140_Solar Flare.png" id="140_Solar Flare" data-flag="@X" onclick="openSidebar('140_Solar Flare',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\142_Spiritual Guidance.png" id="142_Spiritual Guidance" data-flag="@X" onclick="openSidebar('142_Spiritual Guidance',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\147_Vielle, Undercity Wayfarer.png" id="147_Vielle, Undercity Wayfarer" data-flag="@X" onclick="openSidebar('147_Vielle, Undercity Wayfarer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\146_Tyrant's Breath.png" id="146_Tyrants Breath" data-flag="@X" onclick="openSidebar('146_Tyrants Breath',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\145_Tyrant of Tributes.png" id="145_Tyrant of Tributes" data-flag="@X" onclick="openSidebar('145_Tyrant of Tributes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\152_Invalidate.png" id="152_Invalidate" data-flag="@X" onclick="openSidebar('152_Invalidate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\126_Ikel, Revered Lichlord.png" id="126_Ikel, Revered Lichlord" data-flag="@X" onclick="openSidebar('126_Ikel, Revered Lichlord',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\119_Cosmic Coalescing.png" id="119_Cosmic Coalescing" data-flag="@X" onclick="openSidebar('119_Cosmic Coalescing',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\133_Nomadic Patriarch.png" id="133_Nomadic Patriarch" data-flag="@X" onclick="openSidebar('133_Nomadic Patriarch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\111_Azun, Sheriff of Daisite.png" id="111_Azun, Sheriff of Daisite" data-flag="@X" onclick="openSidebar('111_Azun, Sheriff of Daisite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\113_Bounty of the Gardens.png" id="113_Bounty of the Gardens" data-flag="@X" onclick="openSidebar('113_Bounty of the Gardens',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\154_Shan Jun's Command.png" id="154_Shan Juns Command" data-flag="@X" onclick="openSidebar('154_Shan Juns Command',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\120_Ella, Rose Court Queen.png" id="120_Ella, Rose Court Queen" data-flag="@X" onclick="openSidebar('120_Ella, Rose Court Queen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\136_Rot.png" id="136_Rot" data-flag="@X" onclick="openSidebar('136_Rot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\115_Carnival Yatiri.png" id="115_Carnival Yatiri" data-flag="@X" onclick="openSidebar('115_Carnival Yatiri',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\117_Chart the Vast.png" id="117_Chart the Vast" data-flag="@X" onclick="openSidebar('117_Chart the Vast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\123_Getaway Rider.png" id="123_Getaway Rider" data-flag="@X" onclick="openSidebar('123_Getaway Rider',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\118_Commanding Princess.png" id="118_Commanding Princess" data-flag="@X" onclick="openSidebar('118_Commanding Princess',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\125_Holcomb of the Peregrine.png" id="125_Holcomb of the Peregrine" data-flag="@X" onclick="openSidebar('125_Holcomb of the Peregrine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\127_Infuse the Apparatus.png" id="127_Infuse the Apparatus" data-flag="@X" onclick="openSidebar('127_Infuse the Apparatus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\138_Saigura Tam.png" id="138_Saigura Tam" data-flag="@X" onclick="openSidebar('138_Saigura Tam',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\135_Recall Forgotten Eons.png" id="135_Recall Forgotten Eons" data-flag="@X" onclick="openSidebar('135_Recall Forgotten Eons',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\134_Ophidian Oracle.png" id="134_Ophidian Oracle" data-flag="@X" onclick="openSidebar('134_Ophidian Oracle',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\144_Taiyohata Champion.png" id="144_Taiyohata Champion" data-flag="@X" onclick="openSidebar('144_Taiyohata Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\139_Simul, Sylvan Alchemist.png" id="139_Simul, Sylvan Alchemist" data-flag="@X" onclick="openSidebar('139_Simul, Sylvan Alchemist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\141_Spirit Script.png" id="141_Spirit Script" data-flag="@X" onclick="openSidebar('141_Spirit Script',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\149_Yatiri del Carnaval.png" id="149_Yatiri del Carnaval" data-flag="@X" onclick="openSidebar('149_Yatiri del Carnaval',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\150_Anuran Encounters.png" id="150_Anuran Encounters" data-flag="@X" onclick="openSidebar('150_Anuran Encounters',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\151_Dreamsight Well.png" id="151_Dreamsight Well" data-flag="@X" onclick="openSidebar('151_Dreamsight Well',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\110_Angel of Succor.png" id="110_Angel of Succor" data-flag="@X" onclick="openSidebar('110_Angel of Succor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\112_Biohazard.png" id="112_Biohazard" data-flag="@X" onclick="openSidebar('112_Biohazard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\121_End of All Things.png" id="121_End of All Things" data-flag="@X" onclick="openSidebar('121_End of All Things',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\124_Hieronymus Scratch.png" id="124_Hieronymus Scratch" data-flag="@X" onclick="openSidebar('124_Hieronymus Scratch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\143_Summit Guardian.png" id="143_Summit Guardian" data-flag="@X" onclick="openSidebar('143_Summit Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\148_Xirix, Chronic Mercenary.png" id="148_Xirix, Chronic Mercenary" data-flag="@X" onclick="openSidebar('148_Xirix, Chronic Mercenary',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\153_Pith Wilt.png" id="153_Pith Wilt" data-flag="@X" onclick="openSidebar('153_Pith Wilt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\155_Slippery Assassin.png" id="155_Slippery Assassin" data-flag="@X" onclick="openSidebar('155_Slippery Assassin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\137_Ryukami, the First Sovereign.png" id="137_Ryukami, the First Sovereign" data-flag="@X" onclick="openSidebar('137_Ryukami, the First Sovereign',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\156_Android Bodega.png" id="156_Android Bodega" data-flag="@X" onclick="openSidebar('156_Android Bodega',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\157_Dimensional Reshaper.png" id="157_Dimensional Reshaper" data-flag="@X" onclick="openSidebar('157_Dimensional Reshaper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\158_Egg of Avarice.png" id="158_Egg of Avarice" data-flag="@X" onclick="openSidebar('158_Egg of Avarice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\159_Forgotten Idol.png" id="159_Forgotten Idol" data-flag="@X" onclick="openSidebar('159_Forgotten Idol',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\160_Glistening Chalice.png" id="160_Glistening Chalice" data-flag="@X" onclick="openSidebar('160_Glistening Chalice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\161_Monument to the Fallen Man.png" id="161_Monument to the Fallen Man" data-flag="@X" onclick="openSidebar('161_Monument to the Fallen Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\162_Sword of Rage and Tranquility.png" id="162_Sword of Rage and Tranquility" data-flag="@X" onclick="openSidebar('162_Sword of Rage and Tranquility',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\163_Tinkerer's Tools.png" id="163_Tinkerers Tools" data-flag="@X" onclick="openSidebar('163_Tinkerers Tools',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\165_Alratha, Pearl of the Sand Sea.png" id="165_Alratha, Pearl of the Sand Sea" data-flag="@X" onclick="openSidebar('165_Alratha, Pearl of the Sand Sea',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\182_Seedshrine.png" id="182_Seedshrine" data-flag="@X" onclick="openSidebar('182_Seedshrine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\164_Above Danawan.png" id="164_Above Danawan" data-flag="@X" onclick="openSidebar('164_Above Danawan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\166_Aspirant Peak.png" id="166_Aspirant Peak" data-flag="@X" onclick="openSidebar('166_Aspirant Peak',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\167_Den of Sulfur.png" id="167_Den of Sulfur" data-flag="@X" onclick="openSidebar('167_Den of Sulfur',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\169_Field of Rot.png" id="169_Field of Rot" data-flag="@X" onclick="openSidebar('169_Field of Rot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\171_Frigid Scrubland.png" id="171_Frigid Scrubland" data-flag="@X" onclick="openSidebar('171_Frigid Scrubland',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\172_House of Long Shadows.png" id="172_House of Long Shadows" data-flag="@X" onclick="openSidebar('172_House of Long Shadows',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\174_Leyline Alignment Field.png" id="174_Leyline Alignment Field" data-flag="@X" onclick="openSidebar('174_Leyline Alignment Field',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\175_Mirrorgate.png" id="175_Mirrorgate" data-flag="@X" onclick="openSidebar('175_Mirrorgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\177_Plague-Ridden Alley.png" id="177_Plague-Ridden Alley" data-flag="@X" onclick="openSidebar('177_Plague-Ridden Alley',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\180_Polyp Pools.png" id="180_Polyp Pools" data-flag="@X" onclick="openSidebar('180_Polyp Pools',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\181_Salt Road.png" id="181_Salt Road" data-flag="@X" onclick="openSidebar('181_Salt Road',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\183_Streets of Worship.png" id="183_Streets of Worship" data-flag="@X" onclick="openSidebar('183_Streets of Worship',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\185_Walls of Almgrove.png" id="185_Walls of Almgrove" data-flag="@X" onclick="openSidebar('185_Walls of Almgrove',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\179_Plains.png" id="179_Plains" data-flag="@X" onclick="openSidebar('179_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\173_Island.png" id="173_Island" data-flag="@X" onclick="openSidebar('173_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\184_Swamp.png" id="184_Swamp" data-flag="@X" onclick="openSidebar('184_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\176_Mountain.png" id="176_Mountain" data-flag="@X" onclick="openSidebar('176_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\170_Forest.png" id="170_Forest" data-flag="@X" onclick="openSidebar('170_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\CHOAS-files\img\178_Plains.png" id="178_Plains" data-flag="@X" onclick="openSidebar('178_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
