@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/ACT-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>ACT visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/ACT-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ACT-files/icon.png" />
+		<img class="preload-hidden" src="/sets/AEK-files/icon.png" />
+		<img class="preload-hidden" src="/sets/EPS-files/icon.png" />
+		<img class="preload-hidden" src="/sets/LOR-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="ACT"><img src="/sets/ACT-files/icon.png">The Stage Presents: The Neverending Act</a>
+	
+		<a class="set-bar inactive" href="AEK"><img src="/sets/AEK-files/icon.png">Aekyu: Idyllic Days</a>
+	
+		<a class="set-bar inactive" href="EPS"><img src="/sets/EPS-files/icon.png">Epsil</a>
+	
+		<a class="set-bar inactive" href="LOR"><img src="/sets/LOR-files/icon.png">Liturgies of Ruhnacht</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/ACT-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\1_Angelic Diva.png" id="1_Angelic Diva" data-flag="@X" onclick="openSidebar('1_Angelic Diva',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\58_Reborn Through the Eternities.png" id="58_Reborn Through the Eternities" data-flag="@X" onclick="openSidebar('58_Reborn Through the Eternities',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\86_Lethal Storyboarding.png" id="86_Lethal Storyboarding" data-flag="@X" onclick="openSidebar('86_Lethal Storyboarding',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\113_Follow the Crumbs.png" id="113_Follow the Crumbs" data-flag="@X" onclick="openSidebar('113_Follow the Crumbs',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\159_Sower of Seeds.png" id="159_Sower of Seeds" data-flag="@X" onclick="openSidebar('159_Sower of Seeds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\2_Castigated Sister.png" id="2_Castigated Sister" data-flag="@X" onclick="openSidebar('2_Castigated Sister',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\42_Dream Monologue.png" id="42_Dream Monologue" data-flag="@X" onclick="openSidebar('42_Dream Monologue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\77_Defeat of the Greatest Evil.png" id="77_Defeat of the Greatest Evil" data-flag="@X" onclick="openSidebar('77_Defeat of the Greatest Evil',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\105_As the Lanterns Float On.png" id="105_As the Lanterns Float On" data-flag="@X" onclick="openSidebar('105_As the Lanterns Float On',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\143_The Disappearance of Faye.png" id="143_The Disappearance of Faye" data-flag="@X" onclick="openSidebar('143_The Disappearance of Faye',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\3_Collect the Actors.png" id="3_Collect the Actors" data-flag="@X" onclick="openSidebar('3_Collect the Actors',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\44_Fractured Prodigy.png" id="44_Fractured Prodigy" data-flag="@X" onclick="openSidebar('44_Fractured Prodigy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\82_The Girl Who Wouldn't Die.png" id="82_The Girl Who Wouldnt Die" data-flag="@X" onclick="openSidebar('82_The Girl Who Wouldnt Die',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\108_Crimson Curtain Favored.png" id="108_Crimson Curtain Favored" data-flag="@X" onclick="openSidebar('108_Crimson Curtain Favored',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\146_Grand Historian.png" id="146_Grand Historian" data-flag="@X" onclick="openSidebar('146_Grand Historian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\5_Curtain Cull.png" id="5_Curtain Cull" data-flag="@X" onclick="openSidebar('5_Curtain Cull',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\46_The Infinite Calls to Marva.png" id="46_The Infinite Calls to Marva" data-flag="@X" onclick="openSidebar('46_The Infinite Calls to Marva',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\89_Monster Behind the Curtain.png" id="89_Monster Behind the Curtain" data-flag="@X" onclick="openSidebar('89_Monster Behind the Curtain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\109_Denouement.png" id="109_Denouement" data-flag="@X" onclick="openSidebar('109_Denouement',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\147_Grasp of the Stageless.png" id="147_Grasp of the Stageless" data-flag="@X" onclick="openSidebar('147_Grasp of the Stageless',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\6_The Death of King Mervin.png" id="6_The Death of King Mervin" data-flag="@X" onclick="openSidebar('6_The Death of King Mervin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\49_Jeffery Stages the Finale.png" id="49_Jeffery Stages the Finale" data-flag="@X" onclick="openSidebar('49_Jeffery Stages the Finale',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\91_A Most Important Prince.png" id="91_A Most Important Prince" data-flag="@X" onclick="openSidebar('91_A Most Important Prince',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\111_Enter Captain Minnow.png" id="111_Enter Captain Minnow" data-flag="@X" onclick="openSidebar('111_Enter Captain Minnow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\151_Jerrold's Wretched Cure.png" id="151_Jerrolds Wretched Cure" data-flag="@X" onclick="openSidebar('151_Jerrolds Wretched Cure',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\15_Ivory Curtain Roleweaver.png" id="15_Ivory Curtain Roleweaver" data-flag="@X" onclick="openSidebar('15_Ivory Curtain Roleweaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\52_Monument to Quia.png" id="52_Monument to Quia" data-flag="@X" onclick="openSidebar('52_Monument to Quia',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\94_Ruthless Director.png" id="94_Ruthless Director" data-flag="@X" onclick="openSidebar('94_Ruthless Director',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\116_High Rollers Esteemed.png" id="116_High Rollers Esteemed" data-flag="@X" onclick="openSidebar('116_High Rollers Esteemed',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\153_Long-Term Method Actor.png" id="153_Long-Term Method Actor" data-flag="@X" onclick="openSidebar('153_Long-Term Method Actor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\20_Percy's Perfect World.png" id="20_Percys Perfect World" data-flag="@X" onclick="openSidebar('20_Percys Perfect World',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\56_Pursue Perfect Realities.png" id="56_Pursue Perfect Realities" data-flag="@X" onclick="openSidebar('56_Pursue Perfect Realities',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\95_Salome Breaks the Lies.png" id="95_Salome Breaks the Lies" data-flag="@X" onclick="openSidebar('95_Salome Breaks the Lies',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\117_The Highest Stakes.png" id="117_The Highest Stakes" data-flag="@X" onclick="openSidebar('117_The Highest Stakes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\161_Steal the Show.png" id="161_Steal the Show" data-flag="@X" onclick="openSidebar('161_Steal the Show',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\29_Seraph of the Stage.png" id="29_Seraph of the Stage" data-flag="@X" onclick="openSidebar('29_Seraph of the Stage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\60_Stage Magician.png" id="60_Stage Magician" data-flag="@X" onclick="openSidebar('60_Stage Magician',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\96_Salome's Intervention.png" id="96_Salomes Intervention" data-flag="@X" onclick="openSidebar('96_Salomes Intervention',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\123_Paul's Finest Act.png" id="123_Pauls Finest Act" data-flag="@X" onclick="openSidebar('123_Pauls Finest Act',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\165_Verdant Curtain Caretaker.png" id="165_Verdant Curtain Caretaker" data-flag="@X" onclick="openSidebar('165_Verdant Curtain Caretaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\32_Stolen Light.png" id="32_Stolen Light" data-flag="@X" onclick="openSidebar('32_Stolen Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\66_Tyrant of the Depths.png" id="66_Tyrant of the Depths" data-flag="@X" onclick="openSidebar('66_Tyrant of the Depths',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\98_Sculpt the Scene.png" id="98_Sculpt the Scene" data-flag="@X" onclick="openSidebar('98_Sculpt the Scene',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\135_Xiyue Dragondancer.png" id="135_Xiyue Dragondancer" data-flag="@X" onclick="openSidebar('135_Xiyue Dragondancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\168_Verdant Curtain Prodigy.png" id="168_Verdant Curtain Prodigy" data-flag="@X" onclick="openSidebar('168_Verdant Curtain Prodigy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\7_A Delightful Afternoon. . ..png" id="7_A Delightful Afternoon. . ." data-flag="@X" onclick="openSidebar('7_A Delightful Afternoon. . .',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\40_Dig for Evidence.png" id="40_Dig for Evidence" data-flag="@X" onclick="openSidebar('40_Dig for Evidence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\69_Backstage Comic.png" id="69_Backstage Comic" data-flag="@X" onclick="openSidebar('69_Backstage Comic',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\106_Audacious Spectator.png" id="106_Audacious Spectator" data-flag="@X" onclick="openSidebar('106_Audacious Spectator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\137_Apprehend the Nemesis.png" id="137_Apprehend the Nemesis" data-flag="@X" onclick="openSidebar('137_Apprehend the Nemesis',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\10_Glory of the Star.png" id="10_Glory of the Star" data-flag="@X" onclick="openSidebar('10_Glory of the Star',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\41_Distracted at Sea.png" id="41_Distracted at Sea" data-flag="@X" onclick="openSidebar('41_Distracted at Sea',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\75_Crucify.png" id="75_Crucify" data-flag="@X" onclick="openSidebar('75_Crucify',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\115_High Rollers Croupier.png" id="115_High Rollers Croupier" data-flag="@X" onclick="openSidebar('115_High Rollers Croupier',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\140_Call the Backup Actors.png" id="140_Call the Backup Actors" data-flag="@X" onclick="openSidebar('140_Call the Backup Actors',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\11_Holding Out for a Hero.png" id="11_Holding Out for a Hero" data-flag="@X" onclick="openSidebar('11_Holding Out for a Hero',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\51_Minnow's Accomplice.png" id="51_Minnows Accomplice" data-flag="@X" onclick="openSidebar('51_Minnows Accomplice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\78_Detective's Gambit.png" id="78_Detectives Gambit" data-flag="@X" onclick="openSidebar('78_Detectives Gambit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\118_An Invitation to High Rollers.png" id="118_An Invitation to High Rollers" data-flag="@X" onclick="openSidebar('118_An Invitation to High Rollers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\144_Encouraging Bulwark.png" id="144_Encouraging Bulwark" data-flag="@X" onclick="openSidebar('144_Encouraging Bulwark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\18_Once More with Heart.png" id="18_Once More with Heart" data-flag="@X" onclick="openSidebar('18_Once More with Heart',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\54_Paul, Startin' Out Small.png" id="54_Paul, Startin Out Small" data-flag="@X" onclick="openSidebar('54_Paul, Startin Out Small',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\80_Extolled Arachstruct.png" id="80_Extolled Arachstruct" data-flag="@X" onclick="openSidebar('80_Extolled Arachstruct',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\125_Rendezvous Behind the Curtain.png" id="125_Rendezvous Behind the Curtain" data-flag="@X" onclick="openSidebar('125_Rendezvous Behind the Curtain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\145_Enthusiastic Admirer.png" id="145_Enthusiastic Admirer" data-flag="@X" onclick="openSidebar('145_Enthusiastic Admirer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\22_Prop Custodian.png" id="22_Prop Custodian" data-flag="@X" onclick="openSidebar('22_Prop Custodian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\57_Push to the Background.png" id="57_Push to the Background" data-flag="@X" onclick="openSidebar('57_Push to the Background',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\87_Looming Threat.png" id="87_Looming Threat" data-flag="@X" onclick="openSidebar('87_Looming Threat',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\127_Scene to Cinders.png" id="127_Scene to Cinders" data-flag="@X" onclick="openSidebar('127_Scene to Cinders',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\149_The Investigation of Dr. Vaughn.png" id="149_The Investigation of Dr. Vaughn" data-flag="@X" onclick="openSidebar('149_The Investigation of Dr. Vaughn',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\23_Radiant Lead.png" id="23_Radiant Lead" data-flag="@X" onclick="openSidebar('23_Radiant Lead',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\59_Skyward Dreamers.png" id="59_Skyward Dreamers" data-flag="@X" onclick="openSidebar('59_Skyward Dreamers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\92_Off-Set Rumormonger.png" id="92_Off-Set Rumormonger" data-flag="@X" onclick="openSidebar('92_Off-Set Rumormonger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\128_Second-Day Slayings.png" id="128_Second-Day Slayings" data-flag="@X" onclick="openSidebar('128_Second-Day Slayings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\156_Method Actor Retiree.png" id="156_Method Actor Retiree" data-flag="@X" onclick="openSidebar('156_Method Actor Retiree',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\25_Royal Doctor.png" id="25_Royal Doctor" data-flag="@X" onclick="openSidebar('25_Royal Doctor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\61_Strikebreaker.png" id="61_Strikebreaker" data-flag="@X" onclick="openSidebar('61_Strikebreaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\93_Repurpose Debris.png" id="93_Repurpose Debris" data-flag="@X" onclick="openSidebar('93_Repurpose Debris',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\133_Timeless Rehearsal.png" id="133_Timeless Rehearsal" data-flag="@X" onclick="openSidebar('133_Timeless Rehearsal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\160_Sower of Virulent Thoughts.png" id="160_Sower of Virulent Thoughts" data-flag="@X" onclick="openSidebar('160_Sower of Virulent Thoughts',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\27_Sealed Evil in a Cage.png" id="27_Sealed Evil in a Cage" data-flag="@X" onclick="openSidebar('27_Sealed Evil in a Cage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\62_Study the Maps.png" id="62_Study the Maps" data-flag="@X" onclick="openSidebar('62_Study the Maps',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\97_Salome's Messenger.png" id="97_Salomes Messenger" data-flag="@X" onclick="openSidebar('97_Salomes Messenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\134_Wayward Bloodseeker.png" id="134_Wayward Bloodseeker" data-flag="@X" onclick="openSidebar('134_Wayward Bloodseeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\163_Time Stands Still, Heroes Emerge.png" id="163_Time Stands Still, Heroes Emerge" data-flag="@X" onclick="openSidebar('163_Time Stands Still, Heroes Emerge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\30_Silent Credits.png" id="30_Silent Credits" data-flag="@X" onclick="openSidebar('30_Silent Credits',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\63_A Tale of the Boastful Sailor.png" id="63_A Tale of the Boastful Sailor" data-flag="@X" onclick="openSidebar('63_A Tale of the Boastful Sailor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\102_That Fateful Tuesday.png" id="102_That Fateful Tuesday" data-flag="@X" onclick="openSidebar('102_That Fateful Tuesday',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\136_Xiyue Firelighters.png" id="136_Xiyue Firelighters" data-flag="@X" onclick="openSidebar('136_Xiyue Firelighters',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\164_Vaughn's Vows.png" id="164_Vaughns Vows" data-flag="@X" onclick="openSidebar('164_Vaughns Vows',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\4_Conflict Capturer.png" id="4_Conflict Capturer" data-flag="@X" onclick="openSidebar('4_Conflict Capturer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\35_Astute Sceneweaver.png" id="35_Astute Sceneweaver" data-flag="@X" onclick="openSidebar('35_Astute Sceneweaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\70_Backstage Prompter.png" id="70_Backstage Prompter" data-flag="@X" onclick="openSidebar('70_Backstage Prompter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\103_Apprehensive 'Slinger.png" id="103_Apprehensive Slinger" data-flag="@X" onclick="openSidebar('103_Apprehensive Slinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\138_Arrive, Surrounded by Petals.png" id="138_Arrive, Surrounded by Petals" data-flag="@X" onclick="openSidebar('138_Arrive, Surrounded by Petals',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\8_Engrossed in the Tale.png" id="8_Engrossed in the Tale" data-flag="@X" onclick="openSidebar('8_Engrossed in the Tale',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\36_Banished Prophet.png" id="36_Banished Prophet" data-flag="@X" onclick="openSidebar('36_Banished Prophet',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\71_Black Curtain Enforcer.png" id="71_Black Curtain Enforcer" data-flag="@X" onclick="openSidebar('71_Black Curtain Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\104_Arms Tinkerer.png" id="104_Arms Tinkerer" data-flag="@X" onclick="openSidebar('104_Arms Tinkerer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\139_Blooming Reclamation.png" id="139_Blooming Reclamation" data-flag="@X" onclick="openSidebar('139_Blooming Reclamation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\9_Expendable Victim.png" id="9_Expendable Victim" data-flag="@X" onclick="openSidebar('9_Expendable Victim',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\37_Cerulean Curtain Treasurer.png" id="37_Cerulean Curtain Treasurer" data-flag="@X" onclick="openSidebar('37_Cerulean Curtain Treasurer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\72_Black Curtain Extra.png" id="72_Black Curtain Extra" data-flag="@X" onclick="openSidebar('72_Black Curtain Extra',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\107_Backdrop Artisan.png" id="107_Backdrop Artisan" data-flag="@X" onclick="openSidebar('107_Backdrop Artisan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\141_Cordial Ticketmaster.png" id="141_Cordial Ticketmaster" data-flag="@X" onclick="openSidebar('141_Cordial Ticketmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\12_Hope Spot.png" id="12_Hope Spot" data-flag="@X" onclick="openSidebar('12_Hope Spot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\38_Crafty Escape.png" id="38_Crafty Escape" data-flag="@X" onclick="openSidebar('38_Crafty Escape',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\73_Bring the Spotlight.png" id="73_Bring the Spotlight" data-flag="@X" onclick="openSidebar('73_Bring the Spotlight',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\110_Dramatic Understudy.png" id="110_Dramatic Understudy" data-flag="@X" onclick="openSidebar('110_Dramatic Understudy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\142_Crocheted Buddy.png" id="142_Crocheted Buddy" data-flag="@X" onclick="openSidebar('142_Crocheted Buddy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\13_In the Nick of Time.png" id="13_In the Nick of Time" data-flag="@X" onclick="openSidebar('13_In the Nick of Time',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\39_Dealer of Pointed Fortunes.png" id="39_Dealer of Pointed Fortunes" data-flag="@X" onclick="openSidebar('39_Dealer of Pointed Fortunes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\74_Conclude.png" id="74_Conclude" data-flag="@X" onclick="openSidebar('74_Conclude',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\112_Festival Sabotage.png" id="112_Festival Sabotage" data-flag="@X" onclick="openSidebar('112_Festival Sabotage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\148_Hedge Dashers.png" id="148_Hedge Dashers" data-flag="@X" onclick="openSidebar('148_Hedge Dashers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\14_Ivory Curtain Producer.png" id="14_Ivory Curtain Producer" data-flag="@X" onclick="openSidebar('14_Ivory Curtain Producer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\43_Fade Out.png" id="43_Fade Out" data-flag="@X" onclick="openSidebar('43_Fade Out',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\76_Dastardly Duo.png" id="76_Dastardly Duo" data-flag="@X" onclick="openSidebar('76_Dastardly Duo',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\114_Go Out Guns Blazing.png" id="114_Go Out Guns Blazing" data-flag="@X" onclick="openSidebar('114_Go Out Guns Blazing',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\150_Jerrold's Descent.png" id="150_Jerrolds Descent" data-flag="@X" onclick="openSidebar('150_Jerrolds Descent',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\16_Leading Clergy.png" id="16_Leading Clergy" data-flag="@X" onclick="openSidebar('16_Leading Clergy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\45_From Curtains to Chills.png" id="45_From Curtains to Chills" data-flag="@X" onclick="openSidebar('45_From Curtains to Chills',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\79_Dreadful Gorgon.png" id="79_Dreadful Gorgon" data-flag="@X" onclick="openSidebar('79_Dreadful Gorgon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\119_Lantern-Bearer Belle.png" id="119_Lantern-Bearer Belle" data-flag="@X" onclick="openSidebar('119_Lantern-Bearer Belle',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\152_Lead Athlete.png" id="152_Lead Athlete" data-flag="@X" onclick="openSidebar('152_Lead Athlete',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\17_Mourners of Mervin.png" id="17_Mourners of Mervin" data-flag="@X" onclick="openSidebar('17_Mourners of Mervin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\47_Inspect the Plot.png" id="47_Inspect the Plot" data-flag="@X" onclick="openSidebar('47_Inspect the Plot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\81_Fatal Method Acting.png" id="81_Fatal Method Acting" data-flag="@X" onclick="openSidebar('81_Fatal Method Acting',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\120_Lovely Duet.png" id="120_Lovely Duet" data-flag="@X" onclick="openSidebar('120_Lovely Duet',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\154_Look Beyond the Stage.png" id="154_Look Beyond the Stage" data-flag="@X" onclick="openSidebar('154_Look Beyond the Stage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\19_Percy's Messenger.png" id="19_Percys Messenger" data-flag="@X" onclick="openSidebar('19_Percys Messenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\48_Intellectual Critic.png" id="48_Intellectual Critic" data-flag="@X" onclick="openSidebar('48_Intellectual Critic',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\83_Hope Wrangler.png" id="83_Hope Wrangler" data-flag="@X" onclick="openSidebar('83_Hope Wrangler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\121_Mervin's Armor.png" id="121_Mervins Armor" data-flag="@X" onclick="openSidebar('121_Mervins Armor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\155_Make a Plan.png" id="155_Make a Plan" data-flag="@X" onclick="openSidebar('155_Make a Plan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\21_Powerful Distraction.png" id="21_Powerful Distraction" data-flag="@X" onclick="openSidebar('21_Powerful Distraction',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\50_The Lead Falls Short.png" id="50_The Lead Falls Short" data-flag="@X" onclick="openSidebar('50_The Lead Falls Short',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\84_Imposing Threat.png" id="84_Imposing Threat" data-flag="@X" onclick="openSidebar('84_Imposing Threat',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\122_The Monsters Attack!.png" id="122_The Monsters Attack!" data-flag="@X" onclick="openSidebar('122_The Monsters Attack!',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\157_Mourning Lady Faye.png" id="157_Mourning Lady Faye" data-flag="@X" onclick="openSidebar('157_Mourning Lady Faye',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\24_Revitalize.png" id="24_Revitalize" data-flag="@X" onclick="openSidebar('24_Revitalize',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\53_Newswright.png" id="53_Newswright" data-flag="@X" onclick="openSidebar('53_Newswright',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\85_Inciting Incident.png" id="85_Inciting Incident" data-flag="@X" onclick="openSidebar('85_Inciting Incident',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\124_Raging Restitched.png" id="124_Raging Restitched" data-flag="@X" onclick="openSidebar('124_Raging Restitched',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\158_Prop Work.png" id="158_Prop Work" data-flag="@X" onclick="openSidebar('158_Prop Work',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\26_Runaway Princess.png" id="26_Runaway Princess" data-flag="@X" onclick="openSidebar('26_Runaway Princess',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\55_Performer of Winds.png" id="55_Performer of Winds" data-flag="@X" onclick="openSidebar('55_Performer of Winds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\88_Lost in the Role.png" id="88_Lost in the Role" data-flag="@X" onclick="openSidebar('88_Lost in the Role',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\126_Scaled Outburst.png" id="126_Scaled Outburst" data-flag="@X" onclick="openSidebar('126_Scaled Outburst',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\162_Strength of Character.png" id="162_Strength of Character" data-flag="@X" onclick="openSidebar('162_Strength of Character',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\28_Second-Stage Actress.png" id="28_Second-Stage Actress" data-flag="@X" onclick="openSidebar('28_Second-Stage Actress',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\64_Tire Out.png" id="64_Tire Out" data-flag="@X" onclick="openSidebar('64_Tire Out',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\90_Monstrous Revelation.png" id="90_Monstrous Revelation" data-flag="@X" onclick="openSidebar('90_Monstrous Revelation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\129_Shattered Reflection.png" id="129_Shattered Reflection" data-flag="@X" onclick="openSidebar('129_Shattered Reflection',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\166_Verdant Curtain Mascot.png" id="166_Verdant Curtain Mascot" data-flag="@X" onclick="openSidebar('166_Verdant Curtain Mascot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\31_Spoiled Prince.png" id="31_Spoiled Prince" data-flag="@X" onclick="openSidebar('31_Spoiled Prince',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\65_Tuesday's First Victim.png" id="65_Tuesdays First Victim" data-flag="@X" onclick="openSidebar('65_Tuesdays First Victim',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\99_Seeker of Salome.png" id="99_Seeker of Salome" data-flag="@X" onclick="openSidebar('99_Seeker of Salome',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\130_Shining Showstopper.png" id="130_Shining Showstopper" data-flag="@X" onclick="openSidebar('130_Shining Showstopper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\167_Verdant Curtain Naturalist.png" id="167_Verdant Curtain Naturalist" data-flag="@X" onclick="openSidebar('167_Verdant Curtain Naturalist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\33_Unwrite.png" id="33_Unwrite" data-flag="@X" onclick="openSidebar('33_Unwrite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\67_Uncover Malevolence.png" id="67_Uncover Malevolence" data-flag="@X" onclick="openSidebar('67_Uncover Malevolence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\100_Silent Sleep.png" id="100_Silent Sleep" data-flag="@X" onclick="openSidebar('100_Silent Sleep',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\131_Swiftwheel Slayers.png" id="131_Swiftwheel Slayers" data-flag="@X" onclick="openSidebar('131_Swiftwheel Slayers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\169_Wild Entourage.png" id="169_Wild Entourage" data-flag="@X" onclick="openSidebar('169_Wild Entourage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\34_Valiant Instructor.png" id="34_Valiant Instructor" data-flag="@X" onclick="openSidebar('34_Valiant Instructor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\68_Unraveller of Mysteries.png" id="68_Unraveller of Mysteries" data-flag="@X" onclick="openSidebar('68_Unraveller of Mysteries',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\101_Stitched-Smile Seamstress.png" id="101_Stitched-Smile Seamstress" data-flag="@X" onclick="openSidebar('101_Stitched-Smile Seamstress',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\132_Tailor of Terror.png" id="132_Tailor of Terror" data-flag="@X" onclick="openSidebar('132_Tailor of Terror',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\170_Wooded Ward.png" id="170_Wooded Ward" data-flag="@X" onclick="openSidebar('170_Wooded Ward',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\173_Glimpse the Puppet Strings.png" id="173_Glimpse the Puppet Strings" data-flag="@X" onclick="openSidebar('173_Glimpse the Puppet Strings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\178_Salome.png" id="178_Salome" data-flag="@X" onclick="openSidebar('178_Salome',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\181_Piecemeal Finale.png" id="181_Piecemeal Finale" data-flag="@X" onclick="openSidebar('181_Piecemeal Finale',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\186_Jerrold, Master Experimenter.png" id="186_Jerrold, Master Experimenter" data-flag="@X" onclick="openSidebar('186_Jerrold, Master Experimenter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\188_Ivory Curtain Litigator.png" id="188_Ivory Curtain Litigator" data-flag="@X" onclick="openSidebar('188_Ivory Curtain Litigator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\172_Director's Perks.png" id="172_Directors Perks" data-flag="@X" onclick="openSidebar('172_Directors Perks',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\179_Trauma Spike.png" id="179_Trauma Spike" data-flag="@X" onclick="openSidebar('179_Trauma Spike',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\180_Blood on Satin.png" id="180_Blood on Satin" data-flag="@X" onclick="openSidebar('180_Blood on Satin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\185_Into Autumn's Arms.png" id="185_Into Autumns Arms" data-flag="@X" onclick="openSidebar('185_Into Autumns Arms',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\189_A Memorial to Radiance.png" id="189_A Memorial to Radiance" data-flag="@X" onclick="openSidebar('189_A Memorial to Radiance',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\174_Waltz on a Nimbus.png" id="174_Waltz on a Nimbus" data-flag="@X" onclick="openSidebar('174_Waltz on a Nimbus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\175_The Malevolence Chronicles.png" id="175_The Malevolence Chronicles" data-flag="@X" onclick="openSidebar('175_The Malevolence Chronicles',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\182_Prod the Stitchwork.png" id="182_Prod the Stitchwork" data-flag="@X" onclick="openSidebar('182_Prod the Stitchwork',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\187_Strawhood Harvested.png" id="187_Strawhood Harvested" data-flag="@X" onclick="openSidebar('187_Strawhood Harvested',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\191_Traveling Ticketmaster.png" id="191_Traveling Ticketmaster" data-flag="@X" onclick="openSidebar('191_Traveling Ticketmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\171_Critical Acclaim.png" id="171_Critical Acclaim" data-flag="@X" onclick="openSidebar('171_Critical Acclaim',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\176_Ravenous Extra.png" id="176_Ravenous Extra" data-flag="@X" onclick="openSidebar('176_Ravenous Extra',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\183_Retire.png" id="183_Retire" data-flag="@X" onclick="openSidebar('183_Retire',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\184_Assemble the Heroes!.png" id="184_Assemble the Heroes!" data-flag="@X" onclick="openSidebar('184_Assemble the Heroes!',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\190_Take Back the Stage.png" id="190_Take Back the Stage" data-flag="@X" onclick="openSidebar('190_Take Back the Stage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\245_Exuberant Snowmage.png" id="245_Exuberant Snowmage" data-flag="@X" onclick="openSidebar('245_Exuberant Snowmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\177_Recoil in Fear.png" id="177_Recoil in Fear" data-flag="@X" onclick="openSidebar('177_Recoil in Fear',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\247_Scathing Critics.png" id="247_Scathing Critics" data-flag="@X" onclick="openSidebar('247_Scathing Critics',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\248_Crescent Crasher.png" id="248_Crescent Crasher" data-flag="@X" onclick="openSidebar('248_Crescent Crasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\249_Overconfident Batter.png" id="249_Overconfident Batter" data-flag="@X" onclick="openSidebar('249_Overconfident Batter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\246_Brooding Replacement.png" id="246_Brooding Replacement" data-flag="@X" onclick="openSidebar('246_Brooding Replacement',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\195_Percy, Master of Puppets.png" id="195_Percy, Master of Puppets" data-flag="@X" onclick="openSidebar('195_Percy, Master of Puppets',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\199_Paul, Rock Bottom.png" id="199_Paul, Rock Bottom" data-flag="@X" onclick="openSidebar('199_Paul, Rock Bottom',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\203_Death's Widow.png" id="203_Deaths Widow" data-flag="@X" onclick="openSidebar('203_Deaths Widow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\206_All Part of the Show.png" id="206_All Part of the Show" data-flag="@X" onclick="openSidebar('206_All Part of the Show',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\210_Eldon and Eleanor, Sleuths.png" id="210_Eldon and Eleanor, Sleuths" data-flag="@X" onclick="openSidebar('210_Eldon and Eleanor, Sleuths',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\194_Life's Bride.png" id="194_Lifes Bride" data-flag="@X" onclick="openSidebar('194_Lifes Bride',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\198_Paul, Making Greatness.png" id="198_Paul, Making Greatness" data-flag="@X" onclick="openSidebar('198_Paul, Making Greatness',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\202_Closing-Act Abomination.png" id="202_Closing-Act Abomination" data-flag="@X" onclick="openSidebar('202_Closing-Act Abomination',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\207_Rambunctious Afterparty.png" id="207_Rambunctious Afterparty" data-flag="@X" onclick="openSidebar('207_Rambunctious Afterparty',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\211_Hollow Queen.png" id="211_Hollow Queen" data-flag="@X" onclick="openSidebar('211_Hollow Queen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\192_An Accursed Coronation.png" id="192_An Accursed Coronation" data-flag="@X" onclick="openSidebar('192_An Accursed Coronation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\200_The Playwright's Gambit.png" id="200_The Playwrights Gambit" data-flag="@X" onclick="openSidebar('200_The Playwrights Gambit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\205_Tales from the Fallen Court.png" id="205_Tales from the Fallen Court" data-flag="@X" onclick="openSidebar('205_Tales from the Fallen Court',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\208_The Rejection of the Fair Prince.png" id="208_The Rejection of the Fair Prince" data-flag="@X" onclick="openSidebar('208_The Rejection of the Fair Prince',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\213_The Tragedy of Fruits and Fanfare.png" id="213_The Tragedy of Fruits and Fanfare" data-flag="@X" onclick="openSidebar('213_The Tragedy of Fruits and Fanfare',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\196_Zealous Persecution.png" id="196_Zealous Persecution" data-flag="@X" onclick="openSidebar('196_Zealous Persecution',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\201_Theatric Tandem.png" id="201_Theatric Tandem" data-flag="@X" onclick="openSidebar('201_Theatric Tandem',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\204_Salvage the Stitchings.png" id="204_Salvage the Stitchings" data-flag="@X" onclick="openSidebar('204_Salvage the Stitchings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\209_Rip Apart.png" id="209_Rip Apart" data-flag="@X" onclick="openSidebar('209_Rip Apart',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\212_On the Case.png" id="212_On the Case" data-flag="@X" onclick="openSidebar('212_On the Case',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\193_Castigate.png" id="193_Castigate" data-flag="@X" onclick="openSidebar('193_Castigate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\197_Opulent Reprise.png" id="197_Opulent Reprise" data-flag="@X" onclick="openSidebar('197_Opulent Reprise',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\252_Young Soulspeaker.png" id="252_Young Soulspeaker" data-flag="@X" onclick="openSidebar('252_Young Soulspeaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\253_Performers of Purpose.png" id="253_Performers of Purpose" data-flag="@X" onclick="openSidebar('253_Performers of Purpose',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\254_Marionette Phantom.png" id="254_Marionette Phantom" data-flag="@X" onclick="openSidebar('254_Marionette Phantom',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\250_Backstage Broken.png" id="250_Backstage Broken" data-flag="@X" onclick="openSidebar('250_Backstage Broken',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\251_Thespian's Page.png" id="251_Thespians Page" data-flag="@X" onclick="openSidebar('251_Thespians Page',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\239_Reflective Stalker.png" id="239_Reflective Stalker" data-flag="@X" onclick="openSidebar('239_Reflective Stalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\242_Soulwrought Songster.png" id="242_Soulwrought Songster" data-flag="@X" onclick="openSidebar('242_Soulwrought Songster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\224_Jerrold, Fugitive.png" id="224_Jerrold, Fugitive" data-flag="@X" onclick="openSidebar('224_Jerrold, Fugitive',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\234_Performer King.png" id="234_Performer King" data-flag="@X" onclick="openSidebar('234_Performer King',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\220_Douglass, Star of the Show.png" id="220_Douglass, Star of the Show" data-flag="@X" onclick="openSidebar('220_Douglass, Star of the Show',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\227_Magella's First Step.png" id="227_Magellas First Step" data-flag="@X" onclick="openSidebar('227_Magellas First Step',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\244_The Unhinging Project.png" id="244_The Unhinging Project" data-flag="@X" onclick="openSidebar('244_The Unhinging Project',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\215_Around the Plane in Three Days.png" id="215_Around the Plane in Three Days" data-flag="@X" onclick="openSidebar('215_Around the Plane in Three Days',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\241_A Song of Sleet and Hellfire.png" id="241_A Song of Sleet and Hellfire" data-flag="@X" onclick="openSidebar('241_A Song of Sleet and Hellfire',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\219_Dance of Frost.png" id="219_Dance of Frost" data-flag="@X" onclick="openSidebar('219_Dance of Frost',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\221_Dulled Ghost.png" id="221_Dulled Ghost" data-flag="@X" onclick="openSidebar('221_Dulled Ghost',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\225_Lapinized Caster.png" id="225_Lapinized Caster" data-flag="@X" onclick="openSidebar('225_Lapinized Caster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\233_Perfect the Models.png" id="233_Perfect the Models" data-flag="@X" onclick="openSidebar('233_Perfect the Models',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\232_Percy's Proclaimer.png" id="232_Percys Proclaimer" data-flag="@X" onclick="openSidebar('232_Percys Proclaimer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\230_Mindscape Ripper.png" id="230_Mindscape Ripper" data-flag="@X" onclick="openSidebar('230_Mindscape Ripper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\240_Remake the Cast.png" id="240_Remake the Cast" data-flag="@X" onclick="openSidebar('240_Remake the Cast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\229_Marva of Endless Inspiration.png" id="229_Marva of Endless Inspiration" data-flag="@X" onclick="openSidebar('229_Marva of Endless Inspiration',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\218_Cacophonous Demon.png" id="218_Cacophonous Demon" data-flag="@X" onclick="openSidebar('218_Cacophonous Demon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\222_Host of the Celebration.png" id="222_Host of the Celebration" data-flag="@X" onclick="openSidebar('222_Host of the Celebration',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\237_Prop Recycling.png" id="237_Prop Recycling" data-flag="@X" onclick="openSidebar('237_Prop Recycling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\216_A Bond that Spans Planes.png" id="216_A Bond that Spans Planes" data-flag="@X" onclick="openSidebar('216_A Bond that Spans Planes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\231_Over the Moon.png" id="231_Over the Moon" data-flag="@X" onclick="openSidebar('231_Over the Moon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\236_A Princess' Plea.png" id="236_A Princess Plea" data-flag="@X" onclick="openSidebar('236_A Princess Plea',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\243_Swan Dance.png" id="243_Swan Dance" data-flag="@X" onclick="openSidebar('243_Swan Dance',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\238_A Recipe for Disaster.png" id="238_A Recipe for Disaster" data-flag="@X" onclick="openSidebar('238_A Recipe for Disaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\214_Abominable Auteur.png" id="214_Abominable Auteur" data-flag="@X" onclick="openSidebar('214_Abominable Auteur',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\228_Main Role Maiden.png" id="228_Main Role Maiden" data-flag="@X" onclick="openSidebar('228_Main Role Maiden',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\235_Price of Performance.png" id="235_Price of Performance" data-flag="@X" onclick="openSidebar('235_Price of Performance',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\217_Brutal Director.png" id="217_Brutal Director" data-flag="@X" onclick="openSidebar('217_Brutal Director',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\226_Leads Don't Die.png" id="226_Leads Dont Die" data-flag="@X" onclick="openSidebar('226_Leads Dont Die',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\223_Jeffery, Stage Manager.png" id="223_Jeffery, Stage Manager" data-flag="@X" onclick="openSidebar('223_Jeffery, Stage Manager',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\257_The Grand Plot.png" id="257_The Grand Plot" data-flag="@X" onclick="openSidebar('257_The Grand Plot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\259_Remnant of Past Realities.png" id="259_Remnant of Past Realities" data-flag="@X" onclick="openSidebar('259_Remnant of Past Realities',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\0_Saga Token.png" id="0_Saga Token" data-flag="@X" onclick="openSidebar('0_Saga Token',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\255_Bedrock of Tales.png" id="255_Bedrock of Tales" data-flag="@X" onclick="openSidebar('255_Bedrock of Tales',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\256_Collapsing Frame.png" id="256_Collapsing Frame" data-flag="@X" onclick="openSidebar('256_Collapsing Frame',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\258_Prophetic Prism.png" id="258_Prophetic Prism" data-flag="@X" onclick="openSidebar('258_Prophetic Prism',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\279_Waterfront Market.png" id="279_Waterfront Market" data-flag="@X" onclick="openSidebar('279_Waterfront Market',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\280_Whispering Canal.png" id="280_Whispering Canal" data-flag="@X" onclick="openSidebar('280_Whispering Canal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\271_Molten Mire.png" id="271_Molten Mire" data-flag="@X" onclick="openSidebar('271_Molten Mire',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\260_Autumnal Boscage.png" id="260_Autumnal Boscage" data-flag="@X" onclick="openSidebar('260_Autumnal Boscage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\276_Splendid Scenery.png" id="276_Splendid Scenery" data-flag="@X" onclick="openSidebar('276_Splendid Scenery',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\273_Sculpted Observatory.png" id="273_Sculpted Observatory" data-flag="@X" onclick="openSidebar('273_Sculpted Observatory',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\268_Gloomtide Gulf.png" id="268_Gloomtide Gulf" data-flag="@X" onclick="openSidebar('268_Gloomtide Gulf',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\265_Erupting Territory.png" id="265_Erupting Territory" data-flag="@X" onclick="openSidebar('265_Erupting Territory',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\262_Bigroot Valley.png" id="262_Bigroot Valley" data-flag="@X" onclick="openSidebar('262_Bigroot Valley',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\272_Peaceful Passage.png" id="272_Peaceful Passage" data-flag="@X" onclick="openSidebar('272_Peaceful Passage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\263_Boneyard Pass.png" id="263_Boneyard Pass" data-flag="@X" onclick="openSidebar('263_Boneyard Pass',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\267_Frostpoint Caldera.png" id="267_Frostpoint Caldera" data-flag="@X" onclick="openSidebar('267_Frostpoint Caldera',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\261_Basin Fortress.png" id="261_Basin Fortress" data-flag="@X" onclick="openSidebar('261_Basin Fortress',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\275_Spinerock Canyon.png" id="275_Spinerock Canyon" data-flag="@X" onclick="openSidebar('275_Spinerock Canyon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\277_Thawing Valley.png" id="277_Thawing Valley" data-flag="@X" onclick="openSidebar('277_Thawing Valley',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\274_Somber Meadow.png" id="274_Somber Meadow" data-flag="@X" onclick="openSidebar('274_Somber Meadow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\278_Twisting Fissure.png" id="278_Twisting Fissure" data-flag="@X" onclick="openSidebar('278_Twisting Fissure',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\264_Caustic Mangrove.png" id="264_Caustic Mangrove" data-flag="@X" onclick="openSidebar('264_Caustic Mangrove',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\269_Hazy Summits.png" id="269_Hazy Summits" data-flag="@X" onclick="openSidebar('269_Hazy Summits',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\270_Lush Coast.png" id="270_Lush Coast" data-flag="@X" onclick="openSidebar('270_Lush Coast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\266_Evolving Wilds.png" id="266_Evolving Wilds" data-flag="@X" onclick="openSidebar('266_Evolving Wilds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\281_Plains.png" id="281_Plains" data-flag="@X" onclick="openSidebar('281_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\282_Island.png" id="282_Island" data-flag="@X" onclick="openSidebar('282_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\283_Swamp.png" id="283_Swamp" data-flag="@X" onclick="openSidebar('283_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\284_Mountain.png" id="284_Mountain" data-flag="@X" onclick="openSidebar('284_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\285_Forest.png" id="285_Forest" data-flag="@X" onclick="openSidebar('285_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\1t_Construct Actor.png" id="1t_Construct Actor" data-flag="@X" onclick="openSidebar('1t_Construct Actor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\13t_Clue.png" id="13t_Clue" data-flag="@X" onclick="openSidebar('13t_Clue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\14t_Treasure.png" id="14t_Treasure" data-flag="@X" onclick="openSidebar('14t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\15t_Weapon.png" id="15t_Weapon" data-flag="@X" onclick="openSidebar('15t_Weapon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\16t_Forest.png" id="16t_Forest" data-flag="@X" onclick="openSidebar('16t_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\17t_Island.png" id="17t_Island" data-flag="@X" onclick="openSidebar('17t_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\18t_Mountain.png" id="18t_Mountain" data-flag="@X" onclick="openSidebar('18t_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\19t_Plains.png" id="19t_Plains" data-flag="@X" onclick="openSidebar('19t_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\20t_Swamp.png" id="20t_Swamp" data-flag="@X" onclick="openSidebar('20t_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\21t_Salome Emblem.png" id="21t_Salome Emblem" data-flag="@X" onclick="openSidebar('21t_Salome Emblem',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\2t_Soldier.png" id="2t_Soldier" data-flag="@X" onclick="openSidebar('2t_Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\3t_Demon Horror.png" id="3t_Demon Horror" data-flag="@X" onclick="openSidebar('3t_Demon Horror',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\4t_Horror.png" id="4t_Horror" data-flag="@X" onclick="openSidebar('4t_Horror',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\5t_variable Horror.png" id="5t_variable Horror" data-flag="@X" onclick="openSidebar('5t_variable Horror',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\6t_Cleric Role.png" id="6t_Cleric Role" data-flag="@X" onclick="openSidebar('6t_Cleric Role',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\9t_Scout Role.png" id="9t_Scout Role" data-flag="@X" onclick="openSidebar('9t_Scout Role',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\10t_Warlock Role.png" id="10t_Warlock Role" data-flag="@X" onclick="openSidebar('10t_Warlock Role',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\11t_Warrior Role.png" id="11t_Warrior Role" data-flag="@X" onclick="openSidebar('11t_Warrior Role',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\12t_Wizard Role.png" id="12t_Wizard Role" data-flag="@X" onclick="openSidebar('12t_Wizard Role',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\7t_Horror Knight.png" id="7t_Horror Knight" data-flag="@X" onclick="openSidebar('7t_Horror Knight',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ACT-files\img\8t_Lead Role.png" id="8t_Lead Role" data-flag="@X" onclick="openSidebar('8t_Lead Role',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
