@@ -1,4 +1,36 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Keris, the Holo-Witch added.
+Charming Confidant added.
+
+Haunted Conspiracist removed.
+Tsukuri Holo-Witch removed.
+
+Wayward Musicians
+rules_text: Double strike
+When Wayward Musicians enters, conjure Doublecast into your hand. [i](It's a {R}{R} sorcery with “When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.”)[/i] => When Wayward Musicians enters, conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+Discard a card: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.
+
+Sly Consigliere
+rules_text: Flash
+When Sly Consigliere enters, you may tap it. When you do, put a counter on target creature. It loses all abilities.
+{1}: Permanents your opponents control lose hexproof and ward until end of turn. => Flash
+When Sly Consigliere enters, you may tap it. When you do, put a silence counter on target creature. It loses all abilities.
+{1}: Permanents your opponents control lose hexproof and ward until end of turn.
+
+Viktoria, the Heartline
+cost: {R}{R} => {1}{R}
+rules_text: Trample
+Whenever Viktoria attacks, add {R} for each counter on her. Until end of turn, you don't lose this mana as steps and phases end.
+Discard a card: Put a +1/+1 counter on Viktoria. Activate only once each turn and only as a sorcery. => Double strike
+When Viktoria enters, conjure Doublecast into your hand. [i](It's a {R}{R} sorcery with “When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.”)[/i]
+pt: 2/2 => 1/2
+
+Nixie, Novice Scriptwriter
+
+
+VERSION 14 CHANGELOG
 ====================
 
 We Could Be Supervillains added.

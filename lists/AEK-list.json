@@ -15,7 +15,7 @@
     },
     {
         "card_name": "Gravity Defier",
-        "number": 77,
+        "number": 78,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -147,8 +147,8 @@
         "position": ""
     },
     {
-        "card_name": "Rainy Night Voyager",
-        "number": 61,
+        "card_name": "Nixie, Novice Scriptwriter",
+        "number": 59,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -182,9 +182,9 @@
         "position": ""
     },
     {
-        "card_name": "Shiroyuki, the Everygirl",
-        "number": 62,
-        "shape": "planeswalker",
+        "card_name": "Rainy Night Voyager",
+        "number": 61,
+        "shape": "normal",
         "set": "AEK",
         "position": ""
     },
@@ -197,7 +197,7 @@
     },
     {
         "card_name": "Resplendent Idol",
-        "number": 118,
+        "number": 119,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -217,9 +217,9 @@
         "position": ""
     },
     {
-        "card_name": "The 99 Lives of Shiroyuki",
-        "number": 65,
-        "shape": "normal",
+        "card_name": "Shiroyuki, the Everygirl",
+        "number": 62,
+        "shape": "planeswalker",
         "set": "AEK",
         "position": ""
     },
@@ -232,7 +232,7 @@
     },
     {
         "card_name": "Screaming into the Rain",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -252,8 +252,8 @@
         "position": ""
     },
     {
-        "card_name": "Akiyama Rim",
-        "number": 39,
+        "card_name": "The 99 Lives of Shiroyuki",
+        "number": 65,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -267,7 +267,7 @@
     },
     {
         "card_name": "To Save a Broken Heart",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -287,8 +287,8 @@
         "position": ""
     },
     {
-        "card_name": "Extraplanar Explorer",
-        "number": 44,
+        "card_name": "Akiyama Rim",
+        "number": 39,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -322,15 +322,15 @@
         "position": ""
     },
     {
-        "card_name": "Fall Out",
-        "number": 45,
+        "card_name": "Extraplanar Explorer",
+        "number": 44,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Eyes That Bite",
-        "number": 74,
+        "card_name": "Charming Confidant",
+        "number": 72,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -357,21 +357,21 @@
         "position": ""
     },
     {
-        "card_name": "Fiona Tsukuri",
-        "number": 46,
-        "shape": "planeswalker",
+        "card_name": "Fall Out",
+        "number": 45,
+        "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Fan Following",
+        "card_name": "Eyes That Bite",
         "number": 75,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Lamplighter",
+        "card_name": "Keris, the Holo-Witch",
         "number": 111,
         "shape": "normal",
         "set": "AEK",
@@ -392,22 +392,22 @@
         "position": ""
     },
     {
-        "card_name": "Flirt with Disaster",
-        "number": 47,
+        "card_name": "Fiona Tsukuri",
+        "number": 46,
+        "shape": "planeswalker",
+        "set": "AEK",
+        "position": ""
+    },
+    {
+        "card_name": "Fan Following",
+        "number": 76,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
-        "card_name": "Haunted Conspiracist",
-        "number": 78,
-        "shape": "normal",
-        "set": "AEK",
-        "position": ""
-    },
-    {
-        "card_name": "Nexus Technician",
-        "number": 115,
+        "card_name": "Lamplighter",
+        "number": 112,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -427,8 +427,8 @@
         "position": ""
     },
     {
-        "card_name": "From the Mirror",
-        "number": 48,
+        "card_name": "Flirt with Disaster",
+        "number": 47,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -441,7 +441,7 @@
         "position": ""
     },
     {
-        "card_name": "Nezuri, Toxic Princess",
+        "card_name": "Nexus Technician",
         "number": 116,
         "shape": "normal",
         "set": "AEK",
@@ -462,8 +462,8 @@
         "position": ""
     },
     {
-        "card_name": "Iason, Watercolor Mage",
-        "number": 50,
+        "card_name": "From the Mirror",
+        "number": 48,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -476,8 +476,8 @@
         "position": ""
     },
     {
-        "card_name": "Resplendent Vision",
-        "number": 119,
+        "card_name": "Nezuri, Toxic Princess",
+        "number": 117,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -497,8 +497,8 @@
         "position": ""
     },
     {
-        "card_name": "The Icelord of Severed Chains",
-        "number": 51,
+        "card_name": "Iason, Watercolor Mage",
+        "number": 50,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -511,8 +511,8 @@
         "position": ""
     },
     {
-        "card_name": "Sempiternal Witch",
-        "number": 122,
+        "card_name": "Resplendent Vision",
+        "number": 120,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -532,8 +532,8 @@
         "position": ""
     },
     {
-        "card_name": "Inspiring Vision",
-        "number": 54,
+        "card_name": "The Icelord of Severed Chains",
+        "number": 51,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -546,8 +546,8 @@
         "position": ""
     },
     {
-        "card_name": "Skybridge Joyrider",
-        "number": 124,
+        "card_name": "Sempiternal Witch",
+        "number": 123,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -567,8 +567,8 @@
         "position": ""
     },
     {
-        "card_name": "Nixie, Novice Scriptwriter",
-        "number": 59,
+        "card_name": "Inspiring Vision",
+        "number": 54,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -581,8 +581,8 @@
         "position": ""
     },
     {
-        "card_name": "Tsukuri Holo-Witch",
-        "number": 127,
+        "card_name": "Skybridge Joyrider",
+        "number": 125,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -750,7 +750,7 @@
     },
     {
         "card_name": "Critique",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -785,7 +785,7 @@
     },
     {
         "card_name": "Dreamglass Melody",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -820,14 +820,14 @@
     },
     {
         "card_name": "The Girl in the Chair",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "AEK",
         "position": ""
     },
     {
         "card_name": "Let Him Cook",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -862,7 +862,7 @@
     },
     {
         "card_name": "Neon City Racer",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -897,7 +897,7 @@
     },
     {
         "card_name": "Neon Lights",
-        "number": 114,
+        "number": 115,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -932,7 +932,7 @@
     },
     {
         "card_name": "Reflected Frame",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -967,7 +967,7 @@
     },
     {
         "card_name": "Roaring Songstress",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1002,7 +1002,7 @@
     },
     {
         "card_name": "She Has a Gun",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "AEK",
         "position": ""
@@ -1037,7 +1037,7 @@
     },
     {
         "card_name": "Spice",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "AEK",
         "position": ""
