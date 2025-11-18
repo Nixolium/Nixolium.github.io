@@ -1,4 +1,55 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+We Could Be Supervillains added.
+I Am a Rockstar added.
+Sly Consigliere added.
+Lost From Reality added.
+Heartfelt Composition added.
+Nixie, Novice Scriptwriter added.
+
+Evil Wins in the End removed.
+I am a Rockstar removed.
+Kalista's Consigliere removed.
+Virtualize removed.
+Hyperlight Phenomenon removed.
+Harmonic Soul removed.
+
+Rhythm Seer
+rules_text: When Rhythm Seer enters, create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+Discard Rhythm Seer: Conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i] => When Rhythm Seer enters, choose one —
+• Conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+• Create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+
+Roaring Songstress
+rules_text: Stardom {3}{R}{R} [i](Pay {3}{R}{R} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Menace
+When Roaring Songstress enters, it deals damage to each opponent equal to its power. => Stardom {3}{R}{R} [i](Pay {3}{R}{R} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Menace
+When Roaring Songstress enters, it deals X damage to each player, where X is its power.
+
+Undercity Peacekeeper
+
+Lurking Insomniac
+
+Miko, Who Sings With Heart
+cost: {3}{U}{U} => {3}{U}{R}
+
+Introversion
+
+Screaming into the Rain
+rules_text: Your maximum hand size is 1.
+Whenever you draw a card, put a scream counter on Screaming into the Rain.
+At the beginning of your first main phase, draw a card for each counter on Screaming into the Rain. => When Screaming into the Rain enters, discard any number of cards, then draw that many cards plus one.
+Whenever you cast a noncreature spell, Screaming into the Rain deals 3 damage to any target if that spell has the same name as a card in your graveyard.
+
+Vielle's Rosethorn Crown
+rules_text: Whenever you activate a loyalty ability of a permanent, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+{1}, {T}: Scry 2. => Whenever you activate a loyalty ability, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+{1}, {T}, Discard a card: Draw a card.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Live Like No Tomorrow added.
