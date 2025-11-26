@@ -1,4 +1,17 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Iason, Voice of the Admirers added.
+
+Iason, Watercolor Mage removed.
+
+Serin, Exponent Mage
+rules_text: Serin, Exponent Mage enters with three +1/+1 counters on her.
+[/b]Each creature card in your hand and each other attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i] => Serin enters with three +1/+1 counters on her.
+[/b]Each creature card in your hand and each attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Keris, the Holo-Witch added.

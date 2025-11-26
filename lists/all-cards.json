@@ -1623,7 +1623,7 @@
             "number": 187,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "Serin, Exponent Mage enters with three +1/+1 counters on her.\n[/b]Each creature card in your hand and each other attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]",
+            "rules_text": "Serin enters with three +1/+1 counters on her.\n[/b]Each creature card in your hand and each attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -2129,7 +2129,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "Iason, Watercolor Mage",
+            "card_name": "Iason, Voice of the Admirers",
             "color": "U",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Artist",
