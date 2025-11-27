@@ -1711,14 +1711,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "I Am a Rockstar",
+            "card_name": "I Am A Rockstar",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2013 Idolatry",
             "number": 141,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Flash\n[/b]Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]\nWhen I Am a Rockstar enters, target creature you control gets +2/+2 until end of turn.",
+            "rules_text": "Flash\n[/b]Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]\nWhen I Am A Rockstar enters, target creature you control gets +2/+2 until end of turn.",
             "flavor_text": "[i]\u201cRockstars love to rock. Fans love to love.\u201d\n\u2014Shayu[/i]",
             "pt": "",
             "special_text": "",

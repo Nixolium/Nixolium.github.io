@@ -1,4 +1,12 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+I Am A Rockstar added.
+
+I Am a Rockstar removed.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Iason, Voice of the Admirers added.
