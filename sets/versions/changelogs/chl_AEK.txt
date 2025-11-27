@@ -1,4 +1,15 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Vielle's Perch
+rules_text: When Vielle's Perch enters, you may discard a card. If you do, return target legendary card from your graveyard to your hand.
+The first legendary spell you cast during each of your turns costs {1} less to cast. => When Vielle's Perch enters, you may discard a card. If you do, return target legendary card from your graveyard to your hand.
+At the beginning of your end step, you may put a +1/+1 counter or a loyalty counter on target legendary permanent you control.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 

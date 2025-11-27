@@ -3132,7 +3132,7 @@
             "number": 195,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "When Vielle's Perch enters, you may discard a card. If you do, return target legendary card from your graveyard to your hand.\nThe first legendary spell you cast during each of your turns costs {1} less to cast.",
+            "rules_text": "When Vielle's Perch enters, you may discard a card. If you do, return target legendary card from your graveyard to your hand.\nAt the beginning of your end step, you may put a +1/+1 counter or a loyalty counter on target legendary permanent you control.",
             "flavor_text": "[i]One gentle push from oblivion.[/i]",
             "pt": "",
             "special_text": "",
