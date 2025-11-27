@@ -1,4 +1,585 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Virtual Avatar
+
+Aethershell Holo
+
+Dream
+
+Rainbow Seeker
+
+Blackhat Apothecary
+
+Rooftop Violinist
+
+Jealous Rival
+
+Beloved Antihero
+
+Fan Following
+
+Hero from Fiction
+
+The Girl in the Chair
+
+Top of the Charts
+
+Talent Scout
+
+Perhaps
+
+Pull From the Hat
+
+Critique
+
+Superstar
+
+Brazen Delinquent
+
+Lightshow Ascetic
+
+Hobby Shop
+
+Murasi Runaway
+
+Rhythm Seer
+
+Tsukuri Biomancer
+
+Neon Streetcleaner
+
+Sky Scraper
+
+Traverse the City
+
+Not Today
+
+Digitization Rig
+
+Serenyi's Shell
+
+Sunflower Painter
+
+Party Planner
+
+Moonlit Lantern Festival
+
+Leyline Traveler
+
+Live Like No Tomorrow
+
+Neon City Racer
+
+Roaring Songstress
+
+Reflected Frame
+
+Getaway Driver
+
+Kaede Troublemakers
+
+Idol of Playthings
+
+Wayward Musicians
+
+Let Him Cook
+
+Cabaret Bouncer
+
+Waiting for You
+
+She Has a Gun
+
+Neon Lights
+
+Spice
+
+Midnight Dreamer
+
+Undercity Peacekeeper
+
+Moyro Fixer
+
+Sudden Star
+
+Akiyama Rim
+
+Isolated Wayfarer
+
+Holofield Operator
+
+Inseparable Besties
+
+Twirl
+
+Nah
+
+Alone With My Thoughts
+
+Fall Out
+
+Birdbrained
+
+Lunar Contessa
+
+Masked Singer
+
+Satsukai Fixer
+
+Astral Pianist
+
+Fantasy Aspirant
+
+Edgeworld Voyager
+
+Cheering Fangirl
+
+Fallen Icon
+
+Dark Comedy Duo
+
+Existential Paradox
+
+Experienced Animator
+
+Meet Me At Sundown
+
+Missing Papers
+
+Hardened Pickup
+
+We Could Be Supervillains
+
+Kenji and Momoka
+
+Kataleptic Scholar
+
+Irrelevance
+
+Shadowbinding
+
+Gleaming Importance
+
+Eyes That Bite
+
+Here Without You
+
+Kagami, Firework Reveler
+
+Showrunner
+
+Pastel Travelers
+
+Serin, Exponent Mage
+
+Social Executioner
+
+Polyp Pools
+
+Sunshine Icon
+
+From Grassroots
+
+I Am A Rockstar
+
+Ellis, Paradise Painter
+rules_text:  => Whenever you cast another multicolored or planeswalker spell, create a 1/1 white Human creature token.
+[-1]: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+[-2]: Put target permanent card from your graveyard on top of your library.
+
+Koto, Snapshot Storyteller
+
+Idiosyncratic Savant
+
+Holographic Darling
+
+Miseko Kiteflier
+
+Exalted Gossipers
+
+Midnight Sommelier
+
+Seventh Street Vandal
+
+Neon Streetracer
+
+Sundown Slow Dancers
+
+Lurking Insomniac
+
+Skybridge Joyrider
+
+Alicia, the Final Dawn
+
+Nexus Technician
+
+Sempiternal Witch
+
+Citron Bartender
+
+Ezren, Speedrunner
+
+Fiery Prominence
+
+Nezuri, Toxic Princess
+
+Heartsprung
+
+Lamplighter
+
+Iason, Voice of the Admirers
+
+Extraplanar Explorer
+
+Shorekeeper
+
+Wandering Halovian
+
+Miko, Who Sings With Heart
+
+Flirt with Disaster
+
+From the Mirror
+
+Omniscent Reader
+
+Sly Consigliere
+
+Yume, Miseko Producer
+
+Cursed Catlover
+
+Puddle Stomper
+
+Lost From Reality
+
+A Practical Guide to Evil
+
+Blade Alley Vigilantes
+
+Hyacin, the Awemaker
+
+Inspiring Idol
+
+Introversion
+
+Kyv, Sanguine Avante
+
+Luminescent Idol
+
+Resplendent Idol
+
+Screaming into the Rain
+
+Spark Hunter Kajiwara Ai
+rules_text:  => Whenever you activate one of Ai's loyalty abilities, create a 2/2 Soldier artifact creature token with that ability, except it costs [+1] to activate.
+[+1]: Ai deals 1 damage to target player or planeswalker. You gain 1 life.
+[-3]: Draw a card. You lose 1 life.
+[-7]: Each opponent sacrifices a permanent and discards a card.
+
+Serenyi, the Benevolent
+
+Villainous Idol
+
+Kaede, the City Below
+
+Miseko, Urban Crossroads
+
+Satsukai, Nexus of Lights
+
+Tsukuri, Lantern Sanctum
+
+Nyano, Serene Shrine
+
+Vielle's Perch
+
+Vielle Never Sleeps
+
+Kalista, Citron Don
+
+Shock Paintress
+
+Shiroyuki, the Everygirl
+rules_text:  => Whenever you conjure one or more cards, put a loyalty counter on Shiroyuki.
+[0]: Conjure Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i]
+[-2]: Untap up to two target permanents.
+[-6]: You get an emblem with “Whenever you cast a noncreature spell, create a 1/1 blue Elemental creature token with flying.”
+
+Reclusive Cynic
+
+Fiona Tsukuri
+rules_text:  => [+1]: Draw a card for each legendary creature and/or planeswalker you control.
+[-3]: Return another target permanent to its owner's hand.
+[-7]: Target opponent exiles all but the bottom card of their library.
+
+Concentrate
+
+Rising Flames
+
+Sea Cache
+
+Demonic Tutor
+
+Drain
+
+Storm Crow
+
+Thoughts
+
+Yri, Utonian Hero
+
+Human_1
+
+Human_2
+
+Copy
+
+Horror
+
+Toy
+
+Soldier
+
+Cat
+
+Idolatry
+
+Vielle, Undercity Wayfarer
+
+Tolen, the Paradisiac
+rules_text:  => When you cast Tolen, the Paradisiac, you may search your library for a card, put it into your graveyard, then shuffle.
+[+2]: Conjure a duplicate of target card in a graveyard into your graveyard.
+[-1]: Each opponent sacrifices an artifact or enchantment.
+[-3]: Return target card from your graveyard to your hand.
+
+Alice, Wonderbane
+rules_text:  => When Alice enters, you may gain control of target creature. If you do, Alice phases out until that creature leaves the battlefield.
+[+1]: Target creature or planeswalker loses all abilities until your next turn.
+[-2]: Draw three cards, then discard two cards unless you discard an Alice or sorcery card.
+[-5]: Return all Alice and sorcery cards from your graveyard to your hand.
+
+The Icelord of Severed Chains
+
+Naoko, Onigaiko Transfer
+
+Shayu, Epsilon Remnant
+
+Viktoria, the Heartline
+
+Secret Rendezvous
+
+Elemental
+
+Mischief
+
+Corsenna, Planar Sightseer
+
+Luminescent Vision
+
+Villainous Vision
+
+Resplendent Vision
+
+Idyllic Vision
+
+Need for Speed
+cost: {1{U}R} => {1}{UR}
+
+Bounding Companion
+cost: {1{R}W} => {1}{RW}
+
+Inspiring Vision
+
+Lightning Strike
+
+Volcanic Dragon
+
+Unsummon
+
+Voyager
+
+Exeunt
+
+Night's Whisper
+
+Redemption
+
+Superstar_sen
+
+Akane, Linearity Breaker
+
+Bleed
+
+Chroma Network Rival
+
+Repose
+
+Setting Sun
+
+Disenchant
+
+Touka, Afterlife Specialist
+
+Barhopping in Miseko
+
+Among the Glowmoths
+
+Crescendo for the Crown
+cost: {1{B}R} => {1}{BR}
+
+Seventh Street Assembly
+
+Rainy Night Voyager
+
+Six Requiems
+
+Moonglow Romantic
+
+Miss Navia Cosgrove
+rules_text:  => As long as Navia has three or fewer loyalty counters on her, you may activate her loyalty abilities on any player's turn any time you could cast an instant.
+[+1]: Create a 1/1 blue Elemental creature token with flying. It can't block this turn.
+[0]: Tap target nonland permanent.
+[-2]: Exile the top two cards of your library. Until the end of your next turn, you may play one of those cards.
+
+Luminous City
+
+Halcyon Road
+
+Celosia's Emblem
+
+Shiroyuki's Emblem
+
+Celosia on Burning Wings
+rules_text:  => Celosia's loyalty abilities costs [+1] to activate for each noncreature spell you've cast this turn.
+[0]: Discard a card, then draw a card.
+[-3]: Celosia deals 3 damage to any target.
+[-7]: You get an emblem with “Creatures you control have prowess, prowess, prowess, and haste.”
+
+Heartfelt Composition
+
+Beloved Icon
+
+Embrace
+
+Kairos, Colorsmith
+rules_text:  => When Kairos enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+[+1]: Each player draws a card.
+[-2]: Target creature or enchantment you control becomes a 3/3 white Avatar enchantment creature in addition to its other colors and types.
+
+Imaginative Sojourner
+
+Dreamglass Melody
+
+Idyllic Idol
+
+Azalea, New Apocrypha
+
+All the Time in the World
+
+Azuscent Starchild
+
+Vielle's Rosethorn Crown
+
+Gravity Defier
+
+Thunder Stage Singer
+
+Heroes are Never Late
+
+Alicia's Daybreaker
+
+Eventide Rendezvous
+
+Selenite Flowergirl
+
+Make Believer
+
+The 99 Lives of Shiroyuki
+
+Keris, the Holo-Witch
+
+Planesculpting
+
+Silver Kitsune
+
+Zeal
+
+The Dreamglass Majesty
+
+Lunar Halo
+
+Ishakawa, Chroma Prodigy
+
+Empower
+
+Treasure
+
+Knife
+
+Clue
+
+Aekyan Nights
+
+Campfire Storyteller
+
+Legends Remembered
+
+Victim of Boredom
+
+One Night Heartbreaker
+
+To Save a Broken Heart
+
+Amyuki, Slightly Clumsy
+
+Yri's Secret Hideout
+
+Whimsical Storytelling
+
+Unconventional Artistry
+
+The Chroma Network
+
+Anticello, Cold Confidence
+rules_text:  => Once each turn, when you gain or lose life, put a loyalty counter on Anticello.
+[+1]: Conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i]
+
+Aviation Hub
+
+Construction Zone
+
+Decadent Nightclub
+
+Feline Sanctuary
+
+Frostbitten Park
+
+Opulent Casino
+
+Shopping Mall
+
+Skyline Lookout
+
+Undercity Alley
+
+Urban Gardens
+
+Mistencharm Resplendant
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+
+Charming Confidant
+
+
+VERSION 17 CHANGELOG
 ====================
 
 I Am A Rockstar added.
