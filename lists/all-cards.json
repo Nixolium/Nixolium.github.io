@@ -6176,8 +6176,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "SENNEZ",
+            "alias": "",
+            "position": "0",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Infected Writheguard",
@@ -6187,7 +6190,7 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{1}{W}, Discard Infected Writheguard: Noncreature spells cost {2} more to cast until your next turn.",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{1}{W}, Discard Infected Writheguard: Noncreature spells cost {2} more to cast until your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -6195,8 +6198,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yoviro--Soon",
+            "alias": "",
+            "position": "1",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Amyuki and Foil",
@@ -6206,7 +6212,7 @@
             "number": 5,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{3}{W}: Reveal the top six cards of your library. You may put a legendary card revealed this way into your hand. Put the rest on the bottom of your library in any order.",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{3}{W}: Reveal the top six cards of your library. You may put a legendary card revealed this way into your hand. Put the rest on the bottom of your library in any order.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -6214,8 +6220,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Qosic",
+            "alias": "",
+            "position": "2",
             "notes": "W",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "EnLight Devotee",
@@ -6225,7 +6234,7 @@
             "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{2}{W}{W}, Discard EnLight Devotee: Create a 4/4 white Angel creature token with flying. Activate only if you control a nonland legendary permanent.",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{2}{W}{W}, Discard EnLight Devotee: Create a 4/4 white Angel creature token with flying. Activate only if you control a nonland legendary permanent.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -6233,8 +6242,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "yono",
+            "alias": "",
+            "position": "3",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wyri and Her Leviathan",
@@ -6244,7 +6256,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "When Wyri enters, create a 2/2 Drone artifact creature token.\nWhenever a nonlegendary token creature you control enters, you may put a flying and a +1/+1 counter on it. If you do, it becomes legendary.",
+            "rules_text": "When Wyri enters, create a 2/2 Drone artifact creature token.\nWhenever a nonlegendary creature token you control enters, put a flying counter and a +1/+1 counter on it. It becomes legendary.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -6252,8 +6264,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "86---86",
+            "alias": "",
+            "position": "4",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prototype Doll",
@@ -6263,7 +6278,7 @@
             "number": 17,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "At the beginning of your end step, if you've activated three or more nonmana abilities this turn, put a +1/+1 counter on Prototype Doll. You gain 2 life.",
+            "rules_text": "At the beginning of your end step, if you've activated a nonmana abilities this turn, put a +1/+1 counter on Prototype Doll. You gain 1 life.",
             "flavor_text": "[i]\u201cOnly the most perfect from a million are used, and even then, only as a plaything.\u201d\n\u2014Argrave Osgood[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -6271,8 +6286,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "rcs 4",
+            "alias": "",
+            "position": "5",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Angelspawn Procedure",
@@ -6290,8 +6308,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u304d\u3083\u306e",
+            "alias": "",
+            "position": "6",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Be Not Afraid",
@@ -6309,8 +6330,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Neg101",
+            "alias": "",
+            "position": "7",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Entropic Extella",
@@ -6328,8 +6352,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Las-T",
+            "alias": "",
+            "position": "8",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "DEEP Anomaly",
@@ -6339,7 +6366,7 @@
             "number": 26,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\nDiscard a card: DEEP Anomaly gains flying until end of turn.\n{2}{U}: Create a Clue token.",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\nDiscard a card: DEEP Anomaly gains flying until end of turn.\n{2}{U}: Create a Clue token.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -6347,8 +6374,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Rashedjrs",
+            "alias": "",
+            "position": "9",
             "notes": "2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Script Kitty",
@@ -6366,8 +6396,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Francesco Sebastiano Zizza",
+            "alias": "",
+            "position": "10",
             "notes": "2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Network Scanner",
@@ -6377,7 +6410,7 @@
             "number": 33,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Whenever you discard or exile a card from your hand, create a Clue token.\n{3}{U}{U}, Sacrifice a Clue: Search your library for an artifact card, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "Whenever you discard or exile a card from your hand, create a Clue token.\n{2}{U}{U}, Sacrifice a Clue: Search your library for an artifact card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i][Sentience detected... Analyzing...][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -6385,8 +6418,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Pino44io",
+            "alias": "",
+            "position": "11",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chrome Coilfish",
@@ -6404,8 +6440,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Matsuba10",
+            "alias": "",
+            "position": "12",
             "notes": "3 \u2014 > 2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Smogdrifter",
@@ -6415,7 +6454,7 @@
             "number": 35,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Flying\nWhen Smogdrifter enters or you cycle it, create two Clue tokens.\nCycling {2}{U} [i]({2}{U}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "Flying\nWhenever Smogdrifter enters, create a Clue token, then sacrifice any number of Clues. Draw a card for each token sacrificed this way.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -6423,8 +6462,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "VincentiusMatthew",
+            "alias": "",
+            "position": "13",
             "notes": "4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leviathan",
@@ -6442,8 +6484,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Matsuba10",
+            "alias": "",
+            "position": "14",
             "notes": "!exportname Leviathan",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Railgun Etheree",
@@ -6461,8 +6506,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "olopheris",
+            "alias": "",
+            "position": "15",
             "notes": "6",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wavedash",
@@ -6480,8 +6528,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "hirotoshi",
+            "alias": "",
+            "position": "16",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kinetic Fling",
@@ -6499,8 +6550,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Control (Remedy Entertainment)",
+            "alias": "",
+            "position": "17",
             "notes": "hellbent",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Digital Cruise",
@@ -6518,8 +6572,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Chitose Rin",
+            "alias": "",
+            "position": "18",
             "notes": "draw spell",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dazing Chains",
@@ -6529,7 +6586,7 @@
             "number": 24,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Accelerate [i](Each card exiled from your hand face down while casting this spell pays for {2}. As a sorcery, pay {2} to return a card exiled this way to your hand.)[/i]\nTap target nonland permanent. Put four stun counters on it.",
+            "rules_text": "Accelerate [i](Each card exiled from your hand face down while casting this spell pays for {2}. As a sorcery, pay {2} to return a card exiled this way to your hand.)[/i]\nTap target nonland permanent. Put three stun counters on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6537,8 +6594,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Scott Uminga",
+            "alias": "",
+            "position": "19",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "All Eyes on You",
@@ -6556,8 +6616,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "lonely",
+            "alias": "",
+            "position": "20",
             "notes": "wildcard, hivemind",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "TOME 42",
@@ -6575,8 +6638,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u5b50\u7551",
+            "alias": "",
+            "position": "21",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ayin, New Humanity's First",
@@ -6594,8 +6660,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u3057\u3087\u304f\u3080\u3089",
+            "alias": "",
+            "position": "22",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Qod, Chained and Sleeping",
@@ -6613,8 +6682,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u3057\u3087\u304f\u3080\u3089",
+            "alias": "",
+            "position": "23",
             "notes": "2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Identity Inquisitor",
@@ -6632,8 +6704,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "tia67884314",
+            "alias": "",
+            "position": "24",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pristine Blacksteel",
@@ -6651,8 +6726,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "86---86",
+            "alias": "",
+            "position": "25",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Marrowmaw, WORM Deviant",
@@ -6670,8 +6748,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "86---86",
+            "alias": "",
+            "position": "26",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "False Shiroyuki, Yeshin's Next",
@@ -6689,8 +6770,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yurika-R",
+            "alias": "",
+            "position": "27",
             "notes": "5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kerna, the First God Machine",
@@ -6708,8 +6792,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "monokubo",
+            "alias": "",
+            "position": "28",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nemesis Protocols",
@@ -6727,8 +6814,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u51ac\u706f",
+            "alias": "",
+            "position": "29",
             "notes": "conditional removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cold Hearts Still Beat",
@@ -6746,8 +6836,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Neg101",
+            "alias": "",
+            "position": "30",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fleshmoon Whispers",
@@ -6765,8 +6858,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb",
+            "alias": "",
+            "position": "31",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Go for the Throat",
@@ -6784,8 +6880,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Daichi",
+            "alias": "",
+            "position": "32",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shut Up Shut Up Shut Up",
@@ -6803,8 +6902,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yuumei",
+            "alias": "",
+            "position": "33",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Red Bastion Guide",
@@ -6814,16 +6916,19 @@
             "number": 66,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{T}, Discard a card: Red Bastion Guide deals 1 damage to each player.",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\nSacrifice an artifact token: Red Bastion Guide deals 1 damage to each opponent.",
             "flavor_text": "[i]When the world ends, desperate people will believe in anything.[/i]",
-            "pt": "1/2",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "EPS",
             "loyalty": "",
             "artist": "Neg101",
+            "alias": "",
+            "position": "34",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "SKAI Vyper",
@@ -6833,7 +6938,7 @@
             "number": 68,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{4}{R}{R}: Target creature's controller may sacrifice it. If they don't, SKAI Vyper deals 3 damage to them.",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{4}{R}{R}: Target creature's controller may sacrifice it. If they don't, SKAI Vyper deals 3 damage to them.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -6841,8 +6946,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Rotarran",
+            "alias": "",
+            "position": "35",
             "notes": "4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Entangled Invader",
@@ -6852,7 +6960,7 @@
             "number": 60,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{3}{R}: You may discard a card. If you do, exile the top two cards of your library. You may play one of them this turn.",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{3}{R}: You may discard a card. If you do, exile the top two cards of your library. You may play one of them this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -6860,15 +6968,18 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Juhannuskostaja",
+            "alias": "",
+            "position": "36",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "New Divinity's Gaze",
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 64,
+            "number": 63,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Accelerate [i](Each card exiled from your hand face down while casting this spell pays for {2}. As a sorcery, pay {2} to return a card exiled this way to your hand.)[/i]\nGain control of target nonland permanent until end of turn. Untap that permanent. It gains haste until end of turn.",
@@ -6879,8 +6990,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yuta Kawakami",
+            "alias": "",
+            "position": "37",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Synod Anomaly",
@@ -6898,8 +7012,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "rcs 4",
+            "alias": "",
+            "position": "38",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zipline, Neon Maverick",
@@ -6917,8 +7034,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Nova",
+            "alias": "",
+            "position": "39",
             "notes": "4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "On the Benefits of Flesh",
@@ -6936,8 +7056,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb",
+            "alias": "",
+            "position": "40",
             "notes": "2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "SKAI, Horizon's End",
@@ -6955,8 +7078,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "lifeline",
+            "alias": "",
+            "position": "41",
             "notes": "5(?)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Break the Glass",
@@ -6974,8 +7100,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "QYS3",
+            "alias": "",
+            "position": "42",
             "notes": "Efficient Removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whitewing's Blessing",
@@ -6993,15 +7122,18 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Homutan",
+            "alias": "",
+            "position": "43",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Maverick's Renegade",
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Human Rogue",
-            "number": 63,
+            "number": 62,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Accelerate [i](Each card exiled from your hand face down while casting this spell pays for {2}. As a sorcery, pay {2} to return a card exiled this way to your hand.)[/i]\nWhen you return this card from exile to your hand, you may reveal it. If you do, put it onto the battlefield.",
@@ -7012,27 +7144,33 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Fuchsia",
+            "alias": "",
+            "position": "44",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Left on Wayside",
+            "card_name": "Nobody Left is Real",
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 62,
+            "number": 64,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact.\n\u2022 Add {R}{R}{R}.",
-            "flavor_text": "[i]Wherever she looked, Celosia found people. Sometimes they said nothing. Sometimes they pleaded with her to save them. She kept moving, because none of them were real.[/i]",
+            "cost": "{1}{R}{R}",
+            "rules_text": "Add {R}{R}{R}{R}. When you do, you may pay {X}. If you do, create a token that's a copy of target creature with mana value X or less. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+            "flavor_text": "[i]Everywhere, Celosia found people. Sometimes they said nothing. Sometimes they pleaded with her to save them. She ignored them.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "EPS",
             "loyalty": "",
             "artist": "Rotarran",
+            "alias": "",
+            "position": "45",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cold Detonation",
@@ -7050,8 +7188,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Skyrick9413",
+            "alias": "",
+            "position": "46",
             "notes": "hellbent",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gehenna Ray",
@@ -7069,8 +7210,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Fran Lu",
+            "alias": "",
+            "position": "47",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "WORM Stalks",
@@ -7088,8 +7232,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Matsuba10",
+            "alias": "",
+            "position": "48",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "BGNS Fleshproduct",
@@ -7107,8 +7254,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Matsuba10",
+            "alias": "",
+            "position": "49",
             "notes": "2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Space Racer",
@@ -7126,8 +7276,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Lemtun",
+            "alias": "",
+            "position": "50",
             "notes": "1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Penda, Leyweaver",
@@ -7145,8 +7298,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Syh3iua83",
+            "alias": "",
+            "position": "51",
             "notes": "3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The BGNS Initiative",
@@ -7164,8 +7320,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "lobelia",
+            "alias": "",
+            "position": "52",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "WORM, Mirage Serpent",
@@ -7183,8 +7342,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "NUEE",
+            "alias": "",
+            "position": "53",
             "notes": "5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scarholm Reaver",
@@ -7202,8 +7364,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Pierre-Yves",
+            "alias": "",
+            "position": "54",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yeshin, BGNS Harbinger",
@@ -7221,8 +7386,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "olopheris",
+            "alias": "",
+            "position": "55",
             "notes": "off colors",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Voiceless Sanctuary",
@@ -7232,7 +7400,7 @@
             "number": 85,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{1}{G}, Discard a card: Create two tapped 2/1 red Human creature tokens.\n{2}{G}{G}: Up to two creatures become 6/6. [i](This lasts indefinitely.)[/i]",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{1}{G}, Discard a card: Create two tapped 2/1 red Human creature tokens.\n{2}{G}{G}: Up to two creatures become 6/6. [i](This lasts indefinitely.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -7240,8 +7408,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "TAKETA",
+            "alias": "",
+            "position": "56",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grisly Retrieval",
@@ -7259,15 +7430,18 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "LiberareLimbus",
+            "alias": "",
+            "position": "57",
             "notes": "fight",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Everlasting Mantle",
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2013 Aura",
-            "number": 76,
+            "number": 75,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Flash\nEnchant creature\nWhen Everlasting Mantle enters, enchanted creature gains protection from noncreature until end of turn.\nEnchanted creature gets +2/+2.",
@@ -7278,8 +7452,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "minasemochii",
+            "alias": "",
+            "position": "58",
             "notes": "trick",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Illiterate Prorator",
@@ -7297,8 +7474,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "ptitvinc",
+            "alias": "",
+            "position": "59",
             "notes": "land tutor",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Allocate Potential",
@@ -7316,8 +7496,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Fran Lu",
+            "alias": "",
+            "position": "60",
             "notes": "Tutor",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eminevoyance",
@@ -7335,8 +7518,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yoshimura",
+            "alias": "",
+            "position": "61",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Atelier Technopath",
@@ -7354,8 +7540,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u5915\u98df@Y.x",
+            "alias": "",
+            "position": "62",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Palesign Death Engine",
@@ -7373,8 +7562,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "86---86",
+            "alias": "",
+            "position": "63",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kalista, Gilded Mixologist",
@@ -7392,8 +7584,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "alcd",
+            "alias": "",
+            "position": "64",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Epsilon Network",
@@ -7403,7 +7598,7 @@
             "number": 95,
             "color_identity": "UG",
             "cost": "{G}{U}",
-            "rules_text": "The Epsilon Network can't be blocked.\nNoncreature tokens you control have The Epsilon Network's activated abilities.\n{4}: This permanent becomes a 4/4 Eye creature in addition to its other types.",
+            "rules_text": "The Epsilon Network has the activated abilities of each Eye you control.\n{4}: Target noncreature token becomes a 4/4 Eye creature in addition to its other types. It gains flying. [i](Indefinitely.)[/i]",
             "flavor_text": "[i]Every screen shows the same smiling face.[/i]",
             "pt": "",
             "special_text": "",
@@ -7411,8 +7606,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u722a\u7d05\u30a2\u30ec\u30ad",
+            "alias": "",
+            "position": "65",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Whirring Grows Louder",
@@ -7430,8 +7628,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Matsuba10",
+            "alias": "",
+            "position": "66",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wireframe Curator",
@@ -7441,7 +7642,7 @@
             "number": 105,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{4}: Create a Core token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: Create a 2/2 Drone artifact creature token.\u201d)[/i]",
+            "rules_text": "Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]\n{4}: Create a Core token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this artifact: Create a 2/2 Drone artifact creature token.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -7449,8 +7650,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Rotata",
+            "alias": "",
+            "position": "67",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Azalea, Otherworld Executioner",
@@ -7468,8 +7672,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Rolua",
+            "alias": "",
+            "position": "68",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Yesterday Machine",
@@ -7487,8 +7694,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Kristyglas",
+            "alias": "",
+            "position": "69",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blackbox Gate",
@@ -7506,8 +7716,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u30de\u30c4\u30d0",
+            "alias": "",
+            "position": "70",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nauta, the Eons Watch",
@@ -7525,8 +7738,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "DaiSanVisART",
+            "alias": "",
+            "position": "71",
             "notes": "boss4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Argrave Osgood",
@@ -7544,8 +7760,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "olopheris",
+            "alias": "",
+            "position": "72",
             "notes": "off colors",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "She Who is CENSORED",
@@ -7563,8 +7782,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "oO Marne",
+            "alias": "",
+            "position": "73",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shayu, Palesign Ranger",
@@ -7582,8 +7804,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "ian46166491",
+            "alias": "",
+            "position": "74",
             "notes": "3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Synthetic Black Hole",
@@ -7601,8 +7826,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "rsef",
+            "alias": "",
+            "position": "75",
             "notes": "hellbent",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Everything is Sharp and Hurts",
@@ -7620,8 +7848,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Daichi",
+            "alias": "",
+            "position": "76",
             "notes": "Discard",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deauthorize",
@@ -7639,8 +7870,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Scott Uminga",
+            "alias": "",
+            "position": "77",
             "notes": "debbuff? RU13",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enter the Alterverse",
@@ -7658,8 +7892,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Afterdarqq",
+            "alias": "",
+            "position": "78",
             "notes": "U11 Draw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orb Eater",
@@ -7677,8 +7914,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u30bf\u30ec\u30e1\u30bf\u30eb",
+            "alias": "",
+            "position": "79",
             "notes": "2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kura, Deadzone Innovator",
@@ -7696,8 +7936,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Murakaruki",
+            "alias": "",
+            "position": "80",
             "notes": "3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Violence Without Reason",
@@ -7715,8 +7958,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Neg101",
+            "alias": "",
+            "position": "81",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Science Gone Too Far",
@@ -7734,8 +7980,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Neg101",
+            "alias": "",
+            "position": "82",
             "notes": "Wildcard",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crowned by Eldritch Kings",
@@ -7753,8 +8002,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Neg101",
+            "alias": "",
+            "position": "83",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Somiel, EnLight Crown",
@@ -7772,8 +8024,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Kez Laczin",
+            "alias": "",
+            "position": "84",
             "notes": "6",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Celosia, the Level Runner",
@@ -7783,7 +8038,7 @@
             "number": 58,
             "color_identity": "R",
             "cost": "{R}{R}",
-            "rules_text": "",
+            "rules_text": "Whenever a source you control deals noncombat damage, put a loyalty counter on Celosia, then scry 1.\n[0]: Celosia deals 1 damage to target player or planeswalker.\n[-X]: Exile the top X cards of your library. You may play them this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever a source you control deals noncombat damage, put a loyalty counter on Celosia, then scry 1.\n[0]: Celosia deals 1 damage to target player or planeswalker.\n[-X]: Exile the top X cards of your library. You may play them this turn.",
@@ -7791,8 +8046,11 @@
             "set": "EPS",
             "loyalty": "2",
             "artist": "Sandara Tang",
+            "alias": "",
+            "position": "85",
             "notes": "Wildcard\n70,490",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hall of the Undesirables",
@@ -7810,8 +8068,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Matsuba10",
+            "alias": "",
+            "position": "86",
             "notes": "Noncreature; mana value 2-3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Celosia Conquers the Sky",
@@ -7829,8 +8090,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Lemtun",
+            "alias": "",
+            "position": "87",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deem Unnecessary",
@@ -7848,8 +8112,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Lubban",
+            "alias": "",
+            "position": "88",
             "notes": "Universal Removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Out of Order",
@@ -7867,8 +8134,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Aoi Ogata",
+            "alias": "",
+            "position": "89",
             "notes": "universal removal",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Walls Stained Red",
@@ -7886,8 +8156,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Mk",
+            "alias": "",
+            "position": "90",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Osgood's Lunacy Moderator",
@@ -7905,8 +8178,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yayaziii",
+            "alias": "",
+            "position": "91",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sacreligion's Intercessor",
@@ -7924,8 +8200,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Dinned",
+            "alias": "",
+            "position": "92",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Here Without You",
@@ -7943,8 +8222,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "ziro_",
+            "alias": "",
+            "position": "93",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Atelier Raycaster",
@@ -7954,7 +8236,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When Atelier Raycaster enters, you may return another permanent you control to its owner's hand. If you do, create a Clue token.\nSacrifice an artifact: Return Atelier Raycaster to its owner's hand.",
+            "rules_text": "When Atelier Raycaster enters, you may return another permanent you control to its owner's hand. If you do, create a Clue token.\nClues you control have \u201c{2}, {T}: Each player draws a card.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -7962,8 +8244,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Zhishi",
+            "alias": "",
+            "position": "94",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Halcyon Revolution",
@@ -7981,8 +8266,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "chun hay au yeung",
+            "alias": "",
+            "position": "95",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wayfarer's Shrine",
@@ -8000,8 +8288,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Rotarran",
+            "alias": "",
+            "position": "96",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Extraction Altar",
@@ -8019,8 +8310,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Lifeline",
+            "alias": "",
+            "position": "97",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Field of Blades",
@@ -8038,8 +8332,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "V-Nom",
+            "alias": "",
+            "position": "98",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Monitored Crossings",
@@ -8057,15 +8354,18 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Lifeline",
+            "alias": "",
+            "position": "99",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
-            "card_name": "Desperate Struggle",
+            "card_name": "Feed the Machine",
             "color": "G",
             "rarity": "rare",
             "type": "Instant",
-            "number": 75,
+            "number": 76,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact or enchantment.\n\u2022 Target creature you control deals damage equal to its power to target creature or planeswalker.",
@@ -8076,8 +8376,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Flaw_Eight",
+            "alias": "",
+            "position": "100",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Holographic River",
@@ -8095,8 +8398,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Sandara",
+            "alias": "",
+            "position": "101",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Desolate Highway",
@@ -8114,8 +8420,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Lifeline",
+            "alias": "",
+            "position": "102",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Murmuring Expanse",
@@ -8133,8 +8442,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "kerumu",
+            "alias": "",
+            "position": "103",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kerosine Coast",
@@ -8152,8 +8464,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yurika-R",
+            "alias": "",
+            "position": "104",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Industrial Wreckage",
@@ -8171,8 +8486,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Asteroid_ill",
+            "alias": "",
+            "position": "105",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Foyer",
@@ -8190,8 +8508,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yurika-R",
+            "alias": "",
+            "position": "106",
             "notes": "1 or fewer",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Radio Tower",
@@ -8209,8 +8530,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yurika-R",
+            "alias": "",
+            "position": "107",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Astral Ambiance",
@@ -8228,8 +8552,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u3051\u3093\u306f\u308b",
+            "alias": "",
+            "position": "108",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Query Network",
@@ -8247,8 +8574,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Homutan",
+            "alias": "",
+            "position": "109",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wicked Weaponry",
@@ -8266,8 +8596,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "NatureSan0",
+            "alias": "",
+            "position": "110",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quicksilver Holo",
@@ -8285,8 +8618,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Reiki",
+            "alias": "",
+            "position": "111",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Digital Champion",
@@ -8304,8 +8640,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "i-ron",
+            "alias": "",
+            "position": "112",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Serenyi, the Heresiarch",
@@ -8315,7 +8654,7 @@
             "number": 99,
             "color_identity": "BR",
             "cost": "{1}{B}{B}{R}",
-            "rules_text": "",
+            "rules_text": "When Serenyi dies, exile him. When you do, create Antihero's Path, a black Saga enchantment token with the following loyalty abilities as chapters, in order.\n[+1]: Create a 2/1 red Human creature token.\n[0]: Put a lifelink counter on target permanent you control.\n[-3]: This permanent deals 3 damage to any target. This damages creatures in the form of -1/-1 counters.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When Serenyi dies, exile him. When you do, create Antihero's Path, a black Saga enchantment token with the following loyalty abilities as chapters, in order.\n[+1]: Create a 2/1 red Human creature token.\n[0]: Put a lifelink counter on target permanent you control.\n[-3]: This permanent deals 3 damage to any target. This damages creatures in the form of -1/-1 counters.",
@@ -8323,8 +8662,11 @@
             "set": "EPS",
             "loyalty": "3",
             "artist": "doran7280",
+            "alias": "",
+            "position": "113",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spectral Spellbreaker",
@@ -8342,8 +8684,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Chouyin Vhu",
+            "alias": "",
+            "position": "114",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vielle, the Night Electric",
@@ -8361,8 +8706,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Rolua",
+            "alias": "",
+            "position": "115",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hexarchate Aethershell",
@@ -8380,8 +8728,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Rotata",
+            "alias": "",
+            "position": "116",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Synod Skitterer",
@@ -8399,8 +8750,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "dreaz",
+            "alias": "",
+            "position": "117",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -8418,8 +8772,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Lifeline",
+            "alias": "",
+            "position": "118",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -8437,8 +8794,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Asteroid_ill",
+            "alias": "",
+            "position": "119",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -8456,8 +8816,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Yurika-R",
+            "alias": "",
+            "position": "120",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -8475,8 +8838,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Asteroid_ill",
+            "alias": "",
+            "position": "121",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -8494,8 +8860,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Rotata",
+            "alias": "",
+            "position": "122",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Angel",
@@ -8513,8 +8882,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Void_0",
+            "alias": "",
+            "position": "123",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Horror",
@@ -8532,8 +8904,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Hangeling",
+            "alias": "",
+            "position": "124",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Human",
@@ -8551,8 +8926,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Gostcat",
+            "alias": "",
+            "position": "125",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clue",
@@ -8570,8 +8948,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Dirs\u963f\u828b",
+            "alias": "",
+            "position": "126",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Core",
@@ -8589,8 +8970,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Planetsandmagic",
+            "alias": "",
+            "position": "127",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drone",
@@ -8608,8 +8992,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "xskdizzy",
+            "alias": "",
+            "position": "128",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shiny Rock",
@@ -8627,8 +9014,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "\u3048\u3059\u3066\u3043\u304a",
+            "alias": "",
+            "position": "129",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Palesign",
@@ -8646,8 +9036,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "Catatonic_II",
+            "alias": "",
+            "position": "130",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Accelerate",
@@ -8665,8 +9058,11 @@
             "set": "EPS",
             "loyalty": "",
             "artist": "7nix",
+            "alias": "",
+            "position": "131",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Israfil, the Mourning",

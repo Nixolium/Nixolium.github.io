@@ -1,4 +1,324 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Nobody Left is Real added.
+Feed the Machine added.
+
+Left on Wayside removed.
+Desperate Struggle removed.
+
+Kerna's Surveyor
+
+Infected Writheguard
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{1}{W}, Discard Infected Writheguard: Noncreature spells cost {2} more to cast until your next turn. => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{1}{W}, Discard Infected Writheguard: Noncreature spells cost {2} more to cast until your next turn.
+
+Amyuki and Foil
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{3}{W}: Reveal the top six cards of your library. You may put a legendary card revealed this way into your hand. Put the rest on the bottom of your library in any order. => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{3}{W}: Reveal the top six cards of your library. You may put a legendary card revealed this way into your hand. Put the rest on the bottom of your library in any order.
+
+EnLight Devotee
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{2}{W}{W}, Discard EnLight Devotee: Create a 4/4 white Angel creature token with flying. Activate only if you control a nonland legendary permanent. => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{2}{W}{W}, Discard EnLight Devotee: Create a 4/4 white Angel creature token with flying. Activate only if you control a nonland legendary permanent.
+
+Wyri and Her Leviathan
+rules_text: When Wyri enters, create a 2/2 Drone artifact creature token.
+Whenever a nonlegendary token creature you control enters, you may put a flying and a +1/+1 counter on it. If you do, it becomes legendary. => When Wyri enters, create a 2/2 Drone artifact creature token.
+Whenever a nonlegendary creature token you control enters, put a flying counter and a +1/+1 counter on it. It becomes legendary.
+
+Prototype Doll
+rules_text: At the beginning of your end step, if you've activated three or more nonmana abilities this turn, put a +1/+1 counter on Prototype Doll. You gain 2 life. => At the beginning of your end step, if you've activated a nonmana abilities this turn, put a +1/+1 counter on Prototype Doll. You gain 1 life.
+
+Angelspawn Procedure
+
+Be Not Afraid
+
+Entropic Extella
+
+DEEP Anomaly
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+Discard a card: DEEP Anomaly gains flying until end of turn.
+{2}{U}: Create a Clue token. => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+Discard a card: DEEP Anomaly gains flying until end of turn.
+{2}{U}: Create a Clue token.
+
+Script Kitty
+
+Network Scanner
+rules_text: Whenever you discard or exile a card from your hand, create a Clue token.
+{3}{U}{U}, Sacrifice a Clue: Search your library for an artifact card, reveal it, put it into your hand, then shuffle. => Whenever you discard or exile a card from your hand, create a Clue token.
+{2}{U}{U}, Sacrifice a Clue: Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+
+Chrome Coilfish
+
+Smogdrifter
+rules_text: Flying
+When Smogdrifter enters or you cycle it, create two Clue tokens.
+Cycling {2}{U} [i]({2}{U}, Discard this card: Draw a card.)[/i] => Flying
+Whenever Smogdrifter enters, create a Clue token, then sacrifice any number of Clues. Draw a card for each token sacrificed this way.
+
+Leviathan
+
+Railgun Etheree
+
+Wavedash
+
+Kinetic Fling
+
+Digital Cruise
+
+Dazing Chains
+rules_text: Accelerate [i](Each card exiled from your hand face down while casting this spell pays for {2}. As a sorcery, pay {2} to return a card exiled this way to your hand.)[/i]
+Tap target nonland permanent. Put four stun counters on it. => Accelerate [i](Each card exiled from your hand face down while casting this spell pays for {2}. As a sorcery, pay {2} to return a card exiled this way to your hand.)[/i]
+Tap target nonland permanent. Put three stun counters on it.
+
+All Eyes on You
+
+TOME 42
+
+Ayin, New Humanity's First
+
+Qod, Chained and Sleeping
+
+Identity Inquisitor
+
+Pristine Blacksteel
+
+Marrowmaw, WORM Deviant
+
+False Shiroyuki, Yeshin's Next
+
+Kerna, the First God Machine
+
+Nemesis Protocols
+
+Cold Hearts Still Beat
+
+Fleshmoon Whispers
+
+Go for the Throat
+
+Shut Up Shut Up Shut Up
+
+Red Bastion Guide
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{T}, Discard a card: Red Bastion Guide deals 1 damage to each player. => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+Sacrifice an artifact token: Red Bastion Guide deals 1 damage to each opponent.
+pt: 1/2 => 1/1
+
+SKAI Vyper
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{4}{R}{R}: Target creature's controller may sacrifice it. If they don't, SKAI Vyper deals 3 damage to them. => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{4}{R}{R}: Target creature's controller may sacrifice it. If they don't, SKAI Vyper deals 3 damage to them.
+
+Entangled Invader
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{3}{R}: You may discard a card. If you do, exile the top two cards of your library. You may play one of them this turn. => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{3}{R}: You may discard a card. If you do, exile the top two cards of your library. You may play one of them this turn.
+
+New Divinity's Gaze
+
+Synod Anomaly
+
+Zipline, Neon Maverick
+
+On the Benefits of Flesh
+
+SKAI, Horizon's End
+
+Break the Glass
+
+Whitewing's Blessing
+
+Maverick's Renegade
+
+Cold Detonation
+
+Gehenna Ray
+
+WORM Stalks
+
+BGNS Fleshproduct
+
+Space Racer
+
+Penda, Leyweaver
+
+The BGNS Initiative
+
+WORM, Mirage Serpent
+
+Scarholm Reaver
+
+Yeshin, BGNS Harbinger
+
+Voiceless Sanctuary
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{1}{G}, Discard a card: Create two tapped 2/1 red Human creature tokens.
+{2}{G}{G}: Up to two creatures become 6/6. [i](This lasts indefinitely.)[/i] => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{1}{G}, Discard a card: Create two tapped 2/1 red Human creature tokens.
+{2}{G}{G}: Up to two creatures become 6/6. [i](This lasts indefinitely.)[/i]
+
+Grisly Retrieval
+
+Everlasting Mantle
+
+Illiterate Prorator
+
+Allocate Potential
+
+Eminevoyance
+
+Atelier Technopath
+
+Palesign Death Engine
+
+Kalista, Gilded Mixologist
+
+The Epsilon Network
+rules_text: The Epsilon Network can't be blocked.
+Noncreature tokens you control have The Epsilon Network's activated abilities.
+{4}: This permanent becomes a 4/4 Eye creature in addition to its other types. => The Epsilon Network has the activated abilities of each Eye you control.
+{4}: Target noncreature token becomes a 4/4 Eye creature in addition to its other types. It gains flying. [i](Indefinitely.)[/i]
+
+The Whirring Grows Louder
+
+Wireframe Curator
+rules_text: Scripted [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{4}: Create a Core token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Create a 2/2 Drone artifact creature token.”)[/i] => Encode [i](Whenever this creature attacks, you may activate one of its abilities without paying its costs.)[/i]
+{4}: Create a Core token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Create a 2/2 Drone artifact creature token.”)[/i]
+
+Azalea, Otherworld Executioner
+
+The Yesterday Machine
+
+Blackbox Gate
+
+Nauta, the Eons Watch
+
+Argrave Osgood
+
+She Who is CENSORED
+
+Shayu, Palesign Ranger
+
+Synthetic Black Hole
+
+Everything is Sharp and Hurts
+
+Deauthorize
+
+Enter the Alterverse
+
+Orb Eater
+
+Kura, Deadzone Innovator
+
+Violence Without Reason
+
+Science Gone Too Far
+
+Crowned by Eldritch Kings
+
+Somiel, EnLight Crown
+
+Celosia, the Level Runner
+rules_text:  => Whenever a source you control deals noncombat damage, put a loyalty counter on Celosia, then scry 1.
+[0]: Celosia deals 1 damage to target player or planeswalker.
+[-X]: Exile the top X cards of your library. You may play them this turn.
+
+Hall of the Undesirables
+
+Celosia Conquers the Sky
+
+Deem Unnecessary
+
+Out of Order
+
+Walls Stained Red
+
+Osgood's Lunacy Moderator
+
+Sacreligion's Intercessor
+
+Here Without You
+
+Atelier Raycaster
+rules_text: When Atelier Raycaster enters, you may return another permanent you control to its owner's hand. If you do, create a Clue token.
+Sacrifice an artifact: Return Atelier Raycaster to its owner's hand. => When Atelier Raycaster enters, you may return another permanent you control to its owner's hand. If you do, create a Clue token.
+Clues you control have “{2}, {T}: Each player draws a card.”
+
+The Halcyon Revolution
+
+Wayfarer's Shrine
+
+Extraction Altar
+
+Field of Blades
+
+Monitored Crossings
+
+Holographic River
+
+Desolate Highway
+
+Murmuring Expanse
+
+Kerosine Coast
+
+Industrial Wreckage
+
+Crimson Foyer
+
+Radio Tower
+
+Astral Ambiance
+
+Query Network
+
+Wicked Weaponry
+
+Quicksilver Holo
+
+Digital Champion
+
+Serenyi, the Heresiarch
+rules_text:  => When Serenyi dies, exile him. When you do, create Antihero's Path, a black Saga enchantment token with the following loyalty abilities as chapters, in order.
+[+1]: Create a 2/1 red Human creature token.
+[0]: Put a lifelink counter on target permanent you control.
+[-3]: This permanent deals 3 damage to any target. This damages creatures in the form of -1/-1 counters.
+
+Spectral Spellbreaker
+
+Vielle, the Night Electric
+
+Hexarchate Aethershell
+
+Synod Skitterer
+
+Angel
+
+Horror
+
+Human
+
+Clue
+
+Core
+
+Drone
+
+Shiny Rock
+
+Palesign
+
+Accelerate
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
