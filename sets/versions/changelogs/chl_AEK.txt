@@ -1,4 +1,35 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+Cabaret Bouncer
+rules_text: Haste
+Whenever you cast a noncreature spell, Cabaret Bouncer deals 2 damage to each opponent.
+{2}, Discard Cabaret Bouncer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => First strike
+Whenever you cast a noncreature spell, Cabaret Bouncer deals 2 damage to each opponent.
+{2}, Discard Cabaret Bouncer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+pt: 4/5 => 4/4
+
+Fall Out
+rules_text: Put target nonland permanent on the bottom of its owner's library.
+Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Put target nonland permanent on the bottom of its owner's library.
+Conjure Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i]
+
+Luminescent Idol
+rules_text: When Luminescent Idol enters, create a 1/1 white Human creature token.
+Humans you control have “Sacrifice this permanent: Another target creature or planeswalker you control gains hexproof until end of turn.” => When Luminescent Idol enters, create a 1/1 white Human creature token.
+Humans you control get “{1}, Sacrifice this creature: Target Human you control gains indestructible until end of turn.”
+
+Nixie, Novice Scriptwriter
+rules_text: Flash
+Islandwalk
+{0}: Until end of turn, target permanent becomes an Island land in addition to its other types. Activate only once each turn. [i](It gains “{T}: Add {U}.”)[/i] => Flash
+Islandwalk
+{0}: Until end of turn, target permanent becomes an Island land in addition to its other types. Activate only once each turn. [i](It has “{T}: Add {U}.”)[/i]
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Midnight's Call added.

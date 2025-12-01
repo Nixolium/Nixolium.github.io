@@ -856,9 +856,9 @@
             "number": 102,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "Haste\nWhenever you cast a noncreature spell, Cabaret Bouncer deals 2 damage to each opponent.\n{2}, Discard Cabaret Bouncer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
+            "rules_text": "First strike\nWhenever you cast a noncreature spell, Cabaret Bouncer deals 2 damage to each opponent.\n{2}, Discard Cabaret Bouncer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/5",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
@@ -1176,7 +1176,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Put target nonland permanent on the bottom of its owner's library.\nConjure Repose into your hand. [i](It's a {2} sorcery with \u201cDraw a card.\u201d)[/i]",
+            "rules_text": "Put target nonland permanent on the bottom of its owner's library.\nConjure Thoughts into your hand. [i](It's a {U} instant with \u201cDraw a card.\u201d)[/i]",
             "flavor_text": "[i]Nobody stays at the top forever.[/i]",
             "pt": "",
             "special_text": "",
@@ -2636,7 +2636,7 @@
             "number": 22,
             "color_identity": "W",
             "cost": "{1}{W}{W}{W}",
-            "rules_text": "When Luminescent Idol enters, create a 1/1 white Human creature token.\nHumans you control have \u201cSacrifice this permanent: Another target creature or planeswalker you control gains hexproof until end of turn.\u201d",
+            "rules_text": "When Luminescent Idol enters, create a 1/1 white Human creature token.\nHumans you control get \u201c{1}, Sacrifice this creature: Target Human you control gains indestructible until end of turn.\u201d",
             "flavor_text": "[i]Let her show you radiance.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5378,7 +5378,7 @@
             "number": 59,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Flash\nIslandwalk\n{0}: Until end of turn, target permanent becomes an Island land in addition to its other types. Activate only once each turn. [i](It gains \u201c{T}: Add {U}.\u201d)[/i]",
+            "rules_text": "Flash\nIslandwalk\n{0}: Until end of turn, target permanent becomes an Island land in addition to its other types. Activate only once each turn. [i](It has \u201c{T}: Add {U}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5611,5 +5611,5 @@
             "notes": ""
         }
     ],
-    "version": 20
+    "version": 21
 }
