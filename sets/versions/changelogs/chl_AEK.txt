@@ -1,4 +1,146 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Midnight's Call added.
+Tsukuri Holo-Witch added.
+Flowers Bloom Nowhere added.
+Teeming Wreckage added.
+Charming Agora added.
+Decadent Lounge added.
+Mysterious Cove added.
+Shadowy Crossroads added.
+Lonesome Road added.
+Frozen Ocean added.
+Abandoned Arcade added.
+Secluded Cemetery added.
+Daunting Precipice added.
+
+Heartsprung removed.
+Keris, the Holo-Witch removed.
+Unconventional Artistry removed.
+Aviation Hub removed.
+Construction Zone removed.
+Decadent Nightclub removed.
+Feline Sanctuary removed.
+Frostbitten Park removed.
+Opulent Casino removed.
+Shopping Mall removed.
+Skyline Lookout removed.
+Undercity Alley removed.
+Urban Gardens removed.
+
+The Girl in the Chair
+pt: 4/4 => 4/5
+
+Wayward Musicians
+rules_text: When Wayward Musicians enters, conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+Discard a card: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. => When Wayward Musicians enters, conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+Discard a card: Put a +1/+1 counter on target creature you control. Activate only once each turn as a sorcery.
+pt: 2/2 => 2/3
+
+Let Him Cook
+rules_text: When Let Him Cook enters or leaves the battlefield, conjure Rising Flames into your hand. [i](It's a {R} sorcery with “Rising Flames deals X damage each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.”)[/i]
+{3}{R}{R}, Sacrifice Let Him Cook: Create a 2/1 red Human creature token. => When Let Him Cook enters or leaves the battlefield, conjure Rising Flames into your hand. [i](It's a {R} sorcery with “Rising Flames deals X damage each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.”)[/i]
+{3}{R}{R}, Sacrifice Let Him Cook: Create a 2/1 red Human Reveler creature token.
+
+Cabaret Bouncer
+rules_text: First strike
+When Cabaret Bouncer enters, it deals 4 damage to any target.
+{2}, Discard Cabaret Bouncer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Haste
+Whenever you cast a noncreature spell, Cabaret Bouncer deals 2 damage to each opponent.
+{2}, Discard Cabaret Bouncer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Akiyama Rim
+rules_text: Prowess
+Whenever a creature you control with base power or toughness 1 enters, put a prowess counter on it. => Prowess
+Whenever another creature you control with base power or toughness 1 enters, put a prowess counter on it.
+pt: 2/3 => 3/1
+
+Fall Out
+type: Sorcery => Instant
+cost: {U}{U} => {4}{U}
+rules_text: Return target nonland permanent to its owner's hand. If you've conjured this turn, its owner puts it on the top or bottom of their library instead. => Put target nonland permanent on the bottom of its owner's library.
+Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Fallen Icon
+type: Creature — Human Artist => Enchantment Creature — Avatar Artist
+cost: {4}{G}{G} => {5}{G}{G}
+rules_text: Stardom {3}{G} [i](Pay {3}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i] => Stardom {G}{G}{G} [i](Pay {G}{G}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+pt: 6/6 => 8/8
+
+Missing Papers
+rules_text: When Missing Papers enters, exile target creature or planeswalker until Missing Papers leaves the battlefield.
+{2}, {T}, Sacrifice Missing Papers: Draw a card. => When Missing Papers enters, exile target creature or planeswalker until Missing Papers leaves the battlefield.
+{T}, Sacrifice Missing Papers: Conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Eyes That Bite
+rules_text: Target player reveals their hand then discards a card. If the discarded card has the highest or lowest mana value among cards in their hand, create a 2/1 red Human creature token. => Target player reveals their hand then discards a card. If the discarded card has the highest or lowest mana value among cards in their hand, create a 2/1 red Human Reveler creature token.
+
+Exalted Gossipers
+rules_text: When Exalted Gossipers enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create a tapped and attacking 2/1 red Human creature token. Sacrifice it at the beginning of the next end step. => When Exalted Gossipers enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create a tapped and attacking 2/1 red Human Reveler creature token. Sacrifice it at the beginning of the next end step.
+
+Seventh Street Vandal
+rules_text: Trample
+When Seventh Street Vandal enters, choose one. If you cast another creature spell this turn, you may choose both.
+• Create a 2/1 red Human creature token.
+• Creatures you control get +1/+1 and gain haste until end of turn. => When Seventh Street Vandal enters, choose one. If you cast another creature spell this turn, you may choose both.
+• Create a 2/1 red Human Reveler creature token.
+• Creatures you control get +1/+1 and gain haste until end of turn.
+
+Wandering Halovian
+cost: {3}{U} => {4}{U}
+rules_text: When Wandering Halovian enters, tap up to one target creature and put a stun counter on it. If you control that creature, conjure Voyager into your hand. [i](It's a {1}{U} 2/2 Scout creature with prowess.)[/i] => When Wandering Halovian enters, return target nonland permanent to its owner's hand. If you control that permanent, conjure Voyager into your hand. [i](It's a {1}{U} 2/2 Scout creature with prowess.)[/i]
+
+Luminescent Idol
+rules_text: When Luminescent Idol enters, create a 2/1 red Human creature token.
+Humans you control have “Sacrifice this permanent: Another target creature or planeswalker you control gains hexproof until end of turn.” => When Luminescent Idol enters, create a 1/1 white Human creature token.
+Humans you control have “Sacrifice this permanent: Another target creature or planeswalker you control gains hexproof until end of turn.”
+
+Resplendent Idol
+rules_text: When Resplendent Idol enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.)[/i]
+Treasures you control have “Whenever another nonland permanent you control enters, this deals 1 damage to each opponent.” => When Resplendent Idol enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.)[/i]
+Treasures you control have “Whenever another nonland permanent you control enters, this artifact deals 1 damage to each opponent.”
+
+Villainous Idol
+rules_text: When Villainous Idol enters, create a Knife token. [i](It's a Knife Equipment token with equip {1} that grants +1/+1.)[/i]
+Knives you control have “At the beginning of your end step, you draw a card and lose 1 life.” => When Villainous Idol enters, create a Knife token. [i](It's a Knife Equipment token with equip {1} that grants +1/+1.)[/i]
+Knives you control have equip {0} and “Whenever equipped creature attacks, you draw a card and gain 2 life.”
+
+Human_1
+type: Token Creature — Human => Token Creature — Human Artist
+
+Human_2
+type: Token Creature — Human => Token Creature — Human Reveler
+
+Naoko, Onigaiko Transfer
+rules_text: When Naoko enters, conjure Secret Rendezvous into your hand. [i](It's a {1}{W}{W} sorcery with “You and target opponent each draw three cards.”)[/i]
+Whenever a player draws their third card each turn, create a 2/1 red Human creature token. => When Naoko enters, conjure Secret Rendezvous into your hand. [i](It's a {1}{W}{W} sorcery with “You and target opponent each draw three cards.”)[/i]
+Whenever a player draws their third card each turn, create a 2/1 red Human Reveler creature token.
+
+Lightning Strike
+
+Ishakawa, Chroma Prodigy
+pt: 1/2 => 1/3
+
+Mistencharm Resplendant
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+rules_text: Flash
+Islandwalk
+{0}: Target permanent becomes an Island land in addition to its other types until end of turn. Activate only once each turn. => Flash
+Islandwalk
+{0}: Until end of turn, target permanent becomes an Island land in addition to its other types. Activate only once each turn. [i](It gains “{T}: Add {U}.”)[/i]
+
+Charming Confidant
+
+
+VERSION 19 CHANGELOG
 ====================
 
 

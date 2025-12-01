@@ -99,7 +99,7 @@
     },
     {
         "card_name": "Idyllic Idol",
-        "number": 142,
+        "number": 143,
         "shape": "normal",
         "set": "AEK",
         "position": "223"
@@ -134,7 +134,7 @@
     },
     {
         "card_name": "Kagami, Firework Reveler",
-        "number": 144,
+        "number": 145,
         "shape": "normal",
         "set": "AEK",
         "position": "82"
@@ -151,7 +151,7 @@
         "number": 59,
         "shape": "normal",
         "set": "AEK",
-        "position": "277"
+        "position": "267"
     },
     {
         "card_name": "Spark Hunter Kajiwara Ai",
@@ -169,10 +169,10 @@
     },
     {
         "card_name": "Mistencharm Resplendant",
-        "number": 146,
+        "number": 147,
         "shape": "normal",
         "set": "AEK",
-        "position": "274"
+        "position": "264"
     },
     {
         "card_name": "Selenite Flowergirl",
@@ -197,14 +197,14 @@
     },
     {
         "card_name": "Resplendent Idol",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "AEK",
         "position": "132"
     },
     {
         "card_name": "Planesculpting",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "AEK",
         "position": "237"
@@ -232,14 +232,14 @@
     },
     {
         "card_name": "Screaming into the Rain",
-        "number": 122,
+        "number": 121,
         "shape": "normal",
         "set": "AEK",
         "position": "133"
     },
     {
         "card_name": "Shayu, Epsilon Remnant",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "AEK",
         "position": "176"
@@ -267,14 +267,14 @@
     },
     {
         "card_name": "To Save a Broken Heart",
-        "number": 127,
+        "number": 126,
         "shape": "normal",
         "set": "AEK",
         "position": "257"
     },
     {
         "card_name": "Shock Paintress",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "AEK",
         "position": "145"
@@ -333,14 +333,14 @@
         "number": 72,
         "shape": "normal",
         "set": "AEK",
-        "position": "278"
+        "position": "268"
     },
     {
-        "card_name": "Heartsprung",
-        "number": 108,
+        "card_name": "Lamplighter",
+        "number": 110,
         "shape": "normal",
         "set": "AEK",
-        "position": "110"
+        "position": "111"
     },
     {
         "card_name": "Campfire Storyteller",
@@ -371,11 +371,11 @@
         "position": "80"
     },
     {
-        "card_name": "Keris, the Holo-Witch",
-        "number": 111,
+        "card_name": "Midnight's Call",
+        "number": 112,
         "shape": "normal",
         "set": "AEK",
-        "position": "236"
+        "position": "110"
     },
     {
         "card_name": "Ellis, Paradise Painter",
@@ -406,18 +406,18 @@
         "position": "8"
     },
     {
-        "card_name": "Lamplighter",
-        "number": 112,
+        "card_name": "Nexus Technician",
+        "number": 115,
         "shape": "normal",
         "set": "AEK",
-        "position": "111"
+        "position": "104"
     },
     {
-        "card_name": "From Grassroots",
+        "card_name": "Flowers Bloom Nowhere",
         "number": 139,
         "shape": "normal",
         "set": "AEK",
-        "position": "89"
+        "position": "261"
     },
     {
         "card_name": "Lost From Reality",
@@ -441,18 +441,18 @@
         "position": "81"
     },
     {
-        "card_name": "Nexus Technician",
+        "card_name": "Nezuri, Toxic Princess",
         "number": 116,
         "shape": "normal",
         "set": "AEK",
-        "position": "104"
+        "position": "109"
     },
     {
-        "card_name": "Idyllic Vision",
-        "number": 143,
+        "card_name": "From Grassroots",
+        "number": 140,
         "shape": "normal",
         "set": "AEK",
-        "position": "185"
+        "position": "89"
     },
     {
         "card_name": "Luminescent Vision",
@@ -476,18 +476,18 @@
         "position": "77"
     },
     {
-        "card_name": "Nezuri, Toxic Princess",
-        "number": 117,
+        "card_name": "Resplendent Vision",
+        "number": 119,
         "shape": "normal",
         "set": "AEK",
-        "position": "109"
+        "position": "184"
     },
     {
-        "card_name": "Midnight Sommelier",
-        "number": 145,
+        "card_name": "Idyllic Vision",
+        "number": 144,
         "shape": "normal",
         "set": "AEK",
-        "position": "97"
+        "position": "185"
     },
     {
         "card_name": "Missing Papers",
@@ -511,18 +511,18 @@
         "position": "76"
     },
     {
-        "card_name": "Resplendent Vision",
-        "number": 120,
+        "card_name": "Sempiternal Witch",
+        "number": 122,
         "shape": "normal",
         "set": "AEK",
-        "position": "184"
+        "position": "105"
     },
     {
-        "card_name": "Pastel Travelers",
-        "number": 150,
+        "card_name": "Midnight Sommelier",
+        "number": 146,
         "shape": "normal",
         "set": "AEK",
-        "position": "84"
+        "position": "97"
     },
     {
         "card_name": "A Practical Guide to Evil",
@@ -546,18 +546,18 @@
         "position": "75"
     },
     {
-        "card_name": "Sempiternal Witch",
-        "number": 123,
+        "card_name": "Skybridge Joyrider",
+        "number": 124,
         "shape": "normal",
         "set": "AEK",
-        "position": "105"
+        "position": "102"
     },
     {
-        "card_name": "Showrunner",
-        "number": 154,
+        "card_name": "Pastel Travelers",
+        "number": 151,
         "shape": "normal",
         "set": "AEK",
-        "position": "83"
+        "position": "84"
     },
     {
         "card_name": "Puddle Stomper",
@@ -581,18 +581,18 @@
         "position": "78"
     },
     {
-        "card_name": "Skybridge Joyrider",
-        "number": 125,
+        "card_name": "Tsukuri Holo-Witch",
+        "number": 127,
         "shape": "normal",
         "set": "AEK",
-        "position": "102"
+        "position": "236"
     },
     {
-        "card_name": "Social Executioner",
-        "number": 156,
+        "card_name": "Showrunner",
+        "number": 155,
         "shape": "normal",
         "set": "AEK",
-        "position": "86"
+        "position": "83"
     },
     {
         "card_name": "Sly Consigliere",
@@ -623,11 +623,11 @@
         "position": "177"
     },
     {
-        "card_name": "Sunshine Icon",
+        "card_name": "Social Executioner",
         "number": 157,
         "shape": "normal",
         "set": "AEK",
-        "position": "88"
+        "position": "86"
     },
     {
         "card_name": "Yume, Miseko Producer",
@@ -658,11 +658,11 @@
         "position": "43"
     },
     {
-        "card_name": "Unconventional Artistry",
-        "number": 161,
+        "card_name": "Sunshine Icon",
+        "number": 158,
         "shape": "normal",
         "set": "AEK",
-        "position": "261"
+        "position": "88"
     },
     {
         "card_name": "Astral Pianist",
@@ -757,7 +757,7 @@
     },
     {
         "card_name": "Idol of Playthings",
-        "number": 109,
+        "number": 108,
         "shape": "normal",
         "set": "AEK",
         "position": "39"
@@ -792,14 +792,14 @@
     },
     {
         "card_name": "Kaede Troublemakers",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "AEK",
         "position": "38"
     },
     {
         "card_name": "Hobby Shop",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "AEK",
         "position": "19"
@@ -827,14 +827,14 @@
     },
     {
         "card_name": "Let Him Cook",
-        "number": 113,
+        "number": 111,
         "shape": "normal",
         "set": "AEK",
         "position": "41"
     },
     {
         "card_name": "I Am A Rockstar",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "AEK",
         "position": "90"
@@ -862,14 +862,14 @@
     },
     {
         "card_name": "Neon City Racer",
-        "number": 114,
+        "number": 113,
         "shape": "normal",
         "set": "AEK",
         "position": "34"
     },
     {
         "card_name": "Murasi Runaway",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "AEK",
         "position": "20"
@@ -897,14 +897,14 @@
     },
     {
         "card_name": "Neon Lights",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "AEK",
         "position": "45"
     },
     {
         "card_name": "Neon Streetcleaner",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "AEK",
         "position": "23"
@@ -932,14 +932,14 @@
     },
     {
         "card_name": "Reflected Frame",
-        "number": 118,
+        "number": 117,
         "shape": "normal",
         "set": "AEK",
         "position": "36"
     },
     {
         "card_name": "Not Today",
-        "number": 149,
+        "number": 150,
         "shape": "normal",
         "set": "AEK",
         "position": "26"
@@ -967,14 +967,14 @@
     },
     {
         "card_name": "Roaring Songstress",
-        "number": 121,
+        "number": 120,
         "shape": "normal",
         "set": "AEK",
         "position": "35"
     },
     {
         "card_name": "Sky Scraper",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "AEK",
         "position": "24"
@@ -1002,14 +1002,14 @@
     },
     {
         "card_name": "She Has a Gun",
-        "number": 124,
+        "number": 123,
         "shape": "normal",
         "set": "AEK",
         "position": "44"
     },
     {
         "card_name": "Superstar",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "AEK",
         "position": "16"
@@ -1037,14 +1037,14 @@
     },
     {
         "card_name": "Spice",
-        "number": 126,
+        "number": 125,
         "shape": "normal",
         "set": "AEK",
         "position": "46"
     },
     {
         "card_name": "Traverse the City",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "AEK",
         "position": "25"
@@ -1068,7 +1068,7 @@
         "number": 95,
         "shape": "normal",
         "set": "AEK",
-        "position": "275"
+        "position": "265"
     },
     {
         "card_name": "Wayward Musicians",
@@ -1079,7 +1079,7 @@
     },
     {
         "card_name": "Tsukuri Biomancer",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "AEK",
         "position": "22"
@@ -1551,14 +1551,14 @@
     "a->land",
     {
         "card_name": "Miseko, Urban Crossroads",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "AEK",
         "position": "138"
     },
     {
         "card_name": "Tsukuri, Lantern Sanctum",
-        "number": 223,
+        "number": 225,
         "shape": "normal",
         "set": "AEK",
         "position": "140"
@@ -1572,14 +1572,14 @@
     },
     {
         "card_name": "Satsukai, Nexus of Lights",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "AEK",
         "position": "139"
     },
     {
         "card_name": "Nyano, Serene Shrine",
-        "number": 218,
+        "number": 220,
         "shape": "normal",
         "set": "AEK",
         "position": "141"
@@ -1600,89 +1600,89 @@
         "card_name": "er"
     },
     {
-        "card_name": "Aviation Hub",
-        "number": 209,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "264"
-    },
-    {
-        "card_name": "Skyline Lookout",
-        "number": 222,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "271"
-    },
-    {
-        "card_name": "Decadent Nightclub",
-        "number": 211,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "266"
-    },
-    {
-        "card_name": "Shopping Mall",
-        "number": 221,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "270"
-    },
-    {
-        "card_name": "Frostbitten Park",
+        "card_name": "Frozen Ocean",
         "number": 213,
         "shape": "normal",
         "set": "AEK",
-        "position": "268"
+        "position": "275"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Feline Sanctuary",
-        "number": 212,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "267"
-    },
-    {
-        "card_name": "Opulent Casino",
+        "card_name": "Mysterious Cove",
         "number": 219,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "269"
-    },
-    {
-        "card_name": "Undercity Alley",
-        "number": 224,
         "shape": "normal",
         "set": "AEK",
         "position": "272"
     },
     {
-        "card_name": "Construction Zone",
-        "number": 210,
+        "card_name": "Daunting Precipice",
+        "number": 211,
         "shape": "normal",
         "set": "AEK",
-        "position": "265"
+        "position": "278"
     },
     {
-        "card_name": "Urban Gardens",
-        "number": 225,
+        "card_name": "Shadowy Crossroads",
+        "number": 223,
         "shape": "normal",
         "set": "AEK",
         "position": "273"
+    },
+    {
+        "card_name": "Charming Agora",
+        "number": 210,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "270"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Abandoned Arcade",
+        "number": 209,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "276"
+    },
+    {
+        "card_name": "Decadent Lounge",
+        "number": 212,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "271"
+    },
+    {
+        "card_name": "Secluded Cemetery",
+        "number": 222,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "277"
+    },
+    {
+        "card_name": "Lonesome Road",
+        "number": 216,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "274"
+    },
+    {
+        "card_name": "Teeming Wreckage",
+        "number": 224,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "269"
     },
     {
         "card_name": "er"
@@ -1715,7 +1715,7 @@
     },
     {
         "card_name": "Luminous City",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "AEK",
         "position": "212"
@@ -2129,7 +2129,7 @@
         "number": 0,
         "shape": "normal",
         "set": "AEK",
-        "position": "276"
+        "position": "266"
     },
     {
         "card_name": "e"
