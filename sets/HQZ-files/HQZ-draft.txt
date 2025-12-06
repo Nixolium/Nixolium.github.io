@@ -1733,7 +1733,7 @@
 		{
 			"name": "Ser Elviree, Trailblazer",
 			"rarity": "uncommon",
-			"mana_cost": "{V}{V}{V}",
+			"mana_cost": "{C}{C}{C}",
 			"type": "Legendary Creature — Orc Nomad Knight",
 			"collector_number": "2",
 			"image_uris": {
