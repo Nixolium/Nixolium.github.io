@@ -3,6 +3,10 @@
     "formats": "",
     "trimmed": "n",
     "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Lovestruck Heir",
@@ -12,7 +16,7 @@
             "number": 11,
             "color_identity": "WBG",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhen Lovestruck Heir enters, create a 1/1 white Citizen creature token.\n{1}{G}: Citizen\nLovestruck Heir gains \u201cOther Citizens and Peasants you control get +1/+1.\u201d\n{1}{B}: Noble\nEach player sacrifices a creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhen Lovestruck Heir enters, create a 1/1 white Citizen creature token.\n{1}{G}: Citizen\nLovestruck Heir gains \u201cOther Citizens and Peasants you control get +1/+1.\u201d\n{1}{B}: Noble\nEach player sacrifices a creature.",
@@ -20,7 +24,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
-            "notes": "PLANENAME \u2014 Quest for the Roseblade\n\n!check matt"
+            "alias": "",
+            "position": "0",
+            "notes": "PLANENAME \u2014 Quest for the Roseblade\n\n!check matt\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Skyshroud Neophyte",
@@ -30,7 +36,7 @@
             "number": 83,
             "color_identity": "WRG",
             "cost": "{G}",
-            "rules_text": "Diverge [i](Pick a single path as a sorcery to gain that type and a +1/+1 counter.)[/i] [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]Freyalise promised shelter. Radha promised strength.[/i]\n{1}{W}: Druid\nDestroy up to one target enchantment.\n{1}{R}: Berserker\nDestroy up to one target artifact.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "1/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]Freyalise promised shelter. Radha promised strength.[/i]\n{1}{W}: Druid\nDestroy up to one target enchantment.\n{1}{R}: Berserker\nDestroy up to one target artifact.",
@@ -38,7 +44,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Grafit Studio",
-            "notes": "!preview\n!ftlv1"
+            "alias": "",
+            "position": "1",
+            "notes": "!preview\n!ftlv1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Magde, Icatian Refugee",
@@ -48,7 +56,7 @@
             "number": 12,
             "color_identity": "WRG",
             "cost": "{W}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n{1}{W}, {T}, Discard a card: Create two 1/1 white Citizen creature tokens.\n{4}{R}: Soldier\nChoose any target. Each creature you control deals 1 damage to that target.\n{7}{G}: Citizen\nReturn up to three target cards from your graveyard to your hand. This ability costs {1} less to activate for each Citizen and/or Peasant you control.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n{1}{W}, {T}, Discard a card: Create two 1/1 white Citizen creature tokens.\n{4}{R}: Soldier\nChoose any target. Each creature you control deals 1 damage to that target.\n{7}{G}: Citizen\nReturn up to three target cards from your graveyard to your hand. This ability costs {1} less to activate for each Citizen and/or Peasant you control.",
@@ -56,7 +64,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
-            "notes": "!preview"
+            "alias": "",
+            "position": "2",
+            "notes": "!preview\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "House of Long Shadows",
@@ -74,6 +84,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "3",
             "card_name2": "Enter Jidai",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -84,6 +96,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "!check times"
         },
         {
@@ -102,6 +115,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "4",
             "card_name2": "Enter Rhyse",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -112,6 +127,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -122,7 +138,7 @@
             "number": 55,
             "color_identity": "UBR",
             "cost": "{1}{R}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]When brilliance alone didn't prove enough, she began to wonder if the Veil offered the success she sought.[/i]\n{3}{U}{U}: Wizard\nIf it isn't an extra turn, take an extra turn after this one.\n{B}{B}: Horror\nTarget creature gets -4/-4 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]When brilliance alone didn't prove enough, she began to wonder if the Veil offered the success she sought.[/i]\n{3}{U}{U}: Wizard\nIf it isn't an extra turn, take an extra turn after this one.\n{B}{B}: Horror\nTarget creature gets -4/-4 until end of turn.",
@@ -130,7 +146,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "James Firnhaber",
-            "notes": "!check pip\n!ftlv1"
+            "alias": "",
+            "position": "5",
+            "notes": "!check pip\n!ftlv1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Peace Through Violence",
@@ -148,6 +166,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Taras Susak",
+            "alias": "",
+            "position": "6",
             "notes": "PLANENAME \u2014 Seasons of War\n\n!check cyber, times\n\n!preview"
         },
         {
@@ -166,6 +186,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "David D.M. Cornish",
+            "alias": "",
+            "position": "7",
             "notes": "!check matt\n!preview"
         },
         {
@@ -184,6 +206,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "8",
             "card_name2": "Enter Mious",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -194,6 +218,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -212,6 +237,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
+            "position": "9",
             "notes": ""
         },
         {
@@ -230,6 +257,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
+            "position": "10",
             "notes": ""
         },
         {
@@ -248,6 +277,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
+            "position": "11",
             "notes": ""
         },
         {
@@ -266,6 +297,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
+            "position": "12",
             "notes": ""
         },
         {
@@ -284,6 +317,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Timi Honkanen",
+            "alias": "",
+            "position": "13",
             "notes": ""
         },
         {
@@ -302,6 +337,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Valeria Dryzhak",
+            "alias": "",
+            "position": "14",
             "notes": "!check cajun"
         },
         {
@@ -320,6 +357,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Vincentius Matthew",
+            "alias": "",
+            "position": "15",
             "notes": "!check kino"
         },
         {
@@ -338,6 +377,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Valeriy Vegera",
+            "alias": "",
+            "position": "16",
             "notes": "!check pip"
         },
         {
@@ -356,6 +397,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Grafit Studio on ArtStation",
+            "alias": "",
+            "position": "17",
             "notes": "!check dodger"
         },
         {
@@ -374,6 +417,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Bayard Wu",
+            "alias": "",
+            "position": "18",
             "notes": "!MSEM from any combination of colors to any nonred color to take out of monored storm / self chaining"
         },
         {
@@ -392,6 +437,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Barret Frymire",
+            "alias": "",
+            "position": "19",
             "notes": "!preview"
         },
         {
@@ -410,6 +457,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Justin Gerard",
+            "alias": "",
+            "position": "20",
             "card_name2": "Derring-do",
             "color2": "RG",
             "type2": "Instant \u2014 Tale",
@@ -420,6 +469,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "!check egg"
         },
         {
@@ -438,6 +488,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
+            "position": "21",
             "notes": ""
         },
         {
@@ -456,6 +508,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Claudiu-Antoniu Magherusan",
+            "alias": "",
+            "position": "22",
             "notes": "!check times, egg"
         },
         {
@@ -474,6 +528,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Ariduka55",
+            "alias": "",
+            "position": "23",
             "notes": "!check egg, purple\n\n!MSEM something?"
         },
         {
@@ -492,6 +548,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Klaher Baklaher",
+            "alias": "",
+            "position": "24",
             "notes": "!check pip\n!replacetoken Biologist;1\n!cajun token"
         },
         {
@@ -510,6 +568,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Klaher Baklaher",
+            "alias": "",
+            "position": "25",
             "notes": "!check fluffy"
         },
         {
@@ -528,6 +588,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Caio Santos",
+            "alias": "",
+            "position": "26",
             "notes": "!ftwip\n\n!check cajun, egg"
         },
         {
@@ -546,6 +608,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Andrew Kuzinskiy",
+            "alias": "",
+            "position": "27",
             "notes": "!check times\n!preview morgan\n!cajun token"
         },
         {
@@ -564,6 +628,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Erik Shoemaker",
+            "alias": "",
+            "position": "28",
             "notes": ""
         },
         {
@@ -582,6 +648,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Andrew Kuzinskiy",
+            "alias": "",
+            "position": "29",
             "notes": ""
         },
         {
@@ -600,6 +668,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Melanie Randle",
+            "alias": "",
+            "position": "30",
             "card_name2": "Find the Mark",
             "color2": "B",
             "type2": "Sorcery \u2014 Tale",
@@ -610,6 +680,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -628,6 +699,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "31",
             "notes": "!check times\n!preview"
         },
         {
@@ -646,6 +719,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "32",
             "notes": "!check times\n!preview"
         },
         {
@@ -664,6 +739,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "33",
             "notes": "!check times\n!preview\n\n!MSEM down to three cards from four"
         },
         {
@@ -682,6 +759,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "34",
             "notes": "!check times\n!preview"
         },
         {
@@ -692,7 +771,7 @@
             "number": 14,
             "color_identity": "WBR",
             "cost": "{W}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]She emerged from the endless night of the cursed lands, and gazed down upon Inys Haen.[/i]\n{1}{B}: Minion\nMill three cards, then return up to one creature card from your graveyard to your hand.\n{3}{R}: Rebel\nNohrish Soldier deals 4 damage to any noncreature target.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]She emerged from the endless night of the cursed lands, and gazed down upon Inys Haen.[/i]\n{1}{B}: Minion\nMill three cards, then return up to one creature card from your graveyard to your hand.\n{3}{R}: Rebel\nNohrish Soldier deals 4 damage to any noncreature target.",
@@ -700,7 +779,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Sophie Medvedeva",
-            "notes": "!preview\n!ftlv1"
+            "alias": "",
+            "position": "35",
+            "notes": "!preview\n!ftlv1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Cruel Crossroads",
@@ -718,6 +799,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "36",
             "notes": "!check times\n!preview"
         },
         {
@@ -728,7 +811,7 @@
             "number": 43,
             "color_identity": "WUB",
             "cost": "{1}{B}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhen Maghbri Votary enters and at the beginning of your upkeep, you may mill two cards.\n{X}{W}: Zombie\nReturn up to two target creature cards with mana value X or less from your graveyard to the battlefield.\n{3}{U}: Shaman\nTarget player mills X cards, where X is the number of cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhen Maghbri Votary enters and at the beginning of your upkeep, you may mill two cards.\n{X}{W}: Zombie\nReturn up to two target creature cards with mana value X or less from your graveyard to the battlefield.\n{3}{U}: Shaman\nTarget player mills X cards, where X is the number of cards in your graveyard.",
@@ -736,7 +819,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Kamanaki Satoshi",
-            "notes": ""
+            "alias": "",
+            "position": "37",
+            "notes": "\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Faithful of Abendo",
@@ -746,7 +831,7 @@
             "number": 60,
             "color_identity": "WBR",
             "cost": "{R}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhenever you attack, another target creature you control gets +1/+1 until end of turn.\n{1}{W}: Soldier\nCreatures you control get +1/+1 until end of turn.\n{3}{B}{B}: Cleric\nCreate a 4/3 black Angel creature token with flying and lifelink.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhenever you attack, another target creature you control gets +1/+1 until end of turn.\n{1}{W}: Soldier\nCreatures you control get +1/+1 until end of turn.\n{3}{B}{B}: Cleric\nCreate a 4/3 black Angel creature token with flying and lifelink.",
@@ -754,7 +839,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Angela Wang",
-            "notes": ""
+            "alias": "",
+            "position": "38",
+            "notes": "\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "black Angel",
@@ -772,6 +859,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Angela Wang",
+            "alias": "",
+            "position": "39",
             "notes": "!exportname black Angel"
         },
         {
@@ -790,6 +879,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Vicki Pangestu",
+            "alias": "",
+            "position": "40",
             "notes": "!check zangy, egg"
         },
         {
@@ -800,7 +891,7 @@
             "number": 69,
             "color_identity": "BRG",
             "cost": "{1}{R}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nFlying\n{3}{B}: Mercenary\nEach opponent loses X life and you gain X life, where X is the number of tokens you control.\n{2}{G}: Rebel\nPut a +1/+1 counter on Twyllian Turncoat.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nFlying\n{3}{B}: Mercenary\nEach opponent loses X life and you gain X life, where X is the number of tokens you control.\n{2}{G}: Rebel\nPut a +1/+1 counter on Twyllian Turncoat.",
@@ -808,7 +899,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Taras Susak",
-            "notes": "PLANENAME \u2014 Seasons of War\n\n!check times"
+            "alias": "",
+            "position": "41",
+            "notes": "PLANENAME \u2014 Seasons of War\n\n!check times\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Salt Road Exile",
@@ -826,6 +919,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Satine Zillah",
+            "alias": "",
+            "position": "42",
             "notes": "!preview lyco"
         },
         {
@@ -844,6 +939,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Jade Merien",
+            "alias": "",
+            "position": "43",
             "notes": "!preview lyco"
         },
         {
@@ -862,6 +959,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Hugh Pindur",
+            "alias": "",
+            "position": "44",
             "notes": ""
         },
         {
@@ -880,6 +979,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Axel Sauerwald",
+            "alias": "",
+            "position": "45",
             "card_name2": "Shrug Off the Odds",
             "color2": "W",
             "type2": "Enchantment \u2014 Aura",
@@ -890,6 +991,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Axel Sauerwald",
+            "alias2": "",
             "notes": "!preview"
         },
         {
@@ -908,6 +1010,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Lo\u00efc Muzy",
+            "alias": "",
+            "position": "46",
             "notes": "PLANENAME \u2014 Video Horror System\n\n!check roach\n!preview"
         },
         {
@@ -926,6 +1030,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Narendra B Adi",
+            "alias": "",
+            "position": "47",
             "notes": ""
         },
         {
@@ -944,6 +1050,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Zhuopeng Zhu",
+            "alias": "",
+            "position": "48",
             "notes": "!preview crime"
         },
         {
@@ -954,7 +1062,7 @@
             "number": 20,
             "color_identity": "WB",
             "cost": "{2}{W}",
-            "rules_text": "Flying, lifelink\nWhen Witch's Whisper enters, if it wasn't cast from your hand, return target creature card from your graveyard to your hand.",
+            "rules_text": "2B \u2014",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "2B \u2014",
@@ -962,6 +1070,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Madeleine Fj\u00e4ll",
+            "alias": "",
+            "position": "49",
             "notes": "!check holmi"
         },
         {
@@ -980,6 +1090,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Linda Lith\u00e9n",
+            "alias": "",
+            "position": "50",
             "notes": "!preview lyco\n\n!MSEM add advisor type, add non-advisor rider on targeting"
         },
         {
@@ -998,6 +1110,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "biggie917 on Instagram",
+            "alias": "",
+            "position": "51",
             "notes": "!check pip"
         },
         {
@@ -1016,6 +1130,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
+            "position": "52",
             "notes": ""
         },
         {
@@ -1034,6 +1150,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Dao Trong Le",
+            "alias": "",
+            "position": "53",
             "notes": "!preview"
         },
         {
@@ -1052,6 +1170,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Ardika Priyata",
+            "alias": "",
+            "position": "54",
             "card_name2": "Urborg Butcher",
             "color2": "B",
             "type2": "Creature \u2014 Nightstalker Assassin",
@@ -1062,6 +1182,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Dmitry Savin",
+            "alias2": "",
             "notes": "!preview"
         },
         {
@@ -1080,6 +1201,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Axel Sauerwald",
+            "alias": "",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1098,6 +1221,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "dovahcaine on Bluesky",
+            "alias": "",
+            "position": "56",
             "notes": "!preview"
         },
         {
@@ -1116,6 +1241,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Bear Frymire",
+            "alias": "",
+            "position": "57",
             "notes": "\n\n!check pip"
         },
         {
@@ -1134,6 +1261,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Bryan Sola",
+            "alias": "",
+            "position": "58",
             "card_name2": "Urborg Butcher",
             "color2": "B",
             "type2": "Creature \u2014 Nightstalker Assassin",
@@ -1144,6 +1273,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Dmitry Savin",
+            "alias2": "",
             "notes": "!preview"
         },
         {
@@ -1162,6 +1292,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "dovahcaine on Bluesky",
+            "alias": "",
+            "position": "59",
             "notes": "!preview\n\n!MSEM can i keep this conceit without red mill"
         },
         {
@@ -1180,6 +1312,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Ardika Priyata",
+            "alias": "",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1198,6 +1332,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "61",
             "notes": "!check egg, test\n!preview"
         },
         {
@@ -1216,6 +1352,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1234,6 +1372,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "dovahcaine on Bluesky",
+            "alias": "",
+            "position": "63",
             "card_name2": "Worse",
             "color2": "R",
             "type2": "Sorcery",
@@ -1244,6 +1384,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "Crazy Enough // Work\nMethod // Madness\nBitter Pill // Swallow\nForce // Reckon With\nWar // End All Wars\nNext // Nothing\nResign // Madness\nEnough // Spare\nBad // Worse\n\nNight // Remember\nAxe // Grind\nReduce // Tears\nReturn // Form"
         },
         {
@@ -1262,6 +1403,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Giulia Gentilini",
+            "alias": "",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1280,6 +1423,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Jo Cordisco",
+            "alias": "",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1298,6 +1443,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Janna Sophia",
+            "alias": "",
+            "position": "66",
             "notes": "!ftwip"
         },
         {
@@ -1316,6 +1463,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Barret Frymire",
+            "alias": "",
+            "position": "67",
             "notes": "!preview"
         },
         {
@@ -1334,6 +1483,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Narendra B Adi",
+            "alias": "",
+            "position": "68",
             "notes": "!check cajun"
         },
         {
@@ -1352,6 +1503,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Lo\u00efc Muzy",
+            "alias": "",
+            "position": "69",
             "notes": "!check scribbl"
         },
         {
@@ -1370,7 +1523,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Madeleine Fj\u00e4ll",
-            "notes": "!reprint\n!check times"
+            "alias": "",
+            "position": "70",
+            "notes": "!reprint\n!check times\n!design Timespiraled"
         },
         {
             "card_name": "Szengyi Monolith",
@@ -1388,6 +1543,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Kuryliuk Darya",
+            "alias": "",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1406,6 +1563,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Donato Giancola",
+            "alias": "",
+            "position": "72",
             "notes": ""
         },
         {
@@ -1424,6 +1583,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "73",
             "notes": "!check times"
         },
         {
@@ -1442,6 +1603,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "74",
             "notes": ""
         },
         {
@@ -1460,6 +1623,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Lo\u00efc Muzy",
+            "alias": "",
+            "position": "75",
             "notes": "!check times\n\n!MSEM i forgor about changeling. moved the cultist payoff into bigger stats. EDIT: more power past the +1 is the most worthless fucking thing on this design."
         },
         {
@@ -1478,6 +1643,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Ardika Priyata",
+            "alias": "",
+            "position": "76",
             "notes": "!check mako"
         },
         {
@@ -1496,6 +1663,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Xia Yu",
+            "alias": "",
+            "position": "77",
             "card_name2": "Breathing Spellwork",
             "color2": "",
             "type2": "Enchantment Creature \u2014 Citizen",
@@ -1506,6 +1675,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Xia Yu",
+            "alias2": "",
             "notes": "!check test"
         },
         {
@@ -1524,6 +1694,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Ilya Ozornin",
+            "alias": "",
+            "position": "78",
             "notes": ""
         },
         {
@@ -1542,7 +1714,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
-            "notes": "!addtoken Sulmina;1\n!append \\n---**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, haste\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
+            "alias": "",
+            "position": "79",
+            "notes": "!addtoken Sulmina;1\n!append \\n---\\n**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
         },
         {
             "card_name": "Aspirant Peak",
@@ -1560,6 +1734,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "80",
             "card_name2": "Enter Ahrval",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -1570,6 +1746,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1588,6 +1765,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "81",
             "card_name2": "Enter Ghruulmani",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -1598,6 +1777,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1616,6 +1796,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "82",
             "card_name2": "Enter Jund",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -1626,6 +1808,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1644,6 +1827,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "83",
             "card_name2": "Enter Arcanum",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -1654,6 +1839,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1672,6 +1858,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with ChatGPT",
+            "alias": "",
+            "position": "84",
             "card_name2": "Enter Samang",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -1682,6 +1870,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "!check fluffy"
         },
         {
@@ -1700,6 +1889,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "85",
             "card_name2": "Enter Turvkimaa",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -1710,6 +1901,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1728,6 +1920,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "86",
             "card_name2": "Enter Tarkir",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -1738,6 +1932,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": ""
         },
         {
@@ -1748,7 +1943,7 @@
             "number": 21,
             "color_identity": "WUR",
             "cost": "{2}{U}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhen Amateur Inventor enters, create a Powerstone token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.\u201d)[/i]\n{R}: Artificer\nSearch your library for an artifact card, reveal it, put it into your hand, then shuffle.\n{W}: Spellshaper\nAmateur Inventor gains \u201c{1}{W}, {T}, Discard a card: Exile target nontoken permanent, then return that card to the battlefield under its owner's control.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhen Amateur Inventor enters, create a Powerstone token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.\u201d)[/i]\n{R}: Artificer\nSearch your library for an artifact card, reveal it, put it into your hand, then shuffle.\n{W}: Spellshaper\nAmateur Inventor gains \u201c{1}{W}, {T}, Discard a card: Exile target nontoken permanent, then return that card to the battlefield under its owner's control.\u201d",
@@ -1756,7 +1951,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Andhika Rizky",
-            "notes": "!check pip\n!replacetoken Powerstone;1"
+            "alias": "",
+            "position": "87",
+            "notes": "!check pip\n!replacetoken Powerstone;1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Colonial Alchemist",
@@ -1766,7 +1963,7 @@
             "number": 24,
             "color_identity": "URG",
             "cost": "{2}{U}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]\u201cIt is a distraction from my research, but the empire's inquiries after its new breadbasket grow worryingly insistent.\u201d[/i]\n{R}: Elemental\nUntil your next turn, target instant or sorcery card in your graveyard gains flashback. Its flashback cost is equal to its mana cost.\n{2}{G}: Advisor\nCreate a land token named Reformed Province with \u201c{T}, Pay 1 life: Add two mana in any combination of colors.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]\u201cIt is a distraction from my research, but the empire's inquiries after its new breadbasket grow worryingly insistent.\u201d[/i]\n{R}: Elemental\nUntil your next turn, target instant or sorcery card in your graveyard gains flashback. Its flashback cost is equal to its mana cost.\n{2}{G}: Advisor\nCreate a land token named Reformed Province with \u201c{T}, Pay 1 life: Add two mana in any combination of colors.\u201d",
@@ -1774,7 +1971,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Karina Refrynn",
-            "notes": "!check test\n!ftlv1"
+            "alias": "",
+            "position": "88",
+            "notes": "!check test\n!ftlv1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Reformed Province",
@@ -1792,6 +1991,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Andreas Rocha",
+            "alias": "",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1802,7 +2003,7 @@
             "number": 74,
             "color_identity": "URG",
             "cost": "{2}{G}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]\u201cIt's just good business.\u201d[/i]\n{3}{U}{U}: Merchant\nShuffle your hand into your library, then draw five cards. You may put any number of land cards from your hand onto the battlefield.\n{X}{R}: Rebel\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. It gains haste. Activate only if you control a creature with power 4 or greater.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]\u201cIt's just good business.\u201d[/i]\n{3}{U}{U}: Merchant\nShuffle your hand into your library, then draw five cards. You may put any number of land cards from your hand onto the battlefield.\n{X}{R}: Rebel\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. It gains haste. Activate only if you control a creature with power 4 or greater.",
@@ -1810,7 +2011,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Karina Refrynn",
-            "notes": "!check krow\n!ftlv1"
+            "alias": "",
+            "position": "90",
+            "notes": "!check krow\n!ftlv1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Sulmina, the Final Age",
@@ -1828,6 +2031,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Veronika Kozlova",
+            "alias": "",
+            "position": "91",
             "notes": "!tokentag Sulmina"
         },
         {
@@ -1846,6 +2051,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "\u00d6mer Tun\u00e7",
+            "alias": "",
+            "position": "92",
             "card_name2": "Bane of the Burning Isles",
             "color2": "B",
             "type2": "Legendary Creature \u2014 Demon Spirit",
@@ -1856,6 +2063,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Created with Midjourney AI",
+            "alias2": "",
             "notes": "!preview"
         },
         {
@@ -1866,7 +2074,7 @@
             "number": 46,
             "color_identity": "UBG",
             "cost": "{2}{B}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]To keep his own mind would be a madness all of its own.[/i]\n{4}{G}{G}: Eldrazi\nCreate a number of 3/2 colorless Eldrazi Horror creature tokens equal to the number of differently named lands you control.\n{3}{U}{U}: Cultist\nGain control of target creature. Change the text of that creature by replacing all instances of one creature type with Cultist.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]To keep his own mind would be a madness all of its own.[/i]\n{4}{G}{G}: Eldrazi\nCreate a number of 3/2 colorless Eldrazi Horror creature tokens equal to the number of differently named lands you control.\n{3}{U}{U}: Cultist\nGain control of target creature. Change the text of that creature by replacing all instances of one creature type with Cultist.",
@@ -1874,7 +2082,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Karina Refrynn",
-            "notes": "!ftlv1"
+            "alias": "",
+            "position": "93",
+            "notes": "!ftlv1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Eldrazi Horror",
@@ -1892,6 +2102,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Bear Frymire",
+            "alias": "",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1910,6 +2122,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "dovahcaine on Bluesky",
+            "alias": "",
+            "position": "95",
             "notes": "!preview"
         },
         {
@@ -1928,6 +2142,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Jo Cordisco",
+            "alias": "",
+            "position": "96",
             "notes": "!check test\n!preview"
         },
         {
@@ -1946,6 +2162,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "dovahcaine on Bluesky",
+            "alias": "",
+            "position": "97",
             "notes": "When Remember the Good enters, it becomes an Aura with enchant creature. Return target creature card from a graveyard to the battlefield under your control and attach Remember the Good to it.\nWhen enchanted creature dies, exile it and return Remember the Good to its owner's hand.\n!append (If a creature with a finality counter on it would die, exile it instead.)"
         },
         {
@@ -1964,6 +2182,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Zhuopeng Zhu",
+            "alias": "",
+            "position": "98",
             "notes": "!MSEM added a cast trigger to prevent flicker loops"
         },
         {
@@ -1982,6 +2202,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Ardika Priyata",
+            "alias": "",
+            "position": "99",
             "notes": "!check cajun"
         },
         {
@@ -2000,6 +2222,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
+            "position": "100",
             "notes": "!replacetoken Child;1\n!cajun check"
         },
         {
@@ -2018,6 +2242,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Zhuopeng Zhu",
+            "alias": "",
+            "position": "101",
             "notes": "!check mako\n!preview draco"
         },
         {
@@ -2036,6 +2262,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Raja Nandepu",
+            "alias": "",
+            "position": "102",
             "card_name2": "Thailen, Reclaimant",
             "color2": "R",
             "type2": "Legendary Creature \u2014 Human Noble Soldier",
@@ -2046,6 +2274,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Raja Nandepu",
+            "alias2": "",
             "notes": "!preview"
         },
         {
@@ -2056,14 +2285,16 @@
             "number": 79,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "",
+            "rules_text": "Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]\nCreate two 1/1 white Citizen creature tokens.\nFor each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.\nExile this Saga, then return it to the battlefield transformed under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]\nI \u2014 Create two 1/1 white Citizen creature tokens.\nII \u2014 For each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.\nIII \u2014 Exile this Saga, then return it to the battlefield transformed under your control.",
+            "special_text": "Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]\nCreate two 1/1 white Citizen creature tokens.\nFor each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.\nExile this Saga, then return it to the battlefield transformed under your control.",
             "shape": "transform double faced",
             "set": "HQZ",
             "loyalty": "",
             "artist": "Goodname Studio",
+            "alias": "",
+            "position": "103",
             "card_name2": "Union Organizers",
             "color2": "G",
             "type2": "Creature \u2014 Human Citizen",
@@ -2074,6 +2305,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Goodname Studio",
+            "alias2": "",
             "notes": "!check zangy"
         },
         {
@@ -2092,6 +2324,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "104",
             "notes": "!check alex, wtw\n\nPLANENAME \u2014 The Unraveling"
         },
         {
@@ -2110,6 +2344,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "kleinerHai on ArtStation",
+            "alias": "",
+            "position": "105",
             "notes": "!check pip"
         },
         {
@@ -2128,6 +2364,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "106",
             "notes": ""
         },
         {
@@ -2146,6 +2384,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "107",
             "notes": ""
         },
         {
@@ -2164,6 +2404,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Hongqi Zhang",
+            "alias": "",
+            "position": "108",
             "notes": "!check pip"
         },
         {
@@ -2182,6 +2424,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "kleinerHai on ArtStation",
+            "alias": "",
+            "position": "109",
             "notes": "!check cajun\n!preview"
         },
         {
@@ -2200,6 +2444,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Andrea Koroveshi",
+            "alias": "",
+            "position": "110",
             "notes": "!check times\n!preview\n\nAt the beginning of your upkeep, create a 2/2 black Cultist creature token with prowess. That token gains haste until end of turn. Then you may sacrifice Awaiting Yhzag. When you do, draw a card for each Cultist you control and spells you cast cost 1 less to cast this turn.\n\n!MSEM move away from vanishing version"
         },
         {
@@ -2218,6 +2464,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "dovahcaine on Bluesky",
+            "alias": "",
+            "position": "111",
             "notes": "!check times\n!replacetoken Corruption;1"
         },
         {
@@ -2236,6 +2484,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Madeleine Fj\u00e4ll",
+            "alias": "",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2254,6 +2504,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "113",
             "notes": "!preview"
         },
         {
@@ -2272,6 +2524,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "WhiteKuroe",
+            "alias": "",
+            "position": "114",
             "card_name2": "Arm the Cosmos",
             "color2": "WR",
             "type2": "Sorcery \u2014 Omen",
@@ -2282,6 +2536,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
             "notes": "At the beginning of each combat this turn, untap each creature you control. They get +1/+0 until end of turn.\nAt the end of the first combat this turn, there are two additional combat phases after this phase.\n\n!MSEM +1 mana on the miracle\n!inpend [{]W[}]/add/ (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
         },
         {
@@ -2300,6 +2555,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Loles Romero",
+            "alias": "",
+            "position": "115",
             "notes": "!check krow, egg"
         },
         {
@@ -2318,6 +2575,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Oliver Odmark",
+            "alias": "",
+            "position": "116",
             "notes": "!check chill\nPLANENAME \u2014 Viridian's Last Mission"
         },
         {
@@ -2336,6 +2595,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "117",
             "notes": "!check egg"
         },
         {
@@ -2346,7 +2607,7 @@
             "number": 100,
             "color_identity": "WUBG",
             "cost": "{1}{G}{W}{U}",
-            "rules_text": "Search your library for a card, put that card into your hand, then shuffle.\nIf Cling to Old Dreams was cast for its forsake cost, it enters as a Nightmare creature after it resolves.",
+            "rules_text": "4BB \u2014",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "4BB \u2014",
@@ -2354,6 +2615,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Jane Pica",
+            "alias": "",
+            "position": "118",
             "notes": "!check holmi"
         },
         {
@@ -2364,7 +2627,7 @@
             "number": 103,
             "color_identity": "URG",
             "cost": "{G}{U}{R}",
-            "rules_text": "",
+            "rules_text": "Mimic {G}{U}{R} [i]({G}{U}{R}: This takes the shape of your choice. Mimic only as a sorcery.)[/i]\n[Shape 1] Trample, hexproof\n[Shape 2] Whenever Graduate of Illusions takes this shape, put three +1/+1 counters on it. [i](It can take it multiple times in a row.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "Mimic {G}{U}{R} [i]({G}{U}{R}: This takes the shape of your choice. Mimic only as a sorcery.)[/i]\n[Shape 1] Trample, hexproof\n[Shape 2] Whenever Graduate of Illusions takes this shape, put three +1/+1 counters on it. [i](It can take it multiple times in a row.)[/i]",
@@ -2372,6 +2635,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "119",
             "notes": "!check daij"
         },
         {
@@ -2390,6 +2655,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "120",
             "notes": ""
         },
         {
@@ -2400,7 +2667,7 @@
             "number": 102,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "Choose two \u2014 \n\u2022 Faces of War deals 4 damage to each creature.\n\u2022 Destroy all artifacts with mana value 4 or less.\n\u2022 Each player chooses four lands they control and sacrifices the rest.",
+            "rules_text": "1RR \u2014",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "1RR \u2014",
@@ -2408,6 +2675,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Arthur Varenev",
+            "alias": "",
+            "position": "121",
             "notes": "!check holmi"
         },
         {
@@ -2418,7 +2687,7 @@
             "number": 98,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "Offspring\u2014Tap an untapped creature you control. [i](You may pay the offspring cost as an additional cost. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nYou may have Vitalia Tragedienne enter as a copy of any creature on the battlefield, except it's a Noble in addition to its other types. [i](It's offspring will be a 1/1 Noble copy of that creature.)[/i]",
+            "rules_text": "Offspring\u2014Tap an untapped creature you control. [i](You may pay the offspring cost as an additional cost. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nYou may have Vitalia Tragedienne enter as a copy of any creature on the battlefield, except it's a Noble in addition to its other types. [i](Its offspring will be a 1/1 Noble copy of that creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -2426,7 +2695,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Sophie Medvedeva",
-            "notes": "!check krow\n!preview crime"
+            "alias": "",
+            "position": "122",
+            "notes": "!check krow\n!preview crime\n!update"
         },
         {
             "card_name": "Nightmare",
@@ -2444,6 +2715,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "dovahcaine on Bluesky",
+            "alias": "",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2462,6 +2735,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexander Mokhov",
+            "alias": "",
+            "position": "124",
             "notes": "!check times\n!preview"
         },
         {
@@ -2480,6 +2755,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Albert Urmanov",
+            "alias": "",
+            "position": "125",
             "notes": ""
         },
         {
@@ -2498,6 +2775,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Anastasia Fedorova",
+            "alias": "",
+            "position": "126",
             "card_name2": "The Devil's Fair Share",
             "color2": "R",
             "type2": "Enchantment \u2014 Aura",
@@ -2508,6 +2787,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Anastasia Fedorova",
+            "alias2": "",
             "notes": "!check alex\n!preview"
         },
         {
@@ -2526,6 +2806,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Gabriel Santos",
+            "alias": "",
+            "position": "127",
             "notes": "!check bergland\n!replacetoken Unleash;1\n!replacetoken Immortality;1\n!replacetoken Empower;1\n!cajun token"
         },
         {
@@ -2544,6 +2826,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Gabriel Santos",
+            "alias": "",
+            "position": "128",
             "notes": "!tokentag Empower"
         },
         {
@@ -2562,6 +2846,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Gabriel Santos",
+            "alias": "",
+            "position": "129",
             "notes": "!tokentag Immortality"
         },
         {
@@ -2580,6 +2866,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Gabriel Santos",
+            "alias": "",
+            "position": "130",
             "notes": "!tokentag Unleash"
         },
         {
@@ -2590,7 +2878,7 @@
             "number": 17,
             "color_identity": "WUG",
             "cost": "{1}{W}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nSisters of the Flock has flying as long as it has a counter on it.\n{2}{G}: Siren\nPut a +1/+1 counter on each other creature you control.\n{3}{U}: Harpy\nDraw three cards. Then discard a card unless you control an artifact or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nSisters of the Flock has flying as long as it has a counter on it.\n{2}{G}: Siren\nPut a +1/+1 counter on each other creature you control.\n{3}{U}: Harpy\nDraw three cards. Then discard a card unless you control an artifact or enchantment.",
@@ -2598,7 +2886,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Axel Sauerwald",
-            "notes": ""
+            "alias": "",
+            "position": "131",
+            "notes": "\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Child of Tezoculpa",
@@ -2608,7 +2898,7 @@
             "number": 75,
             "color_identity": "BRG",
             "cost": "{3}{G}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nReach, trample\nCowards can't attack or block.\n{1}{B}: Shaman\nTarget creature becomes a Coward. [i](It doesn't stop being a coward.)[/i]\n{2}{R}: Warrior\nEach creature with power 3 or less becomes a Coward until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nReach, trample\nCowards can't attack or block.\n{1}{B}: Shaman\nTarget creature becomes a Coward. [i](It doesn't stop being a coward.)[/i]\n{2}{R}: Warrior\nEach creature with power 3 or less becomes a Coward until end of turn.",
@@ -2616,7 +2906,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Axel Sauerwald",
-            "notes": "!check krow"
+            "alias": "",
+            "position": "132",
+            "notes": "!check krow\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Nayando Found",
@@ -2634,6 +2926,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Dao Trong Le",
+            "alias": "",
+            "position": "133",
             "notes": "!check krow"
         },
         {
@@ -2644,7 +2938,7 @@
             "number": 28,
             "color_identity": "WUB",
             "cost": "{3}{U}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]The deeper the plague ate through the wards, the stronger grew her resolve.[/i]\n{2}{W}: Warrior\nReturn target creature card from your graveyard to the battlefield, then return it to your hand.\n{2}{B}: Cleric\nYou gain 1 life for each creature card in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/5",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]The deeper the plague ate through the wards, the stronger grew her resolve.[/i]\n{2}{W}: Warrior\nReturn target creature card from your graveyard to the battlefield, then return it to your hand.\n{2}{B}: Cleric\nYou gain 1 life for each creature card in your graveyard.",
@@ -2652,7 +2946,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Linda Lith\u00e9n",
-            "notes": "!check egg\n!ftlv1"
+            "alias": "",
+            "position": "134",
+            "notes": "!check egg\n!ftlv1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Faithful of Helar",
@@ -2670,6 +2966,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "kleinerHai on ArtStation",
+            "alias": "",
+            "position": "135",
             "card_name2": "Shard of Helar",
             "color2": "WUBRG",
             "type2": "Creature \u2014 Cultist Horror",
@@ -2680,6 +2978,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "kleinerHai on ArtStation",
+            "alias2": "",
             "notes": "!check egg\n!preview crime"
         },
         {
@@ -2698,6 +2997,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Xia Yu",
+            "alias": "",
+            "position": "136",
             "notes": "!check zangy"
         },
         {
@@ -2716,6 +3017,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Narendra B Adi",
+            "alias": "",
+            "position": "137",
             "notes": "!preview draco\n\n!MSEM was intended to be one of those neat-design-but-constructed-unplayable kind of deals; if people are concerned about it having actual play and that play being shit, i'm sure i can find a different teferi reference to make here"
         },
         {
@@ -2726,7 +3029,7 @@
             "number": 54,
             "color_identity": "WBG",
             "cost": "{2}{B}{B}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nLifelink\n{2}{G}: Berserker\nDestroy target noncreature permanent.\n{W}: Shaman\nPurge. [i](Exile two cards that share a type from graveyards. If you do, draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nLifelink\n{2}{G}: Berserker\nDestroy target noncreature permanent.\n{W}: Shaman\nPurge. [i](Exile two cards that share a type from graveyards. If you do, draw a card.)[/i]",
@@ -2734,7 +3037,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Ani Larmina",
-            "notes": ""
+            "alias": "",
+            "position": "138",
+            "notes": "\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Still-Smoke Courser",
@@ -2744,7 +3049,7 @@
             "number": 85,
             "color_identity": "UBG",
             "cost": "{3}{G}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhen Still-Smoke Courser enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n{X}{U}{U}: Shaman\nLook at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.\n{X}{B}{B}: Warrior\nEach opponent loses X life and you gain X life.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nWhen Still-Smoke Courser enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n{X}{U}{U}: Shaman\nLook at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.\n{X}{B}{B}: Warrior\nEach opponent loses X life and you gain X life.",
@@ -2752,7 +3057,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Dao Trong Le",
-            "notes": ""
+            "alias": "",
+            "position": "139",
+            "notes": "\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Child Army",
@@ -2770,6 +3077,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Lane Brown",
+            "alias": "",
+            "position": "140",
             "notes": "!tokentag Child"
         },
         {
@@ -2780,7 +3089,7 @@
             "number": 40,
             "color_identity": "UBR",
             "cost": "{3}{B}{B}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]\u201cI wouldn't beat yourself up over it. We can't all be the best at what we do.\u201d[/i]\n{U}: Rogue\nAny number of target players each mill five cards.\n{2}{R}: Warrior\nAny player may have Dashing Qith deal 5 damage to them. If no one does, draw three cards.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\n[i]\u201cI wouldn't beat yourself up over it. We can't all be the best at what we do.\u201d[/i]\n{U}: Rogue\nAny number of target players each mill five cards.\n{2}{R}: Warrior\nAny player may have Dashing Qith deal 5 damage to them. If no one does, draw three cards.",
@@ -2788,7 +3097,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Tatiana Pavlova",
-            "notes": "!ftlv1"
+            "alias": "",
+            "position": "141",
+            "notes": "!ftlv1\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Survivor",
@@ -2806,6 +3117,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "142",
             "notes": ""
         },
         {
@@ -2824,6 +3137,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Jo Cordisco",
+            "alias": "",
+            "position": "143",
             "card_name2": "Dreaming Butcher",
             "color2": "B",
             "type2": "Creature \u2014 Werewolf",
@@ -2834,6 +3149,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Jo Cordisco",
+            "alias2": "",
             "notes": "!check mako\n!preview mako"
         },
         {
@@ -2844,7 +3160,7 @@
             "number": 33,
             "color_identity": "WUG",
             "cost": "{1}{U}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nYou may activate diverge abilities of permanents you control any time you could cast an instant.\n{G}: Survivor\nQuarry of the Ivory Mask gains \u201cActivated abilities of other permanents you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\u201d\n{1}{W}: Martyr\nExile another target creature you control, then return that card to the battlefield under your control.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nYou may activate diverge abilities of permanents you control any time you could cast an instant.\n{G}: Survivor\nQuarry of the Ivory Mask gains \u201cActivated abilities of other permanents you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\u201d\n{1}{W}: Martyr\nExile another target creature you control, then return that card to the battlefield under your control.",
@@ -2852,7 +3168,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Oliver Odmark",
-            "notes": "!check times\n!preview"
+            "alias": "",
+            "position": "144",
+            "notes": "!check times\n!preview\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Vine Street Brute",
@@ -2862,7 +3180,7 @@
             "number": 71,
             "color_identity": "WUR",
             "cost": "{2}{R}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nBattle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\n{3}{W}: Detective\nCreate two 1/1 white Citizen creature tokens. They gain haste.\n{2}{U}: Cultist\nCreate a 2/2 black Cultist creature token with prowess.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nBattle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\n{3}{W}: Detective\nCreate two 1/1 white Citizen creature tokens. They gain haste.\n{2}{U}: Cultist\nCreate a 2/2 black Cultist creature token with prowess.",
@@ -2870,7 +3188,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Madeleine Fj\u00e4ll",
-            "notes": "!check zangy"
+            "alias": "",
+            "position": "145",
+            "notes": "!check zangy\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Citizen",
@@ -2888,6 +3208,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Madeleine Fj\u00e4ll",
+            "alias": "",
+            "position": "146",
             "notes": ""
         },
         {
@@ -2906,6 +3228,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Lo\u00efc Muzy",
+            "alias": "",
+            "position": "147",
             "notes": "!tokentag Powerstone"
         },
         {
@@ -2924,6 +3248,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Lo\u00efc Muzy",
+            "alias": "",
+            "position": "148",
             "notes": ""
         },
         {
@@ -2942,6 +3268,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Angela Wang",
+            "alias": "",
+            "position": "149",
             "notes": ""
         },
         {
@@ -2960,6 +3288,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
+            "alias": "",
+            "position": "150",
             "notes": "!tokentag Devil"
         },
         {
@@ -2978,7 +3308,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
-            "notes": "!addtoken Sulmina;1\n!append \\n---**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, haste\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
+            "alias": "",
+            "position": "151",
+            "notes": "!addtoken Sulmina;1\n!append \\n---\\n**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
         },
         {
             "card_name": "Numinous Workshop",
@@ -2996,6 +3328,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Hongqi Zhang",
+            "alias": "",
+            "position": "152",
             "notes": ""
         },
         {
@@ -3014,7 +3348,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
-            "notes": "!addtoken Sulmina;1\n!append \\n---**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, haste\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
+            "alias": "",
+            "position": "153",
+            "notes": "!addtoken Sulmina;1\n!append \\n---\\n**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
         },
         {
             "card_name": "AOSE Field Biologist (Token)",
@@ -3032,6 +3368,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Bonifasko on ArtStation",
+            "alias": "",
+            "position": "154",
             "notes": "!!exportname AOSE Field Biologist (Token)\n!tokentag Biologist"
         },
         {
@@ -3050,7 +3388,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
-            "notes": "!addtoken Sulmina;1\n!append \\n---**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, haste\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
+            "alias": "",
+            "position": "155",
+            "notes": "!addtoken Sulmina;1\n!append \\n---\\n**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
         },
         {
             "card_name": "Traitor's Finger",
@@ -3068,7 +3408,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
-            "notes": "!addtoken Sulmina;1\n!append \\n---**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, haste\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
+            "alias": "",
+            "position": "156",
+            "notes": "!addtoken Sulmina;1\n!append \\n---\\n**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
         },
         {
             "card_name": "Crooked Whistle",
@@ -3086,7 +3428,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
-            "notes": "!addtoken Sulmina;1\n!append \\n---**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, haste\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
+            "alias": "",
+            "position": "157",
+            "notes": "!addtoken Sulmina;1\n!append \\n---\\n**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
         },
         {
             "card_name": "Black Tesseract",
@@ -3104,7 +3448,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
-            "notes": "!addtoken Sulmina;1\n!append \\n---**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, haste\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
+            "alias": "",
+            "position": "158",
+            "notes": "!addtoken Sulmina;1\n!append \\n---\\n**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
         },
         {
             "card_name": "Twisting Puzzlebox",
@@ -3122,7 +3468,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Yuchen Wang",
-            "notes": "!addtoken Sulmina;1\n!append \\n---**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, haste\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
+            "alias": "",
+            "position": "159",
+            "notes": "!addtoken Sulmina;1\n!append \\n---\\n**Sulmina, the Final Age**\\nToken Legendary Creature \u2014 Demon\\nFlying, indestructible\\nWhen there aren't exactly three different names among Implements you control, exile Sulmina, the Final Age.\\n**3/2**"
         },
         {
             "card_name": "Corruption Counters",
@@ -3140,6 +3488,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "dovahcaine on Bluesky",
+            "alias": "",
+            "position": "160",
             "notes": "!tokentag Corruption"
         },
         {
@@ -3158,6 +3508,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Hongqi Zhang",
+            "alias": "",
+            "position": "161",
             "notes": "!exportname Plains b"
         },
         {
@@ -3176,6 +3528,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Homgqi Zhang",
+            "alias": "",
+            "position": "162",
             "notes": "!exportname Island b"
         },
         {
@@ -3194,6 +3548,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Hongqi Zhang",
+            "alias": "",
+            "position": "163",
             "notes": "!exportname Swamp b"
         },
         {
@@ -3212,6 +3568,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Homgqi Zhang",
+            "alias": "",
+            "position": "164",
             "notes": "!exportname Mountain b"
         },
         {
@@ -3230,6 +3588,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Hongqi Zhang",
+            "alias": "",
+            "position": "165",
             "notes": "!exportname Forest b"
         },
         {
@@ -3248,6 +3608,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Adam barker",
+            "alias": "",
+            "position": "166",
             "notes": "!check platypeople\n!preview"
         },
         {
@@ -3258,7 +3620,7 @@
             "number": 120,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "",
+            "rules_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nYou may have Peerless Porcelain enter as a copy of any creature on the battlefield, except it's a Construct artifact in addition to its other types, and it has its diverge abilities.\n{2}: Sister\nPut a shield counter on another target creature with the same name as this creature.\n{5}: Assassin\nDestroy target creature with the same name as this creature.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]\nYou may have Peerless Porcelain enter as a copy of any creature on the battlefield, except it's a Construct artifact in addition to its other types, and it has its diverge abilities.\n{2}: Sister\nPut a shield counter on another target creature with the same name as this creature.\n{5}: Assassin\nDestroy target creature with the same name as this creature.",
@@ -3266,7 +3628,9 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Laura Sava",
-            "notes": "!check test"
+            "alias": "",
+            "position": "167",
+            "notes": "!check test\n!inpend : ([^ \\n]+)\\\\n(.)/replace/: \\1 \u2014 \\2"
         },
         {
             "card_name": "Weird",
@@ -3284,6 +3648,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Alexandr Elichev",
+            "alias": "",
+            "position": "168",
             "notes": ""
         },
         {
@@ -3302,6 +3668,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3320,6 +3688,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3338,6 +3708,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3356,6 +3728,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3374,6 +3748,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Created with Midjourney AI",
+            "alias": "",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3392,6 +3768,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Marta Nael",
+            "alias": "",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3410,6 +3788,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Sin Jong Hun",
+            "alias": "",
+            "position": "175",
             "notes": ""
         },
         {
@@ -3428,6 +3808,8 @@
             "set": "HQZ",
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
+            "alias": "",
+            "position": "176",
             "notes": "!MSEM too close to mana confluence"
         }
     ]

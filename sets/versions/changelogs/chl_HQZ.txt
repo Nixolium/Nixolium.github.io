@@ -1,4 +1,496 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Lovestruck Heir
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+When Lovestruck Heir enters, create a 1/1 white Citizen creature token.
+{1}{G}: Citizen
+Lovestruck Heir gains “Other Citizens and Peasants you control get +1/+1.”
+{1}{B}: Noble
+Each player sacrifices a creature.
+
+Skyshroud Neophyte
+rules_text: Diverge [i](Pick a single path as a sorcery to gain that type and a +1/+1 counter.)[/i] [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i] => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+[i]Freyalise promised shelter. Radha promised strength.[/i]
+{1}{W}: Druid
+Destroy up to one target enchantment.
+{1}{R}: Berserker
+Destroy up to one target artifact.
+
+Magde, Icatian Refugee
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+{1}{W}, {T}, Discard a card: Create two 1/1 white Citizen creature tokens.
+{4}{R}: Soldier
+Choose any target. Each creature you control deals 1 damage to that target.
+{7}{G}: Citizen
+Return up to three target cards from your graveyard to your hand. This ability costs {1} less to activate for each Citizen and/or Peasant you control.
+
+House of Long Shadows
+
+Plague-Ridden Alley
+
+Achievement Aspirant
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+[i]When brilliance alone didn't prove enough, she began to wonder if the Veil offered the success she sought.[/i]
+{3}{U}{U}: Wizard
+If it isn't an extra turn, take an extra turn after this one.
+{B}{B}: Horror
+Target creature gets -4/-4 until end of turn.
+
+Peace Through Violence
+
+Outcast of Sannuria
+
+Frigid Scrubland
+
+Haunting Visitations
+
+Biochemical Bloom
+
+Scarred Fantassin
+
+Eccentric Biologist
+
+Unquestioning
+
+Knight of Wennex
+
+Croaking Crooner
+
+Soldier
+
+Kareki Wanderer
+
+Flood Realm Monarch
+
+AOSE Field Biologist
+
+Wasteland Vagabond
+
+Gatetown Warden
+
+First of the Horde
+
+Equipment
+
+Zombie Scout
+
+Raven Queen's Martyr
+
+Bracing Crossroads
+
+Turbulent Crossroads
+
+Introspective Crossroads
+
+Hardened Crossroads
+
+Nohrish Soldier
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+[i]She emerged from the endless night of the cursed lands, and gazed down upon Inys Haen.[/i]
+{1}{B}: Minion
+Mill three cards, then return up to one creature card from your graveyard to your hand.
+{3}{R}: Rebel
+Nohrish Soldier deals 4 damage to any noncreature target.
+
+Cruel Crossroads
+
+Maghbri Votary
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+When Maghbri Votary enters and at the beginning of your upkeep, you may mill two cards.
+{X}{W}: Zombie
+Return up to two target creature cards with mana value X or less from your graveyard to the battlefield.
+{3}{U}: Shaman
+Target player mills X cards, where X is the number of cards in your graveyard.
+
+Faithful of Abendo
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+Whenever you attack, another target creature you control gets +1/+1 until end of turn.
+{1}{W}: Soldier
+Creatures you control get +1/+1 until end of turn.
+{3}{B}{B}: Cleric
+Create a 4/3 black Angel creature token with flying and lifelink.
+
+black Angel
+
+Satrapy Guard
+
+Twyllian Turncoat
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+Flying
+{3}{B}: Mercenary
+Each opponent loses X life and you gain X life, where X is the number of tokens you control.
+{2}{G}: Rebel
+Put a +1/+1 counter on Twyllian Turncoat.
+
+Salt Road Exile
+
+Young Nekoru
+
+Emeria Claviger
+
+Face Down the Odds
+
+Half-Made Man
+
+Paladin of Norn
+
+Beloved of Wachet
+
+Witch's Whisper
+rules_text: Flying, lifelink
+When Witch's Whisper enters, if it wasn't cast from your hand, return target creature card from your graveyard to your hand. => 2B —
+
+Meletis Sophist
+
+Turning of the Cosmos
+
+Bleeting Distraction
+
+Arcane Figment
+
+Silence the Council
+
+Morgeth's Harvest
+
+Pervasive Memories
+
+Tugae Interloper
+
+Haunted Breathstealer
+
+Remembering Devka
+
+Izzet Extractionist
+
+Bazaar Smuggler
+
+Ragged Fleet Fence
+
+Bad
+
+Splinterfrost
+
+Experimental Concoctions
+
+Vengeance of the Dungeon
+
+Tutelary Sentry
+
+Relic of Wachibal
+
+Lunar Latchkey
+
+Wayfarer's Shrine
+
+Szengyi Monolith
+
+Prasiolite Mox
+
+Sword of Want and Need
+
+Spatial Singularity
+
+Shard of Singular Fates
+
+Headwind Aetherwork
+
+Yearning Clockwork
+
+Mezzio Thespian
+
+Blackened Heart
+
+Aspirant Peak
+
+Streets of Worship
+
+Den of Sulfur
+
+Walls of Almgrove
+
+Above Danawan
+
+Field of Rot
+
+Salt Road
+
+Amateur Inventor
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+When Amateur Inventor enters, create a Powerstone token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.”)[/i]
+{R}: Artificer
+Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+{W}: Spellshaper
+Amateur Inventor gains “{1}{W}, {T}, Discard a card: Exile target nontoken permanent, then return that card to the battlefield under its owner's control.”
+
+Colonial Alchemist
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+[i]“It is a distraction from my research, but the empire's inquiries after its new breadbasket grow worryingly insistent.”[/i]
+{R}: Elemental
+Until your next turn, target instant or sorcery card in your graveyard gains flashback. Its flashback cost is equal to its mana cost.
+{2}{G}: Advisor
+Create a land token named Reformed Province with “{T}, Pay 1 life: Add two mana in any combination of colors.”
+
+Reformed Province
+
+Broadlane Well-to-Do
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+[i]“It's just good business.”[/i]
+{3}{U}{U}: Merchant
+Shuffle your hand into your library, then draw five cards. You may put any number of land cards from your hand onto the battlefield.
+{X}{R}: Rebel
+Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. It gains haste. Activate only if you control a creature with power 4 or greater.
+
+Sulmina, the Final Age
+
+Specter of Crosis
+
+Nephalia Preacher
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+[i]To keep his own mind would be a madness all of its own.[/i]
+{4}{G}{G}: Eldrazi
+Create a number of 3/2 colorless Eldrazi Horror creature tokens equal to the number of differently named lands you control.
+{3}{U}{U}: Cultist
+Gain control of target creature. Change the text of that creature by replacing all instances of one creature type with Cultist.
+
+Eldrazi Horror
+
+Devka, Mad Memory
+
+Snake-Venom Dealer
+
+Remember the Good
+
+Answered Plea
+
+Vanguard of Tzhai
+
+Cruel Guidance
+
+Calefactor of Seas
+
+Kattalin's Intrigues
+
+Night on the Town
+rules_text:  => Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Create two 1/1 white Citizen creature tokens.
+For each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.
+Exile this Saga, then return it to the battlefield transformed under your control.
+special_text: Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Create two 1/1 white Citizen creature tokens.
+II — For each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.
+III — Exile this Saga, then return it to the battlefield transformed under your control. => Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Create two 1/1 white Citizen creature tokens.
+For each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.
+Exile this Saga, then return it to the battlefield transformed under your control.
+
+Zadyk Contamination
+
+Outerworld Witness
+
+Arcor Carapace
+
+See It All Again
+
+Fallow Plateau
+
+Ink Sea Sentinel
+
+Awaiting Yhzag
+
+Intrusive Thoughts
+
+Crinster Dame
+
+Rampant Consumption
+
+Ashes of the Hundred Suns
+
+Fifth Street Patronage
+
+Heaving Charnel
+
+Harsh Sanctuary
+
+Cling to Old Dreams
+rules_text: Search your library for a card, put that card into your hand, then shuffle.
+If Cling to Old Dreams was cast for its forsake cost, it enters as a Nightmare creature after it resolves. => 4BB —
+
+Graduate of Illusions
+rules_text:  => Mimic {G}{U}{R} [i]({G}{U}{R}: This takes the shape of your choice. Mimic only as a sorcery.)[/i]
+[Shape 1] Trample, hexproof
+[Shape 2] Whenever Graduate of Illusions takes this shape, put three +1/+1 counters on it. [i](It can take it multiple times in a row.)[/i]
+
+Master of the Living Art
+
+Faces of War
+rules_text: Choose two — 
+• Faces of War deals 4 damage to each creature.
+• Destroy all artifacts with mana value 4 or less.
+• Each player chooses four lands they control and sacrifices the rest. => 1RR —
+
+Vitalia Tragedienne
+rules_text: Offspring—Tap an untapped creature you control. [i](You may pay the offspring cost as an additional cost. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+You may have Vitalia Tragedienne enter as a copy of any creature on the battlefield, except it's a Noble in addition to its other types. [i](It's offspring will be a 1/1 Noble copy of that creature.)[/i] => Offspring—Tap an untapped creature you control. [i](You may pay the offspring cost as an additional cost. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+You may have Vitalia Tragedienne enter as a copy of any creature on the battlefield, except it's a Noble in addition to its other types. [i](Its offspring will be a 1/1 Noble copy of that creature.)[/i]
+
+Nightmare
+
+Walking with Ancestors
+
+Heartless Exchange
+
+Deal with the Devil
+
+Sigil Hoarder
+
+Empower Function
+
+Immortality Function
+
+Unleash Function
+
+Sisters of the Flock
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+Sisters of the Flock has flying as long as it has a counter on it.
+{2}{G}: Siren
+Put a +1/+1 counter on each other creature you control.
+{3}{U}: Harpy
+Draw three cards. Then discard a card unless you control an artifact or enchantment.
+
+Child of Tezoculpa
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+Reach, trample
+Cowards can't attack or block.
+{1}{B}: Shaman
+Target creature becomes a Coward. [i](It doesn't stop being a coward.)[/i]
+{2}{R}: Warrior
+Each creature with power 3 or less becomes a Coward until end of turn.
+
+Nayando Found
+
+Guardian of the Wards
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+[i]The deeper the plague ate through the wards, the stronger grew her resolve.[/i]
+{2}{W}: Warrior
+Return target creature card from your graveyard to the battlefield, then return it to your hand.
+{2}{B}: Cleric
+You gain 1 life for each creature card in your graveyard.
+
+Faithful of Helar
+
+Strike the Stage
+
+Teferi's Dismissal
+
+Whisper of Saebin
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+Lifelink
+{2}{G}: Berserker
+Destroy target noncreature permanent.
+{W}: Shaman
+Purge. [i](Exile two cards that share a type from graveyards. If you do, draw a card.)[/i]
+
+Still-Smoke Courser
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+When Still-Smoke Courser enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{X}{U}{U}: Shaman
+Look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.
+{X}{B}{B}: Warrior
+Each opponent loses X life and you gain X life.
+
+Child Army
+
+Dashing Qith
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+[i]“I wouldn't beat yourself up over it. We can't all be the best at what we do.”[/i]
+{U}: Rogue
+Any number of target players each mill five cards.
+{2}{R}: Warrior
+Any player may have Dashing Qith deal 5 damage to them. If no one does, draw three cards.
+
+Survivor
+
+Kholon Astrologist
+
+Quarry of the Ivory Mask
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+You may activate diverge abilities of permanents you control any time you could cast an instant.
+{G}: Survivor
+Quarry of the Ivory Mask gains “Activated abilities of other permanents you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.”
+{1}{W}: Martyr
+Exile another target creature you control, then return that card to the battlefield under your control.
+
+Vine Street Brute
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+Battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+{3}{W}: Detective
+Create two 1/1 white Citizen creature tokens. They gain haste.
+{2}{U}: Cultist
+Create a 2/2 black Cultist creature token with prowess.
+
+Citizen
+
+Powerstone
+
+Idol
+
+Cultist
+
+Devil
+
+Maddening Trinket
+
+Numinous Workshop
+
+Liar's Tongue
+
+AOSE Field Biologist (Token)
+
+Hateful Eye
+
+Traitor's Finger
+
+Crooked Whistle
+
+Black Tesseract
+
+Twisting Puzzlebox
+
+Corruption Counters
+
+Ser Elviree, Trailblazer
+
+Peerless Porcelain
+rules_text:  => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+You may have Peerless Porcelain enter as a copy of any creature on the battlefield, except it's a Construct artifact in addition to its other types, and it has its diverge abilities.
+{2}: Sister
+Put a shield counter on another target creature with the same name as this creature.
+{5}: Assassin
+Destroy target creature with the same name as this creature.
+
+Weird
+
+Plant
+
+Saproling
+
+Thopter
+
+Vial
+
+Clue
+
+Angel
+
+Verdant Skygiant
+
+Seriin Outpost
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
