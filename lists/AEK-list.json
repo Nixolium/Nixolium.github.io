@@ -1098,8 +1098,8 @@
     },
     "a->gold",
     {
-        "card_name": "Azuscent Starchild",
-        "number": 162,
+        "card_name": "Cosmic Starchild",
+        "number": 165,
         "shape": "normal",
         "set": "AEK",
         "position": "226"
@@ -1113,21 +1113,21 @@
     },
     {
         "card_name": "Bleed",
-        "number": 163,
+        "number": 162,
         "shape": "normal",
         "set": "AEK",
         "position": "198"
     },
     {
-        "card_name": "Hyacin, the Awemaker",
-        "number": 169,
+        "card_name": "Hyacin, Everyone's Idol",
+        "number": 170,
         "shape": "normal",
         "set": "AEK",
         "position": "127"
     },
     {
         "card_name": "Chroma Network Rival",
-        "number": 164,
+        "number": 163,
         "shape": "normal",
         "set": "AEK",
         "position": "199"
@@ -1141,14 +1141,14 @@
     },
     {
         "card_name": "Koto, Snapshot Storyteller",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "AEK",
         "position": "92"
     },
     {
-        "card_name": "Live Like No Tomorrow",
-        "number": 175,
+        "card_name": "Hollow Pact",
+        "number": 168,
         "shape": "normal",
         "set": "AEK",
         "position": "33"
@@ -1169,7 +1169,7 @@
     },
     {
         "card_name": "Holographic Darling",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "AEK",
         "position": "94"
@@ -1294,7 +1294,7 @@
     },
     {
         "card_name": "Kalista, Citron Don",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "AEK",
         "position": "144"
@@ -1308,7 +1308,7 @@
     },
     {
         "card_name": "Idiosyncratic Savant",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "AEK",
         "position": "93"
@@ -1336,7 +1336,7 @@
     },
     {
         "card_name": "Ishakawa, Chroma Prodigy",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "AEK",
         "position": "247"
@@ -1428,14 +1428,14 @@
     },
     {
         "card_name": "Corsenna, Planar Sightseer",
-        "number": 165,
+        "number": 164,
         "shape": "normal",
         "set": "AEK",
         "position": "181"
     },
     {
         "card_name": "Kyv, Sanguine Avante",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "AEK",
         "position": "130"
@@ -1551,14 +1551,14 @@
     "a->land",
     {
         "card_name": "Miseko, Urban Crossroads",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "AEK",
         "position": "138"
     },
     {
         "card_name": "Tsukuri, Lantern Sanctum",
-        "number": 225,
+        "number": 223,
         "shape": "normal",
         "set": "AEK",
         "position": "140"
@@ -1572,14 +1572,14 @@
     },
     {
         "card_name": "Satsukai, Nexus of Lights",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "AEK",
         "position": "139"
     },
     {
         "card_name": "Nyano, Serene Shrine",
-        "number": 220,
+        "number": 218,
         "shape": "normal",
         "set": "AEK",
         "position": "141"
@@ -1600,89 +1600,89 @@
         "card_name": "er"
     },
     {
-        "card_name": "Frozen Ocean",
-        "number": 213,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "275"
-    },
-    {
-        "card_name": "Mysterious Cove",
-        "number": 219,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "272"
-    },
-    {
-        "card_name": "Daunting Precipice",
-        "number": 211,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "278"
-    },
-    {
-        "card_name": "Shadowy Crossroads",
-        "number": 223,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "273"
-    },
-    {
-        "card_name": "Charming Agora",
-        "number": 210,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "270"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Abandoned Arcade",
+        "card_name": "Aviation Hub",
         "number": 209,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "269"
+    },
+    {
+        "card_name": "Skyline Lookout",
+        "number": 222,
         "shape": "normal",
         "set": "AEK",
         "position": "276"
     },
     {
-        "card_name": "Decadent Lounge",
+        "card_name": "Decadent Nightclub",
         "number": 212,
         "shape": "normal",
         "set": "AEK",
         "position": "271"
     },
     {
-        "card_name": "Secluded Cemetery",
-        "number": 222,
+        "card_name": "Shopping Mall",
+        "number": 221,
         "shape": "normal",
         "set": "AEK",
-        "position": "277"
+        "position": "275"
     },
     {
-        "card_name": "Lonesome Road",
-        "number": 216,
+        "card_name": "Cluttered Studio",
+        "number": 210,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "273"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Feline Sanctuary",
+        "number": 213,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "272"
+    },
+    {
+        "card_name": "Opulent Casino",
+        "number": 219,
         "shape": "normal",
         "set": "AEK",
         "position": "274"
     },
     {
-        "card_name": "Teeming Wreckage",
+        "card_name": "Undercity Alley",
         "number": 224,
         "shape": "normal",
         "set": "AEK",
-        "position": "269"
+        "position": "277"
+    },
+    {
+        "card_name": "Construction Zone",
+        "number": 211,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "270"
+    },
+    {
+        "card_name": "Urban Gardens",
+        "number": 225,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "278"
     },
     {
         "card_name": "er"
@@ -1715,7 +1715,7 @@
     },
     {
         "card_name": "Luminous City",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "AEK",
         "position": "212"
@@ -1825,18 +1825,18 @@
     },
     "a->token",
     {
-        "card_name": "Copy",
+        "card_name": "Awe",
         "number": 1,
         "shape": "token",
         "set": "AEK",
-        "position": "165"
+        "position": "170"
     },
     {
-        "card_name": "Idolatry",
+        "card_name": "Copy",
         "number": 2,
         "shape": "token",
         "set": "AEK",
-        "position": "170"
+        "position": "165"
     },
     {
         "card_name": "Clue",

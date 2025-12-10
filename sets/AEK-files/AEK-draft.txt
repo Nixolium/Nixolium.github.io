@@ -194,7 +194,7 @@
 			"name": "Hobby Shop",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Idolatry",
+			"type": "Enchantment — Awe",
 			"collector_number": "141",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/19.png"
@@ -331,11 +331,11 @@
 			}
 		},
 		{
-			"name": "Live Like No Tomorrow",
+			"name": "Hollow Pact",
 			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
-			"type": "Instant",
-			"collector_number": "175",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/33.png"
 			}
@@ -904,7 +904,7 @@
 			"name": "I Am A Rockstar",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Enchantment — Idolatry",
+			"type": "Enchantment — Awe",
 			"collector_number": "142",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/90.png"
@@ -925,7 +925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/92.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Artist",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/93.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment Creature — Avatar Artist",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/94.png"
 			}
@@ -1163,7 +1163,7 @@
 		{
 			"name": "Miko, Who Sings With Heart",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Artist",
 			"collector_number": "179",
 			"image_uris": {
@@ -1271,11 +1271,11 @@
 			}
 		},
 		{
-			"name": "Hyacin, the Awemaker",
+			"name": "Hyacin, Everyone's Idol",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Nephilim Artist",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/127.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Vampire Scientist",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/130.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/138.png"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/139.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "225",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/140.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "220",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/141.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/144.png"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/165.png"
 			}
@@ -1701,11 +1701,11 @@
 			}
 		},
 		{
-			"name": "Idolatry",
+			"name": "Awe",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Enchantment — Idolatry",
-			"collector_number": "2",
+			"type": "Token Enchantment — Awe",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/170.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Human Wizard Scout",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/181.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{R}{R}",
 			"type": "Instant",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/198.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Artist",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/199.png"
 			}
@@ -2132,7 +2132,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/212.png"
 			}
@@ -2268,11 +2268,11 @@
 			}
 		},
 		{
-			"name": "Azuscent Starchild",
+			"name": "Cosmic Starchild",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "{5}{W}{U}",
 			"type": "Enchantment Creature — Avatar Artist",
-			"collector_number": "162",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/226.png"
 			}
@@ -2489,7 +2489,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human Artist",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/247.png"
 			}
@@ -2705,101 +2705,101 @@
 			}
 		},
 		{
-			"name": "Teeming Wreckage",
+			"name": "Aviation Hub",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Forest Island",
-			"collector_number": "224",
+			"type": "Land",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/269.png"
 			}
 		},
 		{
-			"name": "Charming Agora",
+			"name": "Construction Zone",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Forest Plains",
-			"collector_number": "210",
+			"type": "Land",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/270.png"
 			}
 		},
 		{
-			"name": "Decadent Lounge",
+			"name": "Decadent Nightclub",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Island Mountain",
+			"type": "Land",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/271.png"
 			}
 		},
 		{
-			"name": "Mysterious Cove",
+			"name": "Feline Sanctuary",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Island Swamp",
-			"collector_number": "219",
+			"type": "Land",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/272.png"
 			}
 		},
 		{
-			"name": "Shadowy Crossroads",
+			"name": "Cluttered Studio",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest",
-			"collector_number": "223",
+			"type": "Land",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/273.png"
 			}
 		},
 		{
-			"name": "Lonesome Road",
+			"name": "Opulent Casino",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains",
-			"collector_number": "216",
+			"type": "Land",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/274.png"
 			}
 		},
 		{
-			"name": "Frozen Ocean",
+			"name": "Shopping Mall",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Plains Island",
-			"collector_number": "213",
+			"type": "Land",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/275.png"
 			}
 		},
 		{
-			"name": "Abandoned Arcade",
+			"name": "Skyline Lookout",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "209",
+			"type": "Land",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/276.png"
 			}
 		},
 		{
-			"name": "Secluded Cemetery",
+			"name": "Undercity Alley",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest",
-			"collector_number": "222",
+			"type": "Land",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/277.png"
 			}
 		},
 		{
-			"name": "Daunting Precipice",
+			"name": "Urban Gardens",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
-			"collector_number": "211",
+			"type": "Land",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/278.png"
 			}
@@ -2813,7 +2813,7 @@
 	2 Ezren, Speedrunner
 	2 Fiery Prominence
 	2 Miko, Who Sings With Heart
-	2 Hyacin, the Awemaker
+	2 Hyacin, Everyone's Idol
 	2 Inspiring Idol
 	2 Introversion
 	2 Kyv, Sanguine Avante
@@ -2846,7 +2846,7 @@
 	2 Idyllic Idol
 	2 Azalea, New Apocrypha
 	2 All the Time in the World
-	2 Azuscent Starchild
+	2 Cosmic Starchild
 	2 Vielle's Rosethorn Crown
 	2 Gravity Defier
 	2 Thunder Stage Singer
@@ -2871,7 +2871,7 @@
 	4 Fan Following
 	4 Serenyi's Shell
 	4 Sunflower Painter
-	4 Live Like No Tomorrow
+	4 Hollow Pact
 	4 Waiting for You
 	4 Akiyama Rim
 	4 Fall Out
@@ -3025,16 +3025,16 @@
 	8 Beloved Icon
 	8 Dreamglass Melody
 	8 Unlucky Crossing
-	8 Teeming Wreckage
-	8 Charming Agora
-	8 Decadent Lounge
-	8 Mysterious Cove
-	8 Shadowy Crossroads
-	8 Lonesome Road
-	8 Frozen Ocean
-	8 Abandoned Arcade
-	8 Secluded Cemetery
-	8 Daunting Precipice
+	8 Aviation Hub
+	8 Construction Zone
+	8 Decadent Nightclub
+	8 Feline Sanctuary
+	8 Cluttered Studio
+	8 Opulent Casino
+	8 Shopping Mall
+	8 Skyline Lookout
+	8 Undercity Alley
+	8 Urban Gardens
 [foil(1)]
 	12 Aethershell Holo
 	12 Dream
@@ -3068,7 +3068,7 @@
 	12 Party Planner
 	12 Moonlit Lantern Festival
 	12 Leyline Traveler
-	6 Live Like No Tomorrow
+	6 Hollow Pact
 	12 Neon City Racer
 	12 Roaring Songstress
 	12 Reflected Frame
@@ -3161,7 +3161,7 @@
 	6 Lost From Reality
 	6 A Practical Guide to Evil
 	6 Blade Alley Vigilantes
-	2 Hyacin, the Awemaker
+	2 Hyacin, Everyone's Idol
 	2 Inspiring Idol
 	2 Introversion
 	2 Kyv, Sanguine Avante
@@ -3222,7 +3222,7 @@
 	2 Idyllic Idol
 	2 Azalea, New Apocrypha
 	2 All the Time in the World
-	2 Azuscent Starchild
+	2 Cosmic Starchild
 	2 Vielle's Rosethorn Crown
 	2 Gravity Defier
 	2 Thunder Stage Singer
@@ -3252,16 +3252,16 @@
 	12 Unlucky Crossing
 	2 Nixie, Novice Scriptwriter
 	6 Charming Confidant
-	12 Teeming Wreckage
-	12 Charming Agora
-	12 Decadent Lounge
-	12 Mysterious Cove
-	12 Shadowy Crossroads
-	12 Lonesome Road
-	12 Frozen Ocean
-	12 Abandoned Arcade
-	12 Secluded Cemetery
-	12 Daunting Precipice
+	12 Aviation Hub
+	12 Construction Zone
+	12 Decadent Nightclub
+	12 Feline Sanctuary
+	12 Cluttered Studio
+	12 Opulent Casino
+	12 Shopping Mall
+	12 Skyline Lookout
+	12 Undercity Alley
+	12 Urban Gardens
 [wildcard(1)]
 	6 Aethershell Holo
 	6 Dream
@@ -3295,7 +3295,7 @@
 	6 Party Planner
 	6 Moonlit Lantern Festival
 	6 Leyline Traveler
-	15 Live Like No Tomorrow
+	15 Hollow Pact
 	6 Neon City Racer
 	6 Roaring Songstress
 	6 Reflected Frame
@@ -3388,7 +3388,7 @@
 	15 Lost From Reality
 	15 A Practical Guide to Evil
 	15 Blade Alley Vigilantes
-	7 Hyacin, the Awemaker
+	7 Hyacin, Everyone's Idol
 	7 Inspiring Idol
 	7 Introversion
 	7 Kyv, Sanguine Avante
@@ -3449,7 +3449,7 @@
 	7 Idyllic Idol
 	7 Azalea, New Apocrypha
 	7 All the Time in the World
-	7 Azuscent Starchild
+	7 Cosmic Starchild
 	7 Vielle's Rosethorn Crown
 	7 Gravity Defier
 	7 Thunder Stage Singer
@@ -3479,13 +3479,13 @@
 	6 Unlucky Crossing
 	7 Nixie, Novice Scriptwriter
 	15 Charming Confidant
-	6 Teeming Wreckage
-	6 Charming Agora
-	6 Decadent Lounge
-	6 Mysterious Cove
-	6 Shadowy Crossroads
-	6 Lonesome Road
-	6 Frozen Ocean
-	6 Abandoned Arcade
-	6 Secluded Cemetery
-	6 Daunting Precipice
+	6 Aviation Hub
+	6 Construction Zone
+	6 Decadent Nightclub
+	6 Feline Sanctuary
+	6 Cluttered Studio
+	6 Opulent Casino
+	6 Shopping Mall
+	6 Skyline Lookout
+	6 Undercity Alley
+	6 Urban Gardens

@@ -1,4 +1,108 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Hollow Pact added.
+Hyacin, Everyone's Idol added.
+Awe added.
+Cosmic Starchild added.
+Aviation Hub added.
+Construction Zone added.
+Decadent Nightclub added.
+Feline Sanctuary added.
+Cluttered Studio added.
+Opulent Casino added.
+Shopping Mall added.
+Skyline Lookout added.
+Undercity Alley added.
+Urban Gardens added.
+
+Live Like No Tomorrow removed.
+Hyacin, the Awemaker removed.
+Idolatry removed.
+Azuscent Starchild removed.
+Teeming Wreckage removed.
+Charming Agora removed.
+Decadent Lounge removed.
+Mysterious Cove removed.
+Shadowy Crossroads removed.
+Lonesome Road removed.
+Frozen Ocean removed.
+Abandoned Arcade removed.
+Secluded Cemetery removed.
+Daunting Precipice removed.
+
+Hobby Shop
+type: Enchantment — Idolatry => Enchantment — Awe
+
+Rhythm Seer
+rules_text: When Rhythm Seer enters, choose one —
+• Conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+• Create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i] => When Rhythm Seer enters, choose one —
+• Conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+• Create an Awe token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+
+Cheering Fangirl
+rules_text: Affinity for Humans [i](This spell costs {1} less to cast for each Human you control.)[/i]
+When Cheering Fangirl enters, create an Idolatry token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i] => Affinity for Humans [i](This spell costs {1} less to cast for each Human you control.)[/i]
+When Cheering Fangirl enters, create an Awe token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+
+I Am A Rockstar
+type: Enchantment — Idolatry => Enchantment — Awe
+
+Exalted Gossipers
+rules_text: When Exalted Gossipers enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create a tapped and attacking 2/1 red Human Reveler creature token. Sacrifice it at the beginning of the next end step. => When Exalted Gossipers enters, create an Awe token. [i](It's an enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create a tapped and attacking 2/1 red Human Reveler creature token. Sacrifice it at the beginning of the next end step.
+
+Miko, Who Sings With Heart
+cost: {3}{U}{R} => {2}{U}{R}
+rules_text: Once during each of your turns, as you cast an instant or sorcery spell, you may have the abilities of any number of nonland permanents you control trigger as though that permanent entered. => Whenever you draw a card, choose one that hasn't been chosen this turn —
+• Untap target permanent.
+• Scry 2.
+• Miko deals 3 damage to each opponent.
+pt: 3/4 => 3/3
+
+Yume, Miseko Producer
+rules_text: When Yume enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create X tapped and attacking 1/1 white Human creature tokens, where X is that creature's power. Sacrifice those tokens at the beginning of the next end step. => When Yume enters, create an Awe token. [i](It's an enchantment token with exalted.)[/i]
+Whenever a creature you control attacks alone, create X tapped and attacking 1/1 white Human creature tokens, where X is that creature's power. Sacrifice those tokens at the beginning of the next end step.
+
+Shock Paintress
+rules_text: Trample
+If an ability of an enchantment you control triggers, if Shock Paintress is tapped, you may have that ability trigger an additional time.
+Whenever an Idolatry enchantment you control enters, you may return Shock Paintress from your graveyard to your hand. => Trample
+If an ability of an enchantment you control triggers, if Shock Paintress is tapped, you may have that ability trigger an additional time.
+Whenever an Awe enchantment you control enters, you may return Shock Paintress from your graveyard to your hand.
+
+Chroma Network Rival
+rules_text: Chroma Network Rival can't be blocked by creatures with power 2 or less.
+Whenever a basic land you control enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i] => Chroma Network Rival can't be blocked by creatures with power 2 or less.
+Whenever a basic land you control enters, create an Awe token. [i](It's an enchantment token with exalted.)[/i]
+
+Kairos, Colorsmith
+rules_text: When Kairos enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+[+1]: Each player draws a card.
+[-2]: Target creature or enchantment you control becomes a 3/3 white Avatar enchantment creature in addition to its other colors and types. => When Kairos enters, create an Awe token. [i](It's an enchantment token with exalted.)[/i]
+[+1]: Each player draws a card.
+[-2]: Target creature or enchantment you control becomes a 3/3 white Avatar enchantment creature in addition to its other colors and types.
+special_text: When Kairos enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+[+1]: Each player draws a card.
+[-2]: Target creature or enchantment you control becomes a 3/3 white Avatar enchantment creature in addition to its other colors and types. => When Kairos enters, create an Awe token. [i](It's an enchantment token with exalted.)[/i]
+[+1]: Each player draws a card.
+[-2]: Target creature or enchantment you control becomes a 3/3 white Avatar enchantment creature in addition to its other colors and types.
+
+Idyllic Idol
+rules_text: When Idyllic Idol enters, create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Idolatries you control are enchantment lands in addition to their other types and have “{T}: Add one mana of any color.” => When Idyllic Idol enters, create an Awe token. [i](It's an enchantment token with exalted.)[/i]
+Awe you control are enchantment lands in addition to their other types and have “{T}: Add one mana of any color.”
+
+Eventide Rendezvous
+rules_text: Create an Idolatry token. [i](It's an enchantment token with exalted.)[/i]
+Memento {3}{G}{G} [i](You may cast this from your graveyard for {3}{G}{G}. If you do, put it onto the battlefield transformed after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i] => Create an Awe token. [i](It's an enchantment token with exalted.)[/i]
+Memento {3}{G}{G} [i](You may cast this from your graveyard for {3}{G}{G}. If you do, put it onto the battlefield transformed after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+
+VERSION 21 CHANGELOG
 ====================
 
 
