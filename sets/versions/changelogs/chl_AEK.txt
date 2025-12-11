@@ -1,4 +1,14 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Snapshot Storyteller added.
+
+Koto, Snapshot Storyteller removed.
+
+Halcyon Road
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Hollow Pact added.

@@ -285,7 +285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment Creature — Avatar",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/28.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/85.png"
 			}
@@ -921,11 +921,11 @@
 			}
 		},
 		{
-			"name": "Koto, Snapshot Storyteller",
+			"name": "Snapshot Storyteller",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Legendary Creature — Human Scout",
-			"collector_number": "174",
+			"type": "Creature — Human Scout",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/92.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/95.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Artist Reveler",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/98.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/99.png"
 			}
@@ -1015,7 +1015,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/101.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Artist",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/116.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Vampire Scientist",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/130.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Human Fractal",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/135.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Creature — Human Coward",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/147.png"
 			}
@@ -2082,7 +2082,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/207.png"
 			}
@@ -2102,7 +2102,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/209.png"
 			}
@@ -2112,7 +2112,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Artist",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/210.png"
 			}
@@ -2122,7 +2122,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Planeswalker — Navia",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/211.png"
 			}
@@ -2139,7 +2139,7 @@
 		},
 		{
 			"name": "Halcyon Road",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "214",
@@ -2359,7 +2359,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Reveler",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/234.png"
 			}
@@ -2479,7 +2479,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Artifact",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/246.png"
 			}
@@ -2841,7 +2841,6 @@
 	2 Barhopping in Miseko
 	2 Rainy Night Voyager
 	2 Miss Navia Cosgrove
-	2 Halcyon Road
 	2 Celosia on Burning Wings
 	2 Idyllic Idol
 	2 Azalea, New Apocrypha
@@ -2891,7 +2890,7 @@
 	4 Sunshine Icon
 	4 From Grassroots
 	4 Ellis, Paradise Painter
-	4 Koto, Snapshot Storyteller
+	4 Snapshot Storyteller
 	4 Idiosyncratic Savant
 	4 Holographic Darling
 	4 Miseko Kiteflier
@@ -2938,6 +2937,7 @@
 	4 Seventh Street Assembly
 	4 Six Requiems
 	4 Moonglow Romantic
+	4 Halcyon Road
 	4 Heartfelt Composition
 	4 Embrace
 	4 Kairos, Colorsmith
@@ -3126,7 +3126,7 @@
 	6 From Grassroots
 	12 I Am A Rockstar
 	6 Ellis, Paradise Painter
-	6 Koto, Snapshot Storyteller
+	6 Snapshot Storyteller
 	6 Idiosyncratic Savant
 	6 Holographic Darling
 	6 Miseko Kiteflier
@@ -3211,7 +3211,7 @@
 	6 Moonglow Romantic
 	2 Miss Navia Cosgrove
 	12 Luminous City
-	2 Halcyon Road
+	6 Halcyon Road
 	2 Celosia on Burning Wings
 	6 Heartfelt Composition
 	12 Beloved Icon
@@ -3353,7 +3353,7 @@
 	15 From Grassroots
 	6 I Am A Rockstar
 	15 Ellis, Paradise Painter
-	15 Koto, Snapshot Storyteller
+	15 Snapshot Storyteller
 	15 Idiosyncratic Savant
 	15 Holographic Darling
 	15 Miseko Kiteflier
@@ -3438,7 +3438,7 @@
 	15 Moonglow Romantic
 	7 Miss Navia Cosgrove
 	6 Luminous City
-	7 Halcyon Road
+	15 Halcyon Road
 	7 Celosia on Burning Wings
 	15 Heartfelt Composition
 	6 Beloved Icon
