@@ -1,4 +1,130 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+The Ichnoosteum added.
+Writhing, Wretched Existance added.
+Programmer's Desk added.
+Sword of Night and Neon added.
+Apostate of the Nihility added.
+Elemental added.
+Ark Core added.
+Hannah added.
+Knight added.
+Hunt added.
+Polyp Pools added.
+Eldrazi Samurai added.
+Phoenix added.
+Scout added.
+Study added.
+Blood added.
+
+The Warp Express removed.
+Writhing Existance removed.
+Programming Desk removed.
+Sword of Gloom and Glow removed.
+Apostate of the Eye removed.
+
+Skyscour Pursuant
+rules_text: Whenever a creature you control attacks a battle, put a +1/+1 counter on it.
+At the beginning of combat on your turn, you may discard a card. If you do, create a Hunt battle token an opponent protects with 2 defense and “When this battle is defeated, draw a card.” => Whenever Skyscour Pursuant attacks a battle, put a +1/+1 counter on it.
+At the beginning of of your first main phase, you may discard a card. If you do, create a Hunt battle token an opponent protects with 2 defense and “When this battle is defeated, draw a card.”
+pt: 2/2 => 2/3
+
+Epsilon Saboteur
+rules_text: Epsilon Saboteur can't block.
+Your maximum hand size is 2.
+Whenever Epsilon Saboteur or another creature you control deals combat damage to an opponent, draw a card. => Epsilon Saboteur can't be blocked.
+Skip your draw step.
+Whenever Epsilon Saboteur or another creature you control deals combat damage to an opponent, draw a card.
+pt: 2/1 => 2/2
+
+Last Memory Journeyman
+rules_text: Nontoken creatures you control are lands in addition to their other types.
+As long as you have seven or more differently named lands, lands you control have vigilance and “{T}: Add one mana of any color.” => Nontoken creatures you control are lands in addition to their other types.
+As long as you control seven or more differently named lands, lands you control have vigilance and “{T}: Add one mana of any color.”
+
+Sacrovecta, Bloodfiend
+rules_text: Menace
+When Sacrovecta, Bloodfiend enters, create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Once each turn, when you sacrifice a Blood, create a token that's a copy of another target creature, then sacrifice that token. => Menace
+When Sacrovecta enters, create two Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Once each turn, when you sacrifice a Blood, create a token that's a copy of another target creature, then sacrifice that token.
+
+Rampaging Culebre
+rules_text: Rampaging Culebre can't be countered.
+Trample, ward {2}
+Whenever Rampaging Culebre enters or attacks, draw a card. Then if you have five or more cards in hand, destroy up to one target noncreature nonland permanent you don't control. => Rampaging Culebre can't be countered.
+Trample, ward {2}
+Whenever Rampaging Culebre enters or attacks, draw a card. Then if you have five or more cards in hand, destroy up to one target noncreature, nonland permanent you don't control.
+
+Underworld Visitation
+cost: {1}{B} => {B}
+rules_text: At the beginning of your end step, conjure a duplicate of target card in your graveyard into your graveyard.
+{6}{B}, Sacrifice Underworld Visitation: Return target creature or planeswalker card from your graveyard to the battlefield. This ability costs {1} less to activate for each other card in your graveyard with the same name as it. => At the beginning of your upkeep, conjure a duplicate of target card in your graveyard into your graveyard.
+{6}{B}, Sacrifice Underworld Visitation: Return target creature or planeswalker card from your graveyard to the battlefield. This ability costs {1} less to activate for each other card in your graveyard with the same name as it.
+
+Supervillainy
+
+Eldritch Revelation
+
+Shiroyuki of the Last Memory
+rules_text: First Mate—Your starting deck contains six or fewer monocolor cards. [i](If this card outside the game is your chosen first mate, you may swap it with a card in your opening hand.)[/i]
+When Shiroyuki enters, create two tapped colorless Everywhere tokens with two stun counters on each of them. [i](It's a land with every basic land type.)[/i] => First Mate—Your starting deck contains six or fewer monocolor cards. [i](If this card outside the game is your chosen first mate, you may swap it with a card in your opening hand.)[/i]
+When Shiroyuki enters, create Ark Core, a colorless artifact token with “{T}: Add two mana of different colors.” It enters tapped with two stun counters on it.
+
+Ironhail Guardian
+rules_text: Ironhail Guardian can't attack while you control a colored permanent. => Indestructible
+Improve—Sacrifice an artifact. [i](Sacrifice an artifact: Put a +1/+1 counter on this creature. This costs {1} more to activate for each +1/+1 counter on it. Improve only as a sorcery.)[/i]
+pt: 5/5 => 2/2
+
+Traveling Android
+cost: {4} => {5}
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+{4}, Discard Traveling Android: Sightsee. This ability costs {1} less to activate for each artifact you control. [i](Conjure the basic land of your choice into your hand.)[/i] => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+When Traveling Android enters, create a tapped Far-Off Land, a land token with “{T}: Add one mana of any color.”
+
+Nah
+
+Shiroyuki, Living on Repeat
+rules_text: When Shiroyuki dies, shuffle her into your library. If it's your turn, you may draw a card.
+[-1]: Search your library for up to six cards, exile them, then shuffle.
+[-2]: Create a blue Fate enchantment token with “When this enchantment enters or whenever you cast a Shiroyuki spell, create a 2/1 blue Elemental creature token with flying.” => When Shiroyuki dies, shuffle her into your library. If it's your turn, you may draw a card.
+[-1]: Search your library for up to six cards, exile them, then shuffle.
+[-2]: Create a blue Fate enchantment token with “When this enchantment enters or whenever you cast a Shiroyuki spell, create a 2/1 white Elemental creature token with flying.”
+special_text: When Shiroyuki dies, shuffle her into your library. If it's your turn, you may draw a card.
+[-1]: Search your library for up to six cards, exile them, then shuffle.
+[-2]: Create a blue Fate enchantment token with “When this enchantment enters or whenever you cast a Shiroyuki spell, create a 2/1 blue Elemental creature token with flying.” => When Shiroyuki dies, shuffle her into your library. If it's your turn, you may draw a card.
+[-1]: Search your library for up to six cards, exile them, then shuffle.
+[-2]: Create a blue Fate enchantment token with “When this enchantment enters or whenever you cast a Shiroyuki spell, create a 2/1 white Elemental creature token with flying.”
+
+Shiroyuki's Pocket Reality
+rules_text: Transcend [i](Activate as a sorcery to gain the next type and a +1/+1 counter.)[/i]
+{T}: Add {C}.
+Whenever Shiroyuki's Pocket Reality becomes tapped, put a +1/+1 counter on it.
+{2}{G}: Domain
+Shiroyuki's Pocket Reality gains “{T}: Add one mana of any color.”
+{4}{U}: Worldsoul
+Shiroyuki's Pocket Reality becomes a 0/0 Avatar creature with indestructible. It's still a land. => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+{T}: Add {C}. Put a +1/+1 counter on Shiroyuki's Pocket Reality.
+{3}{G}: Domain
+Shiroyuki's Pocket Reality gains “{T}: Add X mana of any one color, where X is the number of counters on this land.”
+{6}{U}: Worldsoul
+Shiroyuki's Pocket Reality becomes a 0/0 Avatar creature with flying. It's still a land.
+special_text: Transcend [i](Activate as a sorcery to gain the next type and a +1/+1 counter.)[/i]
+{T}: Add {C}.
+Whenever Shiroyuki's Pocket Reality becomes tapped, put a +1/+1 counter on it.
+{2}{G}: Domain
+Shiroyuki's Pocket Reality gains “{T}: Add one mana of any color.”
+{4}{U}: Worldsoul
+Shiroyuki's Pocket Reality becomes a 0/0 Avatar creature with indestructible. It's still a land. => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+{T}: Add {C}. Put a +1/+1 counter on Shiroyuki's Pocket Reality.
+{3}{G}: Domain
+Shiroyuki's Pocket Reality gains “{T}: Add X mana of any one color, where X is the number of counters on this land.”
+{6}{U}: Worldsoul
+Shiroyuki's Pocket Reality becomes a 0/0 Avatar creature with flying. It's still a land.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
