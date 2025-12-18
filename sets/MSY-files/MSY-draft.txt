@@ -3,7 +3,7 @@
 		{
 			"name": "Red Core Intercessor",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Enchantment Creature — Angel Spirit",
 			"collector_number": "3",
 			"image_uris": {
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/4.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/8.png"
 			}
@@ -121,11 +121,11 @@
 			}
 		},
 		{
-			"name": "Last Memory Journeyman",
+			"name": "Frontier Journeyman",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Reflection Scout",
-			"collector_number": "28",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/12.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Angel Avatar",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/14.png"
 			}
@@ -334,7 +334,7 @@
 			"name": "Traveling Android",
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature — Construct Scout",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/33.png"
@@ -361,11 +361,11 @@
 			}
 		},
 		{
-			"name": "Nah",
+			"name": "Winterglass Diviner",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Instant",
-			"collector_number": "10",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Wizard",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Planeswalker — Shiroyuki",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/37.png"
 			}
@@ -516,7 +516,7 @@
 	2 Xifang Hu, Divine Beast
 	2 Epsilon Saboteur
 	2 Kalista, Living Zeitgeist
-	2 Last Memory Journeyman
+	2 Frontier Journeyman
 	2 Caylin, Swift Innovator
 	1 Storybound Seraph
 	2 Flesh Revelation
@@ -553,7 +553,7 @@
 	4 Programmer's Desk
 	4 Traveling Android
 	4 Starwell Station
-	4 Nah
+	4 Winterglass Diviner
 [common(7)]
 [foil(1)]
 	6 Red Core Intercessor
@@ -568,7 +568,7 @@
 	2 Xifang Hu, Divine Beast
 	2 Epsilon Saboteur
 	2 Kalista, Living Zeitgeist
-	2 Last Memory Journeyman
+	2 Frontier Journeyman
 	2 Caylin, Swift Innovator
 	1 Storybound Seraph
 	2 Flesh Revelation
@@ -592,7 +592,7 @@
 	6 Traveling Android
 	2 Sword of Night and Neon
 	6 Starwell Station
-	6 Nah
+	6 Winterglass Diviner
 	2 Shiroyuki, Living on Repeat
 	2 Apostate of the Nihility
 	1 Shiroyuki's Pocket Reality
@@ -609,7 +609,7 @@
 	7 Xifang Hu, Divine Beast
 	7 Epsilon Saboteur
 	7 Kalista, Living Zeitgeist
-	7 Last Memory Journeyman
+	7 Frontier Journeyman
 	7 Caylin, Swift Innovator
 	4 Storybound Seraph
 	7 Flesh Revelation
@@ -633,7 +633,7 @@
 	15 Traveling Android
 	7 Sword of Night and Neon
 	15 Starwell Station
-	15 Nah
+	15 Winterglass Diviner
 	7 Shiroyuki, Living on Repeat
 	7 Apostate of the Nihility
 	4 Shiroyuki's Pocket Reality

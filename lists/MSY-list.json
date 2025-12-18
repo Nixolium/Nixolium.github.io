@@ -43,7 +43,7 @@
     },
     {
         "card_name": "Storybound Seraph",
-        "number": 12,
+        "number": 11,
         "shape": "normal",
         "set": "MSY",
         "position": "14"
@@ -63,8 +63,8 @@
         "position": "25"
     },
     {
-        "card_name": "Last Memory Journeyman",
-        "number": 28,
+        "card_name": "Frontier Journeyman",
+        "number": 26,
         "shape": "normal",
         "set": "MSY",
         "position": "12"
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Shiroyuki, Living on Repeat",
-        "number": 11,
+        "number": 10,
         "shape": "planeswalker",
         "set": "MSY",
         "position": "37"
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Journey to the Tree of Tales",
-        "number": 26,
+        "number": 27,
         "shape": "normal",
         "set": "MSY",
         "position": "8"
@@ -182,8 +182,8 @@
         "position": "5"
     },
     {
-        "card_name": "Nah",
-        "number": 10,
+        "card_name": "Winterglass Diviner",
+        "number": 12,
         "shape": "normal",
         "set": "MSY",
         "position": "36"
@@ -204,7 +204,7 @@
     },
     {
         "card_name": "Kyv's Synthesizer",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "MSY",
         "position": "4"

@@ -1,4 +1,74 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Frontier Journeyman added.
+Winterglass Diviner added.
+
+Last Memory Journeyman removed.
+Nah removed.
+
+Red Core Intercessor
+cost: {1}{W}{W} => {2}{W}
+
+Rampaging Culebre
+rules_text: Rampaging Culebre can't be countered.
+Trample, ward {2}
+Whenever Rampaging Culebre enters or attacks, draw a card. Then if you have five or more cards in hand, destroy up to one target noncreature, nonland permanent you don't control. => Rampaging Culebre can't be countered.
+Trample, ward {2}
+Whenever Rampaging Culebre enters or attacks, create a 1/1 green Snake creature token. Then if you control five or more creatures, destroy up to one target noncreature, nonland permanent.
+
+Bad Ending Karina
+rules_text: At the beginning of your upkeep, surveil 2.
+[+1]: If it isn't an extra turn, take an extra turn after this one. Skip the untap steps and combat steps of that extra turn.
+[-2]: Destroy target nonland permanent. You lose life equal to its mana value.
+[-7]: Restart the game. You start the new game with Hannah, a legendary blue and red 4/4 Human Artificer creature token with protection from everything. => At the beginning of combat on your turn, create Hannah, a legendary blue and red 3/2 Human Artificer creature token with haste. Sacrifice her at the beginning of the next end step.
+[+2]: Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+[-3]: If it isn't an extra turn, take an extra turn after this one. Skip the untap steps of that extra turn.
+[0]: Sacrifice Bad Ending Karina. Exile target nonland permanent. During your next end step, you can't sacrifice permanents.
+special_text: At the beginning of your upkeep, surveil 2.
+[+1]: If it isn't an extra turn, take an extra turn after this one. Skip the untap steps and combat steps of that extra turn.
+[-2]: Destroy target nonland permanent. You lose life equal to its mana value.
+[-7]: Restart the game. You start the new game with Hannah, a legendary blue and red 4/4 Human Artificer creature token with protection from everything. => At the beginning of combat on your turn, create Hannah, a legendary blue and red 3/2 Human Artificer creature token with haste. Sacrifice her at the beginning of the next end step.
+[+2]: Torment each player. [i](They lose 3 life unless they sacrifice a nonland permanent or discard a card.)[/i]
+[-3]: If it isn't an extra turn, take an extra turn after this one. Skip the untap steps of that extra turn.
+[0]: Sacrifice Bad Ending Karina. Exile target nonland permanent. During your next end step, you can't sacrifice permanents.
+loyalty: 4 => 5
+
+Traveling Android
+type: Artifact Creature — Construct => Artifact Creature — Construct Scout
+
+Shiroyuki's Pocket Reality
+rules_text: Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+{T}: Add {C}. Put a +1/+1 counter on Shiroyuki's Pocket Reality.
+{3}{G}: Domain
+Shiroyuki's Pocket Reality gains “{T}: Add X mana of any one color, where X is the number of counters on this land.”
+{6}{U}: Worldsoul
+Shiroyuki's Pocket Reality becomes a 0/0 Avatar creature with flying. It's still a land. => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+{T}: Add {C}. Put a +1/+1 counter on Shiroyuki's Pocket Reality.
+{3}{G}: Domain
+Shiroyuki's Pocket Reality gains “{T}: Add X mana of any one color, where X is the number of counters on this land.”
+{5}{U}: Worldsoul
+Shiroyuki's Pocket Reality becomes a 0/0 Avatar creature with flying. It's still a land.
+special_text: Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+{T}: Add {C}. Put a +1/+1 counter on Shiroyuki's Pocket Reality.
+{3}{G}: Domain
+Shiroyuki's Pocket Reality gains “{T}: Add X mana of any one color, where X is the number of counters on this land.”
+{6}{U}: Worldsoul
+Shiroyuki's Pocket Reality becomes a 0/0 Avatar creature with flying. It's still a land. => Diverge [i](Pick only one path as a sorcery to gain that type and a +1/+1 counter.)[/i]
+{T}: Add {C}. Put a +1/+1 counter on Shiroyuki's Pocket Reality.
+{3}{G}: Domain
+Shiroyuki's Pocket Reality gains “{T}: Add X mana of any one color, where X is the number of counters on this land.”
+{5}{U}: Worldsoul
+Shiroyuki's Pocket Reality becomes a 0/0 Avatar creature with flying. It's still a land.
+
+Hannah
+rules_text: Protection from everything [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything.)[/i] => Haste
+pt: 4/4 => 3/2
+
+Polyp Pools
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The Ichnoosteum added.
