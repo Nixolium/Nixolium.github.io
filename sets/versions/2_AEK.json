@@ -1,7 +1,7 @@
 ﻿{
     "name": "Aekyu: Idyllic Days",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -5610,6 +5610,5 @@
             "position": "278",
             "notes": "repose land"
         }
-    ],
-    "version": 26
+    ]
 }

@@ -1634,7 +1634,7 @@
 			"name": "Human_1",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Human Artist",
+			"type": "Token Creature — Human",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/163.png"
