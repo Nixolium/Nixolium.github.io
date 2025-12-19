@@ -1,4 +1,12 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Wheelbound Ace added.
+
+Alicia's Daybreaker removed.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Midnight Symphony added.

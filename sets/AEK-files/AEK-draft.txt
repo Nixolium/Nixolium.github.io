@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Artist",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment Creature — Avatar Artist",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment Creature — Avatar Artist",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Artist Scout",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Enchantment Creature — Avatar Reveler",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/46.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/102.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Gamer Artificer",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Artist Reveler",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/105.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/106.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/107.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/108.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Nephilim Horror",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/109.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Enchantment",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/110.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Reveler",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/111.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Creature — Human Artist",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/132.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/133.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Elf Wizard",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/177.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/184.png"
 			}
@@ -2172,7 +2172,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Planeswalker — Celosia",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/216.png"
 			}
@@ -2318,11 +2318,11 @@
 			}
 		},
 		{
-			"name": "Alicia's Daybreaker",
+			"name": "Wheelbound Ace",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Human Artist Reveler",
-			"collector_number": "102",
+			"type": "Creature — Human Pilot Reveler",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/231.png"
 			}
@@ -2379,7 +2379,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment Creature — Avatar",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/236.png"
 			}
@@ -2589,7 +2589,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/257.png"
 			}
@@ -2851,7 +2851,7 @@
 	2 Gravity Defier
 	2 Thunder Stage Star
 	2 Heroes are Never Late
-	2 Alicia's Daybreaker
+	2 Wheelbound Ace
 	2 Eventide Rendezvous
 	2 Selenite Flowergirl
 	2 The 99 Lives of Shiroyuki
@@ -3227,7 +3227,7 @@
 	2 Gravity Defier
 	2 Thunder Stage Star
 	2 Heroes are Never Late
-	2 Alicia's Daybreaker
+	2 Wheelbound Ace
 	2 Eventide Rendezvous
 	2 Selenite Flowergirl
 	6 Make Believer
@@ -3454,7 +3454,7 @@
 	7 Gravity Defier
 	7 Thunder Stage Star
 	7 Heroes are Never Late
-	7 Alicia's Daybreaker
+	7 Wheelbound Ace
 	7 Eventide Rendezvous
 	7 Selenite Flowergirl
 	15 Make Believer
