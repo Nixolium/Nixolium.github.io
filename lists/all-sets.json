@@ -19,6 +19,11 @@
             "set_code": "MSY",
             "set_name": "MSEM Mystery Community Slots",
             "formats": ""
+        },
+        {
+            "set_code": "SWK",
+            "set_name": "Stillwake",
+            "formats": ""
         }
     ]
 }
