@@ -3446,7 +3446,7 @@
             "artist": "Ellfyie",
             "alias": "",
             "position": "171",
-            "notes": ""
+            "notes": "!group vielle"
         },
         {
             "card_name": "Tolen, the Paradisiac",
@@ -5611,5 +5611,5 @@
             "notes": "repose land"
         }
     ],
-    "version": 26
+    "version": 27
 }
