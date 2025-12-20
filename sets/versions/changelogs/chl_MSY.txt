@@ -1,4 +1,14 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Corsenna Windrider added.
+Moonglass Diviner added.
+
+Caylin, Swift Innovator removed.
+Winterglass Diviner removed.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Frontier Journeyman added.

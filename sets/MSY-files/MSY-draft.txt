@@ -131,10 +131,10 @@
 			}
 		},
 		{
-			"name": "Caylin, Swift Innovator",
+			"name": "Corsenna Windrider",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature — Human Artificer",
+			"type": "Creature — Human Scout",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/13.png"
@@ -145,7 +145,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Angel Avatar",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/14.png"
 			}
@@ -361,11 +361,11 @@
 			}
 		},
 		{
-			"name": "Winterglass Diviner",
+			"name": "Moonglass Diviner",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit Wizard",
-			"collector_number": "12",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Planeswalker — Shiroyuki",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/MSY-files/img/37.png"
 			}
@@ -517,7 +517,7 @@
 	2 Epsilon Saboteur
 	2 Kalista, Living Zeitgeist
 	2 Frontier Journeyman
-	2 Caylin, Swift Innovator
+	2 Corsenna Windrider
 	1 Storybound Seraph
 	2 Flesh Revelation
 	2 Sacrovecta, Bloodfiend
@@ -553,7 +553,7 @@
 	4 Programmer's Desk
 	4 Traveling Android
 	4 Starwell Station
-	4 Winterglass Diviner
+	4 Moonglass Diviner
 [common(7)]
 [foil(1)]
 	6 Red Core Intercessor
@@ -569,7 +569,7 @@
 	2 Epsilon Saboteur
 	2 Kalista, Living Zeitgeist
 	2 Frontier Journeyman
-	2 Caylin, Swift Innovator
+	2 Corsenna Windrider
 	1 Storybound Seraph
 	2 Flesh Revelation
 	2 Sacrovecta, Bloodfiend
@@ -592,7 +592,7 @@
 	6 Traveling Android
 	2 Sword of Night and Neon
 	6 Starwell Station
-	6 Winterglass Diviner
+	6 Moonglass Diviner
 	2 Shiroyuki, Living on Repeat
 	2 Apostate of the Nihility
 	1 Shiroyuki's Pocket Reality
@@ -610,7 +610,7 @@
 	7 Epsilon Saboteur
 	7 Kalista, Living Zeitgeist
 	7 Frontier Journeyman
-	7 Caylin, Swift Innovator
+	7 Corsenna Windrider
 	4 Storybound Seraph
 	7 Flesh Revelation
 	7 Sacrovecta, Bloodfiend
@@ -633,7 +633,7 @@
 	15 Traveling Android
 	7 Sword of Night and Neon
 	15 Starwell Station
-	15 Winterglass Diviner
+	15 Moonglass Diviner
 	7 Shiroyuki, Living on Repeat
 	7 Apostate of the Nihility
 	4 Shiroyuki's Pocket Reality

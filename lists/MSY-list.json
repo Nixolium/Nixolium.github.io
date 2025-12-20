@@ -35,7 +35,7 @@
         "position": "21"
     },
     {
-        "card_name": "Caylin, Swift Innovator",
+        "card_name": "Corsenna Windrider",
         "number": 1,
         "shape": "normal",
         "set": "MSY",
@@ -43,7 +43,7 @@
     },
     {
         "card_name": "Storybound Seraph",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "MSY",
         "position": "14"
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Shiroyuki, Living on Repeat",
-        "number": 10,
+        "number": 11,
         "shape": "planeswalker",
         "set": "MSY",
         "position": "37"
@@ -182,8 +182,8 @@
         "position": "5"
     },
     {
-        "card_name": "Winterglass Diviner",
-        "number": 12,
+        "card_name": "Moonglass Diviner",
+        "number": 10,
         "shape": "normal",
         "set": "MSY",
         "position": "36"
