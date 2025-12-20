@@ -13,5 +13,6 @@
 	{ "cards":  [ "basic" ] },
 	{ "title": "token", "cards":  [ "token" ] },
 	{ "title": "conjure", "cards":  [ "!group conjure" ] },
+	{ "title": "vielle", "cards":  [ "!group vielle" ] },
 	{ "title": "masterpiece", "cards":  [ "mp" ] }
 ]
