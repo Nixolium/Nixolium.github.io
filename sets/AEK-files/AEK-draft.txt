@@ -2090,7 +2090,7 @@
 		{
 			"name": "Rainy Night Voyager",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Scout",
 			"collector_number": "62",
 			"image_uris": {

@@ -1,4 +1,31 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+Corsenna, Planar Sightseer
+rules_text: Lands you control enter untapped.
+Whenever Corsenna enters or attacks, conjure a duplicate of target land into your hand.
+{0}: Copy target activated or triggered ability you control of a land. You may choose new targets for the copy. Activate only once each turn. [i](Mana abilities can't be targeted.)[/i] => Lands you control enter untapped.
+Whenever Corsenna enters or attacks, conjure a duplicate of target land into your hand.
+{0}: Copy target activated or triggered ability of a land you control. You may choose new targets for the copy. Activate only once each turn. [i](Mana abilities can't be targeted.)[/i]
+
+Rainy Night Voyager
+cost: {1}{U}{U} => {2}{U}{U}
+rules_text: Prowess
+Whenever Rainy Night Voyager or another creature you control with prowess enters, conjure Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i]
+If you would conjure an instant or sorcery card with mana value 2 or less into your hand, you may instead conjure and cast it without paying its mana cost. Do this only once each turn. => Prowess
+When Rainy Night Voyager enters, conjure Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i]
+If a spell or ability would cause you to draw one or more cards, instead draw that many cards plus two, then put two cards from your hand on top of your library in any order.
+pt: 2/3 => 3/3
+
+Heartfelt Composition
+rules_text: Whenever you conjure one or more cards, create a 1/1 blue Elemental creature token with flying.
+{4}: Conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i] => Whenever you conjure one or more cards, create a 1/1 blue Elemental creature token with flying.
+{6}: Conjure Empower into your hand. Activate only as a sorcery. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+
+
+VERSION 27 CHANGELOG
 ====================
 
 
