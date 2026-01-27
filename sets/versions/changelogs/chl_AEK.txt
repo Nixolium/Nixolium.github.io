@@ -1,4 +1,733 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Dazzling Celebrity added.
+Cabaret Regulars added.
+Street-Level Sleuth added.
+Aethershell Animator added.
+Firework Reveler added.
+Ellis, Cluttered Recluse added.
+Balcony Sommelier added.
+Midnight Caller added.
+Acrylic Run added.
+Hero's Downfall added.
+Solitary Symphony added.
+Flawless Icon added.
+Amina, Slightly Clumsy added.
+Quiet Aquarium added.
+Scattered Studio added.
+Wallflower's Retreat added.
+Fish added.
+Joyous Princeling added.
+Moyro Mafioso added.
+Stage Newcomer added.
+Chaos Conductor added.
+Dramatic Egoist added.
+
+Top of the Charts removed.
+Cabaret Bouncer removed.
+Edgeworld Voyager removed.
+Experienced Animator removed.
+Kagami, Firework Reveler removed.
+Ellis, Paradise Painter removed.
+Midnight Sommelier removed.
+Midnight's Call removed.
+Lost From Reality removed.
+Exeunt removed.
+Midnight Symphony removed.
+Beloved Icon removed.
+The 99 Lives of Shiroyuki removed.
+Amyuki, Slightly Clumsy removed.
+Aviation Hub removed.
+Cluttered Studio removed.
+
+Aethershell Holo
+rules_text: Stardom {5} [i](Pay {5} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+{7}, Discard Aethershell Holo: Destroy target nonland permanent. => Stardom {5} [i](Pay {5} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+{7}, Discard Aethershell Holo: Destroy target nonland permanent an opponent controls.
+
+Rainbow Seeker
+
+Blackhat Apothecary
+rules_text: Stardom {3}{B}{B} [i](Pay {3}{B}{B} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Deathtouch
+As long as you control a legendary creature or planeswalker, Blackhat Apothecary has lifelink. => Stardom {3}{B}{B} [i](Pay {3}{B}{B} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Deathtouch
+As long as you control a legendary creature or planeswalker, Blackhat Apothecary has lifelink.
+
+Beloved Antihero
+rules_text: Stardom {3}{B}{B} [i](Pay {3}{B}{B} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+When Beloved Antihero enters, you draw a card and lose 1 life. If you control a legendary creature or planeswalker, you may repeat this process once. => Stardom {3}{B}{B} [i](Pay {3}{B}{B} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+When Beloved Antihero enters, you draw a card and lose 1 life. If you control a legendary creature or planeswalker, you may repeat this process once.
+
+Hero from Fiction
+rules_text: Whenever Hero from Fiction or another enchantment you control enters, conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+{2}: Hero from Fiction gains flying and vigilance until end of turn. => Whenever another enchantment you control enters, conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+{2}: Hero from Fiction gains flying and vigilance until end of turn.
+
+The Girl in the Chair
+type: Creature — Human Artificer Reveler => Creature — Human Artificer
+
+Brazen Delinquent
+rules_text: Stardom {3}{G} [i](Pay {3}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Trample => Stardom {3}{G} [i](Pay {3}{G} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Trample
+
+Lightshow Ascetic
+rules_text: Stardom {4}{GW}{GW} [i](Pay {4}{GW}{GW} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever a creature you control attacks alone, that creature gets +X/+X until end of turn, where X is Lightshow Ascetic's power. => Stardom {4}{GW}{GW} [i](Pay {4}{GW}{GW} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Whenever a creature you control attacks alone, that creature gets +X/+X until end of turn, where X is Lightshow Ascetic's power.
+
+Murasi Runaway
+
+Rhythm Seer
+pt: 3/4 => 4/3
+
+Tsukuri Biomancer
+rules_text: [/b]When Tsukuri Biomancer dies, mill three cards. You may put a permanent card from among them into your hand. => [/b]When Tsukuri Biomancer dies, mill three cards. You may put a permanent card from among them into your hand. If you don't, you gain 3 life.
+
+Neon Streetcleaner
+type: Kindred Artifact — Samurai Vehicle => Artifact Creature — Samurai Vehicle
+rules_text: Vigilance, trample, reach
+Tap an untapped Avatar or Human creature you control: Neon Streetcleaner becomes a creature until end of turn. => Trample, reach
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Sky Scraper
+rules_text: Reach
+When Sky Scraper enters, sightsee three times. [i](Conjure the basic land of your choice into your hand.)[/i]
+{2}, Discard Sky Scraper: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Reach
+When Sky Scraper enters, sightsee three times. [i](Conjure any combination of three basic lands of your choice into your hand.)[/i]
+{2}, Discard Sky Scraper: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Not Today
+cost: {G} => {2}{G}
+rules_text: Target permanent or player gains hexproof until end of turn.
+If you control a Human, draw a card. => Not Today costs {2} less to cast if its your turn or you control a Human.
+Target permanent or player gains hexproof until end of turn. Draw a card.
+
+Sunflower Painter
+
+Neon City Racer
+rules_text: Stardom {3}{R} [i](Pay {3}{R} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Haste => Stardom {3}{R} [i](Pay {3}{R} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Haste
+
+Roaring Songstress
+rules_text: Stardom {3}{R}{R} [i](Pay {3}{R}{R} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Menace
+When Roaring Songstress enters, it deals X damage to each player, where X is its power. => Stardom {3}{R}{R} [i](Pay {3}{R}{R} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Menace
+When Roaring Songstress enters, it deals X damage to each opponent, where X is its power.
+
+Reflected Frame
+
+Idol of Playthings
+
+Wayward Musicians
+pt: 2/3 => 3/2
+
+Let Him Cook
+rules_text: When Let Him Cook enters or leaves the battlefield, conjure Rising Flames into your hand. [i](It's a {R} sorcery with “Rising Flames deals X damage each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.”)[/i]
+{3}{R}{R}, Sacrifice Let Him Cook: Create a 2/1 red Human Reveler creature token. => When Let Him Cook enters or you sacrifice it, conjure Rising Flames into your hand. [i](It's a {R} sorcery with “Rising Flames deals X damage each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.”)[/i]
+{3}{R}, Sacrifice Let Him Cook: Create a 2/1 red Human Reveler creature token.
+
+Waiting for You
+
+She Has a Gun
+
+Neon Lights
+
+Midnight Dreamer
+rules_text: Stardom {3}{U}{U} [i](Pay {3}{U}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Flying => Stardom {3}{U}{U} [i](Pay {3}{U}{U} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Flying
+
+Moyro Fixer
+
+Sudden Star
+cost: {2}{U} => {1}{U}
+rules_text: Stardom {3}{U}{U} [i](Pay {3}{U}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Flash
+When Sudden Star enters, up to one target creature gets -X/-0 until end of turn, where X is Sudden Star's power. => Stardom {3}{U}{U} [i](Pay {3}{U}{U} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Flash
+When Sudden Star enters, up to one target creature gets -X/-0 until end of turn, where X is Sudden Star's power.
+
+Akiyama Rim
+
+Isolated Wayfarer
+
+Holofield Operator
+type: Creature — Human Artificer => Creature — Human Artificer Scout
+cost: {1}{U} => {2}{U}
+rules_text: Vigilance
+When Holofield Operator enters, you may conjure Thoughts or Concentrate into your hand. [i](Thoughts is a {U} instant with “Draw a card.” Concentrate is a {2}{U}{U} sorcery with “Draw three cards.”)[/i] => When Holofield Operator enters, choose one —
+• Conjure Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i]
+• Conjure Concentrate into your hand. [i](It's a {2}{U}{U} sorcery with “Draw three cards.”)[/i]
+pt: 1/3 => 3/2
+
+Inseparable Besties
+
+Twirl
+
+Nah
+
+Alone With My Thoughts
+
+Fall Out
+cost: {U}{U} => {3}{U}
+rules_text: Return target nonland permanent to its owner's hand. If you've conjured this turn, you may have that permanent's owner put it on the top or bottom of their library instead. => As long as you've conjured this turn, Fiery Prominence costs {2} less to cast.
+Target nonland permanent's owner puts it on the top or bottom of their library.
+
+Birdbrained
+
+Lunar Contessa
+rules_text: Stardom {3}{W} [i](Pay {3}{W} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+When Lunar Contessa enters, you gain life equal to its power. => Stardom {3}{W} [i](Pay {3}{W} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+When Lunar Contessa enters, you gain life equal to its power.
+
+Masked Singer
+
+Satsukai Fixer
+rules_text: Whenever a creature you control attacks alone, that creature gains first strike until end of turn. Untap it. => Whenever a creature you control attacks alone, tap up to one target creature you don't control.
+pt: 3/1 => 2/1
+
+Astral Pianist
+
+Fantasy Aspirant
+
+Cheering Fangirl
+
+Fallen Icon
+rules_text: Stardom {G}{G}{G} [i](Pay {G}{G}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i] => Stardom {G}{G}{G} [i](Pay {G}{G}{G} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+
+Dark Comedy Duo
+
+Existential Paradox
+
+Meet Me At Sundown
+
+Missing Papers
+
+Hardened Pickup
+
+We Could Be Supervillains
+
+Kenji and Momoka
+
+Kataleptic Scholar
+
+Irrelevance
+rules_text: All non-legendary creatures get -3/-3 until end of turn.
+{1}{B}, Discard Irrelevance: Target creature gets -3/-3 until end of turn. => All nonlegendary creatures get -3/-3 until end of turn.
+{1}{B}, Discard Irrelevance: Target nonlegendary creature gets -3/-3 until end of turn.
+
+Shadowbinding
+
+Gleaming Importance
+type: Kindred Enchantment — Avatar => Enchantment
+
+Eyes That Bite
+
+Here Without You
+
+Showrunner
+cost: {2}{G}{G} => {2}{G}
+pt: 5/4 => 3/3
+
+Pastel Travelers
+
+Serin, Exponent Mage
+rules_text: Serin enters with three +1/+1 counters on her.
+[/b]Each creature card in your hand and each attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i] => Serin enters with three +1/+1 counters on her.
+[/b]Each creature card in your hand and each attacking creature you control has stardom {2}{G}{U}. [i](Pay {2}{G}{U} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+
+Social Executioner
+
+Polyp Pools
+
+Sunshine Icon
+
+From Grassroots
+rules_text: When From Grassroots enters, search your library for a creature card with stardom, reveal it, put it into your hand, then shuffle.
+Whenever you cast a creature spell for its stardom cost or a creature you control becomes legendary, you gain 2 life. => When From Grassroots enters, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+{2}, Sacrifice From Grassroots: Search your library for a card with stardom, reveal it, put it into your hand, then shuffle.
+
+I Am A Rockstar
+
+Snapshot Storyteller
+
+Idiosyncratic Savant
+
+Holographic Darling
+
+Miseko Kiteflier
+
+Exalted Gossipers
+
+Seventh Street Vandal
+
+Neon Streetracer
+rules_text: Stardom {3}{U}{R} [i](Pay {3}{U}{R} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Prowess
+As long as Neon Streetracer has power 4 or greater, it has flying and haste. => Stardom {3}{U}{R} [i](Pay {3}{U}{R} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Prowess
+As long as Neon Streetracer has power 4 or greater, it has flying and haste.
+
+Sundown Slow Dancers
+
+Lurking Insomniac
+
+Skybridge Joyrider
+rules_text: Menace
+Skybridge Joyrider gets +1/+0 for each other creature you control with menace. => Menace
+As long as you control another creature with menace, Skybridge Joyrider gets +2/+0.
+
+Alicia, the Final Dawn
+
+Nexus Technician
+
+Sempiternal Witch
+
+Citron Bartender
+
+Ezren, Speedrunner
+
+Fiery Prominence
+rules_text: Fiery Prominence has flash as long as you control an Artist or Reveler.
+Choose one —
+• Fiery Prominence deals 3 damage to any target.
+• Fiery Prominence deals 3 damage to each creature and planeswalker. => As long as you've conjured this turn, Fiery Prominence costs {R} less to cast.
+Choose one —
+• Fiery Prominence deals 3 damage to any target.
+• Fiery Prominence deals 3 damage to each creature and each planeswalker.
+
+Nezuri, Toxic Princess
+
+Lamplighter
+cost: {1}{R} => {2}{R}
+pt: 1/2 => 4/2
+
+Iason, Voice of the Admirers
+
+Extraplanar Explorer
+
+Shorekeeper
+
+Wandering Halovian
+
+Miko, Who Sings With Heart
+rules_text: Whenever you draw a card, choose one that hasn't been chosen this turn —
+• Untap target permanent.
+• Scry 2.
+• Miko deals 3 damage to each opponent. => Whenever you draw a card, choose one that hasn't been chosen this turn —
+• Create a 1/1 white Human creature token.
+• Scry 2.
+• Miko deals 3 damage to each opponent.
+
+Flirt with Disaster
+
+From the Mirror
+
+Omniscent Reader
+
+Sly Consigliere
+
+Yume, Miseko Producer
+
+Cursed Catlover
+
+Puddle Stomper
+
+A Practical Guide to Evil
+rules_text: As an additional cost to cast this spell, you may sacrifice any number of storied permanents. This spell costs {1} less to cast for each permanent sacrificed this way. [i](Enchantments and legendary permanents are storied.)[/i]
+Return any number of target permanent cards with different mana values from your graveyard to the battlefield. => Return any number of permanent cards with different mana values from your graveyard to the battlefield.
+
+Blade Alley Vigilantes
+
+Hyacin, Everyone's Idol
+
+Inspiring Idol
+
+Introversion
+cost: {B}{B}{B} => {1}{B}{B}
+rules_text: As long as you control exactly one creature, that creature gets +3/+3 and has protection from noncreatures.
+Whenever you cast a black spell, you may sacrifice a permanent. If you do, you draw a card and gain 2 life. => As long as you control exactly one creature, that creature gets +2/+2 and has protection from mana value 2 or less.
+Whenever you cast a spell, you may sacrifice a permanent. If you do, you draw a card and gains 2 life.
+
+Kyv, Sanguine Avante
+
+Luminescent Idol
+
+Resplendent Idol
+rules_text: When Resplendent Idol enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.)[/i]
+Treasures you control have “Whenever another nonland permanent you control enters, this artifact deals 1 damage to each opponent.” => When Resplendent Idol enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.)[/i]
+Treasures you control have “Whenever a non-Treasure permanent you control enters, this artifact deals 1 damage to each opponent.”
+
+Screaming into the Rain
+
+Spark Hunter Kajiwara Ai
+
+Serenyi, the Benevolent
+
+Villainous Idol
+rules_text: When Villainous Idol enters, create a Knife token. [i](It's a Knife Equipment token with equip {1} that grants +1/+1.)[/i]
+Knives you control have equip {0} and “Whenever equipped creature attacks, you draw a card and gain 2 life.” => When Villainous Idol enters, create a Knife token. [i](It's a Knife Equipment token with equip {1} that grants +1/+1.)[/i]
+Knives you control have equip {0} and “Whenever equipped creature attacks, the defending player discards a card.”
+
+Kaede, the City Below
+
+Miseko, Urban Crossroads
+
+Satsukai, Nexus of Lights
+
+Tsukuri, Lantern Sanctum
+
+Nyano, Serene Shrine
+
+Vielle's Perch
+
+Vielle Never Sleeps
+
+Kalista, Citron Don
+
+Shock Paintress
+
+Shiroyuki, the Everygirl
+
+Reclusive Cynic
+
+Fiona Tsukuri
+
+Concentrate
+
+Rising Flames
+
+Sea Cache
+
+Demonic Tutor
+
+Drain
+
+Storm Crow
+
+Thoughts
+
+Yri, Utonian Hero
+
+Human_1
+
+Human_2
+
+Copy
+
+Horror
+
+Toy
+
+Soldier
+
+Cat
+
+Awe
+
+Vielle, Undercity Wayfarer
+
+Tolen, the Paradisiac
+
+Alice, Wonderbane
+rules_text: When Alice enters, you may gain control of target creature. If you do, Alice phases out until that creature leaves the battlefield.
+[+1]: Target creature or planeswalker loses all abilities until your next turn.
+[-2]: Draw three cards, then discard two cards unless you discard an Alice or sorcery card.
+[-5]: Return all Alice and sorcery cards from your graveyard to your hand. => When Alice enters, you may gain control of target creature. If you do, Alice phases out until that creature leaves the battlefield.
+[+1]: Up to one target permanent loses all non-mana abilities until your next turn.
+[-2]: Draw three cards, then discard two cards unless you discard an instant, sorcery, or Alice card.
+special_text: When Alice enters, you may gain control of target creature. If you do, Alice phases out until that creature leaves the battlefield.
+[+1]: Target creature or planeswalker loses all abilities until your next turn.
+[-2]: Draw three cards, then discard two cards unless you discard an Alice or sorcery card.
+[-5]: Return all Alice and sorcery cards from your graveyard to your hand. => When Alice enters, you may gain control of target creature. If you do, Alice phases out until that creature leaves the battlefield.
+[+1]: Up to one target permanent loses all non-mana abilities until your next turn.
+[-2]: Draw three cards, then discard two cards unless you discard an instant, sorcery, or Alice card.
+
+The Icelord of Severed Chains
+
+Naoko, Onigaiko Transfer
+
+Shayu, Epsilon Remnant
+
+Viktoria, the Heartline
+pt: 1/2 => 1/1
+
+Secret Rendezvous
+
+Elemental
+
+Mischief
+
+Corsenna, Planar Sightseer
+rules_text: Lands you control enter untapped.
+Whenever Corsenna enters or attacks, conjure a duplicate of target land into your hand.
+{0}: Copy target activated or triggered ability you control of a land. You may choose new targets for the copy. Activate only once each turn. [i](Mana abilities can't be targeted.)[/i] => Lands you control enter untapped.
+Whenever Corsenna enters or attacks, conjure a duplicate of target land into your hand.
+{0}: Copy target activated or triggered ability of a land you control. You may choose new targets for the copy. Activate only once each turn. [i](Mana abilities can't be targeted.)[/i]
+
+Luminescent Vision
+
+Villainous Vision
+rules_text: Conjure Exeunt, Night's Whisper, or Redemption into your hand. [i](They are respectively: {B} instant with “Each player sacrifices a creature.”; {1}{B} sorcery with “You draw two cards and lose 2 life.”; {3}{B} sorcery with “Return target creature card from your graveyard to the battlefield.”)[/i] => Conjure Night's Whisper, Hero's Downfall, or Redemption into your hand. [i](They are respectively: {1}{B} sorcery with “You draw two cards and lose 2 life.”; {1}{B}{B} instant with “Destroy target creature or planeswalker.”; {3}{B} sorcery with “Return target creature card from your graveyard to the battlefield.”)[/i]
+
+Resplendent Vision
+
+Idyllic Vision
+
+Need for Speed
+
+Bounding Companion
+
+Inspiring Vision
+
+Lightning Strike
+
+Volcanic Dragon
+
+Unsummon
+
+Voyager
+
+Night's Whisper
+
+Redemption
+
+Superstar_sen
+
+Akane, Linearity Breaker
+rules_text: When Akane enters, exile your hand, then draw that many cards.
+Whenever you cast a spell, if it has the same name as a card exiled by Akane, draw a card. => When Akane enters, draw a card, then exile a card from your hand.
+Whenever you cast a spell, if it has the same name as a card exiled by Akane, draw a card. This ability triggers only once each turn.
+
+Bleed
+
+Chroma Network Rival
+
+Repose
+
+Setting Sun
+
+Disenchant
+
+Touka, Afterlife Specialist
+
+Among the Glowmoths
+
+Crescendo for the Crown
+
+Seventh Street Assembly
+
+Rainy Night Voyager
+cost: {1}{U}{U} => {2}{U}{U}
+rules_text: Prowess
+Whenever Rainy Night Voyager or another creature you control with prowess enters, conjure Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i]
+If you would conjure an instant or sorcery card with mana value 2 or less into your hand, you may instead conjure and cast it without paying its mana cost. Do this only once each turn. => Prowess
+When Rainy Night Voyager enters, conjure Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i]
+If a spell or ability would cause you to draw one or more cards, instead draw that many cards plus two, then put two cards from your hand on top of your library in any order.
+pt: 2/3 => 3/3
+
+Moonglow Romantic
+
+Miss Navia Cosgrove
+
+Luminous City
+
+Halcyon Road
+
+Celosia's Emblem
+
+Shiroyuki's Emblem
+
+Celosia on Burning Wings
+rules_text: Celosia's loyalty abilities costs [+1] to activate for each noncreature spell you've cast this turn.
+[0]: Discard a card, then draw a card.
+[-3]: Celosia deals 3 damage to any target.
+[-7]: You get an emblem with “Creatures you control have prowess, prowess, prowess, and haste.” => Celosia's loyalty abilities cost [+1] to activate for each other noncreature spell you've cast this turn.
+[0]: Discard a card, then draw a card.
+[-3]: Celosia deals 3 damage to any target.
+[-7]: You get an emblem with “Creatures you control have prowess, prowess, prowess, and haste.”
+special_text: Celosia's loyalty abilities costs [+1] to activate for each noncreature spell you've cast this turn.
+[0]: Discard a card, then draw a card.
+[-3]: Celosia deals 3 damage to any target.
+[-7]: You get an emblem with “Creatures you control have prowess, prowess, prowess, and haste.” => Celosia's loyalty abilities cost [+1] to activate for each other noncreature spell you've cast this turn.
+[0]: Discard a card, then draw a card.
+[-3]: Celosia deals 3 damage to any target.
+[-7]: You get an emblem with “Creatures you control have prowess, prowess, prowess, and haste.”
+loyalty: 3 => 4
+
+Heartfelt Composition
+rules_text: Whenever you conjure one or more cards, create a 1/1 blue Elemental creature token with flying.
+{4}: Conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i] => Whenever you conjure one or more cards, create a 1/1 blue Elemental creature token with flying.
+{6}: Conjure Empower into your hand. Activate only as a sorcery. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+
+Embrace
+type: Instant => Sorcery
+rules_text: You and target opponent each draw two cards and gain 5 life. => Exile two target creatures. Return those cards to the battlefield under their owner's control at the beginning of the next end step. [i](You can't cast this spell unless you target exactly two creatures.)[/i]
+
+Kairos, Colorsmith
+
+Imaginative Sojourner
+
+Dreamglass Melody
+
+Idyllic Idol
+
+Azalea, New Apocrypha
+
+All the Time in the World
+
+Cosmic Starchild
+cost: {5}{W}{U} => {3}{W}{U}
+rules_text: Cosmic Starchild costs {1} less to cast for each instant, sorcery, or Avatar card in your graveyard.
+Flying
+When Cosmic Starchild enters, return up to one target instant, sorcery, and/or Avatar card from your graveyard to your hand. If one or more cards are returned this way, exile your graveyard. => Flying, vigilance
+Cosmic Starchild gets +1/+1 for each instant, sorcery, or Avatar card in your graveyard.
+{1}, Discard a card: Create a tapped 1/1 blue Elemental creature token with flying.
+pt: 5/5 => 1/1
+
+Under Public Eye
+type: Enchantment — Aura => Enchantment
+
+Gravity Defier
+cost: {B} => {1}{B}
+rules_text: Menace, lifelink
+Whenever one or more other creatures you control with menace attack, you may reveal the top card of your library. If you do, put it into your hand. You lose life equal to its mana value. => Menace
+Your opponents can't gain life.
+Whenever a creature you control with menace attacks, add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+pt: 1/1 => 2/2
+
+Thunder Stage Star
+rules_text: Stardom {2}{W}{W} [i](Pay {2}{W}{W} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Lifelink
+Spells opponents cast during your turn cost {X} more to cast, where X is Thunder Stage Star's power. => Stardom {2}{W}{W} [i](Pay {2}{W}{W} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Lifelink
+Spells opponents cast during your turn cost {X} more to cast, where X is Thunder Stage Star's power.
+
+Heroes are Never Late
+
+Wheelbound Ace
+
+Eventide Rendezvous
+
+Selenite Flowergirl
+
+Make Believer
+rules_text: As long as you've conjured this turn, Make Believer is a 4/4 Hero creature in addition to its other creature types and has flying, haste, and “{R}: This creature gets +1/+0 until end of turn.” => As long as you've conjured this turn, Make Believer is a 4/4 Hero creature in addition to its other creature types and has flying, haste, and “{2}: This creature gets +1/+1 until end of turn.”
+
+Tsukuri Holo-Witch
+type: Enchantment Creature — Avatar => Enchantment Creature — Avatar Artist
+
+Planesculpting
+rules_text: If you would draw your first card each turn, you may instead sightsee twice. [i](Conjure the basic land of your choice into your hand.)[/i] => If you would draw your first card each turn, you may instead sightsee twice. [i](Conjure any combination of two basic lands of your choice into your hand.)[/i]
+
+Silver Kitsune
+
+Zeal
+
+The Dreamglass Majesty
+
+Lunar Halo
+
+Ishakawa, Chroma Prodigy
+rules_text: Stardom {4}{G}{U} [i](Pay {4}{G}{U} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Vigilance
+{T}: Add X mana of any one color, where X is Ishakawa's power. => Stardom {4}{G}{U} [i](Pay {4}{G}{U} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Vigilance
+{T}: Add X mana of any one color, where X is Ishakawa's power.
+
+Empower
+
+Treasure
+
+Knife
+
+Clue
+
+Aekyan Nights
+
+Campfire Storyteller
+
+Legends Remembered
+
+Victim of Boredom
+
+One Night Heartbreaker
+
+To Save a Broken Heart
+cost: {2}{R} => {1}{R}
+rules_text: Whenever you casting a noncreature spell causes one or more abilities of a permanent you control to trigger, create a 1/1 white Human creature token. => At the beginning of your end step, if you've cast a noncreature spell this turn, put a +1/+1 counter on a creature you control. If you control no creatures, create a tapped 1/1 white Human creature token instead.
+
+Yri's Secret Hideout
+
+Whimsical Storytelling
+rules_text: At the beginning of your end step, exile up to one other target nonland permanent, then return it to the battlefield under its owner's control. If you exiled a token you control this way, draw a card. => At the beginning of your end step, exile up to one other target nonland permanent you control, then return it to the battlefield under your control. If you exiled a token you control this way, draw a card.
+
+Flowers Bloom Nowhere
+cost: {4}{G} => {6}{G}
+rules_text: Affinity for Artists and Revelers [i](This spell costs {1} less to cast for each Artist and/or Reveler you control.)[/i]
+Choose one —
+• Draw three cards.
+• You may sacrifice a creature. If you do, draw cards equal to its power. => Flowers Bloom Nowhere costs {1} less to cast for each differently named basic land you control.
+Draw three cards.
+
+The Chroma Network
+
+Anticello, Cold Confidence
+rules_text: Once each turn, when you gain or lose life, put a loyalty counter on Anticello.
+[+1]: Conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i] => Once each turn, when you gain or lose life, put a loyalty counter on Anticello.
+[0]: Conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i]
+special_text: Once each turn, when you gain or lose life, put a loyalty counter on Anticello.
+[+1]: Conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i] => Once each turn, when you gain or lose life, put a loyalty counter on Anticello.
+[0]: Conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i]
+
+Mistencharm Resplendant
+type: Enchantment Creature — Avatar Artist => Creature — Human Artist
+rules_text: Stardom {4}{G}{G} [i](Pay {4}{G}{G} to cast this as a legendary [/b]4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+Whenever Mistencharm Resplendant or another creature you control enters, put two +1/+1 counters on it and draw a card if it has power 4 or greater. => Stardom {4}{G}{G} [i](Pay {4}{G}{G} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Whenever Mistencharm Resplendant or another creature you control enters, put two +1/+1 counters on that creature and draw a card if that creature has power 4 or greater.
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+
+Charming Confidant
+
+Construction Zone
+
+Decadent Nightclub
+
+Feline Sanctuary
+
+Opulent Casino
+
+Shopping Mall
+
+Skyline Lookout
+
+Undercity Alley
+
+Urban Gardens
+
+Barhopping in Miseko
+rules_text: When Barhopping in Miseko enters, if you cast it, exile up to four target creatures, then return each of those creature to the battlefield tapped with a drink counter on it under its controller's control.
+Each player can't untap more than one creature with a drink counter on it during their untap step. => When Barhopping in Miseko enters, exile up to four target creatures, then return each of those creature to the battlefield tapped with a drink counter on it under its owner's control.
+Creatures with drink counters can't attack or block unless their controller pays {1} for each of those creatures.
+
+Undercity Peacekeeper
+
+
+VERSION 30 CHANGELOG
 ====================
 
 Dazzling Celebrity added.
