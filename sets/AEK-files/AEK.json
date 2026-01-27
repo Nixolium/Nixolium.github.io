@@ -1,7 +1,7 @@
 ﻿{
     "name": "Aekyu: Idyllic Days",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "png",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -5730,5 +5730,6 @@
             "position": "284",
             "notes": "mana value 2"
         }
-    ]
+    ],
+    "version": 3
 }
