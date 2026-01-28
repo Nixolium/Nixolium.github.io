@@ -33,7 +33,7 @@
 		{
 			"name": "Rainbow Seeker",
 			"rarity": "common",
-			"mana_cost": "{1}",
+			"mana_cost": "{2}",
 			"type": "Enchantment Creature — Avatar Scout",
 			"collector_number": "6",
 			"image_uris": {
@@ -2070,7 +2070,7 @@
 		{
 			"name": "Solitary Requiem",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{G}",
+			"mana_cost": "{3}{B}{G}",
 			"type": "Enchantment",
 			"collector_number": "197",
 			"image_uris": {

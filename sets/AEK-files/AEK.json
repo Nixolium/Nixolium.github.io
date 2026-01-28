@@ -75,10 +75,10 @@
             "type": "Enchantment Creature \u2014 Avatar Scout",
             "number": 6,
             "color_identity": "C",
-            "cost": "{1}",
+            "cost": "{2}",
             "rules_text": "{1}, Discard Rainbow Seeker: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
             "flavor_text": "[i]\u201cWhy is it that only a special few may explore the multiverse? Why not open these paths to everyone?\u201d\n\u2014Corsenna[/i]",
-            "pt": "1/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
@@ -4146,8 +4146,8 @@
             "type": "Enchantment",
             "number": 197,
             "color_identity": "BG",
-            "cost": "{2}{B}{G}",
-            "rules_text": "When Solitary Requiem enters, each creature gets -2/-2 until end of turn.\nOnce each turn, when a creature dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
+            "cost": "{3}{B}{G}",
+            "rules_text": "When Solitary Requiem enters, choose up to one target creature. Each creature not chosen this way gets -2/-2 until end of turn.\nOnce each turn, when a creature dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5731,5 +5731,5 @@
             "notes": "mana value 6/7, land fixer"
         }
     ],
-    "version": 32
+    "version": 33
 }

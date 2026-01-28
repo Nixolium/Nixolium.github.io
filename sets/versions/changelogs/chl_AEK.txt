@@ -1,4 +1,20 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+
+
+Rainbow Seeker
+cost: {1} => {2}
+pt: 1/1 => 2/1
+
+Solitary Requiem
+cost: {2}{B}{G} => {3}{B}{G}
+rules_text: When Solitary Requiem enters, each creature gets -2/-2 until end of turn.
+Once each turn, when a creature dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => When Solitary Requiem enters, choose up to one target creature. Each creature not chosen this way gets -2/-2 until end of turn.
+Once each turn, when a creature dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Prototype Streetcleaner added.
