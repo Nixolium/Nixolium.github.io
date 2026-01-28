@@ -1,4 +1,562 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Prototype Streetcleaner added.
+Solitary Requiem added.
+Flawless Favorite added.
+
+Neon Streetcleaner removed.
+Solitary Symphony removed.
+Flawless Icon removed.
+
+Talent Scout
+
+Perhaps
+
+Pull From the Hat
+
+Critique
+
+Superstar
+
+Brazen Delinquent
+
+Lightshow Ascetic
+
+Hobby Shop
+
+Murasi Runaway
+
+Rhythm Seer
+
+Tsukuri Biomancer
+
+Sky Scraper
+
+Traverse the City
+
+Not Today
+
+Digitization Rig
+
+Serenyi's Shell
+
+Sunflower Painter
+
+Party Planner
+
+Moonlit Lantern Festival
+
+Leyline Traveler
+
+Hollow Pact
+
+Neon City Racer
+
+Roaring Songstress
+rules_text: Stardom {3}{R}{R} [i](Pay {3}{R}{R} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Menace
+When Roaring Songstress enters, it deals X damage to each opponent, where X is its power. => Stardom {4}{R}{R} [i](Pay {4}{R}{R} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+Menace
+When Roaring Songstress enters, it deals X damage to each opponent, where X is its power.
+
+Reflected Frame
+
+Getaway Driver
+
+Kaede Troublemakers
+
+Idol of Playthings
+
+Wayward Musicians
+
+Let Him Cook
+
+Cabaret Regulars
+
+Waiting for You
+
+She Has a Gun
+
+Neon Lights
+
+Spice
+
+Midnight Dreamer
+
+Moyro Fixer
+
+Sudden Star
+
+Akiyama Rim
+
+Isolated Wayfarer
+
+Holofield Operator
+
+Inseparable Besties
+
+Twirl
+
+Nah
+
+Alone With My Thoughts
+
+Fall Out
+
+Birdbrained
+
+Lunar Contessa
+
+Masked Singer
+
+Satsukai Fixer
+
+Astral Pianist
+
+Fantasy Aspirant
+
+Street-Level Sleuth
+
+Cheering Fangirl
+
+Fallen Icon
+
+Dark Comedy Duo
+
+Existential Paradox
+
+Aethershell Animator
+
+Meet Me At Sundown
+
+Missing Papers
+
+Hardened Pickup
+
+We Could Be Supervillains
+
+Kenji and Momoka
+
+Kataleptic Scholar
+
+Irrelevance
+
+Shadowbinding
+
+Gleaming Importance
+
+Eyes That Bite
+
+Here Without You
+
+Firework Reveler
+
+Showrunner
+
+Pastel Travelers
+
+Serin, Exponent Mage
+
+Social Executioner
+
+Polyp Pools
+
+Sunshine Icon
+
+From Grassroots
+
+I Am A Rockstar
+
+Ellis, Silent Muralist
+
+Snapshot Storyteller
+
+Idiosyncratic Savant
+
+Holographic Darling
+
+Miseko Kiteflier
+
+Exalted Gossipers
+
+Balcony Sommelier
+
+Seventh Street Vandal
+
+Neon Streetracer
+
+Sundown Slow Dancers
+
+Lurking Insomniac
+
+Skybridge Joyrider
+
+Alicia, the Final Dawn
+
+Nexus Technician
+
+Sempiternal Witch
+
+Citron Bartender
+
+Ezren, Speedrunner
+
+Fiery Prominence
+
+Nezuri, Toxic Princess
+
+Midnight Caller
+
+Lamplighter
+
+Iason, Voice of the Admirers
+
+Extraplanar Explorer
+
+Shorekeeper
+
+Wandering Halovian
+
+Miko, Who Sings With Heart
+
+Flirt with Disaster
+
+From the Mirror
+
+Omniscent Reader
+
+Sly Consigliere
+
+Yume, Miseko Producer
+
+Cursed Catlover
+
+Puddle Stomper
+
+Acrylic Run
+
+A Practical Guide to Evil
+
+Blade Alley Vigilantes
+
+Hyacin, Everyone's Idol
+
+Inspiring Idol
+
+Introversion
+
+Kyv, Sanguine Avante
+
+Luminescent Idol
+
+Resplendent Idol
+
+Screaming into the Rain
+
+Spark Hunter Kajiwara Ai
+
+Serenyi, the Benevolent
+
+Villainous Idol
+
+Kaede, the City Below
+
+Miseko, Urban Crossroads
+
+Satsukai, Nexus of Lights
+
+Tsukuri, Lantern Sanctum
+
+Nyano, Serene Shrine
+
+Vielle's Perch
+
+Vielle Never Sleeps
+
+Kalista, Citron Don
+
+Shock Paintress
+
+Shiroyuki, the Everygirl
+
+Reclusive Cynic
+rules_text: Stardom—{W}{W}{B}{B}, Pay 4 life. [i](Pay its stardom cost to cast this as a legendary 4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+When Reclusive Cynic dies during your turn, draw cards equal to its power.
+You may cast Reclusive Cynic from your graveyard for its stardom cost. => Stardom—{2}{W}{B}, Pay 4 life. [i](Pay its stardom cost to cast this as a legendary 4/4, or while its attacking to make it become a legendary 4/4.)[/i]
+When Reclusive Cynic dies on your turn, draw cards equal to its power.
+You may cast Reclusive Cynic from your graveyard for its stardom cost.
+
+Fiona Tsukuri
+
+Concentrate
+
+Rising Flames
+
+Sea Cache
+
+Demonic Tutor
+
+Drain
+
+Storm Crow
+
+Thoughts
+
+Yri, Utonian Hero
+
+Human_1
+
+Human_2
+
+Copy
+
+Horror
+
+Toy
+
+Soldier
+
+Cat
+
+Awe
+
+Vielle, Undercity Wayfarer
+
+Tolen, the Paradisiac
+
+Alice, Wonderbane
+
+The Icelord of Severed Chains
+
+Naoko, Onigaiko Transfer
+
+Shayu, Epsilon Remnant
+
+Viktoria, the Heartline
+
+Secret Rendezvous
+
+Elemental
+
+Mischief
+
+Corsenna, Planar Sightseer
+
+Luminescent Vision
+
+Villainous Vision
+
+Resplendent Vision
+
+Idyllic Vision
+
+Need for Speed
+
+Bounding Companion
+
+Inspiring Vision
+
+Lightning Strike
+
+Volcanic Dragon
+
+Unsummon
+
+Voyager
+
+Hero's Downfall
+
+Night's Whisper
+
+Redemption
+
+Superstar_sen
+
+Akane, Linearity Breaker
+
+Bleed
+
+Chroma Network Rival
+
+Repose
+
+Setting Sun
+
+Disenchant
+
+Touka, Afterlife Specialist
+pt: 2/3 => 3/2
+
+Among the Glowmoths
+
+Crescendo for the Crown
+
+Seventh Street Assembly
+
+Rainy Night Voyager
+
+Moonglow Romantic
+
+Miss Navia Cosgrove
+
+Luminous City
+
+Halcyon Road
+
+Celosia's Emblem
+
+Shiroyuki's Emblem
+
+Celosia on Burning Wings
+
+Heartfelt Composition
+
+Embrace
+
+Kairos, Colorsmith
+
+Imaginative Sojourner
+
+Dreamglass Melody
+
+Idyllic Idol
+
+Azalea, New Apocrypha
+
+All the Time in the World
+
+Cosmic Starchild
+
+Under Public Eye
+
+Gravity Defier
+cost: {1}{B} => {B}{B}
+rules_text: Menace
+Your opponents can't gain life.
+Whenever a creature you control with menace attacks, add {B}. Until end of turn, you don't lose this mana as steps and phases end. => Menace
+Whenever a creature you control with menace, deathtouch, or lifelink attacks, add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Thunder Stage Star
+
+Heroes are Never Late
+
+Wheelbound Ace
+
+Eventide Rendezvous
+
+Selenite Flowergirl
+
+Make Believer
+
+Tsukuri Holo-Witch
+
+Planesculpting
+
+Silver Kitsune
+
+Zeal
+
+The Dreamglass Majesty
+
+Lunar Halo
+
+Ishakawa, Chroma Prodigy
+
+Empower
+
+Treasure
+
+Knife
+
+Clue
+
+Aekyan Nights
+
+Campfire Storyteller
+
+Legends Remembered
+
+Victim of Boredom
+
+One Night Heartbreaker
+
+To Save a Broken Heart
+
+Amina, Slightly Clumsy
+
+Yri's Secret Hideout
+
+Whimsical Storytelling
+
+Flowers Bloom Nowhere
+
+The Chroma Network
+
+Mistencharm Resplendant
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+
+Charming Confidant
+
+Quiet Aquarium
+
+Construction Zone
+
+Decadent Nightclub
+
+Feline Sanctuary
+
+Cluttered Studio
+
+Opulent Casino
+
+Shopping Mall
+
+Skyline Lookout
+
+Undercity Alley
+
+Urban Gardens
+
+Barhopping in Miseko
+
+Wallflower's Retreat
+
+Fish
+
+Joyous Princeling
+
+Stage Newcomer
+
+Chaos Conductor
+rules_text: Stardom {2}{R}{R} [i](Pay {2}{R}{R} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+As long as you control another Artist or Reveler creature, Chaos Conductor has haste.
+Whenever Chaos Conductor attacks, add {R}.
+{R}: Chaos Conductor gets +1/+0 until end of turn. => Stardom {2}{R}{R} [i](Pay {2}{R}{R} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+As long as you control another Artist or Reveler, Chaos Conductor has menace and haste.
+Whenever Chaos Conductor attacks, add {R}.
+{R}: Target Artist or Reveler creature you control gets +1/+0 until end of turn.
+
+Otherworld Egotist
+
+Undercity Peacekeeper
+
+Anticello, Cold Confidence
+
+Moyro Mafioso
+rules_text: Menace, lifelink
+[/b]{X}{B}{B}, Sacrifice Moyro Mafioso: Target opponent loses X life and you gain X life. => Menace
+{X}{B}{B}, Sacrifice Moyro Mafioso: Target opponent loses X life and you gain X life.[/b]
+
+Dazzling Celebrity
+
+
+VERSION 31 CHANGELOG
 ====================
 
 Ellis, Silent Muralist added.
