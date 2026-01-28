@@ -74,7 +74,7 @@
         "number": 13,
         "shape": "normal",
         "set": "AEK",
-        "position": "276"
+        "position": "275"
     },
     {
         "card_name": "All the Time in the World",
@@ -112,11 +112,11 @@
         "position": "130"
     },
     {
-        "card_name": "Dramatic Egoist",
-        "number": 46,
+        "card_name": "Inspiring Idol",
+        "number": 55,
         "shape": "normal",
         "set": "AEK",
-        "position": "283"
+        "position": "127"
     },
     {
         "card_name": "One Night Heartbreaker",
@@ -147,11 +147,11 @@
         "position": "174"
     },
     {
-        "card_name": "Inspiring Idol",
-        "number": 56,
+        "card_name": "Nixie, Novice Scriptwriter",
+        "number": 62,
         "shape": "normal",
         "set": "AEK",
-        "position": "127"
+        "position": "263"
     },
     {
         "card_name": "Spark Hunter Kajiwara Ai",
@@ -172,7 +172,7 @@
         "number": 152,
         "shape": "normal",
         "set": "AEK",
-        "position": "261"
+        "position": "260"
     },
     {
         "card_name": "Selenite Flowergirl",
@@ -182,11 +182,11 @@
         "position": "231"
     },
     {
-        "card_name": "Nixie, Novice Scriptwriter",
-        "number": 63,
+        "card_name": "Otherworld Egotist",
+        "number": 64,
         "shape": "normal",
         "set": "AEK",
-        "position": "264"
+        "position": "282"
     },
     {
         "card_name": "Touka, Afterlife Specialist",
@@ -296,16 +296,16 @@
     {
         "card_name": "Anticello, Cold Confidence",
         "number": 72,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "AEK",
-        "position": "260"
+        "position": "284"
     },
     {
         "card_name": "Chaos Conductor",
         "number": 107,
         "shape": "normal",
         "set": "AEK",
-        "position": "282"
+        "position": "281"
     },
     {
         "card_name": "Balcony Sommelier",
@@ -323,7 +323,7 @@
     },
     {
         "card_name": "Extraplanar Explorer",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "AEK",
         "position": "112"
@@ -333,7 +333,7 @@
         "number": 75,
         "shape": "normal",
         "set": "AEK",
-        "position": "265"
+        "position": "264"
     },
     {
         "card_name": "Citron Bartender",
@@ -358,7 +358,7 @@
     },
     {
         "card_name": "Fiona Tsukuri",
-        "number": 49,
+        "number": 48,
         "shape": "planeswalker",
         "set": "AEK",
         "position": "153"
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Flirt with Disaster",
-        "number": 50,
+        "number": 49,
         "shape": "normal",
         "set": "AEK",
         "position": "116"
@@ -413,7 +413,7 @@
         "position": "109"
     },
     {
-        "card_name": "Ellis, Cluttered Recluse",
+        "card_name": "Ellis, Silent Muralist",
         "number": 142,
         "shape": "planeswalker",
         "set": "AEK",
@@ -428,7 +428,7 @@
     },
     {
         "card_name": "From the Mirror",
-        "number": 51,
+        "number": 50,
         "shape": "normal",
         "set": "AEK",
         "position": "117"
@@ -463,7 +463,7 @@
     },
     {
         "card_name": "Iason, Voice of the Admirers",
-        "number": 53,
+        "number": 52,
         "shape": "normal",
         "set": "AEK",
         "position": "111"
@@ -498,7 +498,7 @@
     },
     {
         "card_name": "The Icelord of Severed Chains",
-        "number": 54,
+        "number": 53,
         "shape": "normal",
         "set": "AEK",
         "position": "173"
@@ -533,7 +533,7 @@
     },
     {
         "card_name": "Inspiring Vision",
-        "number": 57,
+        "number": 56,
         "shape": "normal",
         "set": "AEK",
         "position": "187"
@@ -568,17 +568,17 @@
     },
     {
         "card_name": "Joyous Princeling",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "AEK",
-        "position": "279"
+        "position": "278"
     },
     {
         "card_name": "Moyro Mafioso",
         "number": 90,
         "shape": "normal",
         "set": "AEK",
-        "position": "280"
+        "position": "279"
     },
     {
         "card_name": "To Save a Broken Heart",
@@ -599,11 +599,11 @@
         "number": 37,
         "shape": "normal",
         "set": "AEK",
-        "position": "277"
+        "position": "276"
     },
     {
         "card_name": "Omniscent Reader",
-        "number": 64,
+        "number": 63,
         "shape": "normal",
         "set": "AEK",
         "position": "118"
@@ -662,7 +662,7 @@
         "number": 163,
         "shape": "normal",
         "set": "AEK",
-        "position": "281"
+        "position": "280"
     },
     {
         "card_name": "Yume, Miseko Producer",
@@ -743,7 +743,7 @@
     },
     {
         "card_name": "Fall Out",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "AEK",
         "position": "57"
@@ -778,7 +778,7 @@
     },
     {
         "card_name": "Holofield Operator",
-        "number": 52,
+        "number": 51,
         "shape": "normal",
         "set": "AEK",
         "position": "52"
@@ -813,7 +813,7 @@
     },
     {
         "card_name": "Inseparable Besties",
-        "number": 55,
+        "number": 54,
         "shape": "normal",
         "set": "AEK",
         "position": "53"
@@ -848,7 +848,7 @@
     },
     {
         "card_name": "Isolated Wayfarer",
-        "number": 58,
+        "number": 57,
         "shape": "normal",
         "set": "AEK",
         "position": "51"
@@ -883,7 +883,7 @@
     },
     {
         "card_name": "Midnight Dreamer",
-        "number": 60,
+        "number": 59,
         "shape": "normal",
         "set": "AEK",
         "position": "47"
@@ -918,7 +918,7 @@
     },
     {
         "card_name": "Moyro Fixer",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "AEK",
         "position": "48"
@@ -953,7 +953,7 @@
     },
     {
         "card_name": "Nah",
-        "number": 62,
+        "number": 61,
         "shape": "normal",
         "set": "AEK",
         "position": "55"
@@ -1061,7 +1061,7 @@
         "number": 70,
         "shape": "normal",
         "set": "AEK",
-        "position": "284"
+        "position": "283"
     },
     {
         "card_name": "Talent Scout",
@@ -1103,7 +1103,7 @@
         "number": 99,
         "shape": "normal",
         "set": "AEK",
-        "position": "262"
+        "position": "261"
     },
     {
         "card_name": "Wayward Musicians",
@@ -1133,11 +1133,11 @@
     },
     "a->gold",
     {
-        "card_name": "Cosmic Starchild",
-        "number": 171,
-        "shape": "normal",
+        "card_name": "Miss Navia Cosgrove",
+        "number": 186,
+        "shape": "planeswalker",
         "set": "AEK",
-        "position": "224"
+        "position": "209"
     },
     {
         "card_name": "Vielle Never Sleeps",
@@ -1450,18 +1450,18 @@
         "position": "180"
     },
     {
+        "card_name": "Cosmic Starchild",
+        "number": 171,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "224"
+    },
+    {
         "card_name": "Kyv, Sanguine Avante",
         "number": 180,
         "shape": "normal",
         "set": "AEK",
         "position": "129"
-    },
-    {
-        "card_name": "Miss Navia Cosgrove",
-        "number": 186,
-        "shape": "planeswalker",
-        "set": "AEK",
-        "position": "209"
     },
     {
         "card_name": "A Practical Guide to Evil",
@@ -1567,7 +1567,7 @@
     "a->land",
     {
         "card_name": "Miseko, Urban Crossroads",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "AEK",
         "position": "137"
@@ -1581,21 +1581,21 @@
     },
     {
         "card_name": "Kaede, the City Below",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "AEK",
         "position": "136"
     },
     {
         "card_name": "Satsukai, Nexus of Lights",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "AEK",
         "position": "138"
     },
     {
         "card_name": "Nyano, Serene Shrine",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "AEK",
         "position": "140"
@@ -1617,38 +1617,38 @@
     },
     {
         "card_name": "Quiet Aquarium",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "AEK",
-        "position": "266"
+        "position": "265"
     },
     {
         "card_name": "Skyline Lookout",
         "number": 227,
         "shape": "normal",
         "set": "AEK",
-        "position": "273"
+        "position": "272"
     },
     {
         "card_name": "Decadent Nightclub",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "AEK",
-        "position": "268"
+        "position": "267"
     },
     {
         "card_name": "Shopping Mall",
         "number": 226,
         "shape": "normal",
         "set": "AEK",
-        "position": "272"
+        "position": "271"
     },
     {
-        "card_name": "Scattered Studio",
-        "number": 225,
+        "card_name": "Cluttered Studio",
+        "number": 214,
         "shape": "normal",
         "set": "AEK",
-        "position": "270"
+        "position": "269"
     },
     {
         "card_name": "er"
@@ -1667,38 +1667,38 @@
     },
     {
         "card_name": "Feline Sanctuary",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "AEK",
-        "position": "269"
+        "position": "268"
     },
     {
         "card_name": "Opulent Casino",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "AEK",
-        "position": "271"
+        "position": "270"
     },
     {
         "card_name": "Undercity Alley",
         "number": 229,
         "shape": "normal",
         "set": "AEK",
-        "position": "274"
+        "position": "273"
     },
     {
         "card_name": "Construction Zone",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "AEK",
-        "position": "267"
+        "position": "266"
     },
     {
         "card_name": "Urban Gardens",
         "number": 230,
         "shape": "normal",
         "set": "AEK",
-        "position": "275"
+        "position": "274"
     },
     {
         "card_name": "er"
@@ -1724,14 +1724,14 @@
     },
     {
         "card_name": "Halcyon Road",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "AEK",
         "position": "211"
     },
     {
         "card_name": "Luminous City",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "AEK",
         "position": "210"
@@ -1908,7 +1908,7 @@
         "number": 5,
         "shape": "token",
         "set": "AEK",
-        "position": "278"
+        "position": "277"
     },
     {
         "card_name": "Shiroyuki's Emblem",
@@ -2164,7 +2164,7 @@
         "number": 0,
         "shape": "normal",
         "set": "AEK",
-        "position": "263"
+        "position": "262"
     },
     {
         "card_name": "e"

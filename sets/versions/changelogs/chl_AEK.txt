@@ -1,4 +1,150 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+Ellis, Silent Muralist added.
+Balcony Sommelier added.
+Midnight Caller added.
+Solitary Symphony added.
+Flawless Icon added.
+Cluttered Studio added.
+Otherworld Egotist added.
+
+Ellis, Cluttered Recluse removed.
+Midnight Sommelier removed.
+Midnight's Call removed.
+Midnight Symphony removed.
+Beloved Icon removed.
+Scattered Studio removed.
+Dramatic Egoist removed.
+
+Gleaming Importance
+type: Kindred Enchantment — Avatar => Enchantment
+
+A Practical Guide to Evil
+cost: {5}{W}{B}{G} => {4}{W}{B}{G}
+
+Introversion
+rules_text: As long as you control exactly one creature, that creature gets +3/+3 and has protection from noncreatures.
+Whenever you cast a black spell, you may sacrifice a permanent. If you do, you draw a card and gain 2 life. => As long as you control exactly one creature, that creature gets +2/+2 and has protection from mana value 2 or less.
+Whenever you cast a spell, you may sacrifice a permanent. If you do, you draw a card and gains 2 life.
+
+Villainous Idol
+rules_text: When Villainous Idol enters, create a Knife token. [i](It's a Knife Equipment token with equip {1} that grants +1/+1.)[/i]
+Knives you control have equip {0} and “Whenever equipped creature attacks, you draw a card and gain 2 life.” => When Villainous Idol enters, create a Knife token. [i](It's a Knife Equipment token with equip {1} that grants +1/+1.)[/i]
+Knives you control have equip {0} and “Whenever equipped creature attacks, the defending player discards a card.”
+
+Hero's Downfall
+
+Akane, Linearity Breaker
+rules_text: When Akane enters, draw a card, then exile a card from your hand.
+Whenever you cast a spell, if it has the same name as a card exiled by Akane, draw a card. This ability triggers only once each turn. => When Akane enters, draw a card, then exile a card from your hand.
+Once each turn, when you cast a spell with the same name as a card exiled by Akane, put a +1/+1 counter on Akane and draw a card.
+
+Miss Navia Cosgrove
+cost: {1}{U}{R}{W} => {2}{W}{U}
+rules_text: As long as Navia has three or fewer loyalty counters on her, you may activate her loyalty abilities on any player's turn any time you could cast an instant.
+[+1]: Create a 1/1 blue Elemental creature token with flying. It can't block this turn.
+[0]: Tap target nonland permanent.
+[-2]: Exile the top two cards of your library. Until the end of your next turn, you may play one of those cards. => As long as Navia has three or fewer loyalty counters on her, you may activate her loyalty abilities on any player's turn any time you could cast an instant.
+[+1]: Create a 1/1 blue Elemental creature token with flying. It can't block this turn.
+[0]: Tap target nonland permanent.
+[-2]: Each player may draw a card. If an opponent does, you gain 3 life.
+special_text: As long as Navia has three or fewer loyalty counters on her, you may activate her loyalty abilities on any player's turn any time you could cast an instant.
+[+1]: Create a 1/1 blue Elemental creature token with flying. It can't block this turn.
+[0]: Tap target nonland permanent.
+[-2]: Exile the top two cards of your library. Until the end of your next turn, you may play one of those cards. => As long as Navia has three or fewer loyalty counters on her, you may activate her loyalty abilities on any player's turn any time you could cast an instant.
+[+1]: Create a 1/1 blue Elemental creature token with flying. It can't block this turn.
+[0]: Tap target nonland permanent.
+[-2]: Each player may draw a card. If an opponent does, you gain 3 life.
+
+Embrace
+cost: {W} => {3}{W}
+rules_text: You and target opponent each create a 1/1 white Human creature token, draw a card, and gain 3 life. => Embrace costs {2} less to cast if it targets a permanent an opponent controls.
+Exile two target creatures and/or planeswalkers, then return those cards to the battlefield under its owner's control. [i](You can't cast this spell unless you target exactly two creatures.)[/i]
+
+Cosmic Starchild
+type: Enchantment Creature — Avatar Artist => Enchantment Creature — Elemental Avatar
+cost: {3}{W}{U} => {2}{U}{R}{W}
+rules_text: Flying, vigilance
+Cosmic Starchild gets +1/+1 for each instant, sorcery, or Avatar card in your graveyard.
+{1}, Discard a card: Create a tapped 1/1 blue Elemental creature token with flying. => Haste
+Whenever Cosmic Starchild attacks, discard up to two cards, then draw that many cards.
+Cosmic Starchild gets +1/+1 for each instant, sorcery, or Avatar card in your graveyard.
+
+Gravity Defier
+rules_text: Menace, lifelink
+Whenever one or more other creatures you control with menace attack, you may reveal the top card of your library. If you do, put it into your hand. You lose life equal to its mana value. => Menace
+Your opponents can't gain life.
+Whenever a creature you control with menace attacks, add {B}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Make Believer
+pt: 3/3 => 3/2
+
+Mistencharm Resplendant
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+
+Charming Confidant
+
+Quiet Aquarium
+
+Construction Zone
+
+Decadent Nightclub
+
+Feline Sanctuary
+
+Opulent Casino
+
+Shopping Mall
+
+Skyline Lookout
+
+Undercity Alley
+
+Urban Gardens
+
+Barhopping in Miseko
+rules_text: When Barhopping in Miseko enters, exile up to four target creatures, then return each of those creature to the battlefield with a drink counter on it under its owner's control.
+Creatures can't attack or block unless their controller pays {1} for each drink counter on each of those creatures. => When Barhopping in Miseko enters, exile up to four target creatures, then return each of those creature to the battlefield tapped with a drink counter on it under its owner's control.
+Creatures with drink counters can't attack or block unless their controller pays {1} for each of those creatures.
+
+Wallflower's Retreat
+
+Fish
+
+Joyous Princeling
+
+Moyro Mafioso
+rules_text: Menace
+Whenever Moyro Mafioso attacks, you may pay {1}. If you do, create a tapped Treasure token.
+[/b]{X}{B}{B}, Sacrifice Moyro Mafioso: Target opponent loses X life and you gain X life. => Menace, lifelink
+[/b]{X}{B}{B}, Sacrifice Moyro Mafioso: Target opponent loses X life and you gain X life.
+
+Stage Newcomer
+
+Chaos Conductor
+
+Undercity Peacekeeper
+
+Anticello, Cold Confidence
+type: Legendary Planeswalker — Anticello => Legendary Creature — Human Artist
+rules_text: Once each turn, when you gain or lose life, put a loyalty counter on Anticello.
+[0]: Conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i] => Opponents can't gain life.
+Whenever Anticello attacks, if the defending player has more life than you, conjure Drain into your hand. Otherwise, conjure Night's Whisper into your hand. [i](Drain is a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.” Night's Whisper is a {1}{B} sorcery with “You draw two cards and lose 2 life.)[/i]
+pt:  => 2/2
+special_text: Once each turn, when you gain or lose life, put a loyalty counter on Anticello.
+[0]: Conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+[-2]: Conjure Night's Whisper into your hand. [i](It's a {1}{B} sorcery with “You draw two cards and lose 2 life.”)[/i] => 
+loyalty: 3 => 
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Dazzling Celebrity added.
