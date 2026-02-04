@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "draft booster",
+    "draft_structure": "play booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -112,11 +112,11 @@
             "card_name": "Rooftop Violinist",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Artist",
+            "type": "Creature \u2014 Human Artist Scout",
             "number": 94,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with \u201cEach opponent loses 1 life. You gain 1 life.\u201d)[/i]\nOnce each turn, when you gain or lose life, put a +1/+1 counter on Rooftop Violinist.",
+            "rules_text": "When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with \u201cEach opponent loses 1 life. You gain 1 life.\u201d)[/i]\n{T}, Discard a card: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
             "flavor_text": "[i]The musician didn't like heights, but she did like cats.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -133,7 +133,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Artist",
-            "number": 87,
+            "number": 86,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "[/b]Whenever Jealous Rival enters or attacks, you may sacrifice another creature or planeswalker. If you do, you draw a card and gain 2 life.",
@@ -173,7 +173,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 80,
+            "number": 79,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "When Fan Following enters, conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]\nAt the beginning of combat on your turn, target creature you control gains lifelink and menace until end of turn.",
@@ -213,7 +213,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Artificer",
-            "number": 81,
+            "number": 80,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "As long as you control an Avatar, The Girl in the Chair gets +2/+2 and has menace.\nWhen The Girl in the Chair enters, conjure two duplicates of Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]",
@@ -293,7 +293,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 76,
+            "number": 75,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Affinity for storied permanents [i](This spell costs {1} less to cast for each enchantment and/or legendary permanent you control.)[/i]\nDestroy target creature or planeswalker.",
@@ -449,26 +449,6 @@
             "notes": ""
         },
         {
-            "card_name": "Prototype Streetcleaner",
-            "color": "G",
-            "rarity": "common",
-            "type": "Artifact Creature \u2014 Samurai Vehicle",
-            "number": 157,
-            "color_identity": "G",
-            "cost": "{3}{G}{G}",
-            "rules_text": "Trample, reach\nCrew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
-            "flavor_text": "[i]It's surprisingly effective at all tasks except cleaning.[/i]",
-            "pt": "5/5",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AEK",
-            "loyalty": "",
-            "artist": "Yu Cheng Hong",
-            "alias": "",
-            "position": "22",
-            "notes": "mana value 6"
-        },
-        {
             "card_name": "Sky Scraper",
             "color": "G",
             "rarity": "common",
@@ -485,7 +465,7 @@
             "loyalty": "",
             "artist": "tmt",
             "alias": "",
-            "position": "23",
+            "position": "22",
             "notes": "mana value 6+\nland fixer"
         },
         {
@@ -505,7 +485,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "24",
+            "position": "23",
             "notes": ""
         },
         {
@@ -513,7 +493,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 154,
+            "number": 155,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Not Today costs {2} less to cast if its your turn or you control a Human.\nTarget permanent or player gains hexproof until end of turn. Draw a card.",
@@ -525,7 +505,7 @@
             "loyalty": "",
             "artist": "\u3042\u3055\u306e",
             "alias": "",
-            "position": "25",
+            "position": "24",
             "notes": ""
         },
         {
@@ -545,7 +525,7 @@
             "loyalty": "",
             "artist": "jiu ye sang",
             "alias": "",
-            "position": "26",
+            "position": "25",
             "notes": ""
         },
         {
@@ -565,7 +545,7 @@
             "loyalty": "",
             "artist": "Lyojfeccnsd188",
             "alias": "",
-            "position": "27",
+            "position": "26",
             "notes": ""
         },
         {
@@ -585,7 +565,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "notes": ""
         },
         {
@@ -605,7 +585,7 @@
             "loyalty": "",
             "artist": "KUU",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "notes": ""
         },
         {
@@ -625,7 +605,7 @@
             "loyalty": "",
             "artist": "ALCD",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "notes": ""
         },
         {
@@ -645,7 +625,7 @@
             "loyalty": "",
             "artist": "Dave Greco",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "notes": ""
         },
         {
@@ -665,7 +645,7 @@
             "loyalty": "",
             "artist": "Lifeline",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "notes": "Overcosted Kill Spell\nAlicia"
         },
         {
@@ -685,7 +665,7 @@
             "loyalty": "",
             "artist": "Luke Poller",
             "alias": "",
-            "position": "33",
+            "position": "32",
             "notes": "mana value 1\nsensation"
         },
         {
@@ -705,7 +685,7 @@
             "loyalty": "",
             "artist": "corbenyx",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "notes": "sensation"
         },
         {
@@ -725,27 +705,27 @@
             "loyalty": "",
             "artist": "Humidifier xd",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "notes": "mana value 4"
         },
         {
-            "card_name": "Getaway Driver",
+            "card_name": "Ignition Starter",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Pilot",
-            "number": 111,
+            "type": "Creature \u2014 Human Advisor",
+            "number": 112,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "Haste\nWhen Getaway Driver enters, conjure Mischief into your hand. [i](It's a {R} sorcery with \u201cDraw two cards, then discard two cards.\u201d)[/i]",
-            "flavor_text": "[i]\u201cAside from one [mumbling] outlier, nobody can beat me in a race!\u201d[/i]",
+            "cost": "{R}",
+            "rules_text": "When Ignition Starter enters, you may discard a card. If you do, conjure Expedite into your hand. [i](It's an {R} sorcery with \u201cTarget creature gains haste until end of turn. Draw a card.\u201d)[/i]",
+            "flavor_text": "[i]\u201cOn your marks...\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
             "loyalty": "",
-            "artist": "Aurahack",
+            "artist": "recon 54995499",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "notes": "mana value 2"
         },
         {
@@ -765,7 +745,7 @@
             "loyalty": "",
             "artist": "Toni Infante",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "notes": "mana value 3"
         },
         {
@@ -773,7 +753,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Enchantment Creature \u2014 Avatar Artist",
-            "number": 112,
+            "number": 111,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Whenever you conjure one or more cards, Idol of Playthings deals 2 damage to each opponent.",
@@ -785,7 +765,7 @@
             "loyalty": "",
             "artist": "Luminous Slime",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "notes": "mana value 4"
         },
         {
@@ -805,7 +785,7 @@
             "loyalty": "",
             "artist": "singtou",
             "alias": "",
-            "position": "39",
+            "position": "38",
             "notes": "mana value 3/4"
         },
         {
@@ -825,7 +805,7 @@
             "loyalty": "",
             "artist": "ameriya7",
             "alias": "",
-            "position": "40",
+            "position": "39",
             "notes": ""
         },
         {
@@ -845,7 +825,7 @@
             "loyalty": "",
             "artist": "karanagare",
             "alias": "",
-            "position": "41",
+            "position": "40",
             "notes": "mana value 6\nland fixer"
         },
         {
@@ -865,7 +845,7 @@
             "loyalty": "",
             "artist": "SOLO",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "notes": ""
         },
         {
@@ -885,7 +865,7 @@
             "loyalty": "",
             "artist": "Lemtun",
             "alias": "",
-            "position": "43",
+            "position": "42",
             "notes": "combat trick"
         },
         {
@@ -905,7 +885,7 @@
             "loyalty": "",
             "artist": "Lobelia",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "notes": "bolt or strike"
         },
         {
@@ -925,7 +905,7 @@
             "loyalty": "",
             "artist": "super h2o",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": "modal shatter"
         },
         {
@@ -945,7 +925,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "notes": "sensation"
         },
         {
@@ -965,7 +945,7 @@
             "loyalty": "",
             "artist": "NishijukiC",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "notes": "mana value 3"
         },
         {
@@ -985,7 +965,7 @@
             "loyalty": "",
             "artist": "senbonzakura",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": "mana value3\nsensation"
         },
         {
@@ -1005,7 +985,7 @@
             "loyalty": "",
             "artist": "Sandara",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": "mana value 3"
         },
         {
@@ -1025,7 +1005,7 @@
             "loyalty": "",
             "artist": "simone ferriero",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "notes": "mana value 4"
         },
         {
@@ -1045,7 +1025,7 @@
             "loyalty": "",
             "artist": "dullkl",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "notes": ""
         },
         {
@@ -1065,7 +1045,7 @@
             "loyalty": "",
             "artist": "Xilmo",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": "mana value 6/7, land fixer"
         },
         {
@@ -1085,7 +1065,7 @@
             "loyalty": "",
             "artist": "CPKon",
             "alias": "",
-            "position": "53",
+            "position": "52",
             "notes": "Amyuki"
         },
         {
@@ -1105,7 +1085,7 @@
             "loyalty": "",
             "artist": "avogado6",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": "Counterspells.\nFormats with powerful countermagic are lame lol."
         },
         {
@@ -1125,7 +1105,7 @@
             "loyalty": "",
             "artist": "GUWEIZ",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": "cantrip"
         },
         {
@@ -1145,7 +1125,7 @@
             "loyalty": "",
             "artist": "kyouichi",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": "mana value 2"
         },
         {
@@ -1165,7 +1145,7 @@
             "loyalty": "",
             "artist": "alcd",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": "removal"
         },
         {
@@ -1185,7 +1165,7 @@
             "loyalty": "",
             "artist": "natsuba002",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "notes": "sensation\nAmyuki"
         },
         {
@@ -1205,7 +1185,7 @@
             "loyalty": "",
             "artist": "Eleth",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "notes": "mana value 2"
         },
         {
@@ -1225,7 +1205,7 @@
             "loyalty": "",
             "artist": "rashedjrs",
             "alias": "",
-            "position": "60",
+            "position": "59",
             "notes": "mana value 3"
         },
         {
@@ -1245,7 +1225,7 @@
             "loyalty": "",
             "artist": "yanagima",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "notes": ""
         },
         {
@@ -1265,7 +1245,7 @@
             "loyalty": "",
             "artist": "Doomfest",
             "alias": "",
-            "position": "62",
+            "position": "61",
             "notes": ""
         },
         {
@@ -1285,7 +1265,7 @@
             "loyalty": "",
             "artist": "smyan",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": ""
         },
         {
@@ -1305,7 +1285,7 @@
             "loyalty": "",
             "artist": "Sanbonzakura",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1325,7 +1305,7 @@
             "loyalty": "",
             "artist": "Lemtun",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": "Kind of a weak design..."
         },
         {
@@ -1345,7 +1325,7 @@
             "loyalty": "",
             "artist": "sanctus-ingenium",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1365,7 +1345,7 @@
             "loyalty": "",
             "artist": "quasarcake",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": "Oobe-like removal"
         },
         {
@@ -1385,7 +1365,7 @@
             "loyalty": "",
             "artist": "yi li sansha",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": "mana value 6/7, land fixer\ncounter"
         },
         {
@@ -1405,7 +1385,7 @@
             "loyalty": "",
             "artist": "Saclia",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": "combat trick"
         },
         {
@@ -1425,7 +1405,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": "Combat Trick"
         },
         {
@@ -1445,7 +1425,7 @@
             "loyalty": "",
             "artist": "Matsuba10",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1456,7 +1436,7 @@
             "number": 102,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Whenever one or more creatures you control with menace, deathtouch, or lifelink attack, each opponent loses that much life.\n{3}{B}: Each opponent loses 2 life.",
+            "rules_text": "Whenever one or more creatures you control with menace, deathtouch, or lifelink attack, each opponent loses that much life.\n{4}{B}: We Could Be Supervillains deals 2 damage to each opponent. You gain 2 life.",
             "flavor_text": "[i]\u201cIf villainy isn't working, you aren't using enough of it.\u201d\n\u2014Vielle Singer[/i]",
             "pt": "",
             "special_text": "",
@@ -1465,7 +1445,7 @@
             "loyalty": "",
             "artist": "Niyaooo",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1473,7 +1453,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Cleric",
-            "number": 89,
+            "number": 88,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "When Kenji and Momoka enters, you may search your library for a card, put it into your graveyard, then shuffle. Conjure a duplicate of that card into your graveyard.",
@@ -1485,7 +1465,7 @@
             "loyalty": "",
             "artist": "kyatto-mikazu",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": "3"
         },
         {
@@ -1493,7 +1473,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Advisor",
-            "number": 88,
+            "number": 87,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "When Kataleptic Scholar enters, if you control a storied permanent, it deals 3 damage to any target. This ability deals damage to creatures in the form of -1/-1 counters. [i](Enchantments and legendary permanents are storied.)[/i]",
@@ -1505,7 +1485,7 @@
             "loyalty": "",
             "artist": "Goirira",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": "mana value 4"
         },
         {
@@ -1513,7 +1493,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 86,
+            "number": 85,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "All nonlegendary creatures get -3/-3 until end of turn.\n{1}{B}, Discard Irrelevance: Target nonlegendary creature gets -3/-3 until end of turn.",
@@ -1525,7 +1505,7 @@
             "loyalty": "",
             "artist": "akishycat",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "notes": "Removal"
         },
         {
@@ -1545,7 +1525,7 @@
             "loyalty": "",
             "artist": "kyatto-mikazu",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": ""
         },
         {
@@ -1565,7 +1545,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": "5"
         },
         {
@@ -1573,7 +1553,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 79,
+            "number": 78,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target player reveals their hand then discards a card. If the discarded card has the highest or lowest mana value among cards in their hand, create a 2/1 red Human Reveler creature token.",
@@ -1585,7 +1565,7 @@
             "loyalty": "",
             "artist": "Yomiya Sateko",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1593,7 +1573,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 83,
+            "number": 82,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Target opponent may pay 2 life. If they do, draw two cards. Otherwise, create a 4/4 black Horror creature token.",
@@ -1605,7 +1585,7 @@
             "loyalty": "",
             "artist": "ziro_",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": ""
         },
         {
@@ -1615,17 +1595,17 @@
             "type": "Creature \u2014 Human Reveler",
             "number": 145,
             "color_identity": "WUBRG",
-            "cost": "{1}{G}",
-            "rules_text": "Stardom {C}{W}{U}{B}{R}{G} [i](Pay {C}{W}{U}{B}{R}{G} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]\nAs long as Firework Reveler is legendary, creatures you control get +4/+4.\n{3}{G}: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
+            "cost": "{G}",
+            "rules_text": "Stardom {C}{W}{U}{B}{R}{G} [i](Pay {C}{W}{U}{B}{R}{G} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]\nAs long as Firework Reveler is legendary, creatures you control get +4/+4.\n{5}: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
             "loyalty": "",
             "artist": "lyojfeccnsd188",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": "1/2\nfirework"
         },
         {
@@ -1645,7 +1625,7 @@
             "loyalty": "",
             "artist": "ikuta41",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": "2\nconjure shuffle"
         },
         {
@@ -1653,7 +1633,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Scout",
-            "number": 155,
+            "number": 156,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
             "rules_text": "Whenever Pastel Travelers attacks, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]\n{4}{G}{G}: Pastel Travelers gets +X/+X and gains trample until end of turn where X is the number of lands you control. Activate only as a sorcery.",
@@ -1665,7 +1645,7 @@
             "loyalty": "",
             "artist": "Qiu Lock",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1685,7 +1665,7 @@
             "loyalty": "",
             "artist": "lobelia",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": "4\nsensation"
         },
         {
@@ -1705,7 +1685,7 @@
             "loyalty": "",
             "artist": "nmgmkn",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1725,7 +1705,7 @@
             "loyalty": "",
             "artist": "Semyon Boldyrev",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": "!group conjure"
         },
         {
@@ -1745,7 +1725,7 @@
             "loyalty": "",
             "artist": "Rotata",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "notes": "Ramp! Better than common alternatives."
         },
         {
@@ -1765,7 +1745,7 @@
             "loyalty": "",
             "artist": "Lemtun",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": "Noncreature\nversion change\nsensation"
         },
         {
@@ -1785,7 +1765,7 @@
             "loyalty": "",
             "artist": "\u8a70\u3081\u6728",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": "Noncreature"
         },
         {
@@ -1805,7 +1785,7 @@
             "loyalty": "3",
             "artist": "Yuumei",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "notes": "Noncreature"
         },
         {
@@ -1825,7 +1805,7 @@
             "loyalty": "",
             "artist": "iv 4t",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1845,7 +1825,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1865,7 +1845,7 @@
             "loyalty": "",
             "artist": "Sanbonzakura",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1885,7 +1865,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1905,7 +1885,7 @@
             "loyalty": "",
             "artist": "velocesmells",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "notes": ""
         },
         {
@@ -1916,16 +1896,16 @@
             "number": 137,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When Balcony Sommelier enters, create a 1/1 white Human creature token.\nOther Humans you control get +1/+1.\n{5}: Create a 1/1 white Human creature token. Activate only once each turn and only as a sorcery.",
+            "rules_text": "When Balcony Sommelier enters, create a 1/1 white Human creature token.\nWhenever another creature you control enters, put a +1/+1 counter on it. If its legendary, put an additional +1/+1 counter on Balcony Sommelier.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
             "loyalty": "",
             "artist": "Mika Pikazo",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "notes": ""
         },
         {
@@ -1945,7 +1925,7 @@
             "loyalty": "",
             "artist": "Shijohane",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "notes": ""
         },
         {
@@ -1965,7 +1945,7 @@
             "loyalty": "",
             "artist": "Zoltan Kocs",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "notes": "sensation"
         },
         {
@@ -1985,7 +1965,7 @@
             "loyalty": "",
             "artist": "Nuhanotion",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "notes": ""
         },
         {
@@ -2005,7 +1985,7 @@
             "loyalty": "",
             "artist": "NeonOverdrive",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "notes": ""
         },
         {
@@ -2025,7 +2005,7 @@
             "loyalty": "",
             "artist": "OTEN",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "notes": "5"
         },
         {
@@ -2045,7 +2025,7 @@
             "loyalty": "",
             "artist": "nid417",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "notes": "mana value 2"
         },
         {
@@ -2065,7 +2045,7 @@
             "loyalty": "",
             "artist": "Soareverix",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "notes": "mana value 2"
         },
         {
@@ -2085,7 +2065,7 @@
             "loyalty": "",
             "artist": "Han YiJie",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "notes": "3"
         },
         {
@@ -2105,7 +2085,7 @@
             "loyalty": "",
             "artist": "Kibashiba",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "notes": "mana value 3/4"
         },
         {
@@ -2125,7 +2105,7 @@
             "loyalty": "",
             "artist": "Skeb",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "notes": "Noncreature\nIt's not noncreature, but pretend it is :)"
         },
         {
@@ -2145,7 +2125,7 @@
             "loyalty": "",
             "artist": "mogu kinoko",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "notes": "Pyroclasm"
         },
         {
@@ -2165,7 +2145,7 @@
             "loyalty": "",
             "artist": "Neg101",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "notes": "arcun"
         },
         {
@@ -2185,7 +2165,7 @@
             "loyalty": "",
             "artist": "huming0929",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": "Noncreature"
         },
         {
@@ -2205,7 +2185,7 @@
             "loyalty": "",
             "artist": "weiyiver",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": "Noncreature\nconjure shuffle"
         },
         {
@@ -2225,7 +2205,7 @@
             "loyalty": "",
             "artist": "hotokeimuuu",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "notes": "2"
         },
         {
@@ -2245,7 +2225,7 @@
             "loyalty": "",
             "artist": "Lemtun",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "notes": "1/2"
         },
         {
@@ -2265,7 +2245,7 @@
             "loyalty": "",
             "artist": "syo5",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "notes": "3\nconjure shuffle"
         },
         {
@@ -2276,16 +2256,16 @@
             "number": 71,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "When Wandering Halovian enters, return target nonland permanent to its owner's hand. If you control that permanent, conjure Voyager into your hand. [i](It's a {1}{U} 2/2 Scout creature with prowess.)[/i]",
+            "rules_text": "When Wandering Halovian enters, if you cast it, return up to one other target nonland permanent to its owner's hand. If you control that permanent, conjure and shuffle Time Walk into your main library. [i](It's a {1}{U} sorcery with \u201cTake an extra turn after this one.\u201d)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "4/2",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
             "loyalty": "",
             "artist": "yanagima",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2305,7 +2285,7 @@
             "loyalty": "",
             "artist": "Sanbonzakura",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "notes": "4/5"
         },
         {
@@ -2325,7 +2305,7 @@
             "loyalty": "",
             "artist": "Rafelaaa",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "notes": "Counterspell/quench\n!tag yuri"
         },
         {
@@ -2345,7 +2325,7 @@
             "loyalty": "",
             "artist": "Rolua",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "notes": "copy copy"
         },
         {
@@ -2365,7 +2345,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "notes": "version change\nsensation"
         },
         {
@@ -2385,7 +2365,7 @@
             "loyalty": "",
             "artist": "tamitami",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "notes": "3"
         },
         {
@@ -2405,7 +2385,7 @@
             "loyalty": "",
             "artist": "Yaosan",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "notes": "4"
         },
         {
@@ -2425,7 +2405,7 @@
             "loyalty": "",
             "artist": "Rotarran",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "notes": ""
         },
         {
@@ -2445,7 +2425,7 @@
             "loyalty": "",
             "artist": "\u6dc5\u6d35",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "notes": "1"
         },
         {
@@ -2465,7 +2445,7 @@
             "loyalty": "",
             "artist": "77fchen",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "notes": "Oobe-like removal"
         },
         {
@@ -2485,11 +2465,11 @@
             "loyalty": "",
             "artist": "Nishijikuc",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "notes": "5c reference"
         },
         {
-            "card_name": "Blade Alley Vigilantes",
+            "card_name": "Blade Alley Vigilante",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Rogue",
@@ -2505,7 +2485,7 @@
             "loyalty": "",
             "artist": "NASU8901",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2525,7 +2505,7 @@
             "loyalty": "",
             "artist": "er ra63",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "notes": ""
         },
         {
@@ -2545,7 +2525,7 @@
             "loyalty": "",
             "artist": "xiaoniaoyou qing",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "notes": "idol cycle"
         },
         {
@@ -2553,7 +2533,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 85,
+            "number": 84,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "As long as you control exactly one creature, that creature gets +2/+2 and has protection from mana value 2 or less.\nWhenever you cast a spell, you may sacrifice a permanent. If you do, you draw a card and gains 2 life.",
@@ -2565,7 +2545,7 @@
             "loyalty": "",
             "artist": "Chaotic2822",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "notes": "Noncreature"
         },
         {
@@ -2585,7 +2565,7 @@
             "loyalty": "",
             "artist": "kickthatcan",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "notes": ""
         },
         {
@@ -2605,7 +2585,7 @@
             "loyalty": "",
             "artist": "yanagima",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": "idol cycle"
         },
         {
@@ -2625,7 +2605,7 @@
             "loyalty": "",
             "artist": "REI",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": "idol cycle"
         },
         {
@@ -2645,7 +2625,7 @@
             "loyalty": "",
             "artist": "ZM",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": ""
         },
         {
@@ -2665,7 +2645,7 @@
             "loyalty": "4",
             "artist": "Mikakee",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": ""
         },
         {
@@ -2685,7 +2665,7 @@
             "loyalty": "",
             "artist": "moruki",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": "If a player controls 4 artifact creatures, that player sacrifices an artifact and a creature."
         },
         {
@@ -2705,7 +2685,7 @@
             "loyalty": "",
             "artist": "Murakuraki",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "notes": "idol cycle"
         },
         {
@@ -2725,7 +2705,7 @@
             "loyalty": "",
             "artist": "Featherpen121",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": "pale land"
         },
         {
@@ -2745,7 +2725,7 @@
             "loyalty": "",
             "artist": "Lifeline",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": "pale land"
         },
         {
@@ -2765,7 +2745,7 @@
             "loyalty": "",
             "artist": "Tuooneo",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": "pale land"
         },
         {
@@ -2785,7 +2765,7 @@
             "loyalty": "",
             "artist": "zudartslee",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": "pale land"
         },
         {
@@ -2805,7 +2785,7 @@
             "loyalty": "",
             "artist": "Matsubo10",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": "pale land"
         },
         {
@@ -2825,7 +2805,7 @@
             "loyalty": "",
             "artist": "GUWEIZ",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": ""
         },
         {
@@ -2845,7 +2825,7 @@
             "loyalty": "",
             "artist": "Andree Wallin",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "notes": ""
         },
         {
@@ -2865,7 +2845,7 @@
             "loyalty": "",
             "artist": "Sogalus",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "notes": ""
         },
         {
@@ -2885,7 +2865,7 @@
             "loyalty": "",
             "artist": "Polina Gribova",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "notes": ""
         },
         {
@@ -2905,7 +2885,7 @@
             "loyalty": "3",
             "artist": "Sanbonzakura",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "notes": ""
         },
         {
@@ -2925,7 +2905,7 @@
             "loyalty": "",
             "artist": "_LM7_",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "notes": "version\nversion change"
         },
         {
@@ -2945,7 +2925,7 @@
             "loyalty": "",
             "artist": "huashijw",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "notes": "!exportname island_swamp"
         },
         {
@@ -2965,7 +2945,7 @@
             "loyalty": "",
             "artist": "Jocelinecarmes",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "notes": "!exportname island_mountain"
         },
         {
@@ -2985,7 +2965,7 @@
             "loyalty": "",
             "artist": "izayoi (i34i22w)",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "notes": "!exportname island_plains"
         },
         {
@@ -3005,7 +2985,7 @@
             "loyalty": "",
             "artist": "chooco",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "notes": "!exportname island_full"
         },
         {
@@ -3025,7 +3005,7 @@
             "loyalty": "",
             "artist": "Xilmo",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "notes": "!exportname island_forest"
         },
         {
@@ -3045,7 +3025,7 @@
             "loyalty": "",
             "artist": "Rotarran",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": "!group conjure"
         },
         {
@@ -3065,7 +3045,7 @@
             "loyalty": "4",
             "artist": "volcanoyyy",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "notes": "Noncreature"
         },
         {
@@ -3085,7 +3065,7 @@
             "loyalty": "",
             "artist": "pasoputi",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3105,7 +3085,7 @@
             "loyalty": "",
             "artist": "in 79",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "notes": "!group conjure"
         },
         {
@@ -3125,7 +3105,7 @@
             "loyalty": "",
             "artist": "emesan desu",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "notes": "!group conjure"
         },
         {
@@ -3145,7 +3125,7 @@
             "loyalty": "",
             "artist": "Fatutu",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "notes": "!group conjure"
         },
         {
@@ -3165,7 +3145,7 @@
             "loyalty": "",
             "artist": "fmu",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "notes": "!group conjure"
         },
         {
@@ -3185,7 +3165,7 @@
             "loyalty": "",
             "artist": "neytirix",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "notes": "!group conjure"
         },
         {
@@ -3205,7 +3185,7 @@
             "loyalty": "",
             "artist": "GUWEIZ",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "notes": "!group conjure"
         },
         {
@@ -3225,7 +3205,7 @@
             "loyalty": "",
             "artist": "Hector Mraz",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "notes": ""
         },
         {
@@ -3245,7 +3225,7 @@
             "loyalty": "",
             "artist": "Tsubonari",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "notes": "!exportname Human_1"
         },
         {
@@ -3265,7 +3245,7 @@
             "loyalty": "",
             "artist": "kizumi",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "notes": "!exportname Human_2"
         },
         {
@@ -3285,7 +3265,7 @@
             "loyalty": "",
             "artist": "\u3042\u3055\u306e",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "notes": ""
         },
         {
@@ -3305,7 +3285,7 @@
             "loyalty": "",
             "artist": "lulo0o",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": ""
         },
         {
@@ -3325,7 +3305,7 @@
             "loyalty": "",
             "artist": "lulo0o",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": ""
         },
         {
@@ -3345,7 +3325,7 @@
             "loyalty": "",
             "artist": "Rapama",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3365,7 +3345,7 @@
             "loyalty": "",
             "artist": "GUWEIZ",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3385,7 +3365,7 @@
             "loyalty": "",
             "artist": "pinlin",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "notes": ""
         },
         {
@@ -3405,7 +3385,7 @@
             "loyalty": "",
             "artist": "Ellfyie",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "notes": "!group vielle"
         },
         {
@@ -3425,7 +3405,7 @@
             "loyalty": "4",
             "artist": "Murakaruki",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "notes": ""
         },
         {
@@ -3445,7 +3425,7 @@
             "loyalty": "3",
             "artist": "Kevin Glint",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3465,7 +3445,7 @@
             "loyalty": "",
             "artist": "ZMeoow",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "notes": ""
         },
         {
@@ -3485,7 +3465,7 @@
             "loyalty": "",
             "artist": "Joezunzun",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "notes": ""
         },
         {
@@ -3505,7 +3485,7 @@
             "loyalty": "",
             "artist": "Joezunzun",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": ""
         },
         {
@@ -3525,7 +3505,7 @@
             "loyalty": "",
             "artist": "Yingwu Takanashi",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "notes": ""
         },
         {
@@ -3545,7 +3525,7 @@
             "loyalty": "",
             "artist": "Joezunzun",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "notes": "!group conjure"
         },
         {
@@ -3565,27 +3545,27 @@
             "loyalty": "",
             "artist": "beanynne",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "notes": ""
         },
         {
-            "card_name": "Mischief",
+            "card_name": "Expedite",
             "color": "R",
             "rarity": "special",
             "type": "Sorcery",
             "number": 0,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "[i](This card is conjured and isn't legal.)[/i]\nDraw two cards, then discard two cards.",
-            "flavor_text": "[i]\u201cMy driver is running late... Can I distract you with a conversation before you try and arrest me?\u201d[/i]",
+            "rules_text": "[i](This card is conjured and isn't legal.)[/i]\nTarget creature gains haste until end of turn.\nDraw a card.",
+            "flavor_text": "[i]\u201cAside from one [mumbling] outlier, nobody can beat me in a race!\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
             "loyalty": "",
-            "artist": "akh dh",
+            "artist": "recon 54995499",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3605,7 +3585,7 @@
             "loyalty": "",
             "artist": "Shigre",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "notes": ""
         },
         {
@@ -3625,7 +3605,7 @@
             "loyalty": "",
             "artist": "Dinned",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "notes": "Vision"
         },
         {
@@ -3645,7 +3625,7 @@
             "loyalty": "",
             "artist": "\u96c5\u697d\u9ce5\u3053\u3068\u306f",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": "Vision\nnight's whisper"
         },
         {
@@ -3656,8 +3636,8 @@
             "number": 123,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Conjure Mischief, Lightning Strike, or Volcanic Dragon into your hand. [i](They are respectively: {R} sorcery with \u201cDraw two cards, then discard two cards.\u201d; {1}{R} instant with \u201cThis spell deals 3 damage to any target.\u201d; {3}{R}{R} 4/4 Dragon creature with flying and haste.)[/i]",
-            "flavor_text": "[i]Exhilaration is overwhelming yet free.[/i]",
+            "rules_text": "Conjure Expedite, Lightning Strike, or Volcanic Dragon into your hand. [i](They are respectively: {R} instant with \u201cTarget creature gains haste until end of turn. Draw a card.\u201d; {1}{R} instant with \u201cThis spell deals 3 damage to any target.\u201d; {3}{R}{R} 4/4 Dragon creature with flying and haste.)[/i]",
+            "flavor_text": "[i]Exhilaration is overwhelming yet liberating.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3665,8 +3645,8 @@
             "loyalty": "",
             "artist": "vyragami",
             "alias": "",
-            "position": "182",
-            "notes": "Vision"
+            "position": "181",
+            "notes": "Vision\nShock,"
         },
         {
             "card_name": "Idyllic Vision",
@@ -3685,7 +3665,7 @@
             "loyalty": "",
             "artist": "Coldini",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": "Vision"
         },
         {
@@ -3705,7 +3685,7 @@
             "loyalty": "",
             "artist": "Replie",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "notes": ""
         },
         {
@@ -3725,7 +3705,7 @@
             "loyalty": "",
             "artist": "beel2l",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "notes": ""
         },
         {
@@ -3745,7 +3725,7 @@
             "loyalty": "",
             "artist": "Recneps-SAIS",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "notes": "Vision\nAlt: Thoughts, Vanish, Cancel\nAlt: Unsummon, Sea Cache, Cancel"
         },
         {
@@ -3765,7 +3745,7 @@
             "loyalty": "",
             "artist": "kyusoukyu",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3785,7 +3765,7 @@
             "loyalty": "",
             "artist": "meipu hm",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3805,7 +3785,7 @@
             "loyalty": "",
             "artist": "Ayu121",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3825,7 +3805,7 @@
             "loyalty": "",
             "artist": "Neg101",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3845,7 +3825,7 @@
             "loyalty": "",
             "artist": "Mol\u2014",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3865,7 +3845,7 @@
             "loyalty": "",
             "artist": "Neg101",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3885,7 +3865,7 @@
             "loyalty": "",
             "artist": "Murakuraki",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "notes": "!group conjure\nVision conjure"
         },
         {
@@ -3905,7 +3885,7 @@
             "loyalty": "",
             "artist": "Sanbonzakura",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": "!group conjure\n!exportname Superstar_sen\nmana value 1"
         },
         {
@@ -3925,7 +3905,7 @@
             "loyalty": "",
             "artist": "O'Penguin",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "notes": ""
         },
         {
@@ -3945,7 +3925,7 @@
             "loyalty": "",
             "artist": "Setsu_Gen",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "notes": ""
         },
         {
@@ -3965,7 +3945,7 @@
             "loyalty": "",
             "artist": "Murakaruki",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "notes": ""
         },
         {
@@ -3985,7 +3965,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "notes": "!group conjure"
         },
         {
@@ -4005,7 +3985,7 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "notes": "!group conjure"
         },
         {
@@ -4025,7 +4005,7 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "notes": "!group conjure"
         },
         {
@@ -4045,7 +4025,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "card_name2": "Touka, the Heartbroken",
             "color2": "UBR",
             "type2": "Legendary Creature \u2014 Nightmare Avatar",
@@ -4076,7 +4056,7 @@
             "loyalty": "",
             "artist": "Kevin Glint",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "notes": "counter"
         },
         {
@@ -4096,7 +4076,7 @@
             "loyalty": "",
             "artist": "shule de yu",
             "alias": "",
-            "position": "203",
+            "position": "202",
             "notes": ""
         },
         {
@@ -4116,7 +4096,7 @@
             "loyalty": "",
             "artist": "lunifish",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "notes": ""
         },
         {
@@ -4136,7 +4116,7 @@
             "loyalty": "",
             "artist": "bangeningmeng",
             "alias": "",
-            "position": "205",
+            "position": "204",
             "notes": ""
         },
         {
@@ -4156,7 +4136,7 @@
             "loyalty": "",
             "artist": "Devilgoodbaby",
             "alias": "",
-            "position": "206",
+            "position": "205",
             "notes": ""
         },
         {
@@ -4176,7 +4156,7 @@
             "loyalty": "",
             "artist": "saihate",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "notes": ""
         },
         {
@@ -4196,7 +4176,7 @@
             "loyalty": "4",
             "artist": "zizizi zibiren",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "notes": ""
         },
         {
@@ -4216,7 +4196,7 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "notes": ""
         },
         {
@@ -4236,7 +4216,7 @@
             "loyalty": "",
             "artist": "Myango",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "notes": "Fixing Land"
         },
         {
@@ -4247,7 +4227,7 @@
             "number": 9,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "Creatures you control have prowess, prowess, prowess, and haste. [i](Whenever you cast a noncreature spell, that creature gets +3/+3 until end of turn.)[/i]",
+            "rules_text": "Creatures you control have prowess, prowess, prowess, and haste. [i](Whenever you cast a noncreature spell, those creature gets +3/+3 until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4256,7 +4236,7 @@
             "loyalty": "",
             "artist": "nueegochi",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "notes": "Idol token"
         },
         {
@@ -4276,7 +4256,7 @@
             "loyalty": "",
             "artist": "aki a0623",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "notes": ""
         },
         {
@@ -4296,7 +4276,7 @@
             "loyalty": "4",
             "artist": "Moyuc",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "notes": ""
         },
         {
@@ -4316,7 +4296,7 @@
             "loyalty": "",
             "artist": "\u6458\u661fstar",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "notes": ""
         },
         {
@@ -4336,7 +4316,7 @@
             "loyalty": "",
             "artist": "softpoltupo",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "notes": "Draw spell"
         },
         {
@@ -4356,7 +4336,7 @@
             "loyalty": "",
             "artist": "\u6dc5\u6d35",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "notes": ""
         },
         {
@@ -4376,7 +4356,7 @@
             "loyalty": "3",
             "artist": "hotokeimuuu",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "notes": "Noncreature C"
         },
         {
@@ -4396,7 +4376,7 @@
             "loyalty": "",
             "artist": "Sleepwalker",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "notes": ""
         },
         {
@@ -4404,7 +4384,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 78,
+            "number": 77,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Each player discards a card. Conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]\nExile Dreamglass Melody and three other cards with the same name as it from your graveyard: Search your graveyard, hand, and/or library for an Avatar permanent card and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery.",
@@ -4416,7 +4396,7 @@
             "loyalty": "",
             "artist": "yanagima",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "notes": "technically mana value 3"
         },
         {
@@ -4436,7 +4416,7 @@
             "loyalty": "",
             "artist": "kouhiipan",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "notes": "idol cycle"
         },
         {
@@ -4456,7 +4436,7 @@
             "loyalty": "",
             "artist": "Rolua",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "notes": ""
         },
         {
@@ -4476,7 +4456,7 @@
             "loyalty": "",
             "artist": "coffee80903",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "notes": ""
         },
         {
@@ -4496,7 +4476,7 @@
             "loyalty": "",
             "artist": "biexuejianzhu",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "notes": ""
         },
         {
@@ -4516,7 +4496,7 @@
             "loyalty": "",
             "artist": "tia67884314",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "notes": ""
         },
         {
@@ -4524,7 +4504,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Human Reveler Pilot",
-            "number": 82,
+            "number": 81,
             "color_identity": "B",
             "cost": "{B}{B}",
             "rules_text": "Menace\nWhenever a creature you control with menace, deathtouch, or lifelink attacks, add {B}. Until end of turn, you don't lose this mana as steps and phases end.",
@@ -4536,7 +4516,7 @@
             "loyalty": "",
             "artist": "WLOP",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "notes": ""
         },
         {
@@ -4556,7 +4536,7 @@
             "loyalty": "",
             "artist": "Shilin",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "notes": ""
         },
         {
@@ -4564,7 +4544,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 84,
+            "number": 83,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "All creatures get -4/-4 until end of turn. \nSearch your library for a planeswalker or an Axiom card with mana value 4 or less, put it onto the battlefield, then shuffle.",
@@ -4576,7 +4556,7 @@
             "loyalty": "",
             "artist": "nai ga",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4596,19 +4576,19 @@
             "loyalty": "",
             "artist": "kinala6490098",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "notes": "Sinful Tempter sidegrade"
         },
         {
             "card_name": "Eventide Rendezvous",
             "color": "G",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Enchantment \u2014 Awe",
             "number": 143,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Create an Awe token. [i](It's an enchantment token with exalted.)[/i]\nMemento {3}{G}{G} [i](You may cast this from your graveyard for {3}{G}{G}. If you do, put it onto the battlefield transformed after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]",
-            "flavor_text": "[i]Tomorrow I will build up the courage to ask...[/i]",
+            "rules_text": "Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]\n{3}{G}{G}: Transform Eventide Rendezvous. Activate only as a sorcery.",
+            "flavor_text": "[i]Tomorrow I will finally build up the courage to ask him...[/i]",
             "pt": "",
             "special_text": "",
             "shape": "transform double faced",
@@ -4616,12 +4596,12 @@
             "loyalty": "",
             "artist": "odoriba",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "card_name2": "An Ode to the Lost and Longing",
             "color2": "G",
             "type2": "Enchantment",
             "cost2": "",
-            "rules_text2": "Whenever a creature you control attacks alone, you may search your library for a permanent card with lesser mana value, put it onto the battlefield tapped, then shuffle. If its a creature, it enters attacking.",
+            "rules_text2": "Whenever a creature you control attacks alone, you may search your library for a non-Awe permanent card with lesser mana value, put it onto the battlefield tapped, then shuffle. If its a creature, it enters attacking.",
             "flavor_text2": "[i]...is what I said back then. So many tomorrows later, I wonder: Where have you gone?[/i]",
             "pt2": "",
             "special_text2": "",
@@ -4647,7 +4627,7 @@
             "loyalty": "",
             "artist": "Suzukasuraimu",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "notes": ""
         },
         {
@@ -4667,7 +4647,7 @@
             "loyalty": "",
             "artist": "Mayth",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4687,7 +4667,7 @@
             "loyalty": "",
             "artist": "lobelia",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4695,7 +4675,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 156,
+            "number": 157,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "If you would draw your first card each turn, you may instead sightsee twice. [i](Conjure any combination of two basic lands of your choice into your hand.)[/i]",
@@ -4707,7 +4687,7 @@
             "loyalty": "",
             "artist": "gukkhwa",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "notes": ""
         },
         {
@@ -4727,7 +4707,7 @@
             "loyalty": "",
             "artist": "Aerinn",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": "!group conjure\nvision conjure"
         },
         {
@@ -4747,7 +4727,7 @@
             "loyalty": "",
             "artist": "thevarnese",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "notes": ""
         },
         {
@@ -4767,7 +4747,7 @@
             "loyalty": "",
             "artist": "banakotakemaru",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4787,7 +4767,7 @@
             "loyalty": "",
             "artist": "yanagima",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "notes": ""
         },
         {
@@ -4807,7 +4787,7 @@
             "loyalty": "",
             "artist": "yamanek8686",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "notes": ""
         },
         {
@@ -4827,7 +4807,7 @@
             "loyalty": "",
             "artist": "pei (sumurai)",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": ""
         },
         {
@@ -4847,7 +4827,7 @@
             "loyalty": "",
             "artist": "doggo 1d34",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "notes": ""
         },
         {
@@ -4867,7 +4847,7 @@
             "loyalty": "",
             "artist": "makoron117117",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "notes": ""
         },
         {
@@ -4887,7 +4867,7 @@
             "loyalty": "",
             "artist": "chino machiko",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "notes": "4\nsensation"
         },
         {
@@ -4907,7 +4887,7 @@
             "loyalty": "",
             "artist": "Saclia",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "notes": ""
         },
         {
@@ -4927,7 +4907,7 @@
             "loyalty": "",
             "artist": "nakashima8kazuma",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "notes": "!group conjure"
         },
         {
@@ -4947,7 +4927,7 @@
             "loyalty": "",
             "artist": "Nawaly",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": ""
         },
         {
@@ -4967,7 +4947,7 @@
             "loyalty": "",
             "artist": "Project Moon",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "notes": ""
         },
         {
@@ -4987,7 +4967,7 @@
             "loyalty": "",
             "artist": "ALCD",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": ""
         },
         {
@@ -5007,7 +4987,7 @@
             "loyalty": "",
             "artist": "Xilmo",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "notes": ""
         },
         {
@@ -5017,17 +4997,17 @@
             "type": "Creature \u2014 Human Artist",
             "number": 140,
             "color_identity": "G",
-            "cost": "{4}{G}{G}",
-            "rules_text": "When Campfire Storyteller enters, create a 4/4 black Horror creature token.\nWhenever one or more Horror creatures you control attack, conjure Legends Remembered into your hand. [i](It's a {1}{G} sorcery with \u201cReturn target card from your graveyard to your hand.\u201d)[/i]",
+            "cost": "{1}{G}",
+            "rules_text": "Whenever you conjure one or more land cards into your hand, create a 1/1 white Human creature token.\n{5}: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
             "loyalty": "",
             "artist": "Mira Maxwell",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": ""
         },
         {
@@ -5047,7 +5027,7 @@
             "loyalty": "",
             "artist": "Mira Maxwell",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": "!group conjure"
         },
         {
@@ -5067,7 +5047,7 @@
             "loyalty": "",
             "artist": "Natsuba002",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": ""
         },
         {
@@ -5075,7 +5055,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
-            "number": 91,
+            "number": 90,
             "color_identity": "B",
             "cost": "{B}{B}",
             "rules_text": "Enchant opponent\nAt the beginning of your first main phase, enchanted player chooses a number. When they do, you choose one \u2014\n\u2022 Enchanted player loses that much life.\n\u2022 Draw a card. You lose that much life.",
@@ -5087,7 +5067,7 @@
             "loyalty": "",
             "artist": "Vanish",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": ""
         },
         {
@@ -5107,7 +5087,7 @@
             "loyalty": "",
             "artist": "Kenharu",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "change"
         },
         {
@@ -5127,7 +5107,7 @@
             "loyalty": "",
             "artist": "kimonohanami",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": "Amyuki"
         },
         {
@@ -5147,7 +5127,7 @@
             "loyalty": "",
             "artist": "banishment",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": ""
         },
         {
@@ -5167,7 +5147,7 @@
             "loyalty": "",
             "artist": "chakotata",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": ""
         },
         {
@@ -5187,7 +5167,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": ""
         },
         {
@@ -5207,7 +5187,7 @@
             "loyalty": "",
             "artist": "Sandara",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": ""
         },
         {
@@ -5227,7 +5207,7 @@
             "loyalty": "",
             "artist": "Kuronoi",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": ""
         },
         {
@@ -5247,7 +5227,7 @@
             "loyalty": "",
             "artist": "Neg101",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "Amyuki"
         },
         {
@@ -5267,7 +5247,7 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "!group conjure"
         },
         {
@@ -5287,27 +5267,27 @@
             "loyalty": "",
             "artist": "Saclia",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": ""
         },
         {
-            "card_name": "Charming Confidant",
+            "card_name": "Pass into Oblivion",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Advisor",
-            "number": 75,
+            "type": "Instant",
+            "number": 91,
             "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "Lifelink\nWhen Charming Confidant enters, search your library for a card, exile it face down with a silver counter on it, then shuffle.\n{1}{B}{B}, Exile Charming Confidant from your graveyard: Put a card you own with a silver counter on it from exile into your hand.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "cost": "{1}{B}",
+            "rules_text": "Destroy target nonlegendary creature.",
+            "flavor_text": "[i]There are many fates for those who seek stardom. The worst of them is to be forgotten.[/i]",
+            "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "AEK",
             "loyalty": "",
             "artist": "Saclia",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": ""
         },
         {
@@ -5327,7 +5307,7 @@
             "loyalty": "",
             "artist": "umeboshi",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "repose land"
         },
         {
@@ -5347,7 +5327,7 @@
             "loyalty": "",
             "artist": "sheer-madness",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": "repose land"
         },
         {
@@ -5367,7 +5347,7 @@
             "loyalty": "",
             "artist": "washanapple",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": "repose land"
         },
         {
@@ -5387,7 +5367,7 @@
             "loyalty": "",
             "artist": "simone ferriero",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": "repose land"
         },
         {
@@ -5407,7 +5387,7 @@
             "loyalty": "",
             "artist": "kamindani",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": "repose land"
         },
         {
@@ -5427,7 +5407,7 @@
             "loyalty": "",
             "artist": "meirong",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "notes": "repose land"
         },
         {
@@ -5447,7 +5427,7 @@
             "loyalty": "",
             "artist": "wacca005",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "notes": "repose land"
         },
         {
@@ -5467,7 +5447,7 @@
             "loyalty": "",
             "artist": "hinoborukaku",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": "repose land"
         },
         {
@@ -5487,7 +5467,7 @@
             "loyalty": "",
             "artist": "rhysgriffiths",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": "repose land"
         },
         {
@@ -5507,7 +5487,7 @@
             "loyalty": "",
             "artist": "Shijohane",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": "repose land"
         },
         {
@@ -5527,7 +5507,7 @@
             "loyalty": "",
             "artist": "ALCD",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "notes": ""
         },
         {
@@ -5547,7 +5527,7 @@
             "loyalty": "",
             "artist": "Yuumei",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": "Slot 5\u200e White\u200e Rare or Mythic\u200e Noncreature (MV 1-3)"
         },
         {
@@ -5567,7 +5547,7 @@
             "loyalty": "",
             "artist": "fusenryo2",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": ""
         },
         {
@@ -5587,7 +5567,7 @@
             "loyalty": "",
             "artist": "Murakuraki",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "notes": ""
         },
         {
@@ -5607,7 +5587,7 @@
             "loyalty": "",
             "artist": "Murakuraki",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "notes": ""
         },
         {
@@ -5627,7 +5607,7 @@
             "loyalty": "",
             "artist": "\u7d75\u63cf\u30ad\u725b",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "notes": ""
         },
         {
@@ -5647,7 +5627,7 @@
             "loyalty": "",
             "artist": "Murakuraki",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": ""
         },
         {
@@ -5667,7 +5647,7 @@
             "loyalty": "",
             "artist": "rashedjrs",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": "mana value 2"
         },
         {
@@ -5687,7 +5667,7 @@
             "loyalty": "",
             "artist": "Kuronoi",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "notes": ""
         },
         {
@@ -5695,7 +5675,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Advisor",
-            "number": 90,
+            "number": 89,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Menace\n{X}{B}{B}, Sacrifice Moyro Mafioso: Target opponent loses X life and you gain X life.[/b]",
@@ -5707,7 +5687,7 @@
             "loyalty": "",
             "artist": "Gogalking",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": ""
         },
         {
@@ -5715,7 +5695,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Advisor",
-            "number": 77,
+            "number": 76,
             "color_identity": "B",
             "cost": "{5}{B}",
             "rules_text": "Menace\nAll creatures and enchantments are legendary. [i](Including Dazzling Celebrity.)[/i]\n{2}, Discard Dazzling Celebrity: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
@@ -5727,9 +5707,49 @@
             "loyalty": "",
             "artist": "elodeas",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": "mana value 6/7, land fixer"
+        },
+        {
+            "card_name": "Nightmare Influencer",
+            "color": "G",
+            "rarity": "common",
+            "type": "Enchantment Creature \u2014 Avatar Artist",
+            "number": 154,
+            "color_identity": "G",
+            "cost": "{3}{G}{G}",
+            "rules_text": "Vigilance, reach\nWhenever you conjure one or more land cards into your hand, put a +1/+1 counter on a creature you control.",
+            "flavor_text": "[i]Anyone who claims to be a normal human probably isn't one.[/i]",
+            "pt": "5/5",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AEK",
+            "loyalty": "",
+            "artist": "Suzukasuraimu",
+            "alias": "",
+            "position": "284",
+            "notes": ""
+        },
+        {
+            "card_name": "Time Walk",
+            "color": "U",
+            "rarity": "special",
+            "type": "Sorcery",
+            "number": 0,
+            "color_identity": "U",
+            "cost": "{1}{U}",
+            "rules_text": "[i](This card is conjured and isn't legal.)[/i]\nTake an extra turn after this one.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AEK",
+            "loyalty": "",
+            "artist": "yanagima",
+            "alias": "",
+            "position": "285",
+            "notes": "!group conjure"
         }
     ],
-    "version": 33
+    "version": 34
 }

@@ -1,4 +1,549 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+Ignition Starter added.
+Blade Alley Vigilante added.
+Expedite added.
+Pass into Oblivion added.
+Nightmare Influencer added.
+Time Walk added.
+
+Prototype Streetcleaner removed.
+Getaway Driver removed.
+Blade Alley Vigilantes removed.
+Mischief removed.
+Charming Confidant removed.
+
+Rooftop Violinist
+type: Creature — Human Artist => Creature — Human Artist Scout
+rules_text: When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+Once each turn, when you gain or lose life, put a +1/+1 counter on Rooftop Violinist. => When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+{T}, Discard a card: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Sky Scraper
+
+Traverse the City
+
+Not Today
+
+Digitization Rig
+
+Serenyi's Shell
+
+Sunflower Painter
+
+Party Planner
+
+Moonlit Lantern Festival
+
+Leyline Traveler
+
+Hollow Pact
+
+Neon City Racer
+
+Roaring Songstress
+
+Reflected Frame
+
+Kaede Troublemakers
+
+Idol of Playthings
+
+Wayward Musicians
+
+Let Him Cook
+
+Cabaret Regulars
+
+Waiting for You
+
+She Has a Gun
+
+Neon Lights
+
+Spice
+
+Midnight Dreamer
+
+Moyro Fixer
+
+Sudden Star
+
+Akiyama Rim
+
+Isolated Wayfarer
+
+Holofield Operator
+
+Inseparable Besties
+
+Twirl
+
+Nah
+
+Alone With My Thoughts
+
+Fall Out
+
+Birdbrained
+
+Lunar Contessa
+
+Masked Singer
+
+Satsukai Fixer
+
+Astral Pianist
+
+Fantasy Aspirant
+
+Street-Level Sleuth
+
+Cheering Fangirl
+
+Fallen Icon
+
+Dark Comedy Duo
+
+Existential Paradox
+
+Aethershell Animator
+
+Meet Me At Sundown
+
+Missing Papers
+
+Hardened Pickup
+
+We Could Be Supervillains
+rules_text: Whenever one or more creatures you control with menace, deathtouch, or lifelink attack, each opponent loses that much life.
+{3}{B}: Each opponent loses 2 life. => Whenever one or more creatures you control with menace, deathtouch, or lifelink attack, each opponent loses that much life.
+{4}{B}: We Could Be Supervillains deals 2 damage to each opponent. You gain 2 life.
+
+Kenji and Momoka
+
+Kataleptic Scholar
+
+Irrelevance
+
+Shadowbinding
+
+Gleaming Importance
+
+Eyes That Bite
+
+Here Without You
+
+Firework Reveler
+cost: {1}{G} => {G}
+rules_text: Stardom {C}{W}{U}{B}{R}{G} [i](Pay {C}{W}{U}{B}{R}{G} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+As long as Firework Reveler is legendary, creatures you control get +4/+4.
+{3}{G}: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Stardom {C}{W}{U}{B}{R}{G} [i](Pay {C}{W}{U}{B}{R}{G} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+As long as Firework Reveler is legendary, creatures you control get +4/+4.
+{5}: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+pt: 3/2 => 2/1
+
+Showrunner
+
+Pastel Travelers
+
+Serin, Exponent Mage
+
+Social Executioner
+
+Polyp Pools
+
+Sunshine Icon
+
+From Grassroots
+
+I Am A Rockstar
+
+Ellis, Silent Muralist
+
+Snapshot Storyteller
+
+Idiosyncratic Savant
+
+Holographic Darling
+
+Miseko Kiteflier
+
+Exalted Gossipers
+
+Balcony Sommelier
+rules_text: When Balcony Sommelier enters, create a 1/1 white Human creature token.
+Other Humans you control get +1/+1.
+{5}: Create a 1/1 white Human creature token. Activate only once each turn and only as a sorcery. => When Balcony Sommelier enters, create a 1/1 white Human creature token.
+Whenever another creature you control enters, put a +1/+1 counter on it. If its legendary, put an additional +1/+1 counter on Balcony Sommelier.
+pt: 2/2 => 1/1
+
+Seventh Street Vandal
+
+Neon Streetracer
+
+Sundown Slow Dancers
+
+Lurking Insomniac
+
+Skybridge Joyrider
+
+Alicia, the Final Dawn
+
+Nexus Technician
+
+Sempiternal Witch
+
+Citron Bartender
+
+Ezren, Speedrunner
+
+Fiery Prominence
+
+Nezuri, Toxic Princess
+
+Midnight Caller
+
+Lamplighter
+
+Iason, Voice of the Admirers
+
+Extraplanar Explorer
+
+Shorekeeper
+
+Wandering Halovian
+rules_text: When Wandering Halovian enters, return target nonland permanent to its owner's hand. If you control that permanent, conjure Voyager into your hand. [i](It's a {1}{U} 2/2 Scout creature with prowess.)[/i] => When Wandering Halovian enters, if you cast it, return up to one other target nonland permanent to its owner's hand. If you control that permanent, conjure and shuffle Time Walk into your main library. [i](It's a {1}{U} sorcery with “Take an extra turn after this one.”)[/i]
+pt: 4/3 => 4/2
+
+Miko, Who Sings With Heart
+
+Flirt with Disaster
+
+From the Mirror
+
+Omniscent Reader
+
+Sly Consigliere
+
+Yume, Miseko Producer
+
+Cursed Catlover
+
+Puddle Stomper
+
+Acrylic Run
+
+A Practical Guide to Evil
+
+Hyacin, Everyone's Idol
+
+Inspiring Idol
+
+Introversion
+
+Kyv, Sanguine Avante
+
+Luminescent Idol
+
+Resplendent Idol
+
+Screaming into the Rain
+
+Spark Hunter Kajiwara Ai
+
+Serenyi, the Benevolent
+
+Villainous Idol
+
+Kaede, the City Below
+
+Miseko, Urban Crossroads
+
+Satsukai, Nexus of Lights
+
+Tsukuri, Lantern Sanctum
+
+Nyano, Serene Shrine
+
+Vielle's Perch
+
+Vielle Never Sleeps
+
+Kalista, Citron Don
+
+Shock Paintress
+
+Shiroyuki, the Everygirl
+
+Reclusive Cynic
+
+Fiona Tsukuri
+
+Concentrate
+
+Rising Flames
+
+Sea Cache
+
+Demonic Tutor
+
+Drain
+
+Storm Crow
+
+Thoughts
+
+Yri, Utonian Hero
+
+Human_1
+
+Human_2
+
+Copy
+
+Horror
+
+Toy
+
+Soldier
+
+Cat
+
+Awe
+
+Vielle, Undercity Wayfarer
+
+Tolen, the Paradisiac
+
+Alice, Wonderbane
+
+The Icelord of Severed Chains
+
+Naoko, Onigaiko Transfer
+
+Shayu, Epsilon Remnant
+
+Viktoria, the Heartline
+
+Secret Rendezvous
+
+Elemental
+
+Corsenna, Planar Sightseer
+
+Luminescent Vision
+
+Villainous Vision
+
+Resplendent Vision
+rules_text: Conjure Mischief, Lightning Strike, or Volcanic Dragon into your hand. [i](They are respectively: {R} sorcery with “Draw two cards, then discard two cards.”; {1}{R} instant with “This spell deals 3 damage to any target.”; {3}{R}{R} 4/4 Dragon creature with flying and haste.)[/i] => Conjure Expedite, Lightning Strike, or Volcanic Dragon into your hand. [i](They are respectively: {R} instant with “Target creature gains haste until end of turn. Draw a card.”; {1}{R} instant with “This spell deals 3 damage to any target.”; {3}{R}{R} 4/4 Dragon creature with flying and haste.)[/i]
+
+Idyllic Vision
+
+Need for Speed
+
+Bounding Companion
+
+Inspiring Vision
+
+Lightning Strike
+
+Volcanic Dragon
+
+Unsummon
+
+Voyager
+
+Hero's Downfall
+
+Night's Whisper
+
+Redemption
+
+Superstar_sen
+
+Akane, Linearity Breaker
+
+Bleed
+
+Chroma Network Rival
+
+Repose
+
+Setting Sun
+
+Disenchant
+
+Touka, Afterlife Specialist
+
+Among the Glowmoths
+
+Crescendo for the Crown
+
+Seventh Street Assembly
+
+Rainy Night Voyager
+
+Solitary Requiem
+
+Moonglow Romantic
+
+Miss Navia Cosgrove
+
+Luminous City
+
+Halcyon Road
+
+Celosia's Emblem
+rules_text: Creatures you control have prowess, prowess, prowess, and haste. [i](Whenever you cast a noncreature spell, that creature gets +3/+3 until end of turn.)[/i] => Creatures you control have prowess, prowess, prowess, and haste. [i](Whenever you cast a noncreature spell, those creature gets +3/+3 until end of turn.)[/i]
+
+Shiroyuki's Emblem
+
+Celosia on Burning Wings
+
+Heartfelt Composition
+
+Flawless Favorite
+
+Embrace
+
+Kairos, Colorsmith
+
+Imaginative Sojourner
+
+Dreamglass Melody
+
+Idyllic Idol
+
+Azalea, New Apocrypha
+
+All the Time in the World
+
+Cosmic Starchild
+
+Under Public Eye
+
+Gravity Defier
+
+Thunder Stage Star
+
+Heroes are Never Late
+
+Wheelbound Ace
+
+Eventide Rendezvous
+type: Sorcery => Enchantment — Awe
+rules_text: Create an Awe token. [i](It's an enchantment token with exalted.)[/i]
+Memento {3}{G}{G} [i](You may cast this from your graveyard for {3}{G}{G}. If you do, put it onto the battlefield transformed after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i] => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+{3}{G}{G}: Transform Eventide Rendezvous. Activate only as a sorcery.
+
+Selenite Flowergirl
+
+Make Believer
+
+Tsukuri Holo-Witch
+
+Planesculpting
+
+Silver Kitsune
+
+Zeal
+
+The Dreamglass Majesty
+
+Lunar Halo
+
+Ishakawa, Chroma Prodigy
+
+Empower
+
+Treasure
+
+Knife
+
+Clue
+
+Aekyan Nights
+
+Campfire Storyteller
+cost: {4}{G}{G} => {1}{G}
+rules_text: When Campfire Storyteller enters, create a 4/4 black Horror creature token.
+Whenever one or more Horror creatures you control attack, conjure Legends Remembered into your hand. [i](It's a {1}{G} sorcery with “Return target card from your graveyard to your hand.”)[/i] => Whenever you conjure one or more land cards into your hand, create a 1/1 white Human creature token.
+{5}: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+pt: 3/3 => 2/3
+
+Legends Remembered
+
+Victim of Boredom
+
+One Night Heartbreaker
+
+To Save a Broken Heart
+
+Amina, Slightly Clumsy
+
+Yri's Secret Hideout
+
+Whimsical Storytelling
+
+Flowers Bloom Nowhere
+
+The Chroma Network
+
+Mistencharm Resplendant
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+
+Quiet Aquarium
+
+Construction Zone
+
+Decadent Nightclub
+
+Feline Sanctuary
+
+Cluttered Studio
+
+Opulent Casino
+
+Shopping Mall
+
+Skyline Lookout
+
+Undercity Alley
+
+Urban Gardens
+
+Barhopping in Miseko
+
+Wallflower's Retreat
+
+Fish
+
+Joyous Princeling
+
+Stage Newcomer
+
+Chaos Conductor
+
+Otherworld Egotist
+
+Undercity Peacekeeper
+
+Anticello, Cold Confidence
+
+Moyro Mafioso
+
+Dazzling Celebrity
+
+
+VERSION 33 CHANGELOG
 ====================
 
 
