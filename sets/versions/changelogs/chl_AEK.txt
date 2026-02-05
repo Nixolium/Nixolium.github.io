@@ -1,4 +1,442 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+Rumor Silencer added.
+Careening Car added.
+
+Aethershell Animator removed.
+
+Aethershell Holo
+rules_text: Stardom {5} [i](Pay {5} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+{7}, Discard Aethershell Holo: Destroy target nonland permanent an opponent controls. => Stardom {W}{U}{B}{R}{G} [i](Pay {W}{U}{B}{R}{G} to cast this as a legendary [/b]4/4, or while it's attacking to make it become a legendary 4/4.)[/i]
+You may spend mana as though it were mana of any color.
+
+Moyro Fixer
+type: Creature — Human Scout => Creature — Human Rogue
+rules_text: Prowess
+As long as you've conjured this turn, Moyro Fixer can't be blocked. => Moyro Fixer can't be blocked.
+As long as you've conjured this turn, Moyro Fixer has +2/+1.
+pt: 2/1 => 1/1
+
+Meet Me At Sundown
+
+Missing Papers
+
+Hardened Pickup
+
+We Could Be Supervillains
+
+Kenji and Momoka
+
+Kataleptic Scholar
+
+Irrelevance
+
+Shadowbinding
+
+Gleaming Importance
+
+Eyes That Bite
+
+Here Without You
+
+Firework Reveler
+
+Showrunner
+
+Pastel Travelers
+
+Serin, Exponent Mage
+
+Social Executioner
+
+Polyp Pools
+
+Sunshine Icon
+
+From Grassroots
+
+I Am A Rockstar
+
+Ellis, Silent Muralist
+
+Snapshot Storyteller
+
+Idiosyncratic Savant
+
+Holographic Darling
+
+Miseko Kiteflier
+
+Exalted Gossipers
+
+Balcony Sommelier
+
+Seventh Street Vandal
+
+Neon Streetracer
+
+Sundown Slow Dancers
+
+Lurking Insomniac
+
+Skybridge Joyrider
+
+Alicia, the Final Dawn
+
+Nexus Technician
+
+Sempiternal Witch
+
+Citron Bartender
+
+Ezren, Speedrunner
+
+Fiery Prominence
+
+Nezuri, Toxic Princess
+
+Midnight Caller
+rules_text: Whenever Midnight Caller enters or you cast a noncreature spell, create a Treasure token.
+{R}, Sacrifice three Treasure tokens: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step. => Whenever Midnight Caller enters or you cast a noncreature spell, create a Treasure token.
+{R}, Sacrifice three Treasures: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.
+
+Lamplighter
+
+Iason, Voice of the Admirers
+
+Extraplanar Explorer
+
+Shorekeeper
+
+Wandering Halovian
+
+Miko, Who Sings With Heart
+
+Flirt with Disaster
+
+From the Mirror
+
+Omniscent Reader
+
+Sly Consigliere
+
+Yume, Miseko Producer
+
+Cursed Catlover
+
+Puddle Stomper
+
+Acrylic Run
+
+A Practical Guide to Evil
+
+Blade Alley Vigilante
+
+Hyacin, Everyone's Idol
+
+Inspiring Idol
+
+Introversion
+
+Kyv, Sanguine Avante
+
+Luminescent Idol
+
+Resplendent Idol
+
+Screaming into the Rain
+
+Spark Hunter Kajiwara Ai
+
+Serenyi, the Benevolent
+
+Villainous Idol
+
+Kaede, the City Below
+
+Miseko, Urban Crossroads
+
+Satsukai, Nexus of Lights
+
+Tsukuri, Lantern Sanctum
+
+Nyano, Serene Shrine
+
+Vielle's Perch
+
+Vielle Never Sleeps
+
+Kalista, Citron Don
+
+Shock Paintress
+
+Shiroyuki, the Everygirl
+
+Reclusive Cynic
+
+Fiona Tsukuri
+
+Concentrate
+
+Rising Flames
+
+Sea Cache
+
+Demonic Tutor
+
+Drain
+
+Storm Crow
+
+Thoughts
+
+Yri, Utonian Hero
+
+Human_1
+
+Human_2
+
+Copy
+
+Horror
+
+Toy
+
+Soldier
+
+Cat
+
+Awe
+
+Vielle, Undercity Wayfarer
+
+Tolen, the Paradisiac
+
+Alice, Wonderbane
+
+The Icelord of Severed Chains
+
+Naoko, Onigaiko Transfer
+
+Shayu, Epsilon Remnant
+
+Viktoria, the Heartline
+
+Secret Rendezvous
+
+Elemental
+
+Expedite
+
+Corsenna, Planar Sightseer
+
+Luminescent Vision
+
+Villainous Vision
+
+Resplendent Vision
+
+Idyllic Vision
+
+Need for Speed
+
+Bounding Companion
+
+Inspiring Vision
+
+Lightning Strike
+
+Volcanic Dragon
+
+Unsummon
+
+Voyager
+
+Hero's Downfall
+
+Night's Whisper
+
+Redemption
+
+Superstar_sen
+
+Akane, Linearity Breaker
+
+Bleed
+
+Chroma Network Rival
+
+Repose
+
+Setting Sun
+
+Disenchant
+
+Touka, Afterlife Specialist
+
+Among the Glowmoths
+
+Crescendo for the Crown
+
+Seventh Street Assembly
+
+Rainy Night Voyager
+
+Solitary Requiem
+
+Moonglow Romantic
+
+Miss Navia Cosgrove
+
+Luminous City
+
+Halcyon Road
+
+Celosia's Emblem
+
+Shiroyuki's Emblem
+
+Celosia on Burning Wings
+
+Heartfelt Composition
+
+Flawless Favorite
+
+Embrace
+
+Kairos, Colorsmith
+
+Imaginative Sojourner
+
+Dreamglass Melody
+
+Idyllic Idol
+
+Azalea, New Apocrypha
+
+All the Time in the World
+
+Cosmic Starchild
+
+Under Public Eye
+
+Gravity Defier
+
+Thunder Stage Star
+
+Heroes are Never Late
+
+Wheelbound Ace
+
+Eventide Rendezvous
+
+Selenite Flowergirl
+
+Make Believer
+
+Tsukuri Holo-Witch
+
+Planesculpting
+
+Silver Kitsune
+
+Zeal
+
+The Dreamglass Majesty
+
+Lunar Halo
+
+Ishakawa, Chroma Prodigy
+
+Empower
+
+Treasure
+
+Knife
+
+Clue
+
+Aekyan Nights
+
+Campfire Storyteller
+
+Legends Remembered
+
+Victim of Boredom
+
+One Night Heartbreaker
+
+To Save a Broken Heart
+
+Amina, Slightly Clumsy
+
+Yri's Secret Hideout
+
+Whimsical Storytelling
+
+Flowers Bloom Nowhere
+
+The Chroma Network
+
+Mistencharm Resplendant
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+
+Pass into Oblivion
+
+Quiet Aquarium
+
+Construction Zone
+
+Decadent Nightclub
+
+Feline Sanctuary
+
+Cluttered Studio
+
+Opulent Casino
+
+Shopping Mall
+
+Skyline Lookout
+
+Undercity Alley
+
+Urban Gardens
+
+Barhopping in Miseko
+
+Wallflower's Retreat
+
+Fish
+
+Joyous Princeling
+
+Stage Newcomer
+
+Chaos Conductor
+
+Otherworld Egotist
+
+Undercity Peacekeeper
+
+Anticello, Cold Confidence
+
+Moyro Mafioso
+
+Dazzling Celebrity
+
+Nightmare Influencer
+
+Time Walk
+
+
+VERSION 34 CHANGELOG
 ====================
 
 Ignition Starter added.
