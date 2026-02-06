@@ -532,7 +532,7 @@
 		},
 		{
 			"name": "Nah",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "61",
@@ -2953,6 +2953,7 @@
 	4 Hollow Pact
 	4 Waiting for You
 	4 Akiyama Rim
+	4 Nah
 	4 Missing Papers
 	4 Hardened Pickup
 	4 We Could Be Supervillains
@@ -3081,7 +3082,6 @@
 	8 Holofield Operator
 	8 Inseparable Besties
 	8 Twirl
-	8 Nah
 	8 Alone With My Thoughts
 	8 Fall Out
 	8 Birdbrained
@@ -3174,7 +3174,7 @@
 	12 Holofield Operator
 	12 Inseparable Besties
 	12 Twirl
-	12 Nah
+	6 Nah
 	12 Alone With My Thoughts
 	12 Fall Out
 	12 Birdbrained
@@ -3407,7 +3407,7 @@
 	6 Holofield Operator
 	6 Inseparable Besties
 	6 Twirl
-	6 Nah
+	15 Nah
 	6 Alone With My Thoughts
 	6 Fall Out
 	6 Birdbrained

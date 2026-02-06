@@ -1071,7 +1071,7 @@
         {
             "card_name": "Nah",
             "color": "U",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Instant",
             "number": 61,
             "color_identity": "U",
@@ -5771,5 +5771,5 @@
             "notes": ""
         }
     ],
-    "version": 36
+    "version": 37
 }
