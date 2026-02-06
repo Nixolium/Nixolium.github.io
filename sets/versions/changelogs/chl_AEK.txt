@@ -1,4 +1,18 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+
+
+Fall Out
+rules_text: As long as you've conjured this turn, Fiery Prominence costs {2} less to cast.
+Target nonland permanent's owner puts it on the top or bottom of their library. => As long as you've conjured this turn, Fall Out costs {2} less to cast.
+Target nonland permanent's owner puts it on the top or bottom of their library.
+
+Kyv, Sanguine Avante
+pt: 3/3 => 4/4
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Rumor Silencer added.
