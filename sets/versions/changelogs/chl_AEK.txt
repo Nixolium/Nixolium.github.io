@@ -1,4 +1,435 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Hyacin, the Wondermaker added.
+Enigmatic Highroller added.
+Desperate Starlet added.
+Wheel of Fortune added.
+The Masked Fool added.
+Hannah on Leave added.
+Urban Legend added.
+Strange Happenings added.
+Xena, Dazzling Celebrity added.
+Kyv's Synthesizer added.
+
+Hyacin, Everyone's Idol removed.
+Alice, Wonderbane removed.
+The Icelord of Severed Chains removed.
+Fish removed.
+Dazzling Celebrity removed.
+
+Rooftop Violinist
+rules_text: When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+{T}, Discard a card: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => When Rooftop Violinist enters, conjure Drain into your hand. [i](It's a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i]
+{T}, Discard a nonland card: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Hero from Fiction
+type: Enchantment Creature — Avatar => Enchantment Creature — Avatar Artist
+
+Rhythm Seer
+rules_text: When Rhythm Seer enters, choose one —
+• Conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+• Create an Awe token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i] => When Rhythm Seer enters, create an Awe token. [i](It's an enchantment token with “Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.”)[/i]
+{1}{W}, Sacrifice another enchantment: Draw a card. Activate only once each turn and only as a sorcery.
+pt: 4/3 => 3/3
+
+Waiting for You
+rules_text: Create a token that's a copy of target creature or planeswalker you control, except it isn't legendary. Sacrifice it at the beginning of your next end step. => Create a token that's a copy of target creature or planeswalker you control, except it isn't legendary. Sacrifice it at the beginning of your next end step.
+Flashback—{1}{R}, Untap three tapped creatures you control. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Moyro Fixer
+rules_text: Moyro Fixer can't be blocked.
+As long as you've conjured this turn, Moyro Fixer has +2/+1. => Moyro Fixer can't be blocked.
+When Moyro Fixer enters, conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+
+Isolated Wayfarer
+rules_text: Prowess
+When Isolated Wayfarer enters, conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i] => Prowess
+When Isolated Wayfarer enters, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+pt: 3/4 => 3/3
+
+Twirl
+rules_text: Put a prowess counter on up to one target creature. [i](Whenever you cast another noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+Draw a card. => Create a 1/1 white Human creature token. If you've conjured this turn, put a flying counter and a +1/+1 counter on that token.
+
+Lunar Contessa
+type: Enchantment Creature — Avatar => Enchantment Creature — Avatar Noble
+
+We Could Be Supervillains
+
+Social Executioner
+rules_text: Prevent all noncombat damage dealt to tokens you control.
+At the beginning of your end step, create a 1/1 white Human creature token for each nontoken Human creature you control. => Prevent all noncombat damage dealt to tokens you control.
+At the beginning of each your end step, create a 1/1 white Human creature token for each nontoken Human you control.
+
+Midnight Caller
+rules_text: Whenever Midnight Caller enters or you cast a noncreature spell, create a Treasure token.
+{R}, Sacrifice three Treasures: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step. => Whenever Midnight Caller enters or you cast a noncreature spell, create a Treasure token.
+
+Lamplighter
+
+Shorekeeper
+
+Wandering Halovian
+rules_text: When Wandering Halovian enters, if you cast it, return up to one other target nonland permanent to its owner's hand. If you control that permanent, conjure and shuffle Time Walk into your main library. [i](It's a {1}{U} sorcery with “Take an extra turn after this one.”)[/i] => When Wandering Halovian enters, return up to one other target nonland permanent to its owner's hand.
+{5}: Conjure and shuffle Time Walk into your library. [i](It's a {1}{U} sorcery with “Take an extra turn after this one.”)[/i]
+pt: 4/2 => 4/3
+
+Miko, Who Sings With Heart
+cost: {2}{U}{R} => {1}{U}
+rules_text: Whenever you draw a card, choose one that hasn't been chosen this turn —
+• Create a 1/1 white Human creature token.
+• Scry 2.
+• Miko deals 3 damage to each opponent. => Whenever you conjure one or more cards, put a +1/+1 counter on Miko.
+pt: 3/3 => 2/2
+
+Flirt with Disaster
+rules_text: Choose one —
+• Counter target spell unless its controller pays {2}.
+• Put a prowess counter on up to one target creature. Conjure Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i] => Choose one —
+• Counter target spell unless its controller pays {2}.
+• Target creature you control gets +1/+1 until end of turn for each spell you've cast this turn. [i](Including this one.)[/i]
+
+From the Mirror
+
+Blade Alley Vigilante
+
+Inspiring Idol
+
+Introversion
+
+Kyv, Sanguine Avante
+
+Luminescent Idol
+
+Resplendent Idol
+
+Screaming into the Rain
+
+Spark Hunter Kajiwara Ai
+
+Serenyi, the Benevolent
+
+Villainous Idol
+
+Kaede, the City Below
+
+Miseko, Urban Crossroads
+
+Satsukai, Nexus of Lights
+
+Tsukuri, Lantern Sanctum
+
+Nyano, Serene Shrine
+
+Vielle's Perch
+
+Vielle Never Sleeps
+
+Kalista, Citron Don
+
+Shock Paintress
+
+Shiroyuki, the Everygirl
+
+Reclusive Cynic
+
+Fiona Tsukuri
+
+Concentrate
+
+Rising Flames
+
+Sea Cache
+
+Demonic Tutor
+
+Drain
+
+Storm Crow
+
+Thoughts
+
+Yri, Utonian Hero
+
+Human_1
+
+Human_2
+
+Copy
+
+Horror
+
+Toy
+
+Soldier
+
+Cat
+
+Awe
+
+Vielle, Undercity Wayfarer
+
+Tolen, the Paradisiac
+
+Naoko, Onigaiko Transfer
+
+Shayu, Epsilon Remnant
+
+Viktoria, the Heartline
+
+Secret Rendezvous
+
+Elemental
+
+Expedite
+
+Corsenna, Planar Sightseer
+rules_text: Lands you control enter untapped.
+Whenever Corsenna enters or attacks, conjure a duplicate of target land into your hand.
+{0}: Copy target activated or triggered ability of a land you control. You may choose new targets for the copy. Activate only once each turn. [i](Mana abilities can't be targeted.)[/i] => Lands you control enter untapped.
+Whenever Corsenna enters or attacks, conjure a duplicate of target land you control into your hand.
+If an ability of a land you control triggers, you may have that ability trigger an additional time.
+pt: 4/4 => 5/5
+
+Luminescent Vision
+
+Villainous Vision
+
+Resplendent Vision
+
+Idyllic Vision
+
+Need for Speed
+
+Bounding Companion
+type: Enchantment Creature — Cat => Enchantment Creature — Cat Avatar
+rules_text: When Bounding Companion enters, put a +1/+1 counter on up to two target Humans you control. => When Bounding Companion enters, look at the top four cards of your library. You may reveal an Avatar, Human, or basic land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+pt: 2/1 => 1/1
+
+Inspiring Vision
+
+Lightning Strike
+
+Volcanic Dragon
+
+Unsummon
+
+Voyager
+
+Hero's Downfall
+
+Night's Whisper
+
+Redemption
+
+Superstar_sen
+
+Akane, Linearity Breaker
+
+Bleed
+
+Chroma Network Rival
+
+Repose
+
+Setting Sun
+
+Disenchant
+
+Touka, Afterlife Specialist
+
+Among the Glowmoths
+
+Crescendo for the Crown
+
+Seventh Street Assembly
+
+Rainy Night Voyager
+
+Solitary Requiem
+rules_text: When Solitary Requiem enters, choose up to one target creature. Each creature not chosen this way gets -2/-2 until end of turn.
+Once each turn, when a creature dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => When Solitary Requiem enters, destroy target creature or planeswalker an opponent controls.
+Once each turn, when a creature or planeswalker dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Moonglow Romantic
+rules_text: Lifelink
+Moonglow Romantic enters tapped.
+When Moonglow Romantic enters, it deals X damage to up to one target creature, where X is the number of tapped creatures you control. => Moonglow Romantic enters tapped.
+[/b]Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+When Moonglow Romantic enters, it deals 3 damage to any target.
+pt: 2/1 => 1/3
+
+Miss Navia Cosgrove
+
+Luminous City
+
+Halcyon Road
+
+Celosia's Emblem
+
+Shiroyuki's Emblem
+
+Celosia on Burning Wings
+
+Heartfelt Composition
+
+Flawless Favorite
+
+Embrace
+
+Kairos, Colorsmith
+
+Imaginative Sojourner
+
+Dreamglass Melody
+
+Idyllic Idol
+
+Azalea, New Apocrypha
+
+All the Time in the World
+
+Cosmic Starchild
+rules_text: Haste
+Whenever Cosmic Starchild attacks, discard up to two cards, then draw that many cards.
+Cosmic Starchild gets +1/+1 for each instant, sorcery, or Avatar card in your graveyard. => Lifelink, haste
+Whenever Cosmic Starchild attacks, discard up to two cards, then draw that many cards.
+Cosmic Starchild gets +1/+1 for each instant, sorcery, or Avatar card in your graveyard.
+
+Under Public Eye
+
+Gravity Defier
+
+Thunder Stage Star
+
+Heroes are Never Late
+
+Wheelbound Ace
+
+Eventide Rendezvous
+
+Selenite Flowergirl
+
+Make Believer
+
+Tsukuri Holo-Witch
+
+Planesculpting
+
+Silver Kitsune
+
+Zeal
+
+The Dreamglass Majesty
+
+Lunar Halo
+
+Ishakawa, Chroma Prodigy
+
+Empower
+
+Treasure
+
+Knife
+
+Clue
+
+Aekyan Nights
+
+Campfire Storyteller
+
+Legends Remembered
+
+Victim of Boredom
+
+One Night Heartbreaker
+
+To Save a Broken Heart
+
+Amina, Slightly Clumsy
+
+Yri's Secret Hideout
+rules_text: {T}: Add {C}.
+{1}, {T}: Target creature with a Knife attached to it can't be blocked this turn.
+{2}, {T}: Create a Knife token. [i](It's a Knife Equipment token with equip {1} that grants +1/+1.)[/i] => {T}: Add {C}.
+{1}, {T}: Target creature with a Knife attached to it can't be blocked this turn.
+{2}, {T}, Pay 2 life: Create a Knife token. [i](It's a Knife Equipment token with equip {1} that grants +1/+1.)[/i]
+
+Whimsical Storytelling
+
+Flowers Bloom Nowhere
+type: Sorcery => Enchantment
+cost: {6}{G} => {1}{G}
+rules_text: Flowers Bloom Nowhere costs {1} less to cast for each differently named basic land you control.
+Draw three cards. => When Flowers Bloom Nowhere enters, draw three cards. You gain 3 life.
+{W}{U}{B}{R}{G}: Return Flowers Bloom Nowhere to its owner's hand.
+
+The Chroma Network
+
+Mistencharm Resplendant
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+
+Pass into Oblivion
+
+Quiet Aquarium
+
+Construction Zone
+
+Decadent Nightclub
+
+Feline Sanctuary
+
+Cluttered Studio
+
+Opulent Casino
+
+Shopping Mall
+
+Skyline Lookout
+
+Undercity Alley
+
+Urban Gardens
+
+Barhopping in Miseko
+
+Wallflower's Retreat
+
+Joyous Princeling
+
+Stage Newcomer
+
+Chaos Conductor
+
+Otherworld Egotist
+
+Undercity Peacekeeper
+
+Anticello, Cold Confidence
+
+Moyro Mafioso
+
+Nightmare Influencer
+
+Time Walk
+
+Rumor Silencer
+
+Careening Car
+
+A Practical Guide to Evil
+type: Sorcery => Artifact — Book
+cost: {4}{W}{B}{G} => {2}{B}{B}
+rules_text: Return any number of permanent cards with different mana values from your graveyard to the battlefield. => {T}: Each player exiles a nonland nontoken permanent they control. For each opponent that can't, create a 4/4 black Horror creature token. Activate only as a sorcery.
+
+
+VERSION 37 CHANGELOG
 ====================
 
 
