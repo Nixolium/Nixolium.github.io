@@ -1,4 +1,22 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+Pale Moon Happenings added.
+
+Strange Happenings removed.
+
+Luminescent Vision
+
+Villainous Vision
+
+Resplendent Vision
+
+Idyllic Vision
+
+Inspiring Vision
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Hyacin, the Wondermaker added.

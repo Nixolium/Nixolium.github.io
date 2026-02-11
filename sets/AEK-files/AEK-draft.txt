@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment Creature — Avatar Artist",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/20.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/59.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/116.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Reveler",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/119.png"
 			}
@@ -1762,7 +1762,7 @@
 		},
 		{
 			"name": "Luminescent Vision",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "22",
@@ -1772,7 +1772,7 @@
 		},
 		{
 			"name": "Villainous Vision",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "104",
@@ -1782,7 +1782,7 @@
 		},
 		{
 			"name": "Resplendent Vision",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "127",
@@ -1792,7 +1792,7 @@
 		},
 		{
 			"name": "Idyllic Vision",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
 			"collector_number": "155",
@@ -1822,7 +1822,7 @@
 		},
 		{
 			"name": "Inspiring Vision",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "55",
@@ -2279,7 +2279,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Avatar Horror",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/226.png"
 			}
@@ -2839,7 +2839,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Enchantment Creature — Avatar Rogue",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/282.png"
 			}
@@ -2912,11 +2912,11 @@
 			}
 		},
 		{
-			"name": "Strange Happenings",
+			"name": "Pale Moon Happenings",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "34",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/289.png"
 			}
@@ -2972,11 +2972,6 @@
 	2 Naoko, Onigaiko Transfer
 	2 Shayu, Epsilon Remnant
 	2 Corsenna, Planar Sightseer
-	2 Luminescent Vision
-	2 Villainous Vision
-	2 Resplendent Vision
-	2 Idyllic Vision
-	2 Inspiring Vision
 	2 Akane, Linearity Breaker
 	2 Bleed
 	2 Chroma Network Rival
@@ -3011,7 +3006,7 @@
 	2 Hannah on Leave
 	2 Urban Legend
 	2 A Practical Guide to Evil
-	2 Strange Happenings
+	2 Pale Moon Happenings
 	2 Xena, Dazzling Celebrity
 [uncommon(3)]
 	4 Fan Following
@@ -3073,6 +3068,11 @@
 	4 Vielle's Perch
 	4 Fiona Tsukuri
 	4 Viktoria, the Heartline
+	4 Luminescent Vision
+	4 Villainous Vision
+	4 Resplendent Vision
+	4 Idyllic Vision
+	4 Inspiring Vision
 	4 Seventh Street Assembly
 	4 Solitary Requiem
 	4 Moonglow Romantic
@@ -3333,13 +3333,13 @@
 	2 Shayu, Epsilon Remnant
 	6 Viktoria, the Heartline
 	2 Corsenna, Planar Sightseer
-	2 Luminescent Vision
-	2 Villainous Vision
-	2 Resplendent Vision
-	2 Idyllic Vision
+	6 Luminescent Vision
+	6 Villainous Vision
+	6 Resplendent Vision
+	6 Idyllic Vision
 	12 Need for Speed
 	12 Bounding Companion
-	2 Inspiring Vision
+	6 Inspiring Vision
 	2 Akane, Linearity Breaker
 	2 Bleed
 	2 Chroma Network Rival
@@ -3418,7 +3418,7 @@
 	2 Hannah on Leave
 	2 Urban Legend
 	2 A Practical Guide to Evil
-	2 Strange Happenings
+	2 Pale Moon Happenings
 	2 Xena, Dazzling Celebrity
 	6 Kyv's Synthesizer
 [wildcard(1)]
@@ -3571,13 +3571,13 @@
 	7 Shayu, Epsilon Remnant
 	15 Viktoria, the Heartline
 	7 Corsenna, Planar Sightseer
-	7 Luminescent Vision
-	7 Villainous Vision
-	7 Resplendent Vision
-	7 Idyllic Vision
+	15 Luminescent Vision
+	15 Villainous Vision
+	15 Resplendent Vision
+	15 Idyllic Vision
 	6 Need for Speed
 	6 Bounding Companion
-	7 Inspiring Vision
+	15 Inspiring Vision
 	7 Akane, Linearity Breaker
 	7 Bleed
 	7 Chroma Network Rival
@@ -3656,6 +3656,6 @@
 	7 Hannah on Leave
 	7 Urban Legend
 	7 A Practical Guide to Evil
-	7 Strange Happenings
+	7 Pale Moon Happenings
 	7 Xena, Dazzling Celebrity
 	15 Kyv's Synthesizer
