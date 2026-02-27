@@ -1,4 +1,18 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Buzzing Bug added.
+Battery Bug added.
+
+
+Misunderstood Puppet
+
+Oceanic Muse
+cost: {2}{U} => {3}{U}
+pt: 3/2 => 4/3
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
