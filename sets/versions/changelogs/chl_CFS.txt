@@ -1,4 +1,41 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Perfection So Unreachable added.
+The Walls Have Eyes added.
+Pain for the Sake of Gain added.
+Fighting in Veins added.
+Simply Written Eulogies added.
+Blown Out of Proportion added.
+Lightning Borne Vengeance added.
+Cyclical Life and Death added.
+To Infinity and Beyond added.
+Floating Venomling added.
+
+
+Mortal Whims Falter
+rules_text: Gain control of target creature until end of turn.
+Coalesce {6}{U}{B} [i](You may cast this from your graveyard for {6}{U}{B}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+As long as Mortal Whims Falter is on the battlefield, you can't lose control of permanents. => Gain control of target creature until end of turn.
+Coalesce {6}{U}{B} [i](You may cast this from your graveyard for {6}{U}{B}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+You can't lose control of permanents [i](while Mortal Whims Falter is on the battlefield.)[/i]
+
+New Divide
+
+Buzzing Bug
+rules_text: Flying
+Exhaust — {X}{R}{R}: Buzzing Bug gets +X/+0 until end of turn. [i](Activate each exhaust ability only once.)[/i] => Flying
+Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+Exhaust — {X}{R}{R}: Buzzing Bug gets +X/+0 until end of turn. [i](Activate each exhaust ability only once.)[/i]
+
+Battery Bug
+rules_text: {T}: Add {R}.
+Exhaust — {2}{R}: Battery Bug gets +3/+0 until end of turn. [i](Activate each exhaust ability only once.)[/i] => Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+{T}: Add {R}.
+Exhaust — {2}{R}: Battery Bug gets +3/+0 until end of turn. Activate only during your turn. [i](Activate each exhaust ability only once.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.

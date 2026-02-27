@@ -1,0 +1,29 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "AEK",
+            "set_name": "Aekyu: Idyllic Days",
+            "formats": ""
+        },
+        {
+            "set_code": "CFS",
+            "set_name": "Chikyu: Foreign Stars",
+            "formats": ""
+        },
+        {
+            "set_code": "EPS",
+            "set_name": "Epsil",
+            "formats": ""
+        },
+        {
+            "set_code": "LOR",
+            "set_name": "Liturgies of Ruhnacht",
+            "formats": ""
+        },
+        {
+            "set_code": "SWK",
+            "set_name": "Stillwake",
+            "formats": ""
+        }
+    ]
+}
