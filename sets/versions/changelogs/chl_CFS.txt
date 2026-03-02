@@ -1,4 +1,110 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Travel Terminal added.
+The Elsevoid added.
+The Kanto Legend added.
+Excited Explorer added.
+Death is No End added.
+Ema, the Missing added.
+Foundation Krasis added.
+Clustered Grubs added.
+Shy Shellfish added.
+Vainglory added.
+Find Happiness in Perfection added.
+Vielle, Heartless Savior added.
+Epic Encounter added.
+Psychic Snap added.
+Destiny Bond added.
+Promethean Grotto added.
+
+Traveler's Terminal removed.
+Elseworld removed.
+Kanto Champion removed.
+Animated Catalog removed.
+Cyclical Life and Death removed.
+
+Surfing Rodent
+rules_text: Haste
+When Surfing Rodent enters, return another target creature to its owner's hand. If you control it, draw a card. => Haste
+When Surfing Rodent enters, you may return another target creature to its owner's hand. If you control it, draw a card.
+
+Vielle, Heartless Savior
+rules_text: Deathtouch, protection from legendary
+Exhaust — [+6]: Each opponent loses 3 life and you gain 3 life. Vielle gains “[-2]: You draw a card and lose 1 life.” and becomes a planeswalker [i](and isn't a creature.)[/i] Activate only if you control another legendary creature or planeswalker. [i](Activate only once as a loyalty ability.)[/i] => Deathtouch, protection from legendary
+Exhaust — [+6]: Each opponent loses 3 life and you gain 3 life. Vielle gains “[-2]: You draw a card and each opponent discards a card.” and becomes a Vielle planeswalker [i](and isn't a creature.)[/i] Activate only if you control another legendary creature or planeswalker. [i](Activate only once as a loyalty ability.)[/i]
+
+Route One
+rules_text: Route One enters tapped.
+{T}, Sacrifice Route One: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+{1}, Exile Route One from your graveyard: Add one mana of any color. => {T}, Sacrifice Route One: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{1}, Exile Route One from your graveyard: Add one mana of any color.
+
+Spiked Shellfish
+type: Creature — Starfish => Creature — Octopus Starfish
+
+Drift Off
+
+Haunted Anchor
+rules_text: {T}: Mill two cards.
+{4}, {T}, Sacrifice Haunted Anchor: Return target creature or Revelation card from your graveyard to the battlefield. Exile that permanent if it would leave the battlefield. If it's a Revelation, it enters as a Horror creature. => {T}: Mill two cards.
+{4}, {T}, Sacrifice Haunted Anchor: Exile target creature or Revelation card from your graveyard. You may cast a copy of it without paying its mana cost. If its a Revelation spell, it enters as a Horror creature after it resolves.
+
+Misunderstood Puppet
+type: Creature — Elemental Spirit => Creature — Spirit Horror
+rules_text: Misunderstood Puppet enters tapped.
+At the beginning of each end step, if an opponent lost life this turn, you may return Misunderstood Puppet from your graveyard to your hand. => Misunderstood Puppet can't block.
+At the beginning of each end step, if an opponent lost life this turn, you may return Misunderstood Puppet from your graveyard to your hand.
+
+Lumina, World's Protector
+
+Foundation Employee
+
+Hexed Maniac
+rules_text: When Hexed Maniac enters, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield. => Lifelink
+When Hexed Maniac enters, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+
+Pain for the Sake of Gain
+pt: 6/3 => 7/3
+
+Fighting in Veins
+rules_text: Put two +1/+1 counters on up to one target creature that dealt damage this turn.
+Coalesce {5}{R}{G} [i](You may cast this from your graveyard for {5}{R}{G}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+Whenever a creature you control deals damage, put a +1/+1 counter on it [i](while Fighting in Veins is on the battlefield.)[/i] => Put two +1/+1 counters on up to one target creature that dealt damage this turn.
+Coalesce {5}{R}{G} [i](You may cast this from your graveyard for {5}{R}{G}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+Whenever a creature you control deals damage [i](while Fighting in Veins is on the battlefield)[/i], put a +1/+1 counter on it.
+
+Simply Written Eulogies
+rules_text: Exile each opponent's graveyard.
+Coalesce {4}{W}{B} [i](You may cast this from your graveyard for {4}{W}{B}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+If a card would be put into an opponent's graveyard, exile it instead [i](while Simply Written Eulogies is on the battlefield.)[/i] => Exile each opponent's graveyard.
+Coalesce {5}{W}{B} [i](You may cast this from your graveyard for {5}{W}{B}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+If a card would be put into an opponent's graveyard [i](while Simply Written Eulogies is on the battlefield)[/i], exile it instead.
+pt: 5/6 => 6/7
+
+Blown Out of Proportion
+rules_text: Up to one target creature becomes 4/4 until your next turn.
+Coalesce {5}{U}{R} [i](You may cast this from your graveyard for {5}{U}{R}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+Other creatures you control are 4/4 [i](while Blown Out of Proportion is on the battlefield.)[/i] => Up to one target creature becomes 4/4 until your next turn.
+Coalesce {4}{U}{R} [i](You may cast this from your graveyard for {4}{U}{R}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+Other creatures you control are 4/4 [i](while Blown Out of Proportion is on the battlefield.)[/i]
+
+Lightning Borne Vengeance
+rules_text: Lightning Borne Vengeance deals 3 damage to up to one target tapped creature.
+Coalesce {4}{W}{R} [i](You may cast this from your graveyard for {4}{R}{W}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+Double strike, lifelink, haste => Lightning Borne Vengeance deals 3 damage to up to one target tapped creature.
+Coalesce {5}{W}{R} [i](You may cast this from your graveyard for {5}{R}{W}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+Double strike, lifelink, haste
+
+To Infinity and Beyond
+rules_text: Return up to one target nonland permanent you control to its owner's hand.
+Coalesce {7}{U}{G} [i](You may cast this from your graveyard for {7}{G}{U}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+Spells you cast cost {G}{U} less to cast [i](while To Infinity and Beyond is on the battlefield.)[/i] => Return up to one target nonland permanent you control to its owner's hand.
+Coalesce {6}{U}{G} [i](You may cast this from your graveyard for {6}{G}{U}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+Once each turn, you may cast a spell from your hand without paying its mana cost [i](while To Infinity and Beyond is on the battlefield.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Perfection So Unreachable added.
