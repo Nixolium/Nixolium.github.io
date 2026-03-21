@@ -1,4 +1,98 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Nebula of Empty Gold added.
+Storm Warning added.
+Den Protector added.
+Find Happiness in Insanity added.
+Vielle Reminder added.
+Supervoid City added.
+Gleaming Starseed added.
+Flower Friend added.
+Animated Sand added.
+Mako's best fren added.
+Tenki, Wind Rider added.
+Lightning Harbinger added.
+Blazing Sun added.
+Eternal Frost added.
+Heavy Downpour added.
+Blinding Sand added.
+Verdant Winds added.
+Celosia, Atlevon Flamewaker added.
+Wish To Be added.
+Voidsinger's Wish added.
+Swimming Spitter added.
+The Keeper of the Heart added.
+
+The Elsevoid removed.
+Find Happiness in Perfection removed.
+Vielle, Heartless Savior removed.
+
+Blazing Biter
+pt: 2/2 => 2/3
+
+New Divide
+
+Warden of Flow
+rules_text: When Warden of Flow enters, create Nature's Force, a blue enchantment token with “{1}{U}, Discard a land card: Draw a card. Activate only as a sorcery and only once each turn.”
+If you would draw a card, you may instead look at the top three cards of your library, put one of them into your hand and the rest into your graveyard. => When Warden of Flow enters, create Nature's Force, a blue enchantment token with “Land cards in your hand have cycling {2}.” [i]({2}, Discard this card: Draw a card.)[/i]
+If you would draw a card, you may instead look at the top three cards of your library, put one of them into your hand and the rest into your graveyard.
+
+Sleeping Starseed
+rules_text: Flying
+When Sleeping Starseed enters, draw two cards, then discard a card.
+Sacrifice Sleeping Starseed: Add one mana of any color. When you spend this mana to cast an Avatar spell, draw two cards, then discard a card. => Flying
+When Sleeping Starseed enters, draw two cards, then discard a card.
+Sacrifice Sleeping Starseed: Add one mana of any color.
+
+Route One
+
+Irate Bear
+rules_text: Defender [i](This creature can't attack.)[/i]
+Exhaust — {2}{W}{W}: Irate Bear loses defender. Each opponent may sacrifice a nonland permanent. For each player that doesn't, put two +1/+1 counters on Irate Bear. [i](Activate each exhaust ability only once.)[/i] => Defender [i](This creature can't attack.)[/i]
+Exhaust — {2}{W}{W}: Irate Bear loses defender. Each opponent sacrifices a nonland permanent. [i](Activate each exhaust ability only once.)[/i]
+
+Oceanic Muse
+pt: 4/3 => 3/3
+
+Buzzing Bug
+rules_text: Flying
+Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+Exhaust — {X}{R}{R}: Buzzing Bug gets +X/+0 until end of turn. [i](Activate each exhaust ability only once.)[/i] => Flying
+Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+Whenever you discard a card, Buzzing Bug deals 1 damage to each opponent.
+pt: 3/3 => 2/4
+
+Battery Bug
+rules_text: Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+{T}: Add {R}.
+Exhaust — {2}{R}: Battery Bug gets +3/+0 until end of turn. Activate only during your turn. [i](Activate each exhaust ability only once.)[/i] => Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+{T}: Add {R}.
+pt: 0/3 => 1/3
+
+Shy Shellfish
+rules_text: Multitude {3}{U} [i](You may cast this spell for {3}{U}. When you do, copy it.)[/i]
+{T}: Scry 1.
+Exhaust — {3}{U}: Draw a card. [i](Activate each exhaust ability only once.)[/i] => Multitude {3}{U} [i](You may cast this spell for {3}{U}. When you do, copy it.)[/i]
+{T}: Scry 1.
+{4}, {T}: Draw a card.
+
+Vainglory
+rules_text: Whenever you draw a card except the first one you draw during your draw step, create a 1/1 black Spirit creature token with flying and lifelink.
+Whenever a black creature you control attacks, each opponent with two or more cards in their hand discards a card. => Whenever you draw a card except the first one you draw during your draw step, create a 1/1 black Spirit creature token with flying and lifelink.
+Whenever a black creature you control deals combat damage to an opponent, you may sacrifice it. If you do, create two tapped Treasure token.
+
+Surfing Rodent
+
+Cunning Scions
+cost: {G}{W} => {2}{B}
+rules_text: Multitude {4}{G}{W} [i](You may cast this spell for {4}{G}{W}. When you do, copy it.)[/i]
+Cunning Scions get +1/+1 for each creature you control. => Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+Whenever you discard a card, Cunning Scions gains deathtouch and lifelink until end of turn.
+pt: 0/0 => 3/2
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Travel Terminal added.
