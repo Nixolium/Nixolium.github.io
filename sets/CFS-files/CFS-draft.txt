@@ -5,7 +5,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U/B}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "69",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Human Scout",
-			"collector_number": "48",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Elemental Lizard",
-			"collector_number": "45",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/2.png"
 			}
@@ -33,41 +33,31 @@
 		{
 			"name": "Alola Champion",
 			"rarity": "rare",
-			"mana_cost": "{4}{G}{U}",
+			"mana_cost": "{5}{G}{U}",
 			"type": "Legendary Creature — Human Ranger",
-			"collector_number": "44",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/3.png"
 			}
 		},
 		{
-			"name": "New Divide",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "82",
+			"name": "Warden of Reflection",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Bat Avatar",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/4.png"
 			}
 		},
 		{
-			"name": "Warden of Night",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Creature — Bat Avatar",
-			"collector_number": "64",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/5.png"
-			}
-		},
-		{
-			"name": "Warden of Day",
+			"name": "Warden of Radiance",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Lion Avatar",
-			"collector_number": "63",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/6.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/5.png"
 			}
 		},
 		{
@@ -75,13 +65,23 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "80",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/6.png"
+			}
+		},
+		{
+			"name": "Steel Ruins",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/7.png"
 			}
 		},
 		{
-			"name": "Steel Ruins",
+			"name": "Bricklined Alley",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
@@ -91,23 +91,13 @@
 			}
 		},
 		{
-			"name": "Bricklined Alley",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "79",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/9.png"
-			}
-		},
-		{
 			"name": "Open Fairway",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "84",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/10.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/9.png"
 			}
 		},
 		{
@@ -115,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "87",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/11.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/10.png"
 			}
 		},
 		{
@@ -125,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "93",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/12.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/11.png"
 			}
 		},
 		{
@@ -135,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "85",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/13.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/12.png"
 			}
 		},
 		{
@@ -145,9 +135,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "83",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/14.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/13.png"
 			}
 		},
 		{
@@ -155,9 +145,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "91",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/15.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/14.png"
 			}
 		},
 		{
@@ -165,36 +155,36 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "89",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/16.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/15.png"
 			}
 		},
 		{
 			"name": "Reality Shatters at Dawn",
 			"rarity": "rare",
-			"mana_cost": "{3}{W/B}{R}",
+			"mana_cost": "{3}{W}{B}",
 			"type": "Kindred Sorcery — Horror",
-			"collector_number": "72",
+			"collector_number": "66",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Nixolium.github.io/sets/CFS-files/img/17_back.png"
+					"en": "https://Nixolium.github.io/sets/CFS-files/img/16_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/17_front.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/16_front.png"
 			}
 		},
 		{
-			"name": "Nebula of Empty Gold",
+			"name": "Space Between Worlds",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "81",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/18.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/17.png"
 			}
 		},
 		{
@@ -202,69 +192,69 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W/U}{B}",
 			"type": "Legendary Planeswalker — Sanaito",
-			"collector_number": "73",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/18.png"
+			}
+		},
+		{
+			"name": "Archetype of Calm",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Insect Avatar",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/19.png"
 			}
 		},
 		{
-			"name": "Warden of Calm",
+			"name": "Archetype of Wrath",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature — Insect Avatar",
-			"collector_number": "8",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Bird Avatar",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/20.png"
 			}
 		},
 		{
-			"name": "Warden of Wrath",
+			"name": "Archetype of Vigor",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Bird Avatar",
-			"collector_number": "37",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Cow Avatar",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/21.png"
 			}
 		},
 		{
-			"name": "Warden of Vigor",
+			"name": "Archetype of Flow",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature — Cow Avatar",
-			"collector_number": "43",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Fish Avatar",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/22.png"
 			}
 		},
 		{
-			"name": "Warden of Flow",
+			"name": "Shadow of Resistance",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Creature — Fish Avatar",
-			"collector_number": "17",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Warrior Shade",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/23.png"
 			}
 		},
 		{
-			"name": "Furious Shadow",
+			"name": "End of Machines",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Warrior Shade",
-			"collector_number": "24",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/24.png"
-			}
-		},
-		{
-			"name": "Royal Legacy",
-			"rarity": "rare",
-			"mana_cost": "{7}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "77",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/25.png"
 			}
 		},
 		{
@@ -272,9 +262,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{R}",
 			"type": "Legendary Creature — Shapeshifter",
-			"collector_number": "56",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/26.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/25.png"
 			}
 		},
 		{
@@ -284,7 +274,7 @@
 			"type": "Creature — Avatar Fractal",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/27.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/26.png"
 			}
 		},
 		{
@@ -292,19 +282,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "78",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/28.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/27.png"
 			}
 		},
 		{
-			"name": "End of Evolutions",
+			"name": "Warden of Evolution",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}{G}",
+			"mana_cost": "{5}{G}",
 			"type": "Legendary Creature — Fractal Mutant",
-			"collector_number": "39",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/29.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/28.png"
 			}
 		},
 		{
@@ -312,9 +302,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Ranger",
-			"collector_number": "53",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/30.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/29.png"
 			}
 		},
 		{
@@ -322,29 +312,29 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/30.png"
+			}
+		},
+		{
+			"name": "Supercharged Vermin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Mouse",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/31.png"
 			}
 		},
 		{
-			"name": "Voltage Vermin",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Elemental Mouse",
-			"collector_number": "36",
+			"name": "Storm Warning",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/32.png"
-			}
-		},
-		{
-			"name": "Storm Warning",
-			"rarity": "rare",
-			"mana_cost": "{U}{R}",
-			"type": "Enchantment — Weather",
-			"collector_number": "58",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/33.png"
 			}
 		},
 		{
@@ -352,9 +342,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Axiom",
-			"collector_number": "61",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/34.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/33.png"
 			}
 		},
 		{
@@ -362,9 +352,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "88",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/35.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/34.png"
 			}
 		},
 		{
@@ -372,9 +362,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Elemental Fox",
-			"collector_number": "50",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/36.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/35.png"
 			}
 		},
 		{
@@ -382,9 +372,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Octopus Starfish",
-			"collector_number": "57",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/37.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/36.png"
 			}
 		},
 		{
@@ -392,9 +382,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/38.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/37.png"
 			}
 		},
 		{
@@ -402,9 +392,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Ranger",
-			"collector_number": "41",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/39.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/38.png"
 			}
 		},
 		{
@@ -414,7 +404,7 @@
 			"type": "Creature — Fox",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/40.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/39.png"
 			}
 		},
 		{
@@ -422,9 +412,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Artifact Creature — Plant Horror",
-			"collector_number": "51",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/41.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/40.png"
 			}
 		},
 		{
@@ -432,9 +422,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Ranger",
-			"collector_number": "47",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/42.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/41.png"
 			}
 		},
 		{
@@ -442,9 +432,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Spirit Horror",
-			"collector_number": "25",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/43.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/42.png"
 			}
 		},
 		{
@@ -452,9 +442,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Mongoose Noble",
-			"collector_number": "26",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/44.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/43.png"
 			}
 		},
 		{
@@ -462,16 +452,16 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}{U}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "55",
+			"collector_number": "65",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Nixolium.github.io/sets/CFS-files/img/45_back.png"
+					"en": "https://Nixolium.github.io/sets/CFS-files/img/44_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/45_front.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/44_front.png"
 			}
 		},
 		{
@@ -479,19 +469,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Hound Dog",
-			"collector_number": "46",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/46.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/45.png"
 			}
 		},
 		{
 			"name": "Foundation Employee",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}",
+			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Ranger",
-			"collector_number": "49",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/47.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/46.png"
 			}
 		},
 		{
@@ -499,19 +489,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Beast Spirit",
-			"collector_number": "60",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/48.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/47.png"
 			}
 		},
 		{
 			"name": "Hexed Maniac",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}{B}",
+			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Wizard Ranger",
-			"collector_number": "52",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/49.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/48.png"
 			}
 		},
 		{
@@ -519,19 +509,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Bear Beast",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/50.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/49.png"
 			}
 		},
 		{
-			"name": "Oceanic Muse",
+			"name": "Dockside Muse",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Merfolk Seal Artist",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/51.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/50.png"
 			}
 		},
 		{
@@ -539,9 +529,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental Insect",
-			"collector_number": "31",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/52.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/51.png"
 			}
 		},
 		{
@@ -549,9 +539,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Insect",
-			"collector_number": "29",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/53.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/52.png"
 			}
 		},
 		{
@@ -559,9 +549,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W/U}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "71",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/54.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/53.png"
 			}
 		},
 		{
@@ -569,9 +559,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G/W}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "76",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/55.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/54.png"
 			}
 		},
 		{
@@ -579,9 +569,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B/R}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "70",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/56.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/55.png"
 			}
 		},
 		{
@@ -589,9 +579,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R/G}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "67",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/57.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/56.png"
 			}
 		},
 		{
@@ -599,9 +589,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W/B}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "74",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/58.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/57.png"
 			}
 		},
 		{
@@ -609,9 +599,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U/R}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "65",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/59.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/58.png"
 			}
 		},
 		{
@@ -619,9 +609,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R/W}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "68",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/60.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/59.png"
 			}
 		},
 		{
@@ -629,9 +619,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B/G}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "66",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/61.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/60.png"
 			}
 		},
 		{
@@ -639,19 +629,19 @@
 			"rarity": "rare",
 			"mana_cost": "{G/U}",
 			"type": "Sorcery — Revelation",
-			"collector_number": "75",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/62.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/61.png"
 			}
 		},
 		{
-			"name": "Floating Venomling",
+			"name": "Alien Venomling",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Dragon Insect Horror",
-			"collector_number": "23",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/63.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/62.png"
 			}
 		},
 		{
@@ -659,9 +649,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Ranger",
-			"collector_number": "10",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/64.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/63.png"
 			}
 		},
 		{
@@ -671,7 +661,7 @@
 			"type": "Legendary Creature — Chimera",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/65.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/64.png"
 			}
 		},
 		{
@@ -679,19 +669,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "38",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/66.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/65.png"
 			}
 		},
 		{
-			"name": "Shy Shellfish",
+			"name": "Secluded Seastar",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Octopus Starfish",
-			"collector_number": "14",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/67.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/66.png"
 			}
 		},
 		{
@@ -699,9 +689,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "28",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/68.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/67.png"
 			}
 		},
 		{
@@ -709,9 +699,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/69.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/68.png"
 			}
 		},
 		{
@@ -721,7 +711,7 @@
 			"type": "Reminder Legendary Planeswalker — Vielle",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/70.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/69.png"
 			}
 		},
 		{
@@ -729,9 +719,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "40",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/71.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/70.png"
 			}
 		},
 		{
@@ -739,9 +729,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/72.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/71.png"
 			}
 		},
 		{
@@ -749,9 +739,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "21",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/73.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/72.png"
 			}
 		},
 		{
@@ -759,9 +749,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "86",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/74.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/73.png"
 			}
 		},
 		{
@@ -769,19 +759,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "92",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/75.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/74.png"
 			}
 		},
 		{
-			"name": "Gleaming Starseed",
+			"name": "Glittering Starseed",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Fractal",
-			"collector_number": "6",
+			"type": "Creature — Fractal Avatar",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/76.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/75.png"
 			}
 		},
 		{
@@ -789,9 +779,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Insect",
-			"collector_number": "11",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/77.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/76.png"
 			}
 		},
 		{
@@ -799,19 +789,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Elemental",
-			"collector_number": "18",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/78.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/77.png"
 			}
 		},
 		{
-			"name": "Mako's best fren",
+			"name": "Tremendous Tremorhorse",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Horse",
-			"collector_number": "34",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/79.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/78.png"
 			}
 		},
 		{
@@ -819,29 +809,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Ranger",
-			"collector_number": "16",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/79.png"
+			}
+		},
+		{
+			"name": "Surfing Rodent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Elemental Mouse",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/80.png"
 			}
 		},
 		{
-			"name": "Surfing Rodent",
+			"name": "Warden of Thunder",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Elemental Mouse",
-			"collector_number": "59",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Legendary Creature — Elemental Cat Avatar",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/81.png"
-			}
-		},
-		{
-			"name": "Lightning Harbinger",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{U}{R}",
-			"type": "Creature — Elemental Cat",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/82.png"
 			}
 		},
 		{
@@ -849,9 +839,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Weather",
-			"collector_number": "30",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/83.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/82.png"
 			}
 		},
 		{
@@ -859,9 +849,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Weather",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/84.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/83.png"
 			}
 		},
 		{
@@ -869,9 +859,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Weather",
-			"collector_number": "12",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/85.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/84.png"
 			}
 		},
 		{
@@ -879,9 +869,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment — Weather",
-			"collector_number": "19",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/86.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/85.png"
 			}
 		},
 		{
@@ -889,9 +879,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Weather",
-			"collector_number": "42",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/87.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/86.png"
 			}
 		},
 		{
@@ -899,9 +889,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Dragon Wizard",
-			"collector_number": "32",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/88.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/87.png"
 			}
 		},
 		{
@@ -909,9 +899,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/89.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/88.png"
 			}
 		},
 		{
@@ -919,19 +909,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Cat Noble",
-			"collector_number": "20",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/90.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/89.png"
 			}
 		},
 		{
 			"name": "Voidsinger's Wish",
 			"rarity": "rare",
-			"mana_cost": "{W}{B}",
-			"type": "Instant",
-			"collector_number": "62",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/91.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/90.png"
 			}
 		},
 		{
@@ -939,9 +929,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elemental Spider",
-			"collector_number": "15",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/CFS-files/img/92.png"
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/91.png"
 			}
 		},
 		{
@@ -949,9 +939,129 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Ranger",
-			"collector_number": "33",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/92.png"
+			}
+		},
+		{
+			"name": "Waking Devourer",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/CFS-files/img/93.png"
+			}
+		},
+		{
+			"name": "Er, the Wayfarer's Eyes",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Fox",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/94.png"
+			}
+		},
+		{
+			"name": "Vali, the Wayfarer's Fury",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/95.png"
+			}
+		},
+		{
+			"name": "Dancing Firebird",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Bird",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/96.png"
+			}
+		},
+		{
+			"name": "Sakaki, the Supervillain",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/97.png"
+			}
+		},
+		{
+			"name": "Snoozing Shrooms",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Saproling",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/98.png"
+			}
+		},
+		{
+			"name": "This Beautiful World",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/99.png"
+			}
+		},
+		{
+			"name": "Shine Brightest",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/100.png"
+			}
+		},
+		{
+			"name": "Skull Delinquents",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/101.png"
+			}
+		},
+		{
+			"name": "Urban Scavenger",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Mouse",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/102.png"
+			}
+		},
+		{
+			"name": "Growing Spike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/103.png"
+			}
+		},
+		{
+			"name": "A Good Day for Fishing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/CFS-files/img/104.png"
 			}
 		}
 	]
@@ -960,20 +1070,19 @@
 	2 Mortal Whims Falter
 	2 The Flaxen Wanderer
 	2 Alola Champion
-	2 Warden of Night
-	2 Warden of Day
+	2 Warden of Reflection
+	2 Warden of Radiance
 	2 Reality Shatters at Dawn
 	2 Sanaito of Two Realms
-	2 Warden of Calm
-	2 Warden of Wrath
-	2 Warden of Vigor
-	2 Warden of Flow
-	2 Furious Shadow
-	2 Royal Legacy
+	2 Archetype of Calm
+	2 Archetype of Wrath
+	2 Archetype of Vigor
+	2 Archetype of Flow
+	2 Shadow of Resistance
+	2 End of Machines
 	2 Serenyi, Blood Sun Outsider
-	2 End of Evolutions
+	2 Warden of Evolution
 	2 The Kanto Legend
-	2 Storm Warning
 	2 Vielle, Heartless Savior
 	2 Unrivaled Voyager
 	2 Lumina, World's Protector
@@ -989,15 +1098,18 @@
 	2 Ema, the Missing
 	2 Foundation Krasis
 	2 Vainglory
-	2 Surfing Rodent
+	2 Warden of Thunder
 	2 Celosia, Atlevon Flamewaker
 	2 Voidsinger's Wish
 	2 The Keeper of the Heart
+	2 Waking Devourer
+	2 Er, the Wayfarer's Eyes
+	2 Vali, the Wayfarer's Fury
 [uncommon(3)]
 	4 Blazing Biter
-	4 Nebula of Empty Gold
+	4 Space Between Worlds
 	4 Sleeping Starseed
-	4 Voltage Vermin
+	4 Supercharged Vermin
 	4 Frostwalker Fox
 	4 Spiked Shellfish
 	4 Drift Off
@@ -1009,13 +1121,13 @@
 	4 Vengeful Survivor
 	4 Hexed Maniac
 	4 Irate Bear
-	4 Oceanic Muse
+	4 Dockside Muse
 	4 Buzzing Bug
 	4 Epic Encounter
 	4 Destiny Bond
 	4 Supervoid City
 	4 Tenki, Wind Rider
-	4 Lightning Harbinger
+	4 Surfing Rodent
 	4 Blazing Sun
 	4 Eternal Frost
 	4 Heavy Downpour
@@ -1023,8 +1135,10 @@
 	4 Verdant Winds
 	4 Wish To Be
 	4 Cunning Scions
+	4 This Beautiful World
+	4 Growing Spike
+	4 A Good Day for Fishing
 [common(7)]
-	8 New Divide
 	8 Lonely Shoreline
 	8 Steel Ruins
 	8 Bricklined Alley
@@ -1037,29 +1151,34 @@
 	8 Secret Lagoon
 	8 Strange Cell
 	8 Moment of Surprise
+	8 Storm Warning
 	8 Route One
 	8 Misunderstood Puppet
 	8 Prideful Meerkat
 	8 Battery Bug
-	8 Floating Venomling
+	8 Alien Venomling
 	8 Clustered Grubs
-	8 Shy Shellfish
+	8 Secluded Seastar
 	8 Find Happiness in Insanity
 	8 Psychic Snap
 	8 Promethean Grotto
-	8 Gleaming Starseed
+	8 Glittering Starseed
 	8 Flower Friend
 	8 Animated Sand
-	8 Mako's best fren
+	8 Tremendous Tremorhorse
 	8 Swimming Spitter
+	8 Dancing Firebird
+	8 Snoozing Shrooms
+	8 Shine Brightest
+	8 Skull Delinquents
+	8 Urban Scavenger
 [foil(1)]
 	2 Mortal Whims Falter
 	2 The Flaxen Wanderer
 	6 Blazing Biter
 	2 Alola Champion
-	12 New Divide
-	2 Warden of Night
-	2 Warden of Day
+	2 Warden of Reflection
+	2 Warden of Radiance
 	12 Lonely Shoreline
 	12 Steel Ruins
 	12 Bricklined Alley
@@ -1071,22 +1190,22 @@
 	12 Sunscarred Steps
 	12 Secret Lagoon
 	2 Reality Shatters at Dawn
-	6 Nebula of Empty Gold
+	6 Space Between Worlds
 	2 Sanaito of Two Realms
-	2 Warden of Calm
-	2 Warden of Wrath
-	2 Warden of Vigor
-	2 Warden of Flow
-	2 Furious Shadow
-	2 Royal Legacy
+	2 Archetype of Calm
+	2 Archetype of Wrath
+	2 Archetype of Vigor
+	2 Archetype of Flow
+	2 Shadow of Resistance
+	2 End of Machines
 	2 Serenyi, Blood Sun Outsider
 	6 Sleeping Starseed
 	12 Strange Cell
-	2 End of Evolutions
+	2 Warden of Evolution
 	2 The Kanto Legend
 	12 Moment of Surprise
-	6 Voltage Vermin
-	2 Storm Warning
+	6 Supercharged Vermin
+	12 Storm Warning
 	2 Vielle, Heartless Savior
 	12 Route One
 	6 Frostwalker Fox
@@ -1104,7 +1223,7 @@
 	6 Vengeful Survivor
 	6 Hexed Maniac
 	6 Irate Bear
-	6 Oceanic Muse
+	6 Dockside Muse
 	6 Buzzing Bug
 	12 Battery Bug
 	2 Perfection So Unreachable
@@ -1116,11 +1235,11 @@
 	2 Lightning Borne Vengeance
 	2 Death is No End
 	2 To Infinity and Beyond
-	12 Floating Venomling
+	12 Alien Venomling
 	2 Ema, the Missing
 	2 Foundation Krasis
 	12 Clustered Grubs
-	12 Shy Shellfish
+	12 Secluded Seastar
 	2 Vainglory
 	12 Find Happiness in Insanity
 	6 Epic Encounter
@@ -1128,13 +1247,13 @@
 	6 Destiny Bond
 	12 Promethean Grotto
 	6 Supervoid City
-	12 Gleaming Starseed
+	12 Glittering Starseed
 	12 Flower Friend
 	12 Animated Sand
-	12 Mako's best fren
+	12 Tremendous Tremorhorse
 	6 Tenki, Wind Rider
-	2 Surfing Rodent
-	6 Lightning Harbinger
+	6 Surfing Rodent
+	2 Warden of Thunder
 	6 Blazing Sun
 	6 Eternal Frost
 	6 Heavy Downpour
@@ -1146,14 +1265,24 @@
 	2 Voidsinger's Wish
 	12 Swimming Spitter
 	2 The Keeper of the Heart
+	2 Waking Devourer
+	2 Er, the Wayfarer's Eyes
+	2 Vali, the Wayfarer's Fury
+	12 Dancing Firebird
+	12 Snoozing Shrooms
+	6 This Beautiful World
+	12 Shine Brightest
+	12 Skull Delinquents
+	12 Urban Scavenger
+	6 Growing Spike
+	6 A Good Day for Fishing
 [wildcard(1)]
 	7 Mortal Whims Falter
 	7 The Flaxen Wanderer
 	15 Blazing Biter
 	7 Alola Champion
-	6 New Divide
-	7 Warden of Night
-	7 Warden of Day
+	7 Warden of Reflection
+	7 Warden of Radiance
 	6 Lonely Shoreline
 	6 Steel Ruins
 	6 Bricklined Alley
@@ -1165,22 +1294,22 @@
 	6 Sunscarred Steps
 	6 Secret Lagoon
 	7 Reality Shatters at Dawn
-	15 Nebula of Empty Gold
+	15 Space Between Worlds
 	7 Sanaito of Two Realms
-	7 Warden of Calm
-	7 Warden of Wrath
-	7 Warden of Vigor
-	7 Warden of Flow
-	7 Furious Shadow
-	7 Royal Legacy
+	7 Archetype of Calm
+	7 Archetype of Wrath
+	7 Archetype of Vigor
+	7 Archetype of Flow
+	7 Shadow of Resistance
+	7 End of Machines
 	7 Serenyi, Blood Sun Outsider
 	15 Sleeping Starseed
 	6 Strange Cell
-	7 End of Evolutions
+	7 Warden of Evolution
 	7 The Kanto Legend
 	6 Moment of Surprise
-	15 Voltage Vermin
-	7 Storm Warning
+	15 Supercharged Vermin
+	6 Storm Warning
 	7 Vielle, Heartless Savior
 	6 Route One
 	15 Frostwalker Fox
@@ -1198,7 +1327,7 @@
 	15 Vengeful Survivor
 	15 Hexed Maniac
 	15 Irate Bear
-	15 Oceanic Muse
+	15 Dockside Muse
 	15 Buzzing Bug
 	6 Battery Bug
 	7 Perfection So Unreachable
@@ -1210,11 +1339,11 @@
 	7 Lightning Borne Vengeance
 	7 Death is No End
 	7 To Infinity and Beyond
-	6 Floating Venomling
+	6 Alien Venomling
 	7 Ema, the Missing
 	7 Foundation Krasis
 	6 Clustered Grubs
-	6 Shy Shellfish
+	6 Secluded Seastar
 	7 Vainglory
 	6 Find Happiness in Insanity
 	15 Epic Encounter
@@ -1222,13 +1351,13 @@
 	15 Destiny Bond
 	6 Promethean Grotto
 	15 Supervoid City
-	6 Gleaming Starseed
+	6 Glittering Starseed
 	6 Flower Friend
 	6 Animated Sand
-	6 Mako's best fren
+	6 Tremendous Tremorhorse
 	15 Tenki, Wind Rider
-	7 Surfing Rodent
-	15 Lightning Harbinger
+	15 Surfing Rodent
+	7 Warden of Thunder
 	15 Blazing Sun
 	15 Eternal Frost
 	15 Heavy Downpour
@@ -1240,3 +1369,14 @@
 	7 Voidsinger's Wish
 	6 Swimming Spitter
 	7 The Keeper of the Heart
+	7 Waking Devourer
+	7 Er, the Wayfarer's Eyes
+	7 Vali, the Wayfarer's Fury
+	6 Dancing Firebird
+	6 Snoozing Shrooms
+	15 This Beautiful World
+	6 Shine Brightest
+	6 Skull Delinquents
+	6 Urban Scavenger
+	15 Growing Spike
+	15 A Good Day for Fishing

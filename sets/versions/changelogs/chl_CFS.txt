@@ -1,4 +1,263 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Warden of Reflection added.
+Warden of Radiance added.
+Space Between Worlds added.
+Archetype of Calm added.
+Archetype of Wrath added.
+Archetype of Vigor added.
+Archetype of Flow added.
+Shadow of Resistance added.
+End of Machines added.
+Warden of Evolution added.
+Supercharged Vermin added.
+Dockside Muse added.
+Alien Venomling added.
+Secluded Seastar added.
+Glittering Starseed added.
+Tremendous Tremorhorse added.
+Warden of Thunder added.
+Waking Devourer added.
+Er, the Wayfarer's Eyes added.
+Vali, the Wayfarer's Fury added.
+Dancing Firebird added.
+Sakaki, the Supervillain added.
+Snoozing Shrooms added.
+This Beautiful World added.
+Shine Brightest added.
+Skull Delinquents added.
+Urban Scavenger added.
+Growing Spike added.
+A Good Day for Fishing added.
+
+New Divide removed.
+Warden of Night removed.
+Warden of Day removed.
+Nebula of Empty Gold removed.
+Warden of Calm removed.
+Warden of Wrath removed.
+Warden of Vigor removed.
+Warden of Flow removed.
+Furious Shadow removed.
+Royal Legacy removed.
+End of Evolutions removed.
+Voltage Vermin removed.
+Oceanic Muse removed.
+Floating Venomling removed.
+Shy Shellfish removed.
+Gleaming Starseed removed.
+Mako's best fren removed.
+Lightning Harbinger removed.
+
+Alola Champion
+cost: {4}{G}{U} => {5}{G}{U}
+rules_text: When Alola Champion enters, draw a card. Then you may put a non-Human creature card from your hand onto the battlefield.
+Exhaust — {0}: Another target non-Human creature you control gets +4/+4 and gains trample until end of turn. [i](Activate each exhaust ability only once.)[/i] => When Alola Champion enters, create a creature token for each of the following characteristics.
+• A 3/3 black Plant Bird with flying.
+• A 3/3 white Fractal with trample.
+• A 3/3 red Elemental Mouse with haste.
+Exhaust — {0}: Target attacking creature you control gets +3/+3 until end of turn.
+
+Lonely Shoreline
+
+Steel Ruins
+
+Bricklined Alley
+
+Open Fairway
+
+Redleaf Woods
+
+Travel Terminal
+
+Painted Docks
+
+Nightmare Kitchen
+
+Sunscarred Steps
+
+Secret Lagoon
+
+Reality Shatters at Dawn
+cost: {3}{WB}{R} => {3}{W}{B}
+rules_text: Destroy each non-Avatar creature and each planeswalker. Then you may sacrifice a creature named Warden of Day or Warden of Night. If you do, Reality Shatters at Dawn enters transformed after it resolves. => Destroy each non-Avatar creature and each planeswalker. Then you may sacrifice a creature named Warden of [/i][i]Radiance[/i][i] or Warden of Reflection. If you do, Reality Shatters at Dawn enters transformed after it resolves.
+
+Sanaito of Two Realms
+
+Serenyi, Blood Sun Outsider
+
+Sleeping Starseed
+
+Strange Cell
+
+The Kanto Legend
+
+Moment of Surprise
+
+Storm Warning
+type: Enchantment — Weather => Sorcery
+cost: {U}{R} => {2}{U}
+rules_text: [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+Storm Warning is all colors.
+Whenever Storm Warning or another Weather you control enters, draw a card. => Draw two cards. You may return a nonland permanent you control to its owner's hand.
+
+Vielle, Heartless Savior
+
+Route One
+
+Frostwalker Fox
+
+Spiked Shellfish
+
+Drift Off
+
+Unrivaled Voyager
+
+Boundless Fox
+
+Haunted Anchor
+
+Excited Explorer
+
+Misunderstood Puppet
+
+Prideful Meerkat
+
+Lumina, World's Protector
+
+Den Protector
+
+Foundation Employee
+cost: {2}{R}{G} => {3}{R}
+rules_text: Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+You may play lands from your graveyard. => Human creatures you control have invader. [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+pt: 3/3 => 2/4
+
+Vengeful Survivor
+rules_text: At the beginning of each end step, if you've activated an ability of a creature or planeswalker you control this turn, Vengeful Survivor deals 2 damage to each opponent.
+{3}{R}{W}: Vengeful Survivor gains double strike until end of turn. => At the beginning of each end step, if you've activated an ability of a creature you control this turn, Vengeful Survivor deals 2 damage to each opponent.
+{3}{R}{W}: Vengeful Survivor gains double strike until end of turn.
+
+Hexed Maniac
+cost: {3}{W}{B} => {2}{W}{B}
+rules_text: Lifelink
+When Hexed Maniac enters, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield. => Lifelink
+When Hexed Maniac enters, if you cast it, you may sacrifice another creature or planeswalker. If you do, return that permanent to the battlefield.
+
+Irate Bear
+
+Buzzing Bug
+
+Battery Bug
+
+Perfection So Unreachable
+
+The Walls Have Eyes
+
+Pain for the Sake of Gain
+
+Fighting in Veins
+
+Simply Written Eulogies
+
+Blown Out of Proportion
+
+Lightning Borne Vengeance
+
+Death is No End
+
+To Infinity and Beyond
+
+Ema, the Missing
+
+Foundation Krasis
+pt: 4/2 => 3/2
+
+Clustered Grubs
+
+Vainglory
+rules_text: Whenever you draw a card except the first one you draw during your draw step, create a 1/1 black Spirit creature token with flying and lifelink.
+Whenever a black creature you control deals combat damage to an opponent, you may sacrifice it. If you do, create two tapped Treasure token. => Whenever you draw a card except the first one you draw during your draw step, create a 1/1 black Spirit creature token with flying and lifelink.
+Whenever a black creature you control deals combat damage to an opponent, you may sacrifice it. If you do, create two tapped Treasure tokens.
+
+Find Happiness in Insanity
+
+Vielle Reminder
+
+Epic Encounter
+
+Psychic Snap
+
+Destiny Bond
+
+Promethean Grotto
+
+Supervoid City
+
+Flower Friend
+
+Animated Sand
+
+Tenki, Wind Rider
+pt: 1/2 => 2/2
+
+Surfing Rodent
+
+Blazing Sun
+rules_text: [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Blazing Sun enters, it deals X damage to any target, where X is the number of Mountains you control.
+When Blazing Sun leaves the battlefield, draw a card. => [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Blazing Sun enters, it deals X damage to any target, where X is the number of Mountains you control.
+
+Eternal Frost
+rules_text: [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Eternal Frost enters, create an X/X white Elemental creature token, where X is the number of Plains you control.
+When Eternal Frost leaves the battlefield, draw a card. => [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Eternal Frost enters, create an X/X white Elemental creature token, where X is the number of Plains you control.
+
+Heavy Downpour
+rules_text: [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Heavy Downpour enters, draw a card for each Island you control, then discards two cards.
+When Heavy Downpour leaves the battlefield, draw a card. => [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Heavy Downpour enters, draw a card for each Island you control, then discards two cards.
+
+Blinding Sand
+rules_text: [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Blinding Sand enters, target opponent discards a card for each Swamp you control. For each card they can't, you draw a card.
+When Blinding Sand leaves the battlefield, draw a card. => [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Blinding Sand enters, target opponent discards a card for each Swamp you control. For each card they can't, you draw a card.
+
+Verdant Winds
+rules_text: [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Verdant Winds enters, put a +1/+1 counter on target creature for each Forest you control.
+When Verdant Winds leaves the battlefield, draw a card. => [i](As a Weather enters, players sacrifice other Weathers that don't share a color with it.)[/i]
+When Verdant Winds enters, put a +1/+1 counter on target creature for each Forest you control.
+
+Celosia, Atlevon Flamewaker
+
+Wish To Be
+
+Cunning Scions
+
+Voidsinger's Wish
+type: Instant => Sorcery
+cost: {W}{B} => {1}{W}{B}
+rules_text: Exile target nonland permanent with mana value 3 or less.
+{3}, Exile Voidsinger's Wish from your graveyard: Search your library for a card and reveal it. If its a Sanaito card or you control a Sanaito planeswalker, put it into your hand. Otherwise, shuffle. => Destroy target nonland permanent with mana value 5 or less.
+{3}, Exile Voidsinger's Wish from your graveyard: Search your library for a card and exile it. As long as its exiled, its owner may play it if its a Sanaito card or you control a Sanaito planeswalker.
+
+Swimming Spitter
+rules_text: When Swimming Spitter enters, draw a card. => Vigilance
+When Swimming Spitter enters, draw a card.
+
+The Keeper of the Heart
+rules_text: Ward—Pay 2 life.
+Sorcery spells you cast have multitude. Its multitude cost is equal to double its mana cost. [i](You may cast a spell for its multitude cost. When you do, copy it. Double of a spell that costs {1}{R} is {2}{R}{R}.)[/i] => Each sorcery card in your hand has multitude. Its multitude cost is equal to double its mana cost. [i](You may cast a spell for its multitude cost. When you do, copy it. Double of a spell that costs {1}{R} is {2}{R}{R}.)[/i]
+pt: 2/2 => 2/3
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Nebula of Empty Gold added.
