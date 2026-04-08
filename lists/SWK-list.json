@@ -1,0 +1,245 @@
+﻿[
+    {
+        "card_name": "Missive of a Waning Star",
+        "number": 2,
+        "shape": "transform double faced",
+        "set": "SWK",
+        "position": "5"
+    },
+    {
+        "card_name": "Monochrome Butterflies",
+        "number": 4,
+        "shape": "transform double faced",
+        "set": "SWK",
+        "position": "4"
+    },
+    {
+        "card_name": "Snipped Angelic Wings",
+        "number": 5,
+        "shape": "transform double faced",
+        "set": "SWK",
+        "position": "2"
+    },
+    {
+        "card_name": "Wicked Coiling Gaze",
+        "number": 6,
+        "shape": "transform double faced",
+        "set": "SWK",
+        "position": "7"
+    },
+    {
+        "card_name": "Cold Midnight Laughter",
+        "number": 7,
+        "shape": "transform double faced",
+        "set": "SWK",
+        "position": "6"
+    },
+    {
+        "card_name": "Righteous Memory",
+        "number": 3,
+        "shape": "normal",
+        "set": "SWK",
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vielle, Soulpiercer Witch",
+        "number": 8,
+        "shape": "normal",
+        "set": "SWK",
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Serenyi, Dark Apostate",
+        "number": 10,
+        "shape": "planeswalker",
+        "set": "SWK",
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Void Burns the Sky",
+        "number": 9,
+        "shape": "transform double faced",
+        "set": "SWK",
+        "position": "8"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Necroepilogos",
+        "number": 1,
+        "shape": "normal",
+        "set": "SWK",
+        "position": "0"
+    },
+    {
+        "card_name": "The Corpse of Serra",
+        "number": 11,
+        "shape": "normal",
+        "set": "SWK",
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Moonglass Carr",
+        "number": 13,
+        "shape": "transform double faced",
+        "set": "SWK",
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Lotus Hideaway",
+        "number": 12,
+        "shape": "transform double faced",
+        "set": "SWK",
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
