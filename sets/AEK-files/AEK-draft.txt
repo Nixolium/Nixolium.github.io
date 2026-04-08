@@ -265,7 +265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment Creature — Avatar",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Artist",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/27.png"
 			}
@@ -643,7 +643,7 @@
 		{
 			"name": "Fallen Icon",
 			"rarity": "common",
-			"mana_cost": "{5}{G}{G}",
+			"mana_cost": "{6}{G}",
 			"type": "Enchantment Creature — Avatar Artist",
 			"collector_number": "149",
 			"image_uris": {
@@ -815,7 +815,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/81.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Scout",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/88.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Artist Reveler",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/94.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Artist",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/96.png"
 			}
@@ -1253,7 +1253,7 @@
 		{
 			"name": "Kyv, Sanguine Avante",
 			"rarity": "rare",
-			"mana_cost": "{B}{G}{U}",
+			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Vampire Scientist",
 			"collector_number": "186",
 			"image_uris": {
@@ -1305,7 +1305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Human Fractal",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/130.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Coward",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/142.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Planeswalker — Tolen",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/167.png"
 			}
@@ -2012,7 +2012,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/200.png"
 			}
@@ -2032,7 +2032,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/202.png"
 			}
@@ -2865,11 +2865,11 @@
 			}
 		},
 		{
-			"name": "Urban Legend",
+			"name": "Poker Face",
 			"rarity": "rare",
-			"mana_cost": "{4}{W}{B}{G}",
+			"mana_cost": "{B}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "206",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/285.png"
 			}
@@ -2929,7 +2929,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/291.png"
 			}
@@ -3075,7 +3075,7 @@
 	2 Barhopping in Miseko
 	2 Otherworld Egotist
 	2 The Masked Fool
-	2 Urban Legend
+	2 Poker Face
 	2 A Practical Guide to Evil
 	2 Xena, Dazzling Celebrity
 	2 Shiroyuki's Singularity
@@ -3489,7 +3489,7 @@
 	12 Rumor Silencer
 	12 Careening Car
 	2 The Masked Fool
-	2 Urban Legend
+	2 Poker Face
 	2 A Practical Guide to Evil
 	2 Xena, Dazzling Celebrity
 	6 Kyv's Synthesizer
@@ -3729,7 +3729,7 @@
 	6 Rumor Silencer
 	6 Careening Car
 	7 The Masked Fool
-	7 Urban Legend
+	7 Poker Face
 	7 A Practical Guide to Evil
 	7 Xena, Dazzling Celebrity
 	15 Kyv's Synthesizer
