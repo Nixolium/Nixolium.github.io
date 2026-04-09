@@ -1190,7 +1190,7 @@
     },
     {
         "card_name": "Hyacin, the Wondermaker",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "AEK",
         "position": "122"
@@ -1204,42 +1204,42 @@
     },
     {
         "card_name": "Heartfelt Composition",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "AEK",
         "position": "210"
     },
     {
         "card_name": "Snapshot Storyteller",
-        "number": 201,
+        "number": 200,
         "shape": "normal",
         "set": "AEK",
         "position": "88"
     },
     {
         "card_name": "Hollow Pact",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "AEK",
         "position": "31"
     },
     {
         "card_name": "Seventh Street Assembly",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "AEK",
         "position": "200"
     },
     {
         "card_name": "Exalted Gossipers",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "AEK",
         "position": "92"
     },
     {
         "card_name": "Holographic Darling",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "AEK",
         "position": "90"
@@ -1267,7 +1267,7 @@
     },
     {
         "card_name": "Sunflower Painter",
-        "number": 204,
+        "number": 203,
         "shape": "normal",
         "set": "AEK",
         "position": "27"
@@ -1324,21 +1324,21 @@
     },
     {
         "card_name": "Reclusive Cynic",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "AEK",
         "position": "142"
     },
     {
         "card_name": "Shiroyuki's Singularity",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "AEK",
         "position": "291"
     },
     {
         "card_name": "Tolen, the Paradisiac",
-        "number": 205,
+        "number": 204,
         "shape": "planeswalker",
         "set": "AEK",
         "position": "167"
@@ -1352,14 +1352,14 @@
     },
     {
         "card_name": "Serin, Exponent Mage",
-        "number": 198,
+        "number": 197,
         "shape": "normal",
         "set": "AEK",
         "position": "81"
     },
     {
         "card_name": "Idiosyncratic Savant",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "AEK",
         "position": "89"
@@ -1373,7 +1373,7 @@
     },
     {
         "card_name": "Solitary Requiem",
-        "number": 202,
+        "number": 201,
         "shape": "normal",
         "set": "AEK",
         "position": "202"
@@ -1386,15 +1386,15 @@
         "position": "91"
     },
     {
-        "card_name": "Ishakawa, Chroma Prodigy",
-        "number": 184,
+        "card_name": "Chroma Prodigy",
+        "number": 176,
         "shape": "normal",
         "set": "AEK",
         "position": "238"
     },
     {
         "card_name": "Serenyi's Shell",
-        "number": 197,
+        "number": 196,
         "shape": "normal",
         "set": "AEK",
         "position": "26"
@@ -1408,7 +1408,7 @@
     },
     {
         "card_name": "Sundown Slow Dancers",
-        "number": 203,
+        "number": 202,
         "shape": "normal",
         "set": "AEK",
         "position": "96"
@@ -1479,14 +1479,14 @@
     },
     {
         "card_name": "Corsenna, Planar Sightseer",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "AEK",
         "position": "175"
     },
     {
         "card_name": "Cosmic Starchild",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "AEK",
         "position": "218"
@@ -1499,18 +1499,18 @@
         "position": "125"
     },
     {
-        "card_name": "Poker Face",
-        "number": 194,
-        "shape": "normal",
-        "set": "AEK",
-        "position": "285"
-    },
-    {
         "card_name": "Serenyi, the Benevolent",
-        "number": 196,
+        "number": 195,
         "shape": "normal",
         "set": "AEK",
         "position": "130"
+    },
+    {
+        "card_name": "Trick-taking",
+        "number": 205,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "285"
     },
     {
         "card_name": "er"
@@ -2278,7 +2278,11 @@
         "position": "283"
     },
     {
-        "card_name": "e"
+        "card_name": "ShiroyukisSingularity_loop",
+        "number": 0,
+        "shape": "normal",
+        "set": "AEK",
+        "position": "300"
     },
     {
         "card_name": "er"

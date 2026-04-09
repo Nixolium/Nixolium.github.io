@@ -265,7 +265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment Creature — Avatar",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Artist",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/27.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/31.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/81.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Scout",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Artist",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/89.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment Creature — Avatar Artist",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/90.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/92.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Artist",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/96.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Nephilim Artist",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/122.png"
 			}
@@ -1253,7 +1253,7 @@
 		{
 			"name": "Kyv, Sanguine Avante",
 			"rarity": "rare",
-			"mana_cost": "{W}{B}{G}",
+			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Vampire Scientist",
 			"collector_number": "186",
 			"image_uris": {
@@ -1305,7 +1305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Human Fractal",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/130.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Coward",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/142.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Planeswalker — Tolen",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/167.png"
 			}
@@ -1754,8 +1754,8 @@
 			"name": "Corsenna, Planar Sightseer",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}{R}",
-			"type": "Legendary Creature — Human Wizard Scout",
-			"collector_number": "176",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/175.png"
 			}
@@ -2012,7 +2012,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/200.png"
 			}
@@ -2032,7 +2032,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/202.png"
 			}
@@ -2112,7 +2112,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/210.png"
 			}
@@ -2190,9 +2190,9 @@
 		{
 			"name": "Cosmic Starchild",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{R}{W}",
+			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Enchantment Creature — Elemental Avatar",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/218.png"
 			}
@@ -2387,7 +2387,7 @@
 		{
 			"name": "Lunar Halo",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{U}",
+			"mana_cost": "{1}{G}{U}",
 			"type": "Artifact",
 			"collector_number": "187",
 			"image_uris": {
@@ -2395,11 +2395,11 @@
 			}
 		},
 		{
-			"name": "Ishakawa, Chroma Prodigy",
+			"name": "Chroma Prodigy",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature — Human Artist",
-			"collector_number": "184",
+			"type": "Creature — Human Artist",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/238.png"
 			}
@@ -2865,11 +2865,11 @@
 			}
 		},
 		{
-			"name": "Poker Face",
+			"name": "Trick-taking",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "194",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/285.png"
 			}
@@ -2927,9 +2927,9 @@
 		{
 			"name": "Shiroyuki's Singularity",
 			"rarity": "rare",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Instant",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/291.png"
 			}
@@ -3013,6 +3013,16 @@
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/299.png"
 			}
+		},
+		{
+			"name": "ShiroyukisSingularity_loop",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/AEK-files/img/300.png"
+			}
 		}
 	]
 
@@ -3075,7 +3085,7 @@
 	2 Barhopping in Miseko
 	2 Otherworld Egotist
 	2 The Masked Fool
-	2 Poker Face
+	2 Trick-taking
 	2 A Practical Guide to Evil
 	2 Xena, Dazzling Celebrity
 	2 Shiroyuki's Singularity
@@ -3157,7 +3167,7 @@
 	4 Make Believer
 	4 Tsukuri Holo-Witch
 	4 Lunar Halo
-	4 Ishakawa, Chroma Prodigy
+	4 Chroma Prodigy
 	4 Campfire Storyteller
 	4 To Save a Broken Heart
 	4 Whimsical Storytelling
@@ -3450,7 +3460,7 @@
 	2 Planesculpting
 	2 The Dreamglass Majesty
 	6 Lunar Halo
-	6 Ishakawa, Chroma Prodigy
+	6 Chroma Prodigy
 	2 Aekyan Nights
 	6 Campfire Storyteller
 	2 Victim of Boredom
@@ -3489,7 +3499,7 @@
 	12 Rumor Silencer
 	12 Careening Car
 	2 The Masked Fool
-	2 Poker Face
+	2 Trick-taking
 	2 A Practical Guide to Evil
 	2 Xena, Dazzling Celebrity
 	6 Kyv's Synthesizer
@@ -3690,7 +3700,7 @@
 	7 Planesculpting
 	7 The Dreamglass Majesty
 	15 Lunar Halo
-	15 Ishakawa, Chroma Prodigy
+	15 Chroma Prodigy
 	7 Aekyan Nights
 	15 Campfire Storyteller
 	7 Victim of Boredom
@@ -3729,7 +3739,7 @@
 	6 Rumor Silencer
 	6 Careening Car
 	7 The Masked Fool
-	7 Poker Face
+	7 Trick-taking
 	7 A Practical Guide to Evil
 	7 Xena, Dazzling Celebrity
 	15 Kyv's Synthesizer

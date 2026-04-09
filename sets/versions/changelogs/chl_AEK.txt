@@ -1,4 +1,86 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+ShiroyukisSingularity_loop added.
+
+
+Stained Transgressor
+rules_text: Stained Transgressor can't be blocked.
+When Stained Transgressor enters, conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i] => Stained Transgressor can't be blocked by creatures with different power than it.
+When Stained Transgressor enters, conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+
+Kyv, Sanguine Avante
+cost: {W}{B}{G} => {B}{G}{U}
+
+Cosmic Starchild
+cost: {2}{U}{R}{W} => {3}{U}{R}{W}
+
+Lunar Halo
+cost: {2}{G}{U} => {1}{G}{U}
+rules_text: Whenever you attack, draw a card if you control a legendary creature with power 4 or greater.
+{T}: Add two mana of any one color. You can't spend this mana to cast spells from your hand without stardom.[/b] => When Lunar Halo enters, target creature you control gets +2/+2 and gains trample until end of turn.
+{4}, {T}: Draw a card. This ability costs {X} less to activate, where X is the greatest power among legendary creatures you control.[/b]
+
+Shiroyuki's Singularity
+cost: {U}{R} => {2}{U}{R}
+rules_text: If casting Shiroyuki's Singularity would trigger an ability of a permanent you control, that ability triggers an additional time. [i](This includes prowess.)[/i]
+Shiroyuki's Singularity deals 3 damage to any target. => Shiroyuki's Singularity deals 5 damage to any target. Then you may discard a card. If you do, conjure a duplicate of Shiroyuki's Singularity and put it on the top of your library.
+
+
+VERSION 44 CHANGELOG
+====================
+
+No changes.
+
+VERSION 43 CHANGELOG
+====================
+
+Chroma Prodigy added.
+
+Ishakawa, Chroma Prodigy removed.
+
+Waiting for You
+rules_text: Create a token that's a copy of target creature or planeswalker you control, except it isn't legendary. Sacrifice it at the beginning of your next end step.
+Flashback—{1}{R}, Untap three tapped creatures you control. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Create a token that's a copy of target creature or planeswalker you control, except it isn't legendary. Sacrifice it at the beginning of your next end step.
+
+Akiyama Rim
+rules_text: Prowess
+Whenever another creature you control with base power or toughness 1 enters, put a prowess counter on it. => Creatures you control have prowess.
+pt: 3/1 => 2/2
+
+Fall Out
+
+Social Executioner
+rules_text: Prevent all noncombat damage dealt to tokens you control.
+At the beginning of each your end step, create a 1/1 white Human creature token for each nontoken Human you control. => Prevent all noncombat damage dealt to creatures you control.
+At the beginning of each your end step, create a 1/1 white Human creature token for each nontoken Human you control.
+
+Twilight Celebrant
+
+Corsenna, Planar Sightseer
+type: Legendary Creature — Human Wizard Scout => Legendary Creature — Human Scout
+rules_text: Lands you control enter untapped.
+At the beginning of your upkeep, you may conjure a duplicate of target nontoken land into your hand.
+{0}: Copy target activated or triggered ability of a land you control. Activate this ability only once each turn. [i](Mana abilities can't be targeted.)[/i] => Reach
+Lands you control enter untapped.
+{0}: Conjure a duplicate of target land into your hand. Activate only once each turn and only as a sorcery.
+
+Superstar_sen
+
+Trick-taking
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. Search that player's graveyard, hand, and library for up to four cards with the chosen card's name and exile them. That player shuffles. => Target opponent reveals their hand. You choose a nonland card from it. Search that player's graveyard, hand, and library for up to four cards with the chosen card's name and exile them. Then that player shuffles.
+Flashback {2}{B}{G}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+
+VERSION 42 CHANGELOG
+====================
+
+Trick-taking added.
+
+Poker Face removed.
+
+
+VERSION 41 CHANGELOG
 ====================
 
 Twilight Dreamer added.
