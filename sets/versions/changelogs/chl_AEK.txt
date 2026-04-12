@@ -1,4 +1,460 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 47 CHANGELOG
+====================
+
+No changes.
+
+VERSION 46 CHANGELOG
+====================
+
+Starving Artist added.
+Ephemeral Adventurer added.
+Lightshow Conductor added.
+Upstage added.
+Smallest Violin added.
+
+Lightshow Ascetic removed.
+From Grassroots removed.
+Moonglow Romantic removed.
+Stage Newcomer removed.
+Wayfarer's Violin removed.
+
+Rooftop Violinist
+rules_text: Whenever Rooftop Violinist attacks, you may pay 1 life. If you do, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => When Rooftop Violinist enters, you may pay 1 life. If you do, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Fan Following
+type: Enchantment => Enchantment — Aura
+cost: {2}{B} => {1}{B}
+rules_text: When Fan Following enters, conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+At the beginning of combat on your turn, target creature you control gains lifelink and menace until end of turn. => Enchant creature
+When Fan Following enters, conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Enchanted creature has menace, deathtouch, and lifelink.
+
+Digitization Rig
+rules_text: When Digitization Rig enters, conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Avatars you control get +1/+1. => When Digitization Rig enters, conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Avatars you control get +1/+0.
+
+Let Him Cook
+
+Dark Comedy Duo
+rules_text: When Dark Comedy Duo enters, if you control a storied permanent, you draw a card and gain 3 life. [i](Enchantments and legendary permanents are storied.)[/i] => When Dark Comedy Duo enters, if you control a storied permanent, you draw a card and gain 2 life. [i](Enchantments and legendary permanents are storied.)[/i]
+
+We Could Be Supervillains
+type: Enchantment => Sorcery
+cost: {1}{B} => {2}{B}
+rules_text: Whenever a creature you control with menace, deathtouch, or lifelink attacks, the defending player loses 1 life.
+{3}{B}: Target creature you control gains menace until end of turn. => Each opponent discards two cards. If you control a creature with menace, deathtouch, or lifelink, each opponent loses 3 life and you gain 3 life.
+
+I Am A Rockstar
+
+Ellis, Silent Muralist
+
+Snapshot Storyteller
+
+Idiosyncratic Savant
+
+Holographic Darling
+
+Miseko Kiteflier
+
+Exalted Gossipers
+
+Balcony Sommelier
+
+Twilight Celebrant
+
+Neon Streetracer
+
+Sundown Slow Dancers
+
+Lurking Insomniac
+
+Skybridge Joyrider
+
+Alicia, the Final Dawn
+
+Nexus Technician
+
+Sempiternal Witch
+
+Citron Bartender
+
+Ezren, Speedrunner
+
+Fiery Prominence
+
+Nezuri, Toxic Princess
+
+Midnight Caller
+
+Lamplighter
+
+Iason, Voice of the Admirers
+
+Extraplanar Explorer
+type: Creature — Human Scout => Creature — Vampire Scout
+
+Shorekeeper
+
+Wandering Halovian
+
+Miko, Who Sings With Heart
+
+Flirt with Disaster
+
+From the Mirror
+
+Omniscent Reader
+
+Sly Consigliere
+
+Yume, Miseko Producer
+
+Cursed Catlover
+
+Puddle Stomper
+
+Acrylic Run
+
+Blade Alley Vigilante
+
+Hyacin, the Wondermaker
+
+Inspiring Idol
+
+Introversion
+
+Kyv, Sanguine Avante
+
+Luminescent Idol
+
+Resplendent Idol
+
+Screaming into the Rain
+
+Spark Hunter Kajiwara Ai
+
+Serenyi, the Benevolent
+
+Villainous Idol
+
+Kaede, the City Below
+
+Miseko, Urban Crossroads
+
+Satsukai, Nexus of Lights
+
+Tsukuri, Lantern Sanctum
+
+Nyano, Serene Shrine
+
+Vielle's Perch
+
+Vielle Never Sleeps
+
+Kalista, Citron Don
+
+Shock Paintress
+
+Shiroyuki, the Everygirl
+
+Reclusive Cynic
+
+Fiona Tsukuri
+
+Concentrate
+
+Rising Flames
+
+Sea Cache
+
+Demonic Tutor
+
+Drain
+
+Storm Crow
+
+Thoughts
+
+Yri, Utonian Hero
+
+Human_1
+
+Human_2
+
+Copy
+
+Horror
+
+Toy
+
+Soldier
+
+Cat
+
+Awe
+
+Vielle, Undercity Wayfarer
+
+Tolen, the Paradisiac
+
+Enigmatic Highroller
+
+Naoko, Onigaiko Transfer
+
+Shayu, Epsilon Remnant
+
+Viktoria, the Heartline
+
+Secret Rendezvous
+
+Elemental
+
+Expedite
+
+Corsenna, Planar Sightseer
+
+Luminescent Vision
+
+Villainous Vision
+
+Resplendent Vision
+
+Idyllic Vision
+
+Need for Speed
+
+Bounding Companion
+
+Inspiring Vision
+
+Lightning Strike
+
+Volcanic Dragon
+
+Unsummon
+
+Voyager
+
+Hero's Downfall
+
+Night's Whisper
+
+Redemption
+
+Superstar_sen
+
+Akane, Linearity Breaker
+
+Bleed
+
+Chroma Network Rival
+
+Repose
+
+Setting Sun
+
+Disenchant
+
+Touka, Afterlife Specialist
+
+Among the Glowmoths
+
+Crescendo for the Crown
+
+Seventh Street Assembly
+
+Rainy Night Voyager
+
+Solitary Requiem
+
+Miss Navia Cosgrove
+
+Luminous City
+
+Halcyon Road
+
+Celosia's Emblem
+
+Shiroyuki's Emblem
+
+Celosia on Burning Wings
+
+Heartfelt Composition
+
+Flawless Favorite
+
+Embrace
+
+Kairos, Colorsmith
+
+Imaginative Sojourner
+
+Dreamglass Melody
+cost: {B} => {1}{B}
+rules_text: Each player discards a card. Conjure a Virtual Avatar into your hand. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Exile Dreamglass Melody and three other cards with the same name as it from your graveyard: Search your graveyard, hand, and/or library for an Avatar permanent card and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery. => Conjure a Virtual Avatar onto the battlefield. [i](It's a {2} 2/2 Avatar enchantment creature.)[/i]
+Then you may exile Dreamglass Melody and two other cards named Dreamglass Melody from your graveyard. If you do, search your graveyard, hand, and/or library for an Avatar permanent card and put it onto the battlefield. If you search your library this way, shuffle.
+
+Idyllic Idol
+
+All the Time in the World
+
+Cosmic Starchild
+
+Under Public Eye
+
+Gravity Defier
+
+Thunder Stage Star
+
+Heroes are Never Late
+
+Wheelbound Ace
+
+Eventide Rendezvous
+
+Selenite Flowergirl
+
+Make Believer
+
+Tsukuri Holo-Witch
+
+Planesculpting
+
+Silver Kitsune
+
+Zeal
+
+The Dreamglass Majesty
+
+Lunar Halo
+
+Chroma Prodigy
+
+Empower
+
+Treasure
+
+Knife
+
+Clue
+
+Aekyan Nights
+
+Campfire Storyteller
+
+Legends Remembered
+
+Victim of Boredom
+
+One Night Heartbreaker
+
+To Save a Broken Heart
+
+Amina, Slightly Clumsy
+
+Yri's Secret Hideout
+
+Whimsical Storytelling
+
+Flowers Bloom Nowhere
+
+The Chroma Network
+
+Mistencharm Resplendant
+
+Unlucky Crossing
+
+Doublecast
+
+Nixie, Novice Scriptwriter
+
+Pass into Oblivion
+
+Quiet Aquarium
+
+Construction Zone
+
+Decadent Nightclub
+
+Feline Sanctuary
+
+Cluttered Studio
+
+Opulent Casino
+
+Shopping Mall
+
+Skyline Lookout
+
+Undercity Alley
+
+Urban Gardens
+
+Barhopping in Miseko
+
+Wallflower's Retreat
+
+Joyous Princeling
+
+Chaos Conductor
+
+Otherworld Egotist
+
+Undercity Peacekeeper
+
+Anticello, Cold Confidence
+
+Moyro Mafioso
+rules_text: Menace
+Whenever Moyro Mafioso attacks, you may discard a card. If you do, conjure two duplicates of Drain into your hand. [i](They are each a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i][/b] => Menace
+Whenever Moyro Mafioso attacks, you may discard a card not named Drain. If you do, conjure two duplicates of Drain into your hand. [i](They are each a {B} sorcery with “Each opponent loses 1 life. You gain 1 life.”)[/i][/b]
+
+Desperate Starlet
+
+Nightmare Influencer
+
+Time Walk
+
+Rumor Silencer
+
+Careening Car
+
+Wheel of Fortune
+
+The Masked Fool
+
+Trick-taking
+
+A Practical Guide to Evil
+
+Xena, Dazzling Celebrity
+
+Kyv's Synthesizer
+
+Horror Avatar
+
+Shiroyuki's Singularity
+
+Our Story Lives Forever
+
+Azalea, New Apocrypha
+
+Avatar
+
+ShiroyukisSingularity_loop
+
+Sunshine Icon
+cost: {1}{G} => {2}{G}
+rules_text: Whenever a Human creature you control enters, choose one that hasn't been chosen this turn —
+• Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+• You may put a land card from your hand onto the battlefield tapped. => Reach
+Whenever you cast a creature spell for its stardom cost or a creature you control becomes legendary, create a 3/3 white Avatar enchantment creature token. This ability triggers only once each turn.
+pt: 2/1 => 2/3
+
+
+VERSION 45 CHANGELOG
 ====================
 
 ShiroyukisSingularity_loop added.
