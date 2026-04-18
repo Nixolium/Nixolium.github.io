@@ -175,11 +175,11 @@
         "position": "253"
     },
     {
-        "card_name": "Our Story Lives Forever",
-        "number": 29,
+        "card_name": "Selenite Flowergirl",
+        "number": 33,
         "shape": "normal",
         "set": "AEK",
-        "position": "296"
+        "position": "224"
     },
     {
         "card_name": "Otherworld Egotist",
@@ -210,11 +210,11 @@
         "position": "227"
     },
     {
-        "card_name": "Selenite Flowergirl",
-        "number": 34,
+        "card_name": "This Story Lives Forever",
+        "number": 36,
         "shape": "normal",
         "set": "AEK",
-        "position": "224"
+        "position": "296"
     },
     {
         "card_name": "Rainy Night Voyager",
@@ -561,7 +561,7 @@
     },
     {
         "card_name": "Puddle Stomper",
-        "number": 30,
+        "number": 29,
         "shape": "normal",
         "set": "AEK",
         "position": "118"
@@ -596,7 +596,7 @@
     },
     {
         "card_name": "Sly Consigliere",
-        "number": 35,
+        "number": 34,
         "shape": "normal",
         "set": "AEK",
         "position": "115"
@@ -1016,7 +1016,7 @@
     },
     {
         "card_name": "Rhythm Seer",
-        "number": 31,
+        "number": 30,
         "shape": "normal",
         "set": "AEK",
         "position": "20"
@@ -1051,7 +1051,7 @@
     },
     {
         "card_name": "Rumor Silencer",
-        "number": 32,
+        "number": 31,
         "shape": "normal",
         "set": "AEK",
         "position": "280"
@@ -1086,7 +1086,7 @@
     },
     {
         "card_name": "Satsukai Fixer",
-        "number": 33,
+        "number": 32,
         "shape": "normal",
         "set": "AEK",
         "position": "59"
@@ -1121,7 +1121,7 @@
     },
     {
         "card_name": "Street-Level Sleuth",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "AEK",
         "position": "62"

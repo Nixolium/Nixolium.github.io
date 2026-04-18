@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment Creature — Avatar Artist",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/20.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/59.png"
 			}
@@ -603,7 +603,7 @@
 		{
 			"name": "Astral Pianist",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Enchantment Creature — Avatar Artist",
 			"collector_number": "11",
 			"image_uris": {
@@ -625,7 +625,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/62.png"
 			}
@@ -1155,7 +1155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/115.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Reveler",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/118.png"
 			}
@@ -2259,7 +2259,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Avatar Horror",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/224.png"
 			}
@@ -2819,7 +2819,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Enchantment Creature — Avatar Rogue",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/280.png"
 			}
@@ -2975,11 +2975,11 @@
 			}
 		},
 		{
-			"name": "Our Story Lives Forever",
+			"name": "This Story Lives Forever",
 			"rarity": "rare",
 			"mana_cost": "{6}{W}",
 			"type": "Sorcery",
-			"collector_number": "29",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/AEK-files/img/296.png"
 			}
@@ -3089,7 +3089,7 @@
 	2 A Practical Guide to Evil
 	2 Xena, Dazzling Celebrity
 	2 Shiroyuki's Singularity
-	2 Our Story Lives Forever
+	2 This Story Lives Forever
 	2 Azalea, New Apocrypha
 [uncommon(3)]
 	4 Fan Following
@@ -3505,7 +3505,7 @@
 	12 Horror Avatar
 	12 Smallest Violin
 	2 Shiroyuki's Singularity
-	2 Our Story Lives Forever
+	2 This Story Lives Forever
 	2 Azalea, New Apocrypha
 	6 Sunshine Icon
 [wildcard(1)]
@@ -3745,6 +3745,6 @@
 	6 Horror Avatar
 	6 Smallest Violin
 	7 Shiroyuki's Singularity
-	7 Our Story Lives Forever
+	7 This Story Lives Forever
 	7 Azalea, New Apocrypha
 	15 Sunshine Icon

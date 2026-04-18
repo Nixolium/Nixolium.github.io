@@ -1,4 +1,25 @@
-﻿VERSION 47 CHANGELOG
+﻿VERSION 48 CHANGELOG
+====================
+
+This Story Lives Forever added.
+
+Our Story Lives Forever removed.
+
+Astral Pianist
+cost: {1}{W} => {2}{W}
+
+Dark Comedy Duo
+rules_text: When Dark Comedy Duo enters, if you control a storied permanent, you draw a card and gain 2 life. [i](Enchantments and legendary permanents are storied.)[/i] => When Dark Comedy Duo enters, if you control a storied permanent, you draw a card and gain 3 life. [i](Enchantments and legendary permanents are storied.)[/i]
+pt: 4/4 => 3/4
+
+Iason, Voice of the Admirers
+rules_text: During your turn, other storied creatures you control get +1/+1. [i](Enchantments and legendary permanents are storied.)[/i]
+Whenever you cast a creature spell for its stardom cost or a creature you control becomes legendary, draw a card. => During your turn, other storied creatures you control get +1/+1. [i](Enchantments and legendary permanents are storied.)[/i]
+Whenever you cast a creature spell for its stardom cost or a creature you control becomes legendary, you may draw a card. If you do, discard a card.
+pt: 0/2 => 1/2
+
+
+VERSION 47 CHANGELOG
 ====================
 
 No changes.
