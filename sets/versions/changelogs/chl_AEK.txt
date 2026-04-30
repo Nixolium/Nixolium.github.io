@@ -1,4 +1,21 @@
-﻿VERSION 48 CHANGELOG
+﻿VERSION 49 CHANGELOG
+====================
+
+
+
+Let Him Cook
+rules_text: When Let Him Cook enters or leaves the battlefield, conjure Rising Flames into your hand. [i](It's a {R} sorcery with “Rising Flames deals X damage each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.”)[/i]
+{3}{R}, Sacrifice Let Him Cook: Create a 2/1 red Human Reveler creature token. => When Let Him Cook enters or you sacrifice it, conjure Rising Flames into your hand. [i](It's a {R} sorcery with “Rising Flames deals X damage each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.”)[/i]
+{3}{R}, Sacrifice Let Him Cook: Create a 2/1 red Human Reveler creature token.
+
+Astral Pianist
+cost: {2}{W} => {1}{W}
+
+To Save a Broken Heart
+rules_text: At the beginning of your end step, if you've cast a noncreature spell this turn, put a +1/+1 counter on a creature you control. If you control no creatures, create a tapped 1/1 white Human creature token instead. => At the beginning of each end step, if you've cast a noncreature spell this turn, put a +1/+1 counter on a creature you control. If you control no creatures, instead create a 1/1 white Human creature token.
+
+
+VERSION 48 CHANGELOG
 ====================
 
 This Story Lives Forever added.

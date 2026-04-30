@@ -603,7 +603,7 @@
 		{
 			"name": "Astral Pianist",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Avatar Artist",
 			"collector_number": "11",
 			"image_uris": {
