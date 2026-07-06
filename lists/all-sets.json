@@ -19,6 +19,11 @@
             "set_code": "LOR",
             "set_name": "Liturgies of Ruhnacht",
             "formats": ""
+        },
+        {
+            "set_code": "LOR2",
+            "set_name": "",
+            "formats": ""
         }
     ]
 }

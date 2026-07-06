@@ -1,4 +1,293 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Thunder Ruins added.
+Burning Heart and Bones added.
+Black Hole Eclipse added.
+Mimi, the Dreamer added.
+Eir, the Wayfarer's Eyes added.
+Powering Up added.
+Sanity Tuning added.
+Crackling Stormrider added.
+Rocket Gang's Return added.
+Burrowing Owl added.
+Dizzy Diver added.
+Ember-Face Kitten added.
+Otherworld Plunge added.
+Warden of Metal added.
+Xel, the Wayfarer's Blades added.
+Gutrune, Variant Researcher added.
+Emonoru, the Vengeant added.
+Wayward Idol added.
+Ignited Fox added.
+Tyrant of Resonance added.
+Orangutan Instructor added.
+Befriending Bear added.
+A Journey Begins added.
+The Tohjo Prodigy added.
+Nocturne II added.
+Mystical Fire added.
+Oceanic Operetta added.
+Light That Burns the Sky added.
+Sciamachy added.
+Sinister Arrow Rain added.
+Splash added.
+Simian Improviser added.
+Call of Family added.
+Mystical Portalist added.
+TEMPNAMENinetales added.
+Chillbreaker Crab added.
+Sheer Cold added.
+Beachfront Smasher added.
+Flametongue Tortoise added.
+
+Steel Ruins removed.
+Pain for the Sake of Gain removed.
+Psychic Snap removed.
+Surfing Rodent removed.
+Wish To Be removed.
+Er, the Wayfarer's Eyes removed.
+Growing Spike removed.
+
+Blazing Biter
+rules_text: Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+Whenever you discard a card, Blazing Biter gets +1/+1 until end of turn. => Invader [i](When this creature attacks, you may discard a card. If you do, draw a card at the end of combat.)[/i]
+Whenever you discard a card, put a +1/+1 counter on Blazing Biter.
+pt: 2/3 => 1/2
+
+Lonely Shoreline
+rules_text: Lonely Shoreline enters tapped.
+{T}: Add {W} or {U}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Lonely Shoreline enters tapped.
+{T}: Add {W} or {U}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Bricklined Alley
+rules_text: Bricklined Alley enters tapped.
+{T}: Add {B} or {R}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Bricklined Alley enters tapped.
+{T}: Add {B} or {R}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Open Fairway
+rules_text: Open Fairway enters tapped.
+{T}: Add {G} or {W}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Open Fairway enters tapped.
+{T}: Add {G} or {W}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Redleaf Woods
+rules_text: Redleaf Woods enters tapped.
+{T}: Add {R} or {G}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Redleaf Woods enters tapped.
+{T}: Add {R} or {G}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Travel Terminal
+rules_text: Travel Terminal enters tapped.
+{T}: Add {U} or {B}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Travel Terminal enters tapped.
+{T}: Add {U} or {B}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Painted Docks
+rules_text: Painted Docks enters tapped.
+{T}: Add {U} or {R}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Painted Docks enters tapped.
+{T}: Add {U} or {R}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Nightmare Kitchen
+rules_text: Nightmare Kitchen enters tapped.
+{T}: Add {B} or {G}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Nightmare Kitchen enters tapped.
+{T}: Add {B} or {G}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Sunscarred Steps
+rules_text: Sunscarred Steps enters tapped.
+{T}: Add {W} or {B}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Sunscarred Steps enters tapped.
+{T}: Add {W} or {B}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Secret Lagoon
+rules_text: Secret Lagoon enters tapped.
+{T}: Add {G} or {U}.
+Exhaust — {2}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i] => Secret Lagoon enters tapped.
+{T}: Add {G} or {U}.
+Exhaust — {4}: Draw a card, then discard a card. [i](Activate each exhaust ability only once.)[/i]
+
+Reality Shatters at Dawn
+
+Archetype of Calm
+rules_text: [i]Psychic Surge[/i] — When Archetype of Calm enters, you may search your library for a basic Plains card, put it into your hand, then shuffle.
+[i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on target creature you control. => [i]Psychic Flow[/i] — When Archetype of Calm enters, you may search your library for a basic Plains card, put it into your hand, then shuffle.
+[i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on target creature you control.
+
+Archetype of Wrath
+rules_text: [i]Electric Surge[/i] — When Archetype of Wrath enters, you may search your library for a basic Mountain card, put it into your hand, then shuffle.
+{1}{R}, Sacrifice a land: Exile the top card of your library. You may cast that card. If you don't, Archetype of Wrath deals 2 damage to each opponent. => [i]Electric Flow[/i] — When Archetype of Wrath enters, you may search your library for a basic Mountain card, put it into your hand, then shuffle.
+{1}{R}, Sacrifice a land: Exile the top card of your library. You may cast that card. If you don't, Archetype of Wrath deals 2 damage to each opponent.
+
+Archetype of Vigor
+rules_text: [i]Grassy Surge[/i] — When Archetype of Vigor enters, you may search your library for a basic Forest card, put it into your hand, then shuffle.
+You may play two additional lands on each of your turns. => [i]Grassy Flow[/i] — When Archetype of Vigor enters, you may search your library for a basic Forest card, put it into your hand, then shuffle.
+You may play two additional lands on each of your turns.
+
+Archetype of Flow
+rules_text: [i]Misty Surge [/i]— When Archetype of Flow enters, you may search your library for a basic Island card, put it into your hand, then shuffle.
+Whenever Archetype of Flow attacks, you may discard a land card. If you do, draw two cards. => [i]Misty Flow [/i]— When Archetype of Flow enters, you may search your library for a basic Island card, put it into your hand, then shuffle.
+Whenever Archetype of Flow attacks, you may discard a land card. If you do, draw two cards.
+
+Warden of Evolution
+rules_text: Hexproof
+Noncreature permanents you don't control lose all nonmana abilities. => Warden of Evolution can't be countered.
+Hexproof
+Noncreature permanents you don't control lose all nonmana abilities.
+
+Storm Warning
+cost: {2}{U} => {U}
+rules_text: Draw two cards. You may return a nonland permanent you control to its owner's hand. => Multitude {2}{U} [i](You may cast this spell for {2}{U}. When you do, copy it.)[/i]
+Draw a card.
+
+Route One
+
+Unrivaled Voyager
+rules_text: Unrivaled Voyager costs {2} less to cast if at least half of the cards in your starting deck are land cards.
+When Unrivaled Voyager enters, you may search your library for a non-Human creature card, reveal it, put it into your hand, then shuffle. => Unrivaled Voyager costs {2} less to cast if each nonland card in your starting deck has a different name.
+When Unrivaled Voyager enters, you may search your library for a non-Human creature card, reveal it, put it into your hand, then shuffle.
+
+Misunderstood Puppet
+rules_text: Misunderstood Puppet can't block.
+At the beginning of each end step, if an opponent lost life this turn, you may return Misunderstood Puppet from your graveyard to your hand. => Misunderstood Puppet can't block.
+Whenever you spend four or more mana on a spell or ability, you may return Misunderstood Puppet from your graveyard to your hand.
+
+Prideful Meerkat
+rules_text: Multitude {3}{B}{B} [i](You may cast this spell for {3}{B}{B}. When you do, copy it.)[/i]
+Menace
+Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i] => Menace
+Invader [i](When this creature attacks, you may discard a card. If you do, draw a card at the end of combat.)[/i]
+
+Lumina, World's Protector
+
+Foundation Employee
+rules_text: Human creatures you control have invader. [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i] => Human creatures you control have invader. [i](When this creature attacks, you may discard a card. If you do, draw a card at the end of combat.)[/i]
+
+Vengeful Survivor
+rules_text: At the beginning of each end step, if you've activated an ability of a creature you control this turn, Vengeful Survivor deals 2 damage to each opponent.
+{3}{R}{W}: Vengeful Survivor gains double strike until end of turn. => At the beginning of each end step, if you've activated a nonmana ability of a creature or planeswalker you control this turn, Vengeful Survivor deals 2 damage to each opponent.
+{3}{R}{W}: Vengeful Survivor gains double strike until end of turn.
+
+Dockside Muse
+
+Buzzing Bug
+rules_text: Flying
+Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+Whenever you discard a card, Buzzing Bug deals 1 damage to each opponent. => Flying
+Invader [i](When this creature attacks, you may discard a card. If you do, draw a card at the end of combat.)[/i]
+Whenever you discard a card, Buzzing Bug deals 2 damage to each opponent.
+
+Battery Bug
+rules_text: Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+{T}: Add {R}. => Invader [i](When this creature attacks, you may discard a card. If you do, draw a card at the end of combat.)[/i]
+{T}: Add {R}.
+
+Alien Venomling
+rules_text: Flying
+Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i] => Flying
+When Alien Venomling enters, search your library for a card, put it into your graveyard, then shuffle.
+
+Vainglory
+rules_text: Whenever you draw a card except the first one you draw during your draw step, create a 1/1 black Spirit creature token with flying and lifelink.
+Whenever a black creature you control deals combat damage to an opponent, you may sacrifice it. If you do, create two tapped Treasure tokens. => Whenever you draw a card except the first one you draw during your draw step, create a 1/1 black Spirit creature token with flying and lifelink.
+Whenever a creature you control deals combat damage to an opponent, you may sacrifice it. If you do, create two tapped Treasure tokens.
+
+Tremendous Tremorhorse
+rules_text: Trample
+Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i] => Trample
+Invader [i](When this creature attacks, you may discard a card. If you do, draw a card at the end of combat.)[/i]
+
+Warden of Thunder
+
+Blazing Sun
+
+Eternal Frost
+
+Heavy Downpour
+
+Blinding Sand
+
+Verdant Winds
+
+Celosia, Atlevon Flamewaker
+
+Cunning Scions
+rules_text: Invader [i](Whenever this creature attacks, you may discard a card. If you do, exile the top card of your library. You may play it until the the end of your next turn.)[/i]
+Whenever you discard a card, Cunning Scions gains deathtouch and lifelink until end of turn. => Invader [i](When this creature attacks, you may discard a card. If you do, draw a card at the end of combat.)[/i]
+Menace
+Whenever you discard a card, Cats you control gain lifelink until end of turn.
+
+Voidsinger's Wish
+
+Swimming Spitter
+
+The Keeper of the Heart
+pt: 2/3 => 3/2
+
+Waking Devourer
+
+Vali, the Wayfarer's Fury
+cost: {4}{R} => {3}{R}{R}
+rules_text: When Vali enters, he deals 3 damage to any target.
+Once each turn, when a player loses life outside of combat, you may add {R}{R}{R}. => When Vali, the Wayfarer's Fury enters, it deals 3 damage to any target.
+Whenever a player loses life for the second time each turn, add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Dancing Firebird
+cost: {1}{R} => {R}
+rules_text: Flying
+When Dancing Firebird enters, it deals 2 damage to each opponent. => Flying
+{R}: Dancing Firebird gets +1/+0 and gains invader until end of turn. Activate only as a sorcery and only once each turn. [i](When this creature attacks, you may discard a card. If you do, draw a card at the end of combat.)[/i]
+
+Sakaki, the Supervillain
+rules_text: Lifelink
+When Sakaki enters, if you cast him, you may reveal three cards you own from outside the game with the same colors and mana value but different names. If you do, put them into your hand. [i](A {B}{B} and {1}{B} have the same qualities, but not {U}{B}.)[/i] => Lifelink
+When Sakaki enters, if you cast him, you may reveal three cards you own from outside the game with the same colors and mana value but different names. If you do, put them into your hand. [i](A {B}{B} and {1}{B} have the same colors and mana value, but not {U}{B}.)[/i]
+
+Snoozing Shrooms
+cost: {G} => {1}{G}
+rules_text: Deathtouch
+When Snoozing Shrooms dies, mill three cards. => Deathtouch
+When Snoozing Shrooms dies, mill four cards.
+pt: 1/1 => 2/2
+
+This Beautiful World
+rules_text: When This Beautiful World enters, draw a card.
+[i]Unity[/i] — At the beginning of combat on your turn, if you control a Human creature and a non-Human creature, creatures you control get +1/+1 and gain haste until end of turn. => When This Beautiful World enters, draw a card.
+[i][i]Unity[/i][/i] — At the beginning of combat on your turn, if you control a Human creature and a non-Human creature, creatures you control get +1/+1 and gain haste until end of turn.
+
+Shine Brightest
+
+Skull Delinquents
+rules_text: {2}, Sacrifice another creature: Put a +1/+1 counter on Skull Delinquents. Activate only as a sorcery. => {1}, Sacrifice another creature: Put a +1/+1 counter on Skull Delinquents. Activate only as a sorcery.
+
+Urban Scavenger
+rules_text: Multitude {1}{W} [i](You may cast this spell for {1}{W}. When you do, copy it.)[/i]
+Urban Scavenger can't block. => Multitude {1}{W} [i](You may cast this spell for {1}{W}. When you do, copy it.)[/i]
+Urban Scavenger enters tapped.
+
+A Good Day for Fishing
+
+
+type: Sorcery — Revelation => 
+cost: {UB} => {1}{W}
+rules_text: Gain control of target creature until end of turn.
+Coalesce {6}{U}{B} [i](You may cast this from your graveyard for {6}{U}{B}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+You can't lose control of permanents [i](while Mortal Whims Falter is on the battlefield.)[/i] => {T}: Untap another target creature you control. Activate only as a sorcery.
+pt: 5/3 => 2/2
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Warden of Reflection added.
