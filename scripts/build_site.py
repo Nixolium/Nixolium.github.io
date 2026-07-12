@@ -223,9 +223,9 @@ for code in set_codes:
 			raw['version'] = new_version
 
 	#CE: trims border radius of images
-	if raw['trimmed'] == 'n':
-		raw['trimmed'] = 'y'
-		card_edge_trimmer.batch_process_images(code)
+	#if raw['trimmed'] == 'n':
+		#raw['trimmed'] = 'y'
+	card_edge_trimmer.batch_process_images(code)
 
 	with open(os.path.join('sets', code + '-files', code + '.json'), 'w', encoding='utf-8-sig') as f:
 		json.dump(raw, f, indent=4)
