@@ -1,4 +1,442 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Upturned Landscape added.
+Saint of Reddened Blades added.
+Dreamseeker Parasite added.
+
+Akane, the Liminal Girl removed.
+Astral Whalefall removed.
+Black Silence Welcomes All removed.
+Collector of Forbidden Names removed.
+Dreams Don't Come True removed.
+Eldritchbane Magika removed.
+Fantastical Role Play removed.
+Iridia, Bleeding Worldsoul removed.
+Nightbreaker removed.
+Nixie, Drifting on Dreams removed.
+Nyreza, Conflicted Self removed.
+Incorrigable Prince removed.
+Reckless Apostle removed.
+Rend the Waking World removed.
+Solemn Arbiter removed.
+The Vain and the Victorious removed.
+Vielle, the Talentless removed.
+Wreck Explorer removed.
+Antausia's Blood Sun removed.
+Azure Defiance removed.
+Emerald Empath removed.
+Gold Resonance removed.
+Inokrana, the Finality removed.
+Kasmina, the First Awakened removed.
+Navia, Lady of Amethyne removed.
+Nyreza, Her Feathers Ash removed.
+Scarlet Rebellion removed.
+Shiroyuki, Eon Princess removed.
+The Beast of Sonradhach removed.
+The Witchsource Lyre removed.
+Onyx Solitude removed.
+Reflective Reverie removed.
+Consecrated Reverie removed.
+Ancient Reverie removed.
+Wayward Reverie removed.
+Lonely Reverie removed.
+Paradox Reverie removed.
+Idyllic Reverie removed.
+Clockwork Reverie removed.
+Invasive Reverie removed.
+Volcanic Reverie removed.
+Morbid Enthusiasm removed.
+Pinnacle Eye removed.
+Sunset Driver removed.
+Tide of Revelation removed.
+Heartless Decree removed.
+Shattered Dreamwalker removed.
+Cruel Osseomancer removed.
+Kantria Belle removed.
+Myriad Mirror removed.
+Watch This Awesome Move removed.
+Maiden's Call removed.
+Money Printer removed.
+Oversized Weaponry removed.
+Sip removed.
+Wildrose Obliterator removed.
+Laughing Madness removed.
+Astoria, the Deathless removed.
+Brightwing Avenger removed.
+Inksyl, the Second Dusk removed.
+Upturned Vista removed.
+Saint of Reddeded Blades removed.
+Thoughts Not Worth Having removed.
+
+Inokrana's Harbinger
+
+Stalked Crow
+
+Crystal Chainer
+
+Knight of the Moon
+
+Saulvinia Soulshaper
+
+Autumn Cruiser
+
+Walk in the Park
+
+Tainted Practitioner
+
+Void Warden
+
+Scratching Wings
+
+Accidents Maker
+
+Preserved in Frame
+
+Team Up, Beat Down
+
+Friendly Doc
+
+Orb Enjoyer
+
+Pinnacle Detective
+
+Wingscout
+rules_text: Flying
+When Wingscout enters, conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i] => Flying
+When Wingscout enters, conjure a card named Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+
+Resting Seraph
+
+Riftsplicer
+
+Noble Stargazer
+
+Somber Stormcaller
+
+Eternities Watcher
+
+Vigilant Birdwatcher
+
+Malicious Gaze
+
+Overwhelmed Student
+
+Trauma Plunge
+
+Haunted Dreams
+
+Test Frog
+
+Horned Infiltrator
+
+Doomsday Maw
+
+Dark Nebulae Invoker
+
+Wrapped Operative
+
+Harbinger in White
+
+Lycoris Betrayer
+
+Writhing Spire
+
+Soul Distortion
+
+Eastside Butcher
+
+Collapsing Mind Palace
+
+Fatal Flaw
+
+Part-time Executioner
+
+Wavethrasher
+
+Bunny Summoner
+
+Flameseek Avenger
+
+Gilded Wrath
+
+Riftborn Flamekin
+
+Devilish Maiden
+
+Warharker Bard
+
+Shining Valiant
+
+Soulburn
+
+Forge Apprentice
+
+Kantria Burns
+
+Crash Out
+
+Kantria Gambler
+
+Revenger Scion
+
+Echo Wraith
+
+Dreamsifters
+
+Otherside Specialist
+
+Strange Asterbearer
+
+Catkin Prototype
+
+Astral Chainbreaker
+
+The Sky is Bleeding
+
+Nourishing Aberrant
+
+Vehicular Disaster
+
+Portal to Black Void
+
+Born to Slay
+
+Evil Cackling
+
+Crowned Advisor
+
+Cursed Pianist
+
+Drama Extrodinaire
+
+Lunar Cruise
+
+One More Try
+
+Retired Executioner
+cost: {2}{WB}{WB} => {2}{WB}
+pt: 4/4 => 3/3
+
+Soulstore Boxes
+
+Urban Ascendant
+
+Witch Companion
+
+Worn Motorbike
+
+Demonic Conductor
+
+Mechanical Seraph
+
+Soul-Guide Lantern
+
+Crystal Grotto
+
+Glittering Sentinel
+
+Gothic Puppet
+
+Meteor Prototype
+
+Mana Core
+
+Mascot Flag
+
+Soul-Guide Lantern
+
+Careening Car
+
+Prototype Chassis
+
+Rotting Halovian
+
+Halo Bud
+
+Crierlight Star
+
+Nova Kite
+
+Screeching Greatbird
+pt: 4/5 => 3/5
+
+Prancing Carnality
+
+Shadow Elk
+
+Icefire Strix
+
+Dreamspun Prowler
+rules_text: When Dreamspun Prowler enters, conjure Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+Whenever you conjure a card into your hand, tap up to one target creature. Put a stun counter on it. => When Dreamspun Prowler enters, conjure a card named Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+Whenever you conjure a card into your hand, tap up to one target creature. Put a stun counter on it.
+
+Curious Kitten
+
+Bronze Bull
+
+Draconic Temptress
+rules_text: Whenever Draconic Temptress deals combat damage to an opponent, conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+Discard a card: Draconic Temptress gains flying until end of turn. Activate only once each turn. => Whenever Draconic Temptress deals combat damage to an opponent, conjure a card named Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+Discard a card: Draconic Temptress gains flying until end of turn. Activate only once each turn.
+
+Extraplanar Adventurer
+
+Eyeless Grouper
+
+Keening Eel
+
+Bane of Kantria
+
+Precipice of Hands
+
+Living Nexus
+
+Starcradle Tyrant
+
+Eldritch Haunt
+
+Distorted Aberray
+
+Bureau Handler
+
+Hooded Conniver
+
+Stranger Twins
+
+Weapons Distributor
+
+Somber Empath
+
+Gutter Fighter
+
+Corrupted Murmurer
+
+Pale Knightess
+
+Blackmarks Agent
+
+Collateralist Cadre
+
+Farlands Explorer
+
+Paradise Shaper
+
+Spectacle Flagbearer
+
+Memento Seekers
+
+Heraldess of War
+
+Resplendant Violinist
+
+Resplendant Maiden
+
+Kinetic Vigilante
+
+Saulvinia Favorite
+
+Skyrise Saint
+
+Butterfly Ringer
+
+Eldritch Sorcerer
+
+Skyguard Novice
+
+Sanctum Revivalist
+
+Weeping Witch
+
+Scarlet's Apprentice
+
+Overthinking Mourner
+
+Partnered Apprentice
+
+Temporal Bargainer
+
+Ice Princess
+
+Starcharged Intercessor
+rules_text: Flash
+When Starcharged Intercessor enters, it deals damage equal to mana spent to cast it to target tapped creature. Conjure duplicates of cards named Empower into your hand equal to excess damage dealt. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i] => Flash
+When Starcharged Intercessor enters, it deals damage equal to mana spent to cast it to target tapped creature. Conjure duplicates of a card named Empower into your hand equal to excess damage dealt. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+
+Watchful Mass
+
+Haunted Corpse
+
+Virtual Depths
+
+Face the Dark
+
+Lonely Cries in the Night
+
+Dance of Starlight
+
+Onyx's Scream
+
+Poise
+
+Lunar Awe
+
+Out of Reach
+
+Emotion Burst
+
+Blood Moon Lance
+
+Grief is Forbidden
+
+Aerial Fortress
+
+Halcyon Road
+
+Haunted Cavern
+
+Secluded Courtyard
+
+Serenyi, the Entropist
+
+Rim, the Butterfly Sign
+rules_text: Whenever a creature you control with flying deals combat damage to an opponent, conjure Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i] => Whenever a creature you control with flying deals combat damage to an opponent, conjure a card named Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+
+Vielle, the Rosebearer
+
+Nyreza, No Sky Untouchable
+
+Cynette of a Thousand Hues
+
+Dream
+
+Whispers of a Dark Star
+
+Misery Loves Company
+
+Shadowbinding
+
+Dream Spectacle
+
+Preperation for War
+rules_text: Target creature you control gets +3/+3 and gains indestructible until end of turn.
+Conjure a duplicate of Fight into your hand. [i](It's a {G} sorcery with “Target creature you control fights another target creature an opponent controls.”)[/i] => Target creature you control gets +3/+3 and gains indestructible until end of turn.
+Conjure a card named Fight into your hand. [i](It's a {G} sorcery with “Target creature you control fights another target creature an opponent controls.”)[/i]
+
+Child of Amethyne
+
+Truth Behind the Veil
+
+Witness Eternity
+
+Sanity Tuning
+
+Alone With My Thoughts
+rules_text: Conjure two duplicates of Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i] => Conjure two cards named Thoughts into your hand. [i](It's a {U} instant with “Draw a card.”)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Thoughts Not Worth Having added.
