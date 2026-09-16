@@ -1,4 +1,27 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Thoughts Not Worth Having added.
+
+
+The Vain and the Victorious
+rules_text: 
+I — Each opponent sacrifices a creature without bystander.
+II — Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each opponent sacrifices a creature without bystander.
+II — Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+special_text: 
+I — Each opponent sacrifices a creature without bystander.
+II — Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each opponent sacrifices a creature without bystander.
+II — Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
