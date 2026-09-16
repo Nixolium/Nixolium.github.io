@@ -1,4 +1,74 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Akane, the Liminal Girl added.
+Ancient Reverie added.
+Antausia's Blood Sun added.
+Astoria, the Deathless added.
+Astral Whalefall added.
+Azure Defiance added.
+Black Silence Welcomes All added.
+Brightwing Avenger added.
+Clockwork Reverie added.
+Collector of Forbidden Names added.
+Consecrated Reverie added.
+Cruel Osseomancer added.
+Dreams Don't Come True added.
+Eldritchbane Magika added.
+Emerald Empath added.
+Fantastical Role Play added.
+Gold Resonance added.
+Heartless Decree added.
+Idyllic Reverie added.
+Incorrigable Prince added.
+Inksyl, the Second Dusk added.
+Inokrana, the Finality added.
+Invasive Reverie added.
+Iridia, Bleeding Worldsoul added.
+Kantria Belle added.
+Kasmina, the First Awakened added.
+Laughing Madness added.
+Lonely Reverie added.
+Maiden's Call added.
+Money Printer added.
+Morbid Enthusiasm added.
+Myriad Mirror added.
+Navia, Lady of Amethyne added.
+Nightbreaker added.
+Nixie, Drifting on Dreams added.
+No Winners to War added.
+Nyreza, Conflicted Self added.
+Nyreza, Her Feathers Ash added.
+Onyx Solitude added.
+Oversized Weaponry added.
+Paradox Reverie added.
+Pinnacle Eye added.
+Reckless Apostle added.
+Reflective Reverie added.
+Rend the Waking World added.
+Rin, Outerworld Exorcist added.
+Scarlet Rebellion added.
+Shattered Dreamwalker added.
+Shiroyuki, Eon Princess added.
+Sip added.
+Solemn Arbiter added.
+Sunset Driver added.
+The Beast of Sonradhach added.
+The Vain and the Victorious added.
+The Witchsource Lyre added.
+Thoughts Not Worth Having added.
+Tide of Revelation added.
+Unassuming Pedantic added.
+Vielle, the Talentless added.
+Volcanic Reverie added.
+Watch This Awesome Move added.
+Wayward Reverie added.
+Wildrose Obliterator added.
+Wreck Explorer added.
+
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Upturned Landscape added.
