@@ -4824,10 +4824,10 @@
             "number": 96,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "\nI \u2014 Each opponent sacrifices a creature without bystander.\nII \u2014 Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]\nIII \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each opponent sacrifices a creature without bystander.\nII \u2014 Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]\nIII \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Each opponent sacrifices a creature without bystander.\nII \u2014 Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]\nIII \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each opponent sacrifices a creature without bystander.\nII \u2014 Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]\nIII \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.",
             "shape": "saga",
             "set": "DRM",
             "loyalty": "",
@@ -5045,7 +5045,7 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": "!group promo\n!exportname No Winners to War (Promo)"
+            "notes": "!group promo\n"
         },
         {
             "card_name": "Copy",
@@ -5510,5 +5510,5 @@
             "notes": "!group conjure"
         }
     ],
-    "version": 6
+    "version": 7
 }
