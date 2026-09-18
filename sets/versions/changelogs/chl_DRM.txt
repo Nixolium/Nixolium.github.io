@@ -1,4 +1,157 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+No Winners to War (Promo) added.
+Copy added.
+Despair added.
+Despair Horror added.
+Elemental added.
+Empower added.
+Fight added.
+Forest added.
+Horror (medium) added.
+Horror (little) added.
+Human Citizen added.
+Island added.
+Jellyfish added.
+Kraken added.
+Mountain added.
+Plains added.
+Repose added.
+Sonradhach Hunger added.
+Spirit added.
+Swamp added.
+Thoughts added.
+Time Walk added.
+Wastes added.
+
+Unassuming Pedantic removed.
+
+Doomsday Maw
+rules_text: When Doomsday Maw enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => When Doomsday Maw enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Lycoris Betrayer
+rules_text: Flying
+Whenever you draw your second card each turn, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Flying
+Whenever you draw your second card each turn, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Wavethrasher
+rules_text: When this creature dies, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => When this creature dies, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Echo Wraith
+rules_text: When Echo Wraith enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+{T}: Add one mana of any color. => When Echo Wraith enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+{T}: Add one mana of any color.
+
+The Sky is Bleeding
+rules_text: Until end of turn, whenever a creature you control enters, put a trample counter on it.
+Increase your despair by 4. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Until end of turn, whenever a creature you control enters, put a trample counter on it.
+Increase your despair by 4. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Evil Cackling
+rules_text: When you cast Evil Cackling, if you have 1 or more despair, copy it. You may choose new targets for the copy.
+Choose one —
+• Target creature gets +2/+2 until end of turn.
+• Target creature gains hexproof and indestructible until end of turn. => When you cast Evil Cackling, if your despair is 1 or greater, copy it. You may choose new targets for the copy.
+Choose one —
+• Target creature gets +2/+2 until end of turn.
+• Target creature gains hexproof and indestructible until end of turn.
+
+Soulstore Boxes
+rules_text: Bystander [i](Can't attack or block.)[/i]
+{1}, {T}: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Bystander [i](Can't attack or block.)[/i]
+{1}, {T}: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Gothic Puppet
+rules_text: When Gothic Puppet enters, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+As long as you control another Horror, Gothic Puppet gets +2/+2. => When Gothic Puppet enters, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+As long as you control another Horror, Gothic Puppet gets +2/+2.
+
+Halo Bud
+rules_text: Whenever you put a counter on Halo Bud, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Whenever you put a counter on Halo Bud, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Prancing Carnality
+rules_text: When Prancing Carnality enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+Whenever you sacrifice a creature token, each opponent loses 1 life. => When Prancing Carnality enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+Whenever you sacrifice a creature token, each opponent loses 1 life.
+
+Bane of Kantria
+rules_text: When Bane of Kantria enters, up to one target creature gets -X/-X until end of turn, where X is your despair. [i](Despair starts at 0.)[/i]
+{1}{B}, Discard Bane of Kantria: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => When Bane of Kantria enters, up to one target creature gets -X/-X until end of turn, where X is your despair. [i](Despair starts at 0.)[/i]
+{1}{B}, Discard Bane of Kantria: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Spectacle Flagbearer
+rules_text: When Spectacle Flagbearer enters, creatures you control lose bystander until end of turn.
+As long as you control four or more creatures, Spectacle Flagbearer has double strike. => When Spectacle Flagbearer enters, each creature you control loses bystander until end of turn.
+As long as you control four or more creatures, Spectacle Flagbearer has double strike.
+
+Weeping Witch
+rules_text: Signature move — {X}{G}{G}{G}: Put a +1/+1 counter on Weeping Witch. Increase your despair by X. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control. Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Signature move — {X}{G}{G}{G}: Put a +1/+1 counter on Weeping Witch. Increase your despair by X. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control. Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Temporal Bargainer
+cost: {2}{U}{U} => {3}{U}
+rules_text: Signature move — {6}{U}{U}: Put a +1/+1 counter on Temporal Bargainer. Conjure a card named Time Walk into your hand. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control. Time Walk is a {1}{U} sorcery with “Take an extra turn after this one.”)[/i] => Prowess
+Signature move — {5}{U}{U}: Put a +1/+1 counter on Temporal Bargainer. Conjure a card named Time Walk into your hand. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control. Time Walk is a {1}{U} sorcery with “Take an extra turn after this one.”)[/i]
+
+Virtual Depths
+rules_text: When Virtual Depths enters or whenever you draw your second card each turn, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => When Virtual Depths enters or whenever you draw your second card each turn, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Face the Dark
+rules_text: At the beginning of your first main phase, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => At the beginning of your first main phase, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Lonely Cries in the Night
+rules_text: When Lonely Cries in the Night enters, increase your despair by 4. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+Horror tokens you control have flying. => When Lonely Cries in the Night enters, increase your despair by 4. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+Horror tokens you control have flying.
+
+Haunted Cavern
+rules_text: {T}: Add {C}.
+{5}, {T}, Sacrifice Haunted Cavern: Increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => {T}: Add {C}.
+{5}, {T}, Sacrifice Haunted Cavern: Increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Truth Behind the Veil
+rules_text: Discard a card, then draw two cards.
+Increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Discard a card, then draw two cards.
+Increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Cruel Osseomancer
+rules_text: Sacrifice another creature: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Sacrifice another creature: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Heartless Decree
+rules_text: You may sacrifice a creature. If you do, increase your despair by that creature's power. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => You may sacrifice a creature. If you do, increase your despair by that creature's power. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+No Winners to War
+rules_text: Exile all creatures and planeswalkers. Increase your despair by 1 for each permanent exiled this way. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Exile all creatures and planeswalkers. Increase your despair by 1 for each permanent exiled this way. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+The Beast of Sonradhach
+rules_text: Trample, haste
+When The Beast of Sonradhach enters, create Sonradhach Hunger, a legendary green enchantment token with “Sacrifice a creature: Put a +1/+1 counter on each creature you control. Activate only during your turn.” => Trample, haste
+When The Beast of Sonradhach enters, create Sonradhach Hunger, a legendary green enchantment token with “Sacrifice a creature: Put a +1/+1 counter on each creature you control. Activate only on your turn.”
+
+Thoughts Not Worth Having
+rules_text: Whenever you lament, increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Whenever you lament, increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+
+Vielle, the Talentless
+
+Volcanic Reverie
+
+Watch This Awesome Move
+
+Wayward Reverie
+
+Wildrose Obliterator
+
+Wreck Explorer
+rules_text: Bystander [i](Can't attack or block.)[/i]
+When Wreck Explorer enters, draw a card.
+Whenever you draw a card, put a foreshadow counter on Wreck Explorer.
+Sacrifice Wreck Explorer: For every eight counters on Wreck Explorer, create an 8/8 blue Horror creature token. => Bystander [i](Can't attack or block.)[/i]
+When Wreck Explorer enters, draw a card.
+Whenever you draw a card, put a foreshadow counter on Wreck Explorer.
+Sacrifice Wreck Explorer: For every eight counters on Wreck Explorer, create an 8/8 blue Kraken creature token.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Akane, the Liminal Girl added.
