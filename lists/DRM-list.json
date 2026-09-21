@@ -14,11 +14,11 @@
         "position": "181"
     },
     {
-        "card_name": "Astoria, the Deathless",
+        "card_name": "Acolyte of Entropy",
         "number": 69,
         "shape": "normal",
         "set": "DRM",
-        "position": "179"
+        "position": "260"
     },
     {
         "card_name": "Antausia's Blood Sun",
@@ -49,11 +49,11 @@
         "position": "191"
     },
     {
-        "card_name": "Cruel Osseomancer",
-        "number": 74,
+        "card_name": "Astoria, the Deathless",
+        "number": 70,
         "shape": "normal",
         "set": "DRM",
-        "position": "187"
+        "position": "179"
     },
     {
         "card_name": "Kantria Belle",
@@ -67,7 +67,7 @@
         "number": 137,
         "shape": "normal",
         "set": "DRM",
-        "position": "228"
+        "position": "227"
     },
     {
         "card_name": "Gold Resonance",
@@ -84,11 +84,11 @@
         "position": "201"
     },
     {
-        "card_name": "Incorrigable Prince",
-        "number": 83,
+        "card_name": "Cruel Osseomancer",
+        "number": 75,
         "shape": "normal",
         "set": "DRM",
-        "position": "195"
+        "position": "187"
     },
     {
         "card_name": "Money Printer",
@@ -109,28 +109,28 @@
         "number": 20,
         "shape": "normal",
         "set": "DRM",
-        "position": "221"
+        "position": "220"
     },
     {
         "card_name": "Nixie, Drifting on Dreams",
         "number": 49,
         "shape": "normal",
         "set": "DRM",
-        "position": "210"
+        "position": "209"
     },
     {
-        "card_name": "Laughing Madness",
+        "card_name": "Incorrigible Prince",
         "number": 84,
         "shape": "normal",
         "set": "DRM",
-        "position": "202"
+        "position": "195"
     },
     {
         "card_name": "Nyreza, Her Feathers Ash",
         "number": 120,
         "shape": "normal",
         "set": "DRM",
-        "position": "213"
+        "position": "212"
     },
     {
         "card_name": "Emerald Empath",
@@ -144,28 +144,28 @@
         "number": 26,
         "shape": "normal",
         "set": "DRM",
-        "position": "223"
+        "position": "222"
     },
     {
         "card_name": "Thoughts Not Worth Having",
         "number": 62,
         "shape": "normal",
         "set": "DRM",
-        "position": "231"
+        "position": "229"
     },
     {
-        "card_name": "No Winners to War",
-        "number": 87,
+        "card_name": "Laughing Madness",
+        "number": 85,
         "shape": "normal",
         "set": "DRM",
-        "position": "211"
+        "position": "202"
     },
     {
         "card_name": "Reckless Apostle",
         "number": 122,
         "shape": "normal",
         "set": "DRM",
-        "position": "218"
+        "position": "217"
     },
     {
         "card_name": "Heartless Decree",
@@ -179,70 +179,70 @@
         "number": 27,
         "shape": "normal",
         "set": "DRM",
-        "position": "226"
+        "position": "225"
     },
     {
         "card_name": "Tide of Revelation",
         "number": 63,
         "shape": "normal",
         "set": "DRM",
-        "position": "232"
+        "position": "230"
     },
     {
-        "card_name": "Onyx Solitude",
+        "card_name": "No Winners to War",
         "number": 88,
         "shape": "normal",
         "set": "DRM",
-        "position": "214"
+        "position": "210"
     },
     {
         "card_name": "Scarlet Rebellion",
         "number": 125,
         "shape": "normal",
         "set": "DRM",
-        "position": "222"
+        "position": "221"
     },
     {
         "card_name": "Oversized Weaponry",
         "number": 153,
         "shape": "normal",
         "set": "DRM",
-        "position": "215"
+        "position": "214"
     },
     {
         "card_name": "Wildrose Obliterator",
         "number": 35,
         "shape": "normal",
         "set": "DRM",
-        "position": "237"
+        "position": "235"
     },
     {
         "card_name": "Wreck Explorer",
         "number": 68,
         "shape": "normal",
         "set": "DRM",
-        "position": "238"
+        "position": "236"
     },
     {
-        "card_name": "The Vain and the Victorious",
-        "number": 96,
-        "shape": "saga",
+        "card_name": "Onyx Solitude",
+        "number": 89,
+        "shape": "normal",
         "set": "DRM",
-        "position": "229"
+        "position": "213"
     },
     {
         "card_name": "Sunset Driver",
         "number": 130,
         "shape": "normal",
         "set": "DRM",
-        "position": "227"
+        "position": "226"
     },
     {
         "card_name": "Sip",
         "number": 159,
         "shape": "normal",
         "set": "DRM",
-        "position": "225"
+        "position": "224"
     },
     {
         "card_name": "Aerial Fortress",
@@ -260,7 +260,7 @@
     },
     {
         "card_name": "Bane of Kantria",
-        "number": 70,
+        "number": 71,
         "shape": "normal",
         "set": "DRM",
         "position": "104"
@@ -295,7 +295,7 @@
     },
     {
         "card_name": "Butterfly Ringer",
-        "number": 71,
+        "number": 72,
         "shape": "normal",
         "set": "DRM",
         "position": "131"
@@ -330,7 +330,7 @@
     },
     {
         "card_name": "Collateralist Cadre",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "DRM",
         "position": "119"
@@ -365,7 +365,7 @@
     },
     {
         "card_name": "Eldritch Sorcerer",
-        "number": 78,
+        "number": 79,
         "shape": "normal",
         "set": "DRM",
         "position": "132"
@@ -400,7 +400,7 @@
     },
     {
         "card_name": "Haunted Corpse",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "DRM",
         "position": "143"
@@ -435,7 +435,7 @@
     },
     {
         "card_name": "Misery Loves Company",
-        "number": 86,
+        "number": 87,
         "shape": "normal",
         "set": "DRM",
         "position": "166"
@@ -470,7 +470,7 @@
     },
     {
         "card_name": "Onyx's Scream",
-        "number": 89,
+        "number": 90,
         "shape": "normal",
         "set": "DRM",
         "position": "148"
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Precipice of Hands",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "DRM",
         "position": "105"
@@ -540,7 +540,7 @@
     },
     {
         "card_name": "Saint of Reddened Blades",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "DRM",
         "position": "125"
@@ -575,7 +575,7 @@
     },
     {
         "card_name": "Shadowbinding",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "DRM",
         "position": "167"
@@ -651,7 +651,7 @@
         "position": "144"
     },
     {
-        "card_name": "Truth Behind the Veil",
+        "card_name": "Truth Beyond the Veil",
         "number": 131,
         "shape": "normal",
         "set": "DRM",
@@ -715,7 +715,7 @@
     },
     {
         "card_name": "Collapsing Mind Palace",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "DRM",
         "position": "37"
@@ -750,7 +750,7 @@
     },
     {
         "card_name": "Dark Nebulae Invoker",
-        "number": 75,
+        "number": 76,
         "shape": "normal",
         "set": "DRM",
         "position": "30"
@@ -785,7 +785,7 @@
     },
     {
         "card_name": "Doomsday Maw",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "DRM",
         "position": "29"
@@ -820,7 +820,7 @@
     },
     {
         "card_name": "Eastside Butcher",
-        "number": 77,
+        "number": 78,
         "shape": "normal",
         "set": "DRM",
         "position": "36"
@@ -855,7 +855,7 @@
     },
     {
         "card_name": "Fatal Flaw",
-        "number": 79,
+        "number": 80,
         "shape": "normal",
         "set": "DRM",
         "position": "38"
@@ -890,7 +890,7 @@
     },
     {
         "card_name": "Harbinger in White",
-        "number": 80,
+        "number": 81,
         "shape": "normal",
         "set": "DRM",
         "position": "32"
@@ -925,7 +925,7 @@
     },
     {
         "card_name": "Horned Infiltrator",
-        "number": 82,
+        "number": 83,
         "shape": "normal",
         "set": "DRM",
         "position": "28"
@@ -960,7 +960,7 @@
     },
     {
         "card_name": "Lycoris Betrayer",
-        "number": 85,
+        "number": 86,
         "shape": "normal",
         "set": "DRM",
         "position": "33"
@@ -995,7 +995,7 @@
     },
     {
         "card_name": "Part-time Executioner",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "DRM",
         "position": "39"
@@ -1030,7 +1030,7 @@
     },
     {
         "card_name": "Soul Distortion",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "DRM",
         "position": "35"
@@ -1065,7 +1065,7 @@
     },
     {
         "card_name": "Test Frog",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "DRM",
         "position": "27"
@@ -1165,147 +1165,147 @@
     "a->gold",
     {
         "card_name": "Navia, Lady of Amethyne",
-        "number": 189,
+        "number": 190,
         "shape": "planeswalker",
         "set": "DRM",
-        "position": "208"
+        "position": "207"
     },
     {
         "card_name": "Vielle, the Talentless",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "DRM",
-        "position": "233"
+        "position": "231"
     },
     {
         "card_name": "Iridia, Bleeding Worldsoul",
-        "number": 184,
+        "number": 186,
         "shape": "normal",
         "set": "DRM",
         "position": "199"
     },
     {
         "card_name": "Eldritchbane Magika",
-        "number": 176,
+        "number": 178,
         "shape": "normal",
         "set": "DRM",
         "position": "189"
     },
     {
         "card_name": "Maiden's Call",
-        "number": 187,
+        "number": 189,
         "shape": "normal",
         "set": "DRM",
         "position": "204"
     },
     {
         "card_name": "Pinnacle Eye",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "DRM",
-        "position": "217"
+        "position": "216"
     },
     {
         "card_name": "Eldritch Haunt",
-        "number": 175,
+        "number": 177,
         "shape": "normal",
         "set": "DRM",
         "position": "108"
     },
     {
         "card_name": "Nyreza, Conflicted Self",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "DRM",
-        "position": "212"
+        "position": "211"
     },
     {
         "card_name": "Bronze Bull",
-        "number": 171,
+        "number": 173,
         "shape": "normal",
         "set": "DRM",
         "position": "99"
     },
     {
         "card_name": "Blackmarks Agent",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "DRM",
         "position": "118"
     },
     {
         "card_name": "Out of Reach",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "DRM",
         "position": "151"
     },
     {
         "card_name": "Glittering Sentinel",
-        "number": 180,
+        "number": 182,
         "shape": "normal",
         "set": "DRM",
         "position": "81"
     },
     {
         "card_name": "Prancing Carnality",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "DRM",
         "position": "94"
     },
     {
         "card_name": "Heraldess of War",
-        "number": 182,
+        "number": 184,
         "shape": "normal",
         "set": "DRM",
         "position": "124"
     },
     {
         "card_name": "Farlands Explorer",
-        "number": 179,
+        "number": 181,
         "shape": "normal",
         "set": "DRM",
         "position": "120"
     },
     {
         "card_name": "Skyrise Saint",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "DRM",
         "position": "130"
     },
     {
         "card_name": "Cursed Pianist",
-        "number": 206,
+        "number": 208,
         "shape": "normal",
         "set": "DRM",
         "position": "67"
     },
     {
         "card_name": "Scarlet's Apprentice",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "DRM",
         "position": "136"
     },
     {
         "card_name": "Worn Motorbike",
-        "number": 214,
+        "number": 216,
         "shape": "normal",
         "set": "DRM",
         "position": "75"
     },
     {
         "card_name": "Crowned Advisor",
-        "number": 205,
+        "number": 207,
         "shape": "normal",
         "set": "DRM",
         "position": "66"
     },
     {
         "card_name": "Urban Ascendant",
-        "number": 212,
+        "number": 214,
         "shape": "normal",
         "set": "DRM",
         "position": "73"
@@ -1315,7 +1315,7 @@
     },
     {
         "card_name": "Soulstore Boxes",
-        "number": 211,
+        "number": 213,
         "shape": "normal",
         "set": "DRM",
         "position": "72"
@@ -1343,17 +1343,17 @@
     },
     {
         "card_name": "Black Silence Welcomes All",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "DRM",
         "position": "182"
     },
     {
-        "card_name": "Rend the Waking World",
-        "number": 197,
+        "card_name": "Azalea's Mindrazor",
+        "number": 169,
         "shape": "normal",
         "set": "DRM",
-        "position": "220"
+        "position": "264"
     },
     {
         "card_name": "Astral Whalefall",
@@ -1363,146 +1363,154 @@
         "position": "180"
     },
     {
-        "card_name": "Nightbreaker",
-        "number": 190,
+        "card_name": "Blood Halo Invoker",
+        "number": 172,
         "shape": "normal",
         "set": "DRM",
-        "position": "209"
+        "position": "263"
     },
     {
         "card_name": "Shiroyuki, Eon Princess",
-        "number": 201,
+        "number": 202,
         "shape": "planeswalker",
         "set": "DRM",
-        "position": "224"
+        "position": "223"
     },
     {
         "card_name": "Collector of Forbidden Names",
-        "number": 174,
+        "number": 176,
         "shape": "normal",
         "set": "DRM",
         "position": "185"
     },
     {
+        "card_name": "Rend the Waking World",
+        "number": 198,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "219"
+    },
+    {
+        "card_name": "Face the Dark",
+        "number": 180,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "145"
+    },
+    {
+        "card_name": "Nightbreaker",
+        "number": 191,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "208"
+    },
+    {
+        "card_name": "Zenith Clairvoyant",
+        "number": 206,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "261"
+    },
+    {
+        "card_name": "Child of Amethyne",
+        "number": 175,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "170"
+    },
+    {
         "card_name": "Eyeless Grouper",
-        "number": 177,
+        "number": 179,
         "shape": "normal",
         "set": "DRM",
         "position": "102"
     },
     {
-        "card_name": "Morbid Enthusiasm",
-        "number": 188,
+        "card_name": "Gothic Puppet",
+        "number": 183,
         "shape": "normal",
         "set": "DRM",
-        "position": "206"
+        "position": "82"
     },
     {
         "card_name": "Kinetic Vigilante",
-        "number": 185,
+        "number": 187,
         "shape": "normal",
         "set": "DRM",
         "position": "128"
     },
     {
         "card_name": "Bureau Handler",
-        "number": 172,
+        "number": 174,
         "shape": "normal",
         "set": "DRM",
         "position": "110"
     },
     {
-        "card_name": "Child of Amethyne",
-        "number": 173,
+        "card_name": "Saulvinia Favorite",
+        "number": 199,
         "shape": "normal",
         "set": "DRM",
-        "position": "170"
+        "position": "129"
     },
     {
         "card_name": "Lunar Awe",
-        "number": 186,
+        "number": 188,
         "shape": "normal",
         "set": "DRM",
         "position": "150"
     },
     {
-        "card_name": "Face the Dark",
-        "number": 178,
+        "card_name": "One More Try",
+        "number": 211,
         "shape": "normal",
         "set": "DRM",
-        "position": "145"
+        "position": "70"
     },
     {
         "card_name": "Prototype Chassis",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "DRM",
         "position": "88"
     },
     {
         "card_name": "Paradise Shaper",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "DRM",
         "position": "121"
     },
     {
-        "card_name": "Saulvinia Favorite",
-        "number": 198,
+        "card_name": "Retired Executioner",
+        "number": 212,
         "shape": "normal",
         "set": "DRM",
-        "position": "129"
+        "position": "71"
     },
     {
         "card_name": "Drama Extrodinaire",
-        "number": 207,
+        "number": 209,
         "shape": "normal",
         "set": "DRM",
         "position": "68"
     },
     {
-        "card_name": "Gothic Puppet",
-        "number": 181,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "82"
+        "card_name": "e"
     },
     {
         "card_name": "Lunar Cruise",
-        "number": 208,
+        "number": 210,
         "shape": "normal",
         "set": "DRM",
         "position": "69"
     },
     {
         "card_name": "Witch Companion",
-        "number": 213,
+        "number": 215,
         "shape": "normal",
         "set": "DRM",
         "position": "74"
-    },
-    {
-        "card_name": "Retired Executioner",
-        "number": 210,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "71"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "One More Try",
-        "number": 209,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "70"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1521,17 +1529,17 @@
     },
     {
         "card_name": "Inksyl, the Second Dusk",
-        "number": 183,
+        "number": 185,
         "shape": "normal",
         "set": "DRM",
         "position": "196"
     },
     {
         "card_name": "Watch This Awesome Move",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "DRM",
-        "position": "235"
+        "position": "233"
     },
     {
         "card_name": "Astral Chainbreaker",
@@ -1568,56 +1576,63 @@
     },
     {
         "card_name": "Myriad Mirror",
-        "number": 222,
+        "number": 224,
         "shape": "normal",
         "set": "DRM",
-        "position": "207"
+        "position": "206"
     },
     {
-        "card_name": "The Witchsource Lyre",
+        "card_name": "Puppeteer Anachronist",
         "number": 225,
         "shape": "normal",
         "set": "DRM",
-        "position": "230"
+        "position": "262"
+    },
+    {
+        "card_name": "The Witchsource Lyre",
+        "number": 228,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "228"
     },
     {
         "card_name": "Careening Car",
-        "number": 215,
+        "number": 217,
         "shape": "normal",
         "set": "DRM",
         "position": "87"
     },
     {
         "card_name": "Dream",
-        "number": 217,
+        "number": 219,
         "shape": "normal",
         "set": "DRM",
         "position": "164"
     },
     {
         "card_name": "Mana Core",
-        "number": 218,
+        "number": 220,
         "shape": "normal",
         "set": "DRM",
         "position": "84"
     },
     {
         "card_name": "Mascot Flag",
-        "number": 219,
+        "number": 221,
         "shape": "normal",
         "set": "DRM",
         "position": "85"
     },
     {
         "card_name": "Meteor Prototype",
-        "number": 221,
+        "number": 223,
         "shape": "normal",
         "set": "DRM",
         "position": "83"
     },
     {
         "card_name": "Soul-Guide Lantern",
-        "number": 224,
+        "number": 227,
         "shape": "normal",
         "set": "DRM",
         "position": "86"
@@ -1631,20 +1646,17 @@
     },
     {
         "card_name": "Demonic Conductor",
-        "number": 216,
+        "number": 218,
         "shape": "normal",
         "set": "DRM",
         "position": "76"
     },
     {
         "card_name": "Mechanical Seraph",
-        "number": 220,
+        "number": 222,
         "shape": "normal",
         "set": "DRM",
         "position": "77"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1669,38 +1681,38 @@
     },
     {
         "card_name": "Reflective Reverie",
-        "number": 236,
+        "number": 239,
         "shape": "normal",
         "set": "DRM",
-        "position": "219"
+        "position": "218"
     },
     {
         "card_name": "Lonely Reverie",
-        "number": 234,
+        "number": 237,
         "shape": "normal",
         "set": "DRM",
         "position": "203"
     },
     {
         "card_name": "Clockwork Reverie",
-        "number": 227,
+        "number": 230,
         "shape": "normal",
         "set": "DRM",
         "position": "184"
     },
     {
         "card_name": "Volcanic Reverie",
-        "number": 238,
+        "number": 241,
         "shape": "normal",
         "set": "DRM",
-        "position": "234"
+        "position": "232"
     },
     {
         "card_name": "Wayward Reverie",
-        "number": 239,
+        "number": 242,
         "shape": "normal",
         "set": "DRM",
-        "position": "236"
+        "position": "234"
     },
     {
         "card_name": "er"
@@ -1719,35 +1731,35 @@
     },
     {
         "card_name": "Consecrated Reverie",
-        "number": 228,
+        "number": 231,
         "shape": "normal",
         "set": "DRM",
         "position": "186"
     },
     {
         "card_name": "Paradox Reverie",
-        "number": 235,
+        "number": 238,
         "shape": "normal",
         "set": "DRM",
-        "position": "216"
+        "position": "215"
     },
     {
         "card_name": "Invasive Reverie",
-        "number": 233,
+        "number": 236,
         "shape": "normal",
         "set": "DRM",
         "position": "198"
     },
     {
         "card_name": "Ancient Reverie",
-        "number": 226,
+        "number": 229,
         "shape": "normal",
         "set": "DRM",
         "position": "177"
     },
     {
         "card_name": "Idyllic Reverie",
-        "number": 232,
+        "number": 235,
         "shape": "normal",
         "set": "DRM",
         "position": "194"
@@ -1769,35 +1781,35 @@
     },
     {
         "card_name": "Secluded Courtyard",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "DRM",
         "position": "158"
     },
     {
         "card_name": "Halcyon Road",
-        "number": 230,
+        "number": 233,
         "shape": "normal",
         "set": "DRM",
         "position": "156"
     },
     {
         "card_name": "Haunted Cavern",
-        "number": 231,
+        "number": 234,
         "shape": "normal",
         "set": "DRM",
         "position": "157"
     },
     {
         "card_name": "Crystal Grotto",
-        "number": 229,
+        "number": 232,
         "shape": "normal",
         "set": "DRM",
         "position": "79"
     },
     {
         "card_name": "Upturned Landscape",
-        "number": 237,
+        "number": 240,
         "shape": "normal",
         "set": "DRM",
         "position": "80"
@@ -1820,77 +1832,77 @@
         "number": 1,
         "shape": "token",
         "set": "DRM",
-        "position": "240"
+        "position": "238"
     },
     {
         "card_name": "Despair",
         "number": 2,
         "shape": "token",
         "set": "DRM",
-        "position": "241"
+        "position": "239"
     },
     {
         "card_name": "Despair Horror",
         "number": 3,
         "shape": "token",
         "set": "DRM",
-        "position": "242"
+        "position": "240"
     },
     {
         "card_name": "Horror (little)",
         "number": 4,
         "shape": "token",
         "set": "DRM",
-        "position": "248"
+        "position": "246"
     },
     {
         "card_name": "Spirit",
         "number": 5,
         "shape": "token",
         "set": "DRM",
-        "position": "257"
+        "position": "255"
     },
     {
         "card_name": "Elemental",
         "number": 6,
         "shape": "token",
         "set": "DRM",
-        "position": "243"
+        "position": "241"
     },
     {
         "card_name": "Jellyfish",
         "number": 7,
         "shape": "token",
         "set": "DRM",
-        "position": "251"
+        "position": "249"
     },
     {
         "card_name": "Kraken",
         "number": 8,
         "shape": "token",
         "set": "DRM",
-        "position": "252"
+        "position": "250"
     },
     {
         "card_name": "Human Citizen",
         "number": 9,
         "shape": "token",
         "set": "DRM",
-        "position": "249"
+        "position": "247"
     },
     {
         "card_name": "Horror (medium)",
         "number": 10,
         "shape": "token",
         "set": "DRM",
-        "position": "247"
+        "position": "245"
     },
     {
         "card_name": "Sonradhach Hunger",
         "number": 11,
         "shape": "token",
         "set": "DRM",
-        "position": "256"
+        "position": "254"
     },
     {
         "card_name": "e"
@@ -1919,80 +1931,80 @@
     "a->conjure",
     {
         "card_name": "Empower",
-        "number": 240,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "244"
-    },
-    {
-        "card_name": "Repose",
-        "number": 241,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "255"
-    },
-    {
-        "card_name": "Thoughts",
-        "number": 242,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "259"
-    },
-    {
-        "card_name": "Time Walk",
         "number": 243,
         "shape": "normal",
         "set": "DRM",
-        "position": "260"
+        "position": "242"
     },
     {
-        "card_name": "Fight",
-        "number": 245,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "245"
-    },
-    {
-        "card_name": "Forest",
-        "number": 246,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "246"
-    },
-    {
-        "card_name": "Island",
-        "number": 247,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "250"
-    },
-    {
-        "card_name": "Mountain",
-        "number": 248,
+        "card_name": "Repose",
+        "number": 244,
         "shape": "normal",
         "set": "DRM",
         "position": "253"
     },
     {
-        "card_name": "Plains",
-        "number": 249,
+        "card_name": "Thoughts",
+        "number": 245,
         "shape": "normal",
         "set": "DRM",
-        "position": "254"
+        "position": "257"
     },
     {
-        "card_name": "Swamp",
-        "number": 250,
+        "card_name": "Time Walk",
+        "number": 246,
         "shape": "normal",
         "set": "DRM",
         "position": "258"
     },
     {
-        "card_name": "Wastes",
+        "card_name": "Fight",
+        "number": 248,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "243"
+    },
+    {
+        "card_name": "Forest",
+        "number": 249,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "244"
+    },
+    {
+        "card_name": "Island",
+        "number": 250,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "248"
+    },
+    {
+        "card_name": "Mountain",
         "number": 251,
         "shape": "normal",
         "set": "DRM",
-        "position": "261"
+        "position": "251"
+    },
+    {
+        "card_name": "Plains",
+        "number": 252,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "252"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 253,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "256"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 254,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "259"
     },
     {
         "card_name": "e"
@@ -2021,10 +2033,10 @@
     "a->promo",
     {
         "card_name": "No Winners to War (Promo)",
-        "number": 244,
+        "number": 247,
         "shape": "normal",
         "set": "DRM",
-        "position": "239"
+        "position": "237"
     },
     {
         "card_name": "e"

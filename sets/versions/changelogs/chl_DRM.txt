@@ -1,4 +1,201 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Truth Beyond the Veil added.
+Incorrigible Prince added.
+Acolyte of Entropy added.
+Zenith Clairvoyant added.
+Puppeteer Anachronist added.
+Blood Halo Invoker added.
+Azalea's Mindrazor added.
+
+Truth Behind the Veil removed.
+Incorrigable Prince removed.
+Morbid Enthusiasm removed.
+The Vain and the Victorious removed.
+
+Harbinger in White
+
+Otherside Specialist
+
+Astral Chainbreaker
+
+Farlands Explorer
+type: Creature — Human Scout => Creature — Human Citizen Scout
+
+Heraldess of War
+rules_text: When Heraldess of War enters, distribute three +1/+1 counters among up to three target creatures, then double the number of +1/+1 counters on each of those creatures. => Each creature you control with a counter on it has trample.
+When Heraldess of War enters, distribute three +1/+1 counters among up to three target creatures, then double the number of +1/+1 counters on each of those creatures.
+
+Virtual Depths
+cost: {2}{B} => {3}{B}{B}
+rules_text: When Virtual Depths enters or whenever you draw your second card each turn, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => When Virtual Depths enters, all creatures get -2/-2 until end of turn.
+Whenever you draw your second card each turn, add {B}{B}{B}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Out of Reach
+rules_text: Counter target noncreature spell, activated ability, or triggered ability. [i](Mana abilities can't be targeted.)[/i] => Counter target noncreature spell or target activated ability or triggered ability of a nonland source. [i](Mana abilities can't be targeted.)[/i]
+
+Rim, the Butterfly Sign
+pt: 2/3 => 2/4
+
+Whispers of a Dark Star
+rules_text: Create a 3/3 green Horror creature token. You may sacrifice two non-Horror creatures. If you do, create another 3/3 green Horror creature token. Repeat this process any number of times. => Create a 3/3 green Horror creature token.
+Then you may sacrifice two non-Horror creature tokens. If you do, create another 3/3 green Horror creature token. Repeat this process any number of times.
+
+Shadowbinding
+cost: {1}{B} => {4}{B}
+
+Akane, the Liminal Girl
+type: Legendary Creature — Human Citizen => Legendary Creature — Human Artist
+cost: {G}{G} => {1}{G}
+rules_text: Bystander [i](Can't attack or block.)[/i]
+If one or more +1/+1 counters would be put on another creature you control, that many plus X +1/+1 counters on put on it instead, where X is Akane's power. => If one or more +1/+1 counters would be put on another creature you control, that many plus X +1/+1 counters on put on it instead, where X is Akane's power.
+pt: 2/2 => 1/3
+
+Azure Defiance
+rules_text: Ward {2}
+[i]I've got big dreams[/i] — You may cast spells as though they had flash.
+[i]Of a world beautiful and pure[/i] — Once each turn, when you activate a nonmana ability, draw a card. Create a 1/1 blue Elemental creature token with flying. => Flying
+[i]I've got big dreams[/i] — You may cast spells as though they had flash.
+[i]Of a world beautiful and pure[/i] — Once each turn, when you activate a nonmana ability, draw a card. Create a 1/1 blue Elemental creature token with flying.
+
+Dreams Don't Come True
+rules_text: Opponents can't cast spells from outside their hand, create tokens, or search their library. => Opponents can't cast spells from outside their hand, create tokens, or conjure cards into their hand.
+
+Idyllic Reverie
+
+Inokrana, the Finality
+rules_text: Inokrana, the Finality costs {X} less to cast, where X is your despair.
+Flying
+When Inokrana enters, if you cast it, you may reveal any number of Horror cards you own from outside the game and put them into your hand. => Inokrana, the Finality costs {X} less to cast, where X is your despair.
+Flying
+When Inokrana enters, if you cast it, you may reveal any number of nonlegendary Horror cards you own from outside the game and put them into your hand.
+
+Myriad Mirror
+
+Navia, Lady of Amethyne
+
+Nightbreaker
+
+Nixie, Drifting on Dreams
+
+No Winners to War
+
+Nyreza, Conflicted Self
+rules_text: Deathtouch, lifelink
+At the beginning of each player's upkeep, they choose Life or Death.
+• Life — That player's opponents each create a 3/3 green Horror creature token.
+• Death — That player loses 6 life unless they sacrifice a nontoken creature. => Deathtouch, lifelink
+At the beginning of each player's first main phase, they choose Life or Death.
+• Life — That player's opponents each create a 3/3 green Horror creature token.
+• Death — That player loses 6 life unless they sacrifice a nontoken creature.
+
+Nyreza, Her Feathers Ash
+
+Onyx Solitude
+
+Oversized Weaponry
+
+Paradox Reverie
+
+Pinnacle Eye
+
+Reckless Apostle
+
+Reflective Reverie
+
+Rend the Waking World
+
+Rin, Outerworld Exorcist
+
+Scarlet Rebellion
+
+Shattered Dreamwalker
+
+Shiroyuki, Eon Princess
+
+Sip
+
+Solemn Arbiter
+
+Sunset Driver
+type: Creature — Human Warrior => Creature — Human Scout
+rules_text: Haste
+Whenever a creature you control attacks alone, Sunset Driver deals 
+2 damage to you. => Haste
+{T}: Target creature an opponent controls can't block this turn.
+pt: 2/1 => 1/1
+
+The Beast of Sonradhach
+
+The Witchsource Lyre
+
+Thoughts Not Worth Having
+
+Tide of Revelation
+
+Vielle, the Talentless
+
+Volcanic Reverie
+
+Watch This Awesome Move
+cost: {3}{G}{W}{U} => {2}{G}{W}{U}
+
+Wayward Reverie
+
+Wildrose Obliterator
+
+Wreck Explorer
+
+No Winners to War (Promo)
+
+Copy
+
+Despair
+
+Despair Horror
+
+Elemental
+
+Empower
+cost: {2} => {1}
+
+Fight
+
+Forest
+
+Horror (medium)
+
+Horror (little)
+
+Human Citizen
+
+Island
+
+Jellyfish
+
+Kraken
+
+Mountain
+
+Plains
+
+Repose
+
+Sonradhach Hunger
+
+Spirit
+
+Swamp
+
+Thoughts
+
+Time Walk
+
+Wastes
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
