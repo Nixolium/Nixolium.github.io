@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Frog Horror",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/27.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/29.png"
 			}
@@ -305,17 +305,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/30.png"
 			}
 		},
 		{
-			"name": "Wrapped Operative",
+			"name": "Sonradhach Operative",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror Wizard",
-			"collector_number": "100",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/31.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/37.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Horror Avatar",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Eel Horror",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/54.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Horror",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/55.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/56.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Cat",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/58.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/61.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/63.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/65.png"
 			}
@@ -782,7 +782,7 @@
 		},
 		{
 			"name": "Soul-Guide Lantern",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "226",
@@ -795,7 +795,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/79.png"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/80.png"
 			}
@@ -861,23 +861,13 @@
 			}
 		},
 		{
-			"name": "Soul-Guide Lantern",
-			"rarity": "uncommon",
-			"mana_cost": "{1}",
-			"type": "Artifact",
-			"collector_number": "227",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/86.png"
-			}
-		},
-		{
 			"name": "Careening Car",
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact — Vehicle",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/87.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/86.png"
 			}
 		},
 		{
@@ -887,7 +877,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/88.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/87.png"
 			}
 		},
 		{
@@ -897,7 +887,7 @@
 			"type": "Creature — Angel Horror Avatar",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/89.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/88.png"
 			}
 		},
 		{
@@ -905,9 +895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Angel Horror",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/90.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/89.png"
 			}
 		},
 		{
@@ -915,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Angel Horror",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/91.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/90.png"
 			}
 		},
 		{
@@ -927,7 +917,7 @@
 			"type": "Creature — Angel Horror",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/92.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/91.png"
 			}
 		},
 		{
@@ -937,7 +927,7 @@
 			"type": "Creature — Angel Horror",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/93.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/92.png"
 			}
 		},
 		{
@@ -947,7 +937,7 @@
 			"type": "Creature — Beast Horror",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/94.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/93.png"
 			}
 		},
 		{
@@ -957,7 +947,7 @@
 			"type": "Creature — Beast Horror",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/95.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/94.png"
 			}
 		},
 		{
@@ -967,7 +957,7 @@
 			"type": "Creature — Bird Horror",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/96.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/95.png"
 			}
 		},
 		{
@@ -977,7 +967,7 @@
 			"type": "Creature — Cat Horror",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/97.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/96.png"
 			}
 		},
 		{
@@ -987,7 +977,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/98.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/97.png"
 			}
 		},
 		{
@@ -997,7 +987,7 @@
 			"type": "Creature — Cow Horror",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/99.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/98.png"
 			}
 		},
 		{
@@ -1007,7 +997,7 @@
 			"type": "Creature — Dragon Horror Avatar",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/100.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/99.png"
 			}
 		},
 		{
@@ -1015,9 +1005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/101.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/100.png"
 			}
 		},
 		{
@@ -1027,7 +1017,7 @@
 			"type": "Creature — Fish Horror",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/102.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/101.png"
 			}
 		},
 		{
@@ -1037,7 +1027,7 @@
 			"type": "Creature — Fish Horror",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/103.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/102.png"
 			}
 		},
 		{
@@ -1045,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Giant Horror",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/104.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/103.png"
 			}
 		},
 		{
@@ -1057,7 +1047,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/105.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/104.png"
 			}
 		},
 		{
@@ -1065,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/106.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/105.png"
 			}
 		},
 		{
@@ -1077,7 +1067,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/107.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/106.png"
 			}
 		},
 		{
@@ -1087,7 +1077,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/108.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/107.png"
 			}
 		},
 		{
@@ -1097,7 +1087,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/109.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/108.png"
 			}
 		},
 		{
@@ -1107,7 +1097,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/110.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/109.png"
 			}
 		},
 		{
@@ -1117,7 +1107,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/111.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/110.png"
 			}
 		},
 		{
@@ -1127,7 +1117,7 @@
 			"type": "Creature — Human Civilian",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/112.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/111.png"
 			}
 		},
 		{
@@ -1137,7 +1127,7 @@
 			"type": "Creature — Human Civilian",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/113.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/112.png"
 			}
 		},
 		{
@@ -1147,7 +1137,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/114.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/113.png"
 			}
 		},
 		{
@@ -1157,7 +1147,7 @@
 			"type": "Creature — Human Horror Assassin",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/115.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/114.png"
 			}
 		},
 		{
@@ -1167,7 +1157,7 @@
 			"type": "Creature — Human Horror Scout",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/116.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/115.png"
 			}
 		},
 		{
@@ -1177,7 +1167,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/117.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/116.png"
 			}
 		},
 		{
@@ -1187,7 +1177,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/118.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/117.png"
 			}
 		},
 		{
@@ -1195,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Scout",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/119.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/118.png"
 			}
 		},
 		{
@@ -1207,7 +1197,7 @@
 			"type": "Creature — Human Citizen Scout",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/120.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/119.png"
 			}
 		},
 		{
@@ -1217,7 +1207,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/121.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/120.png"
 			}
 		},
 		{
@@ -1227,7 +1217,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/122.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/121.png"
 			}
 		},
 		{
@@ -1237,7 +1227,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/123.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/122.png"
 			}
 		},
 		{
@@ -1247,7 +1237,7 @@
 			"type": "Creature — Human Soldier Wizard",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/124.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/123.png"
 			}
 		},
 		{
@@ -1257,7 +1247,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/125.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/124.png"
 			}
 		},
 		{
@@ -1267,7 +1257,7 @@
 			"type": "Creature — Human Wizard Citizen",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/126.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/125.png"
 			}
 		},
 		{
@@ -1277,7 +1267,7 @@
 			"type": "Creature — Human Wizard Noble",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/127.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/126.png"
 			}
 		},
 		{
@@ -1287,7 +1277,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/128.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/127.png"
 			}
 		},
 		{
@@ -1297,7 +1287,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/129.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/128.png"
 			}
 		},
 		{
@@ -1307,7 +1297,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/130.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/129.png"
 			}
 		},
 		{
@@ -1315,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/131.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/130.png"
 			}
 		},
 		{
@@ -1325,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/132.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/131.png"
 			}
 		},
 		{
@@ -1337,7 +1327,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/133.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/132.png"
 			}
 		},
 		{
@@ -1345,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/134.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/133.png"
 			}
 		},
 		{
@@ -1357,7 +1347,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/135.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/134.png"
 			}
 		},
 		{
@@ -1367,7 +1357,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/136.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/135.png"
 			}
 		},
 		{
@@ -1377,7 +1367,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/137.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/136.png"
 			}
 		},
 		{
@@ -1387,7 +1377,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/138.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/137.png"
 			}
 		},
 		{
@@ -1395,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/139.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/138.png"
 			}
 		},
 		{
@@ -1407,7 +1397,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/140.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/139.png"
 			}
 		},
 		{
@@ -1417,7 +1407,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/141.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/140.png"
 			}
 		},
 		{
@@ -1427,7 +1417,7 @@
 			"type": "Creature — Kraken Horror",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/142.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/141.png"
 			}
 		},
 		{
@@ -1437,7 +1427,7 @@
 			"type": "Creature — Skeleton Horror",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/143.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/142.png"
 			}
 		},
 		{
@@ -1445,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/144.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/143.png"
 			}
 		},
 		{
@@ -1457,7 +1447,7 @@
 			"type": "Enchantment",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/145.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/144.png"
 			}
 		},
 		{
@@ -1467,7 +1457,7 @@
 			"type": "Enchantment",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/146.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/145.png"
 			}
 		},
 		{
@@ -1477,7 +1467,7 @@
 			"type": "Enchantment",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/147.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/146.png"
 			}
 		},
 		{
@@ -1487,7 +1477,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/148.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/147.png"
 			}
 		},
 		{
@@ -1495,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/149.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/148.png"
 			}
 		},
 		{
@@ -1507,7 +1497,7 @@
 			"type": "Instant",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/150.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/149.png"
 			}
 		},
 		{
@@ -1517,7 +1507,7 @@
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/151.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/150.png"
 			}
 		},
 		{
@@ -1527,7 +1517,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/152.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/151.png"
 			}
 		},
 		{
@@ -1537,7 +1527,7 @@
 			"type": "Instant",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/153.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/152.png"
 			}
 		},
 		{
@@ -1547,7 +1537,7 @@
 			"type": "Instant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/154.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/153.png"
 			}
 		},
 		{
@@ -1557,11 +1547,21 @@
 			"type": "Kindred Artifact — Horror Vehicle",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/155.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/154.png"
 			}
 		},
 		{
 			"name": "Halcyon Road",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/155.png"
+			}
+		},
+		{
+			"name": "Haunted Cavern",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
@@ -1571,23 +1571,13 @@
 			}
 		},
 		{
-			"name": "Haunted Cavern",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/157.png"
-			}
-		},
-		{
 			"name": "Secluded Courtyard",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/158.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/157.png"
 			}
 		},
 		{
@@ -1597,7 +1587,7 @@
 			"type": "Legendary Creature — Fractal Civilian",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/159.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/158.png"
 			}
 		},
 		{
@@ -1607,7 +1597,7 @@
 			"type": "Legendary Creature — Horror Avatar",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/160.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/159.png"
 			}
 		},
 		{
@@ -1615,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}",
 			"type": "Legendary Creature — Human Axiom",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/161.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/160.png"
 			}
 		},
 		{
@@ -1627,7 +1617,7 @@
 			"type": "Legendary Creature — Human Scout",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/162.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/161.png"
 			}
 		},
 		{
@@ -1637,7 +1627,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/163.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/162.png"
 			}
 		},
 		{
@@ -1647,7 +1637,7 @@
 			"type": "Sorcery",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/164.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/163.png"
 			}
 		},
 		{
@@ -1655,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/165.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/164.png"
 			}
 		},
 		{
@@ -1667,7 +1657,7 @@
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/166.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/165.png"
 			}
 		},
 		{
@@ -1677,7 +1667,7 @@
 			"type": "Sorcery",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/167.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/166.png"
 			}
 		},
 		{
@@ -1685,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/168.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/167.png"
 			}
 		},
 		{
@@ -1695,9 +1685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/169.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/168.png"
 			}
 		},
 		{
@@ -1707,7 +1697,7 @@
 			"type": "Sorcery",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/170.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/169.png"
 			}
 		},
 		{
@@ -1717,7 +1707,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/171.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/170.png"
 			}
 		},
 		{
@@ -1727,7 +1717,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/172.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/171.png"
 			}
 		},
 		{
@@ -1737,7 +1727,7 @@
 			"type": "Sorcery",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/173.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/172.png"
 			}
 		},
 		{
@@ -1747,7 +1737,7 @@
 			"type": "Sorcery",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/174.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/173.png"
 			}
 		},
 		{
@@ -1755,9 +1745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Shapeshifter Horror",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/175.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/174.png"
 			}
 		},
 		{
@@ -1767,7 +1757,7 @@
 			"type": "Legendary Creature — Human Artist",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/176.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/175.png"
 			}
 		},
 		{
@@ -1775,9 +1765,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/177.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/176.png"
 			}
 		},
 		{
@@ -1787,7 +1777,7 @@
 			"type": "Legendary Artifact — Singularity",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/178.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/177.png"
 			}
 		},
 		{
@@ -1795,9 +1785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Civilian",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/179.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/178.png"
 			}
 		},
 		{
@@ -1807,7 +1797,7 @@
 			"type": "Sorcery",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/180.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/179.png"
 			}
 		},
 		{
@@ -1817,7 +1807,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/181.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/180.png"
 			}
 		},
 		{
@@ -1827,7 +1817,7 @@
 			"type": "Instant",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/182.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/181.png"
 			}
 		},
 		{
@@ -1837,7 +1827,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/183.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/182.png"
 			}
 		},
 		{
@@ -1845,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/184.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/183.png"
 			}
 		},
 		{
@@ -1857,7 +1847,7 @@
 			"type": "Creature — Horror Shapeshifter",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/185.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/184.png"
 			}
 		},
 		{
@@ -1865,9 +1855,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/186.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/185.png"
 			}
 		},
 		{
@@ -1875,9 +1865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Horror Wizard",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/187.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/186.png"
 			}
 		},
 		{
@@ -1887,7 +1877,7 @@
 			"type": "Enchantment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/188.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/187.png"
 			}
 		},
 		{
@@ -1897,7 +1887,7 @@
 			"type": "Sorcery",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/189.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/188.png"
 			}
 		},
 		{
@@ -1905,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G}{G}{G}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/190.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/189.png"
 			}
 		},
 		{
@@ -1917,7 +1907,7 @@
 			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/191.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/190.png"
 			}
 		},
 		{
@@ -1927,7 +1917,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/192.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/191.png"
 			}
 		},
 		{
@@ -1935,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/193.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/192.png"
 			}
 		},
 		{
@@ -1945,9 +1935,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/194.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/193.png"
 			}
 		},
 		{
@@ -1957,7 +1947,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/195.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/194.png"
 			}
 		},
 		{
@@ -1967,7 +1957,7 @@
 			"type": "Legendary Creature — Shade Horror",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/196.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/195.png"
 			}
 		},
 		{
@@ -1977,7 +1967,7 @@
 			"type": "Legendary Creature — Elder Horror",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/197.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/196.png"
 			}
 		},
 		{
@@ -1985,9 +1975,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/198.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/197.png"
 			}
 		},
 		{
@@ -1997,17 +1987,17 @@
 			"type": "Legendary Creature — Human Horror",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/199.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/198.png"
 			}
 		},
 		{
 			"name": "Kantria Belle",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Assassin",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/200.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/199.png"
 			}
 		},
 		{
@@ -2017,7 +2007,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/201.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/200.png"
 			}
 		},
 		{
@@ -2027,7 +2017,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/202.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/201.png"
 			}
 		},
 		{
@@ -2035,9 +2025,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/203.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/202.png"
 			}
 		},
 		{
@@ -2047,7 +2037,7 @@
 			"type": "Sorcery",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/204.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/203.png"
 			}
 		},
 		{
@@ -2057,7 +2047,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/205.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/204.png"
 			}
 		},
 		{
@@ -2067,7 +2057,7 @@
 			"type": "Artifact",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/206.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/205.png"
 			}
 		},
 		{
@@ -2077,7 +2067,7 @@
 			"type": "Legendary Planeswalker — Navia",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/207.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/206.png"
 			}
 		},
 		{
@@ -2087,7 +2077,7 @@
 			"type": "Creature — Human Civilian",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/208.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/207.png"
 			}
 		},
 		{
@@ -2097,7 +2087,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/209.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/208.png"
 			}
 		},
 		{
@@ -2107,7 +2097,7 @@
 			"type": "Sorcery",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/210.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/209.png"
 			}
 		},
 		{
@@ -2117,7 +2107,7 @@
 			"type": "Legendary Creature — Human Chimera",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/211.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/210.png"
 			}
 		},
 		{
@@ -2127,7 +2117,7 @@
 			"type": "Legendary Creature — Chimera Horror",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/212.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/211.png"
 			}
 		},
 		{
@@ -2137,7 +2127,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/213.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/212.png"
 			}
 		},
 		{
@@ -2145,9 +2135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/214.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/213.png"
 			}
 		},
 		{
@@ -2155,9 +2145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/215.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/214.png"
 			}
 		},
 		{
@@ -2167,7 +2157,7 @@
 			"type": "Instant",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/216.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/215.png"
 			}
 		},
 		{
@@ -2177,7 +2167,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/217.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/216.png"
 			}
 		},
 		{
@@ -2185,9 +2175,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/218.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/217.png"
 			}
 		},
 		{
@@ -2197,7 +2187,7 @@
 			"type": "Sorcery",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/219.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/218.png"
 			}
 		},
 		{
@@ -2207,7 +2197,7 @@
 			"type": "Legendary Creature — Dog Warlock",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/220.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/219.png"
 			}
 		},
 		{
@@ -2217,7 +2207,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/221.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/220.png"
 			}
 		},
 		{
@@ -2227,7 +2217,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/222.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/221.png"
 			}
 		},
 		{
@@ -2237,17 +2227,17 @@
 			"type": "Legendary Planeswalker — Shiroyuki",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/223.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/222.png"
 			}
 		},
 		{
-			"name": "Sip",
+			"name": "Awestruck Stargazer",
 			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "Sorcery",
-			"collector_number": "159",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/224.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/223.png"
 			}
 		},
 		{
@@ -2257,7 +2247,7 @@
 			"type": "Creature — Horror Avatar",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/225.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/224.png"
 			}
 		},
 		{
@@ -2267,7 +2257,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/226.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/225.png"
 			}
 		},
 		{
@@ -2275,9 +2265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Elder Horror",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/227.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/226.png"
 			}
 		},
 		{
@@ -2285,19 +2275,19 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Singularity",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/228.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/227.png"
 			}
 		},
 		{
-			"name": "Thoughts Not Worth Having",
+			"name": "Suspicious Gentleman",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment",
-			"collector_number": "62",
+			"type": "Creature — Human Horror Noble",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/229.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/228.png"
 			}
 		},
 		{
@@ -2307,7 +2297,7 @@
 			"type": "Sorcery",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/230.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/229.png"
 			}
 		},
 		{
@@ -2317,7 +2307,7 @@
 			"type": "Legendary Creature — Human Axiom",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/231.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/230.png"
 			}
 		},
 		{
@@ -2325,9 +2315,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/232.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/231.png"
 			}
 		},
 		{
@@ -2337,7 +2327,7 @@
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/233.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/232.png"
 			}
 		},
 		{
@@ -2345,9 +2335,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/234.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/233.png"
 			}
 		},
 		{
@@ -2357,7 +2347,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/235.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/234.png"
 			}
 		},
 		{
@@ -2367,7 +2357,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/236.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/235.png"
 			}
 		},
 		{
@@ -2375,9 +2365,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/237.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/236.png"
 			}
 		},
 		{
@@ -2387,7 +2377,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/238.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/237.png"
 			}
 		},
 		{
@@ -2397,7 +2387,7 @@
 			"type": "Reminder",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/239.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/238.png"
 			}
 		},
 		{
@@ -2407,7 +2397,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/240.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/239.png"
 			}
 		},
 		{
@@ -2417,7 +2407,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/241.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/240.png"
 			}
 		},
 		{
@@ -2425,9 +2415,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Sorcery",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/242.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/241.png"
 			}
 		},
 		{
@@ -2435,9 +2425,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/243.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/242.png"
 			}
 		},
 		{
@@ -2445,9 +2435,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/244.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/243.png"
 			}
 		},
 		{
@@ -2457,7 +2447,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/245.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/244.png"
 			}
 		},
 		{
@@ -2467,7 +2457,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/246.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/245.png"
 			}
 		},
 		{
@@ -2477,7 +2467,7 @@
 			"type": "Token Creature — Human Citizen",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/247.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/246.png"
 			}
 		},
 		{
@@ -2485,9 +2475,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/248.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/247.png"
 			}
 		},
 		{
@@ -2497,7 +2487,7 @@
 			"type": "Token Creature — Jellyfish",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/249.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/248.png"
 			}
 		},
 		{
@@ -2507,7 +2497,7 @@
 			"type": "Token Creature — Kraken",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/250.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/249.png"
 			}
 		},
 		{
@@ -2515,9 +2505,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/251.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/250.png"
 			}
 		},
 		{
@@ -2525,9 +2515,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/252.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/251.png"
 			}
 		},
 		{
@@ -2535,9 +2525,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Sorcery",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/253.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/252.png"
 			}
 		},
 		{
@@ -2547,7 +2537,7 @@
 			"type": "Token Enchantment",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/254.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/253.png"
 			}
 		},
 		{
@@ -2557,7 +2547,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/255.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/254.png"
 			}
 		},
 		{
@@ -2565,9 +2555,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/256.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/255.png"
 			}
 		},
 		{
@@ -2575,9 +2565,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/257.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/256.png"
 			}
 		},
 		{
@@ -2585,9 +2575,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/258.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/257.png"
 			}
 		},
 		{
@@ -2595,19 +2585,19 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/259.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/258.png"
 			}
 		},
 		{
-			"name": "Acolyte of Entropy",
+			"name": "Entropic Acolyte",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "69",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/260.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/259.png"
 			}
 		},
 		{
@@ -2617,7 +2607,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/261.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/260.png"
 			}
 		},
 		{
@@ -2627,7 +2617,7 @@
 			"type": "Artifact Creature — Toy Wizard",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/262.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/261.png"
 			}
 		},
 		{
@@ -2637,7 +2627,7 @@
 			"type": "Creature — Human Vampire Wizard",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/263.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/262.png"
 			}
 		},
 		{
@@ -2647,7 +2637,7 @@
 			"type": "Enchantment Creature — Horror Avatar",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Nixolium.github.io/sets/DRM-files/img/264.png"
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/263.png"
 			}
 		}
 	]
@@ -2702,12 +2692,12 @@
 	2 Scarlet Rebellion
 	2 Shattered Dreamwalker
 	2 Shiroyuki, Eon Princess
-	2 Sip
+	2 Awestruck Stargazer
 	2 Solemn Arbiter
 	2 Sunset Driver
 	2 The Beast of Sonradhach
 	2 The Witchsource Lyre
-	2 Thoughts Not Worth Having
+	2 Suspicious Gentleman
 	2 Tide of Revelation
 	2 Vielle, the Talentless
 	2 Volcanic Reverie
@@ -2715,18 +2705,18 @@
 	2 Wayward Reverie
 	2 Wildrose Obliterator
 	2 Wreck Explorer
-	2 Acolyte of Entropy
+	2 Entropic Acolyte
 	2 Zenith Clairvoyant
 	2 Puppeteer Anachronist
 	2 Blood Halo Invoker
 	2 Azalea's Mindrazor
 [uncommon(3)]
+	4 Soul-Guide Lantern
 	4 Glittering Sentinel
 	4 Gothic Puppet
 	4 Meteor Prototype
 	4 Mana Core
 	4 Mascot Flag
-	4 Soul-Guide Lantern
 	4 Careening Car
 	4 Prototype Chassis
 	4 Rotting Halovian
@@ -2847,7 +2837,7 @@
 	8 Horned Infiltrator
 	8 Doomsday Maw
 	8 Dark Nebulae Invoker
-	8 Wrapped Operative
+	8 Sonradhach Operative
 	8 Harbinger in White
 	8 Lycoris Betrayer
 	8 Writhing Spire
@@ -2894,7 +2884,6 @@
 	8 Worn Motorbike
 	8 Demonic Conductor
 	8 Mechanical Seraph
-	8 Soul-Guide Lantern
 	8 Crystal Grotto
 	8 Upturned Landscape
 [foil(1)]
@@ -2929,7 +2918,7 @@
 	12 Horned Infiltrator
 	12 Doomsday Maw
 	12 Dark Nebulae Invoker
-	12 Wrapped Operative
+	12 Sonradhach Operative
 	12 Harbinger in White
 	12 Lycoris Betrayer
 	12 Writhing Spire
@@ -2976,7 +2965,7 @@
 	12 Worn Motorbike
 	12 Demonic Conductor
 	12 Mechanical Seraph
-	12 Soul-Guide Lantern
+	6 Soul-Guide Lantern
 	12 Crystal Grotto
 	12 Upturned Landscape
 	6 Glittering Sentinel
@@ -2984,7 +2973,6 @@
 	6 Meteor Prototype
 	6 Mana Core
 	6 Mascot Flag
-	6 Soul-Guide Lantern
 	6 Careening Car
 	6 Prototype Chassis
 	6 Rotting Halovian
@@ -3122,12 +3110,12 @@
 	2 Scarlet Rebellion
 	2 Shattered Dreamwalker
 	2 Shiroyuki, Eon Princess
-	2 Sip
+	2 Awestruck Stargazer
 	2 Solemn Arbiter
 	2 Sunset Driver
 	2 The Beast of Sonradhach
 	2 The Witchsource Lyre
-	2 Thoughts Not Worth Having
+	2 Suspicious Gentleman
 	2 Tide of Revelation
 	2 Vielle, the Talentless
 	2 Volcanic Reverie
@@ -3135,7 +3123,7 @@
 	2 Wayward Reverie
 	2 Wildrose Obliterator
 	2 Wreck Explorer
-	2 Acolyte of Entropy
+	2 Entropic Acolyte
 	2 Zenith Clairvoyant
 	2 Puppeteer Anachronist
 	2 Blood Halo Invoker
@@ -3172,7 +3160,7 @@
 	6 Horned Infiltrator
 	6 Doomsday Maw
 	6 Dark Nebulae Invoker
-	6 Wrapped Operative
+	6 Sonradhach Operative
 	6 Harbinger in White
 	6 Lycoris Betrayer
 	6 Writhing Spire
@@ -3219,7 +3207,7 @@
 	6 Worn Motorbike
 	6 Demonic Conductor
 	6 Mechanical Seraph
-	6 Soul-Guide Lantern
+	15 Soul-Guide Lantern
 	6 Crystal Grotto
 	6 Upturned Landscape
 	15 Glittering Sentinel
@@ -3227,7 +3215,6 @@
 	15 Meteor Prototype
 	15 Mana Core
 	15 Mascot Flag
-	15 Soul-Guide Lantern
 	15 Careening Car
 	15 Prototype Chassis
 	15 Rotting Halovian
@@ -3365,12 +3352,12 @@
 	7 Scarlet Rebellion
 	7 Shattered Dreamwalker
 	7 Shiroyuki, Eon Princess
-	7 Sip
+	7 Awestruck Stargazer
 	7 Solemn Arbiter
 	7 Sunset Driver
 	7 The Beast of Sonradhach
 	7 The Witchsource Lyre
-	7 Thoughts Not Worth Having
+	7 Suspicious Gentleman
 	7 Tide of Revelation
 	7 Vielle, the Talentless
 	7 Volcanic Reverie
@@ -3378,7 +3365,7 @@
 	7 Wayward Reverie
 	7 Wildrose Obliterator
 	7 Wreck Explorer
-	7 Acolyte of Entropy
+	7 Entropic Acolyte
 	7 Zenith Clairvoyant
 	7 Puppeteer Anachronist
 	7 Blood Halo Invoker

@@ -1,4 +1,423 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Sonradhach Operative added.
+Awestruck Stargazer added.
+Suspicious Gentleman added.
+Entropic Acolyte added.
+
+Wrapped Operative removed.
+Soul-Guide Lantern removed.
+Sip removed.
+Thoughts Not Worth Having removed.
+Acolyte of Entropy removed.
+
+Resting Seraph
+rules_text: Flash
+Signature move — {U}: Put a +1/+1 counter and a flying counter on Resting Seraph. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => Flash
+Signature move — {2}{U}: Put a +1/+1 counter and a flying counter on Resting Seraph. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Noble Stargazer
+rules_text: Whenever Noble Stargazer attacks, lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i] => Whenever Noble Stargazer attacks, lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+{2}, Discard Noble Stargazer: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Haunted Dreams
+rules_text: Flash
+Enchant creature
+Enchanted creature loses all abilities and has bystander. [i](Can't attack or block.)[/i] => Flash
+Enchant creature or planeswalker
+Enchanted permanent loses all abilities and has bystander. [i](It can't attack or block.)[/i]
+
+Writhing Spire
+rules_text: Reach
+At the beginning of your end step, lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+{B}, Discard Writhing Spire: Lament. => Reach
+Whenever you discard a card or sacrifice a creature, each opponent loses 2 life. You gain 2 life.
+
+Kantria Burns
+rules_text: Choose one or both —
+• Kantria Burns deals 2 damage to each creature.
+• Kantria Burns deals 2 damage to each creature with bystander. => Kantria Burns deals 2 damage to each creature. Destroy each creature with bystander dealt damage this way.
+{2}, Discard Kantria Burns: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Soul-Guide Lantern
+
+Careening Car
+
+Prototype Chassis
+
+Rotting Halovian
+
+Halo Bud
+
+Crierlight Star
+
+Nova Kite
+
+Screeching Greatbird
+
+Prancing Carnality
+
+Shadow Elk
+
+Icefire Strix
+
+Dreamspun Prowler
+
+Curious Kitten
+
+Bronze Bull
+
+Draconic Temptress
+
+Extraplanar Adventurer
+
+Eyeless Grouper
+
+Keening Eel
+
+Bane of Kantria
+
+Precipice of Hands
+
+Living Nexus
+
+Starcradle Tyrant
+rules_text: Trample
+Prevent all combat damage dealt to creatures you control with power or toughness 8 or greater. => Starcradle Tyrant can't be blocked by creatures with mana value 2 or less.
+Prevent all combat damage dealt to creatures you control with power or toughness 8 or greater.
+
+Eldritch Haunt
+
+Distorted Aberray
+
+Bureau Handler
+
+Hooded Conniver
+
+Stranger Twins
+
+Weapons Distributor
+
+Somber Empath
+
+Gutter Fighter
+
+Corrupted Murmurer
+
+Pale Knightess
+
+Blackmarks Agent
+
+Collateralist Cadre
+
+Farlands Explorer
+
+Paradise Shaper
+
+Spectacle Flagbearer
+
+Memento Seekers
+
+Heraldess of War
+
+Saint of Reddened Blades
+
+Resplendant Violinist
+
+Resplendant Maiden
+
+Kinetic Vigilante
+
+Saulvinia Favorite
+
+Skyrise Saint
+
+Butterfly Ringer
+
+Eldritch Sorcerer
+
+Skyguard Novice
+
+Sanctum Revivalist
+
+Weeping Witch
+
+Scarlet's Apprentice
+
+Overthinking Mourner
+
+Partnered Apprentice
+
+Temporal Bargainer
+
+Ice Princess
+
+Starcharged Intercessor
+
+Watchful Mass
+
+Haunted Corpse
+
+Virtual Depths
+
+Face the Dark
+
+Lonely Cries in the Night
+
+Dance of Starlight
+
+Onyx's Scream
+
+Poise
+
+Lunar Awe
+
+Out of Reach
+
+Emotion Burst
+
+Blood Moon Lance
+
+Grief is Forbidden
+
+Aerial Fortress
+
+Halcyon Road
+
+Haunted Cavern
+
+Secluded Courtyard
+
+Serenyi, the Entropist
+
+Rim, the Butterfly Sign
+rules_text: Whenever a creature you control with flying deals combat damage to an opponent, conjure a card named Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i] => Whenever one or more creatures you control deal combat damage to an opponent, conjure a card named Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+
+Vielle, the Rosebearer
+
+Nyreza, No Sky Untouchable
+
+Cynette of a Thousand Hues
+
+Dream
+
+Whispers of a Dark Star
+
+Misery Loves Company
+
+Shadowbinding
+
+Dream Spectacle
+
+Preperation for War
+
+Child of Amethyne
+
+Truth Beyond the Veil
+
+Witness Eternity
+
+Sanity Tuning
+
+Alone With My Thoughts
+
+Dreamseeker Parasite
+
+Akane, the Liminal Girl
+
+Ancient Reverie
+
+Antausia's Blood Sun
+
+Astoria, the Deathless
+rules_text: Bystander [i](Can't attack or block.)[/i]
+When Astoria dies, each opponent loses 2 life. If you sacrificed it, return it to the battlefield tapped at the beginning of your next end step. [i](The legend rule does not count as sacrifice.)[/i] => Bystander [i](Can't attack or block.)[/i]
+When Astoria dies, each opponent loses 2 life. If you sacrificed it, return it to the battlefield at the beginning of your next end step. [i](The legend rule does not count as sacrifice.)[/i]
+
+Astral Whalefall
+
+Azure Defiance
+
+Black Silence Welcomes All
+
+Brightwing Avenger
+
+Clockwork Reverie
+
+Collector of Forbidden Names
+
+Consecrated Reverie
+
+Cruel Osseomancer
+
+Dreams Don't Come True
+
+Eldritchbane Magika
+
+Emerald Empath
+
+Fantastical Role Play
+
+Gold Resonance
+
+Heartless Decree
+
+Idyllic Reverie
+
+Incorrigible Prince
+
+Inksyl, the Second Dusk
+rules_text: Inksyl has hexproof and can't be blocked as long as it hasn't dealt damage yet.
+At the beginning of your first combat step each turn, you may replace your second main phase this turn with an additional combat phase. => Inksyl has hexproof and can't be blocked as long as it hasn't dealt damage yet.
+Vigilance
+At the beginning of your first combat step each turn, you may replace your second main phase this turn with an additional combat phase.
+
+Inokrana, the Finality
+
+Invasive Reverie
+
+Iridia, Bleeding Worldsoul
+
+Kantria Belle
+cost: {1}{R} => {2}{R}
+rules_text: As long as Kantria Belle has a counter on it, it has first strike, haste, and ward—Pay 3 life. => Ward—Pay 3 life.
+At the beginning of combat on your turn, each creature you control with a counter on it gains first strike and haste until end of turn.
+pt: 3/2 => 3/3
+
+Kasmina, the First Awakened
+
+Laughing Madness
+
+Lonely Reverie
+
+Maiden's Call
+rules_text: Remove any number of counters from among permanents you control. You may put a creature card with mana value less than or equal to the number of counters removed this way from your hand onto the battlefield. => Remove any number of counters from among permanents you control. You may put a permanent card with mana value less than or equal to the number of counters removed this way from your hand onto the battlefield.
+
+Money Printer
+rules_text: {T}: Add {R}.
+{T}, Tap two other untapped creatures you control: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {T}: Add {R}.
+{T}, Tap another untapped creatures you control: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Myriad Mirror
+
+Navia, Lady of Amethyne
+
+Nightbreaker
+
+Nixie, Drifting on Dreams
+
+No Winners to War
+
+Nyreza, Conflicted Self
+
+Nyreza, Her Feathers Ash
+
+Onyx Solitude
+
+Oversized Weaponry
+
+Paradox Reverie
+
+Pinnacle Eye
+
+Reckless Apostle
+
+Reflective Reverie
+
+Rend the Waking World
+
+Rin, Outerworld Exorcist
+
+Scarlet Rebellion
+
+Shattered Dreamwalker
+
+Shiroyuki, Eon Princess
+
+Solemn Arbiter
+
+Sunset Driver
+
+The Beast of Sonradhach
+
+The Witchsource Lyre
+
+Tide of Revelation
+
+Vielle, the Talentless
+
+Volcanic Reverie
+
+Watch This Awesome Move
+
+Wayward Reverie
+
+Wildrose Obliterator
+
+Wreck Explorer
+
+No Winners to War (Promo)
+
+Copy
+
+Despair
+
+Despair Horror
+
+Elemental
+
+Empower
+
+Fight
+
+Forest
+
+Horror (medium)
+
+Horror (little)
+
+Human Citizen
+
+Island
+
+Jellyfish
+
+Kraken
+
+Mountain
+
+Plains
+
+Repose
+
+Sonradhach Hunger
+
+Spirit
+
+Swamp
+
+Thoughts
+
+Time Walk
+
+Wastes
+
+Zenith Clairvoyant
+
+Puppeteer Anachronist
+
+Blood Halo Invoker
+
+Azalea's Mindrazor
+
+
+VERSION 9 CHANGELOG
+====================
+
+No changes.
+
+VERSION 8 CHANGELOG
 ====================
 
 Truth Beyond the Veil added.
