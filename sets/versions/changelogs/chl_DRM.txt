@@ -1,4 +1,234 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Vigilant Journalist added.
+Wrapped Operative added.
+Cursed Scion added.
+Sonradhach Serpent added.
+Eerie Asterbearer added.
+Stoic Philosopher added.
+Wandering Shroud added.
+Diviner of Tragedies added.
+Unsightly Abomination added.
+Amethyne Baron added.
+Animated Anachronist added.
+Magekiller Aberrant added.
+
+Vigilant Birdwatcher removed.
+Sonradhach Operative removed.
+Revenger Scion removed.
+Echo Wraith removed.
+Strange Asterbearer removed.
+Somber Empath removed.
+Saint of Reddened Blades removed.
+Sanctum Revivalist removed.
+Watchful Mass removed.
+Child of Amethyne removed.
+Eldritchbane Magika removed.
+Pinnacle Eye removed.
+Forest removed.
+Island removed.
+Mountain removed.
+Plains removed.
+Swamp removed.
+Wastes removed.
+Puppeteer Anachronist removed.
+
+Doomsday Maw
+
+Riftborn Flamekin
+rules_text: When Riftborn Flamekin enters, you may sacrifice a creature. If you do, Riftborn Flamekin deals damage equal to the sacrificed creature's power to each opponent. => Reach
+Sacrifice Riftborn Flamekin and another creature: Riftborn Flamekin deals damage equal to the sacrificed creature's power to each opponent.
+
+Catkin Prototype
+type: Creature — Human Cat => Creature — Horror Cat
+
+Born to Slay
+
+Evil Cackling
+rules_text: When you cast Evil Cackling, if your despair is 1 or greater, copy it. You may choose new targets for the copy.
+Choose one —
+• Target creature gets +2/+2 until end of turn.
+• Target creature gains hexproof and indestructible until end of turn. => When you cast Evil Cackling, if you control a Horror, copy it. You may choose new targets for the copy.
+Choose one —
+• Target creature gets +2/+2 until end of turn.
+• Target creature gains hexproof and indestructible until end of turn.
+
+Demonic Conductor
+type: Artifact Creature — Construct Horror => Artifact Creature — Toy Horror
+
+Draconic Temptress
+rules_text: Whenever Draconic Temptress deals combat damage to an opponent, conjure a card named Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+Discard a card: Draconic Temptress gains flying until end of turn. Activate only once each turn. => Whenever Draconic Temptress deals combat damage to an opponent, conjure a card named Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+Discard a card: Draconic Temptress gains flying until end of turn.
+pt: 2/3 => 2/2
+
+Misery Loves Company
+rules_text: Each opponent sacrifices a creature and a discards a card. => Each opponent sacrifices a creature and discards a card.
+
+Alone With My Thoughts
+
+Dreamseeker Parasite
+cost: {1}{G} => {G}{G}
+rules_text: Trample
+{X}: You may put a creature card with mana value X or less from your hand onto the battlefield. If you do, exile Dreamseeker Parasite until that creature leaves the battlefield. It gets +3/+2 and has trample for as long as Dreamseeker Parasite is exiled. Activate only on your turn. => Trample
+{X}: You may put a creature card with mana value X or less from your hand onto the battlefield. If you do, exile Dreamseeker Parasite until that creature leaves the battlefield. It gets +3/+2 and has trample and haste for as long as Dreamseeker Parasite is exiled. Activate only on your turn.
+
+Akane, the Liminal Girl
+
+Collector of Forbidden Names
+
+Emerald Empath
+
+Fantastical Role Play
+
+Gold Resonance
+
+Heartless Decree
+
+Idyllic Reverie
+
+Incorrigible Prince
+
+Inksyl, the Second Dusk
+
+Inokrana, the Finality
+
+Invasive Reverie
+
+Iridia, Bleeding Worldsoul
+rules_text: Lifelink
+When Iridia enters, if you didn't cast her from your hand, she deals 3 damage to any target.
+{7}{B}{R}: Return Iridia, Bleeding Worldsoul from your graveyard to the battlefield. => Lifelink
+When Iridia enters, if you didn't cast her from your hand, she deals 3 damage to any target [i](and lifelink gains 3 life.)[/i]
+{7}{B}{R}: Return Iridia, Bleeding Worldsoul from your graveyard to the battlefield.
+
+Kantria Belle
+
+Kasmina, the First Awakened
+
+Laughing Madness
+
+Lonely Reverie
+
+Maiden's Call
+
+Money Printer
+rules_text: {T}: Add {R}.
+{T}, Tap another untapped creatures you control: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {T}: Add {R}.
+{T}, Tap another untapped creature you control: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Myriad Mirror
+
+Navia, Lady of Amethyne
+
+Nightbreaker
+
+Nixie, Drifting on Dreams
+
+No Winners to War
+
+Nyreza, Conflicted Self
+
+Nyreza, Her Feathers Ash
+
+Onyx Solitude
+
+Oversized Weaponry
+
+Paradox Reverie
+
+Reckless Apostle
+
+Reflective Reverie
+
+Rend the Waking World
+
+Rin, Outerworld Exorcist
+
+Scarlet Rebellion
+
+Shattered Dreamwalker
+
+Shiroyuki, Eon Princess
+
+Awestruck Stargazer
+rules_text: Whenever a land you control enters, put a star counter on Awestruck Stargazer.
+Whenever you attack, you may remove three counters from among permanents you control. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle. => Whenever a land you control enters, put a +1/+1 counter on Awestruck Stargazer.
+Whenever you attack, you may remove three counters from among permanents you control. If you do, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.
+pt: 2/2 => 2/1
+
+Solemn Arbiter
+
+Sunset Driver
+
+The Beast of Sonradhach
+
+The Witchsource Lyre
+
+Suspicious Gentleman
+
+Tide of Revelation
+
+Vielle, the Talentless
+
+Volcanic Reverie
+
+Watch This Awesome Move
+
+Wayward Reverie
+
+Wildrose Obliterator
+rules_text: Lifelink
+Whenever you gain life, put that many +1/+1 counters on each creature you control. => Lifelink, vigilance
+Whenever you gain life, put that many +1/+1 counters on each creature you control.
+
+Wreck Explorer
+
+No Winners to War (Promo)
+
+Copy
+
+Despair
+
+Despair Horror
+
+Elemental
+
+Empower
+
+Fight
+
+Horror (medium)
+
+Horror (little)
+
+Human Citizen
+
+Jellyfish
+
+Kraken
+
+Repose
+
+Sonradhach Hunger
+
+Spirit
+
+Thoughts
+
+Time Walk
+
+Entropic Acolyte
+
+Zenith Clairvoyant
+
+Blood Halo Invoker
+
+Azalea's Mindrazor
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Sonradhach Operative added.
