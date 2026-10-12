@@ -1,4 +1,12 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Twisted Catharsis added.
+
+Whispers of a Dark Star removed.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Young Apothecary added.

@@ -1235,7 +1235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/123.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/142.png"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}",
 			"type": "Legendary Creature — Human Axiom",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/159.png"
 			}
@@ -1631,11 +1631,11 @@
 			}
 		},
 		{
-			"name": "Whispers of a Dark Star",
+			"name": "Twisted Catharsis",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/163.png"
 			}
@@ -2892,7 +2892,7 @@
 	4 Nyreza, No Sky Untouchable
 	4 Cynette of a Thousand Hues
 	4 Dream
-	4 Whispers of a Dark Star
+	4 Twisted Catharsis
 	4 Misery Loves Company
 	4 Shadowbinding
 	4 Preperation for War
@@ -3147,7 +3147,7 @@
 	6 Nyreza, No Sky Untouchable
 	6 Cynette of a Thousand Hues
 	6 Dream
-	6 Whispers of a Dark Star
+	6 Twisted Catharsis
 	6 Misery Loves Company
 	6 Shadowbinding
 	12 Dream Spectacle
@@ -3396,7 +3396,7 @@
 	15 Nyreza, No Sky Untouchable
 	15 Cynette of a Thousand Hues
 	15 Dream
-	15 Whispers of a Dark Star
+	15 Twisted Catharsis
 	15 Misery Loves Company
 	15 Shadowbinding
 	6 Dream Spectacle

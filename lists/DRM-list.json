@@ -609,11 +609,11 @@
         "position": "158"
     },
     {
-        "card_name": "Vielle, the Rosebearer",
+        "card_name": "Twisted Catharsis",
         "number": 99,
         "shape": "normal",
         "set": "DRM",
-        "position": "159"
+        "position": "163"
     },
     {
         "card_name": "Resplendant Maiden",
@@ -644,11 +644,11 @@
         "position": "267"
     },
     {
-        "card_name": "Virtual Depths",
+        "card_name": "Vielle, the Rosebearer",
         "number": 100,
         "shape": "normal",
         "set": "DRM",
-        "position": "142"
+        "position": "159"
     },
     {
         "card_name": "Serenyi, the Entropist",
@@ -679,11 +679,11 @@
         "position": "137"
     },
     {
-        "card_name": "Wandering Shroud",
+        "card_name": "Virtual Depths",
         "number": 101,
         "shape": "normal",
         "set": "DRM",
-        "position": "123"
+        "position": "142"
     },
     {
         "card_name": "Sunset Driver",
@@ -714,11 +714,11 @@
         "position": "170"
     },
     {
-        "card_name": "Whispers of a Dark Star",
+        "card_name": "Wandering Shroud",
         "number": 102,
         "shape": "normal",
         "set": "DRM",
-        "position": "163"
+        "position": "123"
     },
     {
         "card_name": "Truth Beyond the Veil",

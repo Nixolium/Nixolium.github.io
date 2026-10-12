@@ -2595,7 +2595,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Horror",
-            "number": 101,
+            "number": 102,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Whenever Wandering Shroud or another creature you control dies, each opponent loses 1 life. You gain 1 life.",
@@ -2994,7 +2994,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 100,
+            "number": 101,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "When Virtual Depths enters, all creatures get -2/-2 until end of turn.\nWhenever you draw your second card each turn, add {B}{B}{B}. Until end of turn, you don't lose this mana as steps and phases end.",
@@ -3351,7 +3351,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Axiom",
-            "number": 99,
+            "number": 100,
             "color_identity": "B",
             "cost": "{5}{B}",
             "rules_text": "Deathtouch, protection from legendary\nWhen Vielle enters, search your library for a card and exile it face down. For as long as that card remains exiled, you may play it. If it's legendary, it costs {4} less to cast.",
@@ -3431,11 +3431,11 @@
             "notes": ""
         },
         {
-            "card_name": "Whispers of a Dark Star",
+            "card_name": "Twisted Catharsis",
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 102,
+            "number": 99,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Create a 3/3 green Horror creature token.\nThen you may sacrifice two non-Horror creatures. If you do, create another 3/3 green Horror creature token. Repeat this process any number of times.",
@@ -5741,5 +5741,5 @@
             "notes": ""
         }
     ],
-    "version": 12
+    "version": 13
 }
