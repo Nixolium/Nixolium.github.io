@@ -1,4 +1,815 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Zenith Archmage added.
+Violet's Witchsource Lyre added.
+Sleeping Sword Saint added.
+No Winners to War_Promo added.
+Melancholy Seekers added.
+Psionic Sentinel added.
+Corroded Nexus added.
+Wailing Bull added.
+Lightning Bolt added.
+Treasure added.
+Lumbering Sky Tyrant added.
+
+Glittering Sentinel removed.
+Meteor Prototype removed.
+Bronze Bull removed.
+Living Nexus removed.
+Farlands Explorer removed.
+Memento Seekers removed.
+The Witchsource Lyre removed.
+No Winners to War (Promo) removed.
+Time Walk removed.
+Zenith Clairvoyant removed.
+
+Young Apothecary
+
+Writhing Spire
+
+Wreck Explorer
+
+Wrapped Operative
+
+Worn Motorbike
+rules_text: When Worn Motorbike enters, put a +1/+1 counter on target creature or Vehicle you control [i](It's a helmet.)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When Worn Motorbike enters, put a +1/+1 counter on up to one target creature or Vehicle you control [i](It's a helmet.)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Witness Eternity
+
+Witch Companion
+
+Wingscout
+
+Wildrose Obliterator
+
+Weeping Witch
+rules_text: Signature move — {X}{G}{G}{G}: Put a +1/+1 counter on Weeping Witch. Increase your despair by X. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control. Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => Signature move — {X}{G}{G}: Put a +1/+1 counter on Weeping Witch. Increase your despair by X. X can't be 0. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control. Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+pt: 3/4 => 3/3
+
+Weapons Distributor
+
+Wayward Reverie
+rules_text: Wayward Reverie enters tapped.
+When Wayward Reverie enters, each player may scry 2.
+{T}: Add {G} or {W}. => Wayward Reverie enters tapped.
+As Wayward Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {G} or {W}.
+
+Wavethrasher
+rules_text: When this creature dies, if it wasn't blocking, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => When this creature dies, if it wasn't blocking, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Watch This Awesome Move
+
+Warharker Bard
+
+Wandering Shroud
+
+Walk in the Park
+
+Volcanic Reverie
+rules_text: Volcanic Reverie enters tapped.
+When Volcanic Reverie enters, each player may scry 2.
+{T}: Add {R} or {G}. => Volcanic Reverie enters tapped.
+When Volcanic Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {R} or {G}.
+
+Void Warden
+
+Virtual Depths
+
+Vigilant Journalist
+type: Creature — Human Citizen => Creature — Human Scout Citizen
+
+Vielle, the Talentless
+
+Vielle, the Rosebearer
+
+Vielle, Aekyan Antihero
+rules_text: Protection from legendary
+[+2]: Surveil 2. Then you may remove two counters from among permanents you control. If you do, you draw a card and lose 2 life.
+[-3]: Return target nonland permanent to its owner's hand. Its controller discards a card.
+[-6]: Create Stolen Spark, a legendary artifact token with indestructible and “This artifact has the loyalty abilities of each permanent and each permanent card in a graveyard.” => Protection from legendary
+[+2]: Surveil 2. Then you may remove two counters from among permanents you control. If you do, you draw a card and lose 2 life.
+[-3]: Return target nonland permanent to its owner's hand. Its controller discards a card.
+[-7]: Create Stolen Spark, a legendary artifact token with indestructible and “This artifact has the loyalty abilities of each permanent and each permanent card in a graveyard.”
+special_text: Protection from legendary
+[+2]: Surveil 2. Then you may remove two counters from among permanents you control. If you do, you draw a card and lose 2 life.
+[-3]: Return target nonland permanent to its owner's hand. Its controller discards a card.
+[-6]: Create Stolen Spark, a legendary artifact token with indestructible and “This artifact has the loyalty abilities of each permanent and each permanent card in a graveyard.” => Protection from legendary
+[+2]: Surveil 2. Then you may remove two counters from among permanents you control. If you do, you draw a card and lose 2 life.
+[-3]: Return target nonland permanent to its owner's hand. Its controller discards a card.
+[-7]: Create Stolen Spark, a legendary artifact token with indestructible and “This artifact has the loyalty abilities of each permanent and each permanent card in a graveyard.”
+
+Vehicular Disaster
+rules_text: Destroy target artifact, enchantment, or creature with bystander or flying. => Destroy target artifact, enchantment, or creature with bystander or flying. [i](Can't attack or block.)[/i]
+
+Urban Ascendant
+
+Upturned Landscape
+
+Unsightly Abomination
+
+Twisted Catharsis
+
+Truth Beyond the Veil
+rules_text: Discard a card, then draw two cards.
+Increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => Discard a card, then draw two cards.
+Increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Trauma Plunge
+
+Trapped in a Dream
+
+Tide of Revelation
+
+Thoughts
+
+The Sky is Bleeding
+rules_text: When The Sky is Bleeding enters, increase your despair by 4. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+Horrors you control have trample. => When The Sky is Bleeding enters, increase your despair by 4. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+Horrors you control have trample.
+
+Test Frog
+
+Temporal Bargainer
+cost: {3}{U} => {4}{U}
+rules_text: Prowess
+Signature move — {5}{U}{U}: Put a +1/+1 counter on Temporal Bargainer. Conjure a card named Time Walk into your hand. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control. Time Walk is a {1}{U} sorcery with “Take an extra turn after this one.”)[/i] => Flash
+Signature move — {2}{U}: Put a +1/+1 counter on Temporal Bargainer. Until end of turn, you may cast spells as though they had flash. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+pt: 3/4 => 4/5
+
+Team Up, Beat Down
+
+Tainted Practitioner
+
+Suspicious Gentleman
+rules_text: Whenever you attack, sacrifice Suspicious Gentleman.
+Whenever you draw or discard a card, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => Whenever you attack, sacrifice Suspicious Gentleman.
+Whenever you draw or discard a card, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Sunset Driver
+
+Stroke of Butterflies
+
+Stranger Twins
+rules_text: Bystander [i](Can't attack or block.)[/i]
+If you would create a Horror token during combat, create two of those tokens instead. [i](Despair creates two attacking Horrors instead. You still sacrifice them at the next end step.)[/i] => Bystander [i](Can't attack or block.)[/i]
+If you would create a Horror token during combat, create two of those tokens instead. [i](Despair creates two attacking Horrors instead. You still sacrifice them at end step.)[/i]
+
+Stoic Philosopher
+
+Starcradle Tyrant
+
+Starcharged Intercessor
+
+Stalked Crow
+
+Spirit
+
+Spectacle Flagbearer
+
+Soulstore Boxes
+type: Artifact Creature — Citizen Horror => Artifact Creature — Horror Citizen
+
+Soulburn
+
+Soul-Guide Lantern
+
+Soul Distortion
+
+Sonradhach Serpent
+rules_text: Deathtouch
+{T}: Add one mana of any color.
+{4}, {T}, Sacrifice Sonradhach Serpent: Increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => Deathtouch
+{T}: Add one mana of any color.
+{4}, {T}, Sacrifice Sonradhach Serpent: Increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Somber Stormcaller
+cost: {4}{U} => {3}{U}
+rules_text: Prowess
+Signature move — {4}{U}{U}: Put a +1/+1 counter on Somber Stormcaller. Return target instant or sorcery card from your graveyard to your hand. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => Prowess
+Signature move — {4}{U}: Put a +1/+1 counter on Somber Stormcaller. Return target instant or sorcery card from your graveyard to your hand. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+pt: 4/4 => 3/4
+
+Solemn Arbiter
+
+Skyrise Saint
+
+Skyguard Novice
+
+Shiroyuki, Eon Princess
+
+Shining Valiant
+
+Shattered Dreamwalker
+
+Shadowbinding
+
+Shadow Elk
+rules_text: When Shadow Elk enters, look at target opponent's hand. You may exile a noncreature, nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast. => When Shadow Elk enters, look at target player's hand. You may exile a noncreature, nonland from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+
+Serenyi, the Entropist
+
+Secluded Courtyard
+
+Screeching Greatbird
+rules_text: Flying
+Other creatures you don't control lose flying and can't gain flying. => Flying
+Creatures you don't control lose flying and can't gain flying.
+
+Scratching Wings
+
+Scouring Scream
+
+Science Gone Too Far
+
+Scarlet's Apprentice
+
+Scarlet Rebellion
+
+Saulvinia Soulshaper
+
+Saulvinia Favorite
+rules_text: When Saulvinia Favorite enters, create a 2/2 red Human Citizen creature token with bystander. [i](It can't attack or block.)[/i]
+Saulvinia Favorite's power is equal to the number of creatures you control. => When Saulvinia Favorite enters, create a 2/2 red Human Citizen creature token with bystander. [i](It can't attack or block.)[/i]
+Saulvinia Favorite's power is equal to the number of creatures you control with mana value 3 or less.
+
+Sanity Tuning
+
+Rotting Halovian
+
+Rin, Outerworld Exorcist
+rules_text: When Rin, Outerworld Exorcist enters, increase your despair by 1.
+If you would create a Horror token, you may instead create X 1/1 white Spirit creature tokens, where X is that token's power. [i](Spirits created through despair also enter attacking and die at end step.)[/i] => When Rin, Outerworld Exorcist enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+If you would create a Horror token, you may instead create X 1/1 white Spirit creature tokens, where X is that token's power. [i](Spirits created through despair enter attacking and die at end step.)[/i]
+
+Rim, the Butterfly Sign
+rules_text: Whenever one or more creatures you control deal combat damage to an opponent, conjure a card named Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i] => Whenever one or more creatures you control deal combat damage to a player, conjure a card named Empower into your hand. [i](It's a {1} sorcery with “Put a +1/+1 counter on target creature.”)[/i]
+
+Riftsplicer
+
+Retired Executioner
+
+Resting Seraph
+
+Resplendant Violinist
+type: Creature — Human Wizard Citizen => Creature — Human Artist Wizard
+
+Resplendant Maiden
+
+Repose
+
+Rend the Waking World
+
+Reflective Reverie
+rules_text: Reflective Reverie enters tapped.
+When Reflective Reverie enters, each player may scry 2.
+{T}: Add {W} or {U}. => Reflective Reverie enters tapped.
+When Reflective Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {W} or {U}.
+
+Reckless Apostle
+
+Prototype Chassis
+
+Preperation for War
+
+Precipice of Hands
+
+Prancing Carnality
+rules_text: When Prancing Carnality enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+Whenever you sacrifice a creature token, each opponent loses 1 life. => When Prancing Carnality enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+Whenever you sacrifice a creature token, each opponent loses 1 life.
+
+Portal to Black Void
+
+Poise
+
+Pocket Apotheosis
+
+Partnered Apprentice
+
+Part-time Assassin
+type: Creature — Human Citizen => Creature — Human Rogue Citizen
+
+Paradox Reverie
+rules_text: Paradox Reverie enters tapped.
+When Paradox Reverie enters, each player may scry 2.
+{T}: Add {U} or {R}. => Paradox Reverie enters tapped.
+When Paradox Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {U} or {R}.
+
+Paradise Shaper
+
+Pale Knightess
+
+Overwhelmed Student
+
+Overthinking Mourner
+rules_text: If you would lament, instead conjure a card named Thoughts into your hand then lament. [i](It's a {U} instant with “Draw a card.”)[/i] => If you would lament, instead conjure a card named Thoughts into your hand then lament. [i](It's a {U} instant with “Draw a card.”)[/i] [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+
+Oversized Weaponry
+
+Out of Reach
+
+Otherside Specialist
+
+Orb Enjoyer
+
+Onyx Solitude
+
+One More Try
+
+Nyreza, No Sky Untouchable
+pt: 2/1 => 2/2
+
+Nyreza, Her Feathers Ash
+rules_text: Other creatures you control have haste.
+When Nyreza enters, if you cast her, sacrifice up to four other creatures. If you do, reveal cards from the top of your library until you reveal that many creatures cards not named Nyreza, Her Feathers Ash. Put them onto the battlefield, then put the rest on the bottom of your library in a random order. => Creatures you control have haste.
+When Nyreza enters, if you cast her, sacrifice up to four other creatures. If you do, reveal cards from the top of your library until you reveal that many creatures cards not named Nyreza, Her Feathers Ash. Put them onto the battlefield, then put the rest on the bottom of your library in a random order.
+pt: 4/4 => 6/6
+
+Nyreza, Conflicted Self
+rules_text: Deathtouch, lifelink
+At the beginning of each player's first main phase, that player chooses Life or Death.
+• Life — That player's opponents each create a 3/3 green Horror creature token.
+• Death — That player loses 6 life unless they sacrifice a nontoken creature. => Menace
+At the beginning of each player's first main phase, that player chooses Life or Death.
+• Life — That player's opponents each create a 3/3 green Horror creature token.
+• Death — That player loses 6 life unless they sacrifice a nontoken creature.
+pt: 3/4 => 4/4
+
+Nova Kite
+
+Nourishing Aberrant
+
+Noble Stargazer
+
+No Winners to War
+rules_text: Exile all creatures and planeswalkers. Increase your despair by 1 for each permanent exiled this way. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => Exile all creatures, enchantments, and planeswalkers. Increase your despair by 1 for each permanent exiled this way. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Nixie, Drifting on Dreams
+
+Nightbreaker
+
+Navia, Lady of Amethyne
+rules_text: At the beginning of each end step, put two loyalty counters on Navia if you activated two or more nonmana abilities this turn.
+[-1]: Create a 1/1 blue Elemental creature token with flying.
+[-3]: Put a +1/+1 counter on each creature you control. You gain life equal to the number of creatures you control. => Whenever you activate a loyalty ability or signature move, create a 1/1 blue Elemental creature token with flying.
+[-1]: You gain 1 life.
+[-2]: Put a +1/+1 counter on each creature you control. They gain indestructible until end of turn.
+special_text: At the beginning of each end step, put two loyalty counters on Navia if you activated two or more nonmana abilities this turn.
+[-1]: Create a 1/1 blue Elemental creature token with flying.
+[-3]: Put a +1/+1 counter on each creature you control. You gain life equal to the number of creatures you control. => Whenever you activate a loyalty ability or signature move, create a 1/1 blue Elemental creature token with flying.
+[-1]: You gain 1 life.
+[-2]: Put a +1/+1 counter on each creature you control. They gain indestructible until end of turn.
+
+Myriad Mirror
+
+Money Printer
+
+Misery Loves Company
+
+Mechanical Seraph
+
+Mascot Flag
+
+Mana Corrosion
+
+Mana Core
+rules_text: When Mana Core enters, you gain 2 life.
+{1}, {T}: Add one mana of any color. 
+{5}, {T}, Sacrifice Mana Core: Search your library for a card, put it into your hand, then shuffle. => When Mana Core enters, scry 2.
+{1}, {T}: Add one mana of any color. 
+{5}, {T}, Sacrifice Mana Core: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.
+
+Malicious Gaze
+
+Magekiller Aberrant
+rules_text: Magekiller Aberrant can't be countered.
+Vigilance, hexproof
+Spells you cast can't be countered.
+Whenever an opponent casts a noncreature spell, create Cruel Anthem, a green and white enchantment spell with “Creatures you control get +1/+1.” => Magekiller Aberrant can't be countered.
+Vigilance, hexproof
+Whenever an opponent casts a noncreature spell, create a green and white enchantment token named Cruel Anthem with “Creatures you control get +1/+1.”
+
+Lycoris Betrayer
+rules_text: Flying
+Whenever you draw your second card each turn, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => Flying
+Whenever you draw your second card each turn, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Lunar Cruise
+
+Lunar Awe
+
+Lonely Reverie
+rules_text: Lonely Reverie enters tapped.
+When Lonely Reverie enters, each player may scry 2.
+{T}: Add {U} or {B}. => Lonely Reverie enters tapped.
+When Lonely Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {U} or {B}.
+
+Lonely Cries in the Night
+rules_text: When Lonely Cries in the Night enters, increase your despair by 4. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+Horrors you control have flying. => When Lonely Cries in the Night enters, increase your despair by 4. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+Horrors you control have flying.
+
+Horror (little)
+
+Laughing Madness
+
+Kraken
+
+Knight of the Moon
+
+Kinetic Vigilante
+rules_text: Agile [i](This creature deals combat damage first while attacking.)[/i]
+At the beginning of combat on your turn, up to one target creature you control gains haste and loses bystander until end of turn. => Whenever a Citizen you control attacks, it gains first strike until end of turn.
+At the beginning of combat on your turn, up to one target creature you control gains haste and loses bystander until end of turn.
+
+Keening Eel
+
+Kasmina, the First Awakened
+
+Kantria Gambler
+
+Kantria Burns
+rules_text: Kantria Burns deals 2 damage to each creature. Destroy each creature with bystander dealt damage this way.
+{2}, Discard Kantria Burns: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Kantria Burns deals 2 damage to each creature. Destroy each creature with bystander dealt damage this way. [i](Can't attack or block.)[/i]
+{2}, Discard Kantria Burns: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Kantria Belle
+
+Jellyfish
+
+Iridia, Bleeding Worldsoul
+rules_text: Lifelink
+When Iridia enters, if you didn't cast her from your hand, she deals 3 damage to any target [i](and lifelink gains 3 life.)[/i]
+{5}{B}{R}: Return Iridia, Bleeding Worldsoul from your graveyard to the battlefield. => Deathtouch, lifelink
+When Iridia enters, if you didn't cast her from your hand, she deals 3 damage to any target [i](and lifelink gains 3 life.)[/i]
+{7}{B}{R}: Return Iridia, Bleeding Worldsoul from your graveyard to the battlefield with an indestructible counter on it.
+
+Invasive Reverie
+rules_text: Invasive Reverie enters tapped.
+When Invasive Reverie enters, each player may scry 2.
+{T}: Add {B} or {G}. => Invasive Reverie enters tapped.
+When Invasive Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {B} or {G}.
+
+Inokrana's Harbinger
+
+Inokrana, the Finality
+
+Inksyl, the Second Dusk
+
+Incorrigible Prince
+type: Creature — Human Citizen => Creature — Human Noble Citizen
+
+Idyllic Reverie
+rules_text: Idyllic Reverie enters tapped.
+When Idyllic Reverie enters, each player may scry 2.
+{T}: Add {G} or {U}. => Idyllic Reverie enters tapped.
+When Idyllic Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {G} or {U}.
+
+Icefire Strix
+
+Ice Princess
+rules_text: Spells opponents cast during your turn cost {1} more to cast.
+Signature move — {3}{W}: Put a +1/+1 counter on Ice Princess. Exile target player's graveyard. [i](Reduce the cost by the number of other creatures you control.)[/i] => Signature move — {3}{W}: Exile each opponent's graveyard. Put a +1/+1 counter on Ice Princess for each card type among cards exiled by it. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Human Citizen
+
+Horror (medium)
+
+Horned Infiltrator
+
+Hooded Conniver
+type: Creature — Human Citizen => Creature — Human Rogue Citizen
+
+Heraldess of War
+rules_text: Each creature you control with a counter on it has trample.
+When Heraldess of War enters, distribute three +1/+1 counters among up to three target creatures, then double the number of +1/+1 counters on each of those creatures. => Each creature you control with a counter on it has trample.
+When Heraldess of War enters, distribute three +1/+1 counters among creatures you control, then double the number of +1/+1 counters on each creature you control.
+
+Heavens Split
+rules_text: When Heavens Split enters, conjure and shuffle seven cards named Lightning Bolt into your library. [i](It's a {R} instant with “This deals 3 damage to any target.”)[/i]
+Whenever you cast a spell named Lightning Bolt, add {R} and draw a card. => When Heavens Split enters, conjure and shuffle seven cards named Lightning Bolt into your library, then draw a card. [i](It's a {R} instant with “This deals 3 damage to any target.”)[/i]
+Whenever you cast a spell named Lightning Bolt, add {R} and draw a card.
+
+Heartless Decree
+rules_text: You may sacrifice a creature. If you do, increase your despair by that creature's power. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => You may sacrifice a creature. If you do, increase your despair by that creature's power. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Haunted Harbinger
+type: Creature — Horror Angel => Creature — Angel Horror
+rules_text: Flying
+Whenever Haunted Harbinger deals combat damage to an opponent, mill two cards. Then you may sacrifice it. If you do, return target non-Angel creature card from your graveyard to your hand. => Flying
+Whenever Haunted Harbinger deals combat damage to a player, mill two cards. Then you may sacrifice it. If you do, return target non-Angel creature card from your graveyard to your hand.
+
+Haunted Dreams
+
+Haunted Cavern
+rules_text: {T}: Add {C}.
+{5}, {T}, Sacrifice Haunted Cavern: Increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => {T}: Add {C}.
+{5}, {T}, Sacrifice Haunted Cavern: Increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Harrowed Scion
+
+Harbinger in White
+
+Halo Bud
+rules_text: Reach
+Whenever you put a counter on Halo Bud, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => Reach
+Whenever you put a counter on Halo Bud, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Halcyon Road
+
+Gutter Fighter
+
+Grief is Forbidden
+
+Great Beast of Sonradhach
+cost: {1}{G}{G} => {6}{G}{G}{G}
+rules_text: As an additional cost to cast this spell, exile three creature cards from your graveyard.
+During your turn, Great Beast of Sonradhach has indestructible.
+Whenever you attack, sacrifice any number of creatures. Put that many +1/+1 counters on each creature you control. => Great Beast of Sonradhach enters with ninety +1/+1 counters on it if it was cast.
+When Great Beast of Sonradhach dies, you may distribute its counters among creatures you control.
+pt: 5/5 => 9/9
+
+Gothic Puppet
+rules_text: When Gothic Puppet enters, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i]
+As long as you control another Horror, Gothic Puppet gets +2/+2. => When Gothic Puppet enters, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+As long as you control another Horror, Gothic Puppet gets +2/+2.
+
+Gold Resonance
+
+Gilded Wrath
+
+Friendly Doc
+type: Creature — Human Citizen => Creature — Human Cleric Citizen
+
+Forge Apprentice
+type: Creature — Human Citizen => Creature — Human Artificer Citizen
+
+Flameseek Avenger
+
+Fight
+
+Fatal Flaw
+
+Face the Dark
+rules_text: At the beginning of your first main phase, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => At the beginning of your first main phase, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Eyeless Grouper
+
+Extraplanar Adventurer
+
+Evil Cackling
+rules_text: When you cast Evil Cackling, if you control a Horror, copy it. You may choose new targets for the copy.
+Choose one —
+• Target creature gets +2/+2 until end of turn.
+• Target creature gains hexproof and indestructible until end of turn. => Choose one. If you control a Horror, you may choose both.
+• Target creature gets +2/+2 until end of turn.
+• Target creature gains hexproof and indestructible until end of turn.
+
+Eternities Watcher
+
+Entropic Acolyte
+
+Empower
+
+Emotion Burst
+
+Emerald Empath
+rules_text: Vigilance, ward {2}
+[i]Else and other[/i] — Once each turn, when you cast a creature spell without bystander, you may create a token that's a copy of it, except it isn't legendary and it has bystander. [i](Can't attack or block.)[/i] => Vigilance
+[i]Else and other[/i] — Once each turn, when you cast a creature spell without bystander, you may create a token that's a copy of it, except it isn't legendary and it has bystander. [i](It can't attack or block.)[/i]
+
+Elemental
+
+Eldritch Sorcerer
+
+Eldritch Haunt
+
+Eerie Asterbearer
+
+Eastside Butcher
+
+Dreamspun Prowler
+rules_text: When Dreamspun Prowler enters, conjure a card named Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+Whenever you conjure a card into your hand, tap up to one target creature. Put a stun counter on it. => Flash
+When Dreamspun Prowler enters, conjure a card named Repose into your hand. [i](It's a {2} sorcery with “Draw a card.”)[/i]
+Whenever you conjure a card into your hand, tap up to one target creature and put a stun counter on it.
+
+Dreamsifters
+
+Dreamseeker Parasite
+
+Dreams Don't Come True
+
+Dreamer Ensemble
+
+Dream Spectacle
+
+Dream
+
+Dreadnaught Prince
+rules_text: When Dreadnaught Prince enters, you may pay {2} or remove a counter from a permanent you control. When you do, exile up to one other target creature. That creature's controller gains life equal to its power. => Flash
+When Dreadnaught Prince enters, you may pay {2} or remove a counter from a permanent you control. When you do, exile up to one other target creature. That creature's controller gains life equal to its power.
+pt: 3/4 => 3/2
+
+Drama Extrodinaire
+type: Creature — Human Citizen Wizard => Creature — Human Citizen
+
+Draconic Temptress
+
+Doomsday Maw
+rules_text: When Doomsday Maw enters, you may sacrifice another creature. If you do, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => When Doomsday Maw enters, you may sacrifice another creature. If you do, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Diviner of Tragedies
+
+Distorted Aberray
+
+Devilish Maiden
+
+Despair Horror
+
+Despair
+
+Demonic Conductor
+
+Dark Nebulae Invoker
+
+Dance of Starlight
+rules_text: Whenever you activate an ability of a creature you control, choose one you haven't chosen this turn —
+• Draw a card.
+• Create a 1/1 blue Elemental creature token with flying. => Whenever you activate a nonmana ability of a creature you control, choose one you haven't chosen this turn —
+• Draw a card.
+• Create a 1/1 blue Elemental creature token with flying.
+
+Cynette of a Thousand Hues
+
+Cursed Pianist
+type: Creature — Human Citizen => Creature — Human Artist Citizen
+
+Curious Kitten
+
+Crystal Grotto
+
+Crystal Chainer
+
+Cruel Osseomancer
+rules_text: Sacrifice another creature: Increase your despair by 1. Activate only outside of combat. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => Sacrifice another creature: Increase your despair by 1. Activate only outside of combat. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Cruel Anthem
+
+Crowned Advisor
+
+Crierlight Star
+rules_text: Vigilance, reach
+Whenever a Horror creature you control deals combat damage to an opponent, draw a card. => Reach
+Whenever a Horror creature you control deals combat damage to a player, draw a card.
+
+Crash Out
+
+Corrupted Murmurer
+
+Consecrated Reverie
+rules_text: Consecrated Reverie enters tapped.
+When Consecrated Reverie enters, each player may scry 2.
+{T}: Add {W} or {B}. => Consecrated Reverie enters tapped.
+When Consecrated Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {W} or {B}.
+
+Collector of Forbidden Names
+
+Collateralist Cadre
+rules_text: Whenever you draw your second card each turn, create a 2/2 red Human creature token with bystander. [i](Can't attack or block.)[/i] => Whenever you draw your second card each turn, create a 2/2 red Human creature token with bystander. [i](It can't attack or block.)[/i]
+
+Collapsing Mind Palace
+
+Clockwork Reverie
+rules_text: Clockwork Reverie enters tapped.
+When Clockwork Reverie enters, each player may scry 2.
+{T}: Add {B} or {R}. => Clockwork Reverie enters tapped.
+When Clockwork Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {B} or {R}.
+
+Cinderkiller
+
+Catkin Prototype
+
+Careening Car
+
+Butterfly Ringer
+
+Bureau Handler
+
+Bunny Summoner
+type: Creature — Human Citizen => Creature — Human Wizard Citizen
+
+Brightwing Avenger
+rules_text: Flying
+Whenever Brightwing Avenger deals combat damage to a player, you may sacrifice it. When you do, return up to X target non-Angel creature cards with mana value 3 or less from your graveyard to the battlefield, where X is Brightwing Avenger's power. => Flying
+Whenever Brightwing Avenger deals combat damage to a player, you may sacrifice it. If you do, choose up to X target non-Angel creature cards with mana value 3 or less from your graveyard to the battlefield, where X is Brightwing Avenger's power. Return each of those creature cards to the battlefield.
+
+Born to Slay
+
+Blood Moon Lance
+
+Blood Halo Invoker
+rules_text: Ward—Pay 4 life.
+Signature move — {4}{R}{W}: Put two +1/+1 counters on Blood Halo Invoker. It gains vigilance, trample, lifelink, indestructible, and haste until end of turn. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => Ward—Pay 4 life.
+Signature move — {4}{R}{W}: Put two +1/+1 counters on Blood Halo Invoker. It gains vigilance, trample, lifelink, indestructible, and haste until end of turn.
+
+Blackmarks Agent
+
+Black Silence Welcomes All
+type: Instant => Sorcery
+cost: {1}{W}{B} => {W}{B}
+
+Bane of Kantria
+rules_text: When Bane of Kantria enters, up to one target creature gets -X/-X until end of turn, where X is your despair. [i](Despair starts at 0.)[/i]
+{1}{B}, Discard Bane of Kantria: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this combat. Sacrifice it next end step.)[/i] => When Bane of Kantria enters, up to one target creature gets -X/-X until end of turn, where X is your despair. [i](Despair starts at 0.)[/i]
+{1}{B}, Discard Bane of Kantria: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Azure Defiance
+rules_text: Flying
+[i]I've got big dreams[/i] — You may cast spells as though they had flash.
+[i]Of a world beautiful and pure[/i] — Once each turn, when you activate a nonmana ability, draw a card. Create a 1/1 blue Elemental creature token with flying. => Flying
+[i]I've got big dreams[/i] — You may cast spells as though they had flash.
+[i]Of a world beautiful and pure[/i] — Once each turn, when you activate a nonmana ability, conjure a card named Island onto the battlefield tapped. [i](It's a basic land that produces {U}.)[/i]
+
+Azalea's Mindrazor
+
+Awestruck Stargazer
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on Awestruck Stargazer.
+Whenever Awestruck Stargazer deals combat damage to an opponent, you may remove three counters from among permanents you control. If you do, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle. => Whenever another creature you control enters, put a +1/+1 counter on Awestruck Stargazer.
+Whenever Awestruck Stargazer attacks, you may remove a counter from a permanent you control. If you do, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+pt: 2/1 => 1/1
+
+Avatar of Forsaken Gods
+
+Autumn Cruiser
+
+Astral Whalefall
+rules_text: Choose one. If your despair is 3 or greater, you may choose both.
+• Destroy all nonland permanents with mana value 3 or less.
+• Create two 3/3 green Horror creature tokens. => Choose one. If you control a Horror, you may choose both.
+• Destroy all nonland permanents with mana value 3 or less.
+• Create two 3/3 green Horror creature tokens.
+
+Astral Chainbreaker
+
+Astoria, the Deathless
+cost: {1}{B} => {B}{B}
+rules_text: Bystander [i](Can't attack or block.)[/i]
+When Astoria dies, each opponent loses 2 life. If you sacrificed it, return it to the battlefield at the beginning of your next end step. [i](The legend rule does not count as sacrifice.)[/i] => Bystander [i](Can't attack or block.)[/i]
+When Astoria dies, each opponent loses 2 life. If you sacrificed it, return it to the battlefield at the beginning of your next end step.
+
+Ars Magika
+
+Antausia's Blood Sun
+rules_text: {T}: Discard your hand, then draw seven cards.
+{2}{R}, Discard Antausia's Blood Sun: 
+It deals 2 damage to each creature. => Indestructible
+{T}, Discard your hand: Draw seven cards.
+{2}{R}, Discard Antausia's Blood Sun: 
+It deals 2 damage to each creature.
+
+Animated Anachronist
+
+Ancient Reverie
+rules_text: Ancient Reverie enters tapped.
+When Ancient Reverie enters, each player may scry 2.
+{T}: Add {R} or {W}. => Ancient Reverie enters tapped.
+When Ancient Reverie enters, you may scry 2. If you do, an opponent may scry 2.
+{T}: Add {R} or {W}.
+
+Amethyne Baron
+type: Creature — Human Citizen => Creature — Human Noble Citizen
+
+Alone With My Thoughts
+
+Akane, the Liminal Girl
+
+Aerial Fortress
+rules_text: Flying, vigilance
+When Aerial Fortress enters, create two 2/2 red Human Citizen creature tokens with bystander. [i](Can't attack or block.)[/i]
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Horror Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, vigilance
+When Aerial Fortress enters, create two 2/2 red Human Citizen creature tokens with bystander. [i](It can't attack or block.)[/i]
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Horror Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Accidents Maker
+
+Stolen Spark
+type: Token Legendary Artifact => Token Artifact
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Twisted Catharsis added.
