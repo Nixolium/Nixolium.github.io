@@ -1,4 +1,178 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Woodland Wanderer added.
+Violet's Remorse added.
+Dreamer Scarlet Rebellion added.
+Seorim, the Butterfly Sign added.
+Dreamer Onyx Solitude added.
+Reality Corrosion added.
+Sorrow Cries in the Night added.
+Dreamer Gold Resonance added.
+Stranger Things added.
+Barhopping in Saulvinia added.
+Burning Heart added.
+Dreamer Emerald Empath added.
+Coiling Nightmare added.
+Skeinseeker Parasite added.
+Magical Ensemble added.
+Brilliant Spectacle added.
+Fear the Dark added.
+Blood Sun Invoker added.
+Doomed Agent added.
+Dreamer Azure Defiance added.
+Enriss, City Director added.
+Dr. Amsel, Rogue Concocter added.
+
+Stranger Twins removed.
+Soulburn removed.
+Scarlet Rebellion removed.
+Rim, the Butterfly Sign removed.
+Onyx Solitude removed.
+Mana Corrosion removed.
+Lonely Cries in the Night removed.
+Gold Resonance removed.
+Face the Dark removed.
+Entropic Acolyte removed.
+Emotion Burst removed.
+Emerald Empath removed.
+Eldritch Haunt removed.
+Dreamseeker Parasite removed.
+Dreamer Ensemble removed.
+Dream Spectacle removed.
+Collapsing Mind Palace removed.
+Blood Halo Invoker removed.
+Blackmarks Agent removed.
+Azure Defiance removed.
+
+Weapons Distributor
+rules_text: Bystander [i](Can't attack or block.)[/i]
+When Weapons Distributor enters, you may activate the following ability without paying its costs.
+{4}{R}: Put a +1/+1 counter on target creature you control. It deals 2 damage to each opponent. Activate only as a sorcery. => Bystander [i](Can't attack or block.)[/i]
+When Weapons Distributor enters, you may activate the following ability without paying its cost.
+{4}{R}, {T}: Put a +1/+1 counter on target creature you control. It deals 2 damage to each opponent. Activate only as a sorcery.
+
+Warharker Bard
+rules_text: When Warharker Bard enters, create two 2/2 red Human Citizen creature tokens with bystander. [i](It can't attack or block.)[/i] => When Warharker Bard enters, create two 2/2 red Human Citizen creature tokens with bystander. [i](They can't attack or block.)[/i]
+
+Walk in the Park
+rules_text: Create two 2/2 red Human creature tokens with bystander. You gain 1 life for each creature you control. [i](It can't attack or block.)[/i]
+{2}, Discard Walk in the Park: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Create two 2/2 red Human creature tokens with bystander. You gain 1 life for each creature you control. [i](They can't attack or block.)[/i]
+{2}, Discard Walk in the Park: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Vehicular Disaster
+rules_text: Destroy target artifact, enchantment, or creature with bystander or flying. [i](Can't attack or block.)[/i] => Destroy target artifact, enchantment, or creature with bystander or flying.
+
+Twisted Catharsis
+rules_text: Create a 3/3 green Horror creature token.
+Then you may sacrifice two non-Horror creatures. If you do, create another 3/3 green Horror creature token. Repeat this process any number of times. => Create a 3/3 green Horror creature token.
+You may sacrifice two non-Horror creatures. If you do, create another 3/3 green Horror creature token. Repeat this process any number of times.
+
+Violet's Witchsource Lyre
+
+Sunset Driver
+
+Shattered Dreamwalker
+
+Secluded Courtyard
+
+Scratching Wings
+rules_text: Flying
+Cycling {2}{W} [i]({2}{W}, Discard this card: Draw a card.)[/i]
+When you cycle Scratching Wings, put a +1/+1 counter on up to two creatures you control. => Flying
+Cycling {2}{W} [i]({2}{W}, Discard this card: Draw a card.)[/i]
+When you cycle Scratching Wings, put a +1/+1 counter on up to two target creatures you control.
+
+Prancing Carnality
+rules_text: When Prancing Carnality enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+Whenever you sacrifice a creature token, each opponent loses 1 life. => Deathtouch, haste
+When Prancing Carnality enters, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Overwhelmed Student
+
+Overthinking Mourner
+rules_text: If you would lament, instead conjure a card named Thoughts into your hand then lament. [i](It's a {U} instant with “Draw a card.”)[/i] [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i] => If you would lament, instead conjure a card named Thoughts into your hand then lament. [i](Draw a card, then discard a card unless you sacrifice a creature. Thoughts is a {U} instant with “Draw a card.”)[/i]
+
+Oversized Weaponry
+rules_text: When Oversized Weaponry enters, attach Oversized Weaponry to target creature you control, then put a +1/+1 counter on it.
+Whenever equipped creature attacks, double the number of +1/+1 counters on it.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Oversized Weaponry enters, attach it to target creature, then put a +1/+1 counter on that creature.
+Whenever equipped creature attacks, double the number of +1/+1 counters on it.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+No Winners to War
+rules_text: Exile all creatures, enchantments, and planeswalkers. Increase your despair by 1 for each permanent exiled this way. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Exile all creatures and planeswalkers. Increase your despair by 1 for each permanent exiled this way. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Mascot Flag
+rules_text: When Mascot Flag enters, create a 2/2 red Human Citizen creature token with bystander. [i](It can't attack or block.)[/i]
+{T}: Add one mana of any color.
+{5}, Sacrifice Mascot Flag: Put a Volition counter on target creature. It loses bystander. => When Mascot Flag enters, create a 2/2 red Human Citizen creature token with bystander. [i](It can't attack or block.)[/i]
+{T}: Add one mana of any color.
+{2}, {T}, Sacrifice Mascot Flag: Put a volition counter on target creature you control. It loses bystander.
+
+Magekiller Aberrant
+cost: {3}{G}{G}{W} => {3}{G}{W}
+pt: 7/6 => 5/3
+
+Kantria Gambler
+rules_text: Bystander [i](Can't attack or block.)[/i]
+Whenever Kantria Gambler enters or attacks, exile the top card of your library. You may play it this turn. => Bystander [i](Can't attack or block.)[/i]
+If a source you control would deal damage to an opponent, you may prevent 1 of that damage. If you do, create a tapped Treasure token. Do this only once each turn.
+
+Iridia, Bleeding Worldsoul
+rules_text: Deathtouch, lifelink
+When Iridia enters, if you didn't cast her from your hand, she deals 3 damage to any target [i](and lifelink gains 3 life.)[/i]
+{7}{B}{R}: Return Iridia, Bleeding Worldsoul from your graveyard to the battlefield with an indestructible counter on it. => Deathtouch, lifelink
+When Iridia enters, if you didn't cast her from your hand, she deals 3 damage to any target [i](and lifelink gains 3 life.)[/i]
+{7}{B}{R}: Return Iridia, Bleeding Worldsoul from your graveyard to the battlefield with an indestructible counter on her.
+
+Ice Princess
+rules_text: Signature move — {3}{W}: Exile each opponent's graveyard. Put a +1/+1 counter on Ice Princess for each card type among cards exiled by it. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => Signature move — {3}{W}: Exile target player's graveyard. Put a +1/+1 counter on Ice Princess for each card type among cards exiled by it. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Hooded Conniver
+
+Flameseek Avenger
+
+Dreams Don't Come True
+rules_text: Opponents can't cast spells from outside their hand, create tokens, or conjure cards into their hand. => Opponents can't cast spells from outside their hand, conjure cards into their hand, or create tokens.
+
+Devilish Maiden
+type: Creature — Human Horror => Creature — Human Horror Wizard
+
+Cruel Osseomancer
+rules_text: Sacrifice another creature: Increase your despair by 1. Activate only outside of combat. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Sacrifice another non-Horror creature: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Crowned Advisor
+rules_text: Reach
+Signature move — {5}{GW}{GW}: Put a +1/+1 counter on Crowned Advisor. You gain 5 life. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => Signature move — {4}{GW}{GW}: Put a +1/+1 counter on Crowned Advisor. You gain 5 life. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Corroded Nexus
+rules_text: Whenever Corroded Nexus enters or attacks, you may remove a counter from a permanent you control. If you do, mill three cards. You may return a permanent card milled this way to your hand. => Whenever Corroded Nexus enters or attacks, you may remove a counter from a permanent you control. If you do, mill three cards. You may return a permanent card milled this way to your hand. If you don't, create a Treasure token.
+
+Bureau Handler
+rules_text: At the beginning of your end step, if you've conjured one or more cards this turn, you may cast a spell from your hand with mana value 2 or less without paying its mana cost. => At the beginning of your end step, if you've conjured this turn, you may cast a spell from your hand with mana value 2 or less without paying its mana cost.
+
+Born to Slay
+rules_text: Born to Slay costs {1} less to cast if you control a creature with a counter.
+Target creature you control deals damage equal to its power to another target creature. => Born to Slay costs {1} less to cast if you control a creature with a counter on it.
+Target creature you control deals damage equal to its power to another target creature.
+
+Astral Chainbreaker
+
+Astoria, the Deathless
+rules_text: Bystander [i](Can't attack or block.)[/i]
+When Astoria dies, each opponent loses 2 life. If you sacrificed it, return it to the battlefield at the beginning of your next end step. => Bystander [i](Can't attack or block.)[/i]
+When Astoria dies, each opponent loses 2 life unless they discard a card. If you sacrificed her, return her to the battlefield at the beginning of your next end step.
+
+Aerial Fortress
+rules_text: Flying, vigilance
+When Aerial Fortress enters, create two 2/2 red Human Citizen creature tokens with bystander. [i](It can't attack or block.)[/i]
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Horror Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, vigilance
+Whenever Aerial Fortress attacks, exile up to one other target tapped nontoken creature you control. At the beginning of the next end step, return that card to the battlefield under its owner's control. 
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Horror Vehicle becomes an artifact creature until end of turn.)[/i]
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Zenith Archmage added.
