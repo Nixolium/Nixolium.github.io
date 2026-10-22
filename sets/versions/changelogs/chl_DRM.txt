@@ -1,4 +1,82 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Sciamachy added.
+Behold the Beyond added.
+
+Avatar of Forsaken Gods removed.
+
+Watch This Awesome Move
+rules_text: You may activate signature moves without paying their costs. => You may activate signature moves without paying their mana costs.
+
+Dreamer Onyx Solitude
+rules_text: Lifelink
+[i]I walk this desolate world[/i] — If a card would be put into an opponent's graveyard from anywhere, exile it instead.
+[i]Alone I brave the dark[/i] — Pay 2 life: Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i] => Lifelink
+[i]This desolate world[/i] — If a card would be put into an opponent's graveyard from anywhere, exile it instead.
+[i]Alone I brave the dark[/i] — Pay 2 life: Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+
+Idyllic Reverie
+
+Dreamer Emerald Empath
+
+Crowned Advisor
+
+Bane of Kantria
+cost: {2}{B}{B} => {B}{B}
+rules_text: When Bane of Kantria enters, up to one target creature gets -X/-X until end of turn, where X is your despair. [i](Despair starts at 0.)[/i]
+{1}{B}, Discard Bane of Kantria: Increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => As an additional cost to cast Bane of Kantria, pay {2} or sacrifice a creature.
+When Bane of Kantria enters, up to one target creature gets -X/-X until end of turn, where X is your despair. [i](Despair starts at 0.)[/i]
+
+Azalea's Mindrazor
+cost: {5}{U}{R} => {3}{B}{B}
+rules_text: Ward—Discard your hand.
+Whenever you discard a card, you may draw a card.
+{B}, Discard Azalea's Mindrazor: Discard the rest of your hand. => Flying
+Sacrifice two Horrors: Return Azalea's Mindrazor from your graveyard to the battlefield tapped. Activate only as a sorcery.
+Horrorcycling {1}{B} [i]({1}{B}, Discard this card: Search your library for a Horror card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 7/7 => 5/5
+
+Autumn Cruiser
+
+Astral Whalefall
+
+Astral Chainbreaker
+
+Astoria, the Deathless
+
+Ars Magika
+
+Antausia's Blood Sun
+
+Animated Anachronist
+
+Ancient Reverie
+
+Amethyne Baron
+
+Alone With My Thoughts
+
+Akane, the Liminal Girl
+
+Aerial Fortress
+
+Accidents Maker
+
+Lightning Bolt
+
+Treasure
+
+Stolen Spark
+
+Lumbering Sky Tyrant
+
+Enriss, City Director
+
+Dr. Amsel, Rogue Concocter
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Woodland Wanderer added.
