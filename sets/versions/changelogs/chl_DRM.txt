@@ -1,4 +1,382 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Zenith Mage added.
+Trauma Bonding added.
+Cloudbreak Eel added.
+Pondering Gambler added.
+Skinbinder Parasite added.
+Ruin Vagabond added.
+Stare Down the Abyss added.
+Avatar of Forsaken Gods added.
+Council of Constellations added.
+Demonic Tutor added.
+Burdened Blightmaw added.
+Reality Winder added.
+Scythe Augment Subject added.
+
+Zenith Archmage removed.
+Truth Beyond the Veil removed.
+Reality Corrosion removed.
+Keening Eel removed.
+Kantria Gambler removed.
+Skeinseeker Parasite removed.
+Behold the Beyond removed.
+
+Wayward Reverie
+
+Volcanic Reverie
+
+Virtual Depths
+rules_text: When Virtual Depths enters, all creatures get -2/-2 until end of turn.
+Whenever you draw your second card each turn, add {B}{B}{B}. Until end of turn, you don't lose this mana as steps and phases end. => When Virtual Depths enters, you may have all creatures get -2/-2 until end of turn.
+Whenever you draw your second card each turn, add {B}{B}{B}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Soul-Guide Lantern
+rules_text: When Soul-Guide Lantern enters, exile target card from a graveyard.
+{T}, Sacrifice this artifact: Exile each opponent's graveyard.
+{1}, {T}, Sacrifice this artifact: Draw a card. => When Soul-Guide Lantern enters, exile target card from a graveyard.
+{T}, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard.
+{1}, {T}, Sacrifice Soul-Guide Lantern: Draw a card.
+
+Reflective Reverie
+
+Reckless Apostle
+
+Paradox Reverie
+
+Otherside Specialist
+
+Nova Kite
+rules_text: Flying
+Whenever Nova Kite attacks, you may sacrifice another creature. When you do, Nova Kite deals damage to any target equal to the sacrificed creature's power. => Flying
+Whenever Nova Kite enters or attacks, you may sacrifice another creature. When you do, Nova Kite deals damage to any target equal to the sacrificed creature's power.
+
+No Winners to War
+rules_text: Exile all creatures and planeswalkers. Increase your despair by 1 for each permanent exiled this way. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Exile all creatures, enchantments, and planeswalkers. Increase your despair by 1 for each permanent exiled this way. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Nightbreaker
+rules_text: Bystander [i](Can't attack or block.)[/i]
+Whenever a Human you control attacks, Nightbreaker deals 1 damage to the defending player. You gain 1 life.
+{5}: Put a volition counter on target creature you control. It loses bystander. => Bystander [i](Can't attack or block.)[/i]
+Whenever a Human you control attacks, Nightbreaker deals 1 damage to the defending player. You gain 1 life.
+{5}: Creatures you control lose bystander until end of turn.
+
+Money Printer
+
+Mascot Flag
+rules_text: When Mascot Flag enters, create a 2/2 red Human Citizen creature token with bystander. [i](It can't attack or block.)[/i]
+{T}: Add one mana of any color.
+{2}, {T}, Sacrifice Mascot Flag: Put a volition counter on target creature you control. It loses bystander. => When Mascot Flag enters, create a 2/2 red Human Citizen creature token with bystander. [i](It can't attack or block.)[/i]
+{T}: Add one mana of any color.
+{2}, {T}, Sacrifice Mascot Flag: Creatures you control lose bystander until end of turn.
+
+Mana Core
+
+Malicious Gaze
+
+Magekiller Aberrant
+
+Lycoris Betrayer
+
+Lunar Cruise
+
+Lunar Awe
+
+Lonely Reverie
+
+Sorrow Cries in the Night
+
+Horror (little)
+
+Laughing Madness
+
+Kraken
+
+Knight of the Moon
+
+Kinetic Vigilante
+
+Kasmina, the First Awakened
+
+Kantria Burns
+
+Kantria Belle
+rules_text: Ward—Pay 3 life.
+At the beginning of combat on your turn, each creature you control with a counter on it gains first strike and haste until end of turn. => Menace
+Each creature you control with a counter on it has first strike.
+
+Jellyfish
+
+Iridia, Bleeding Worldsoul
+
+Invasive Reverie
+
+Inokrana's Harbinger
+rules_text: Flying
+When this creature dies, draw a card. => Flying
+When Inokrana's Harbinger dies, draw a card.
+
+Inokrana, the Finality
+
+Inksyl, the Second Dusk
+
+Incorrigible Prince
+
+Idyllic Reverie
+
+Icefire Strix
+
+Ice Princess
+
+Human Citizen
+
+Horror (medium)
+
+Horned Infiltrator
+
+Hooded Conniver
+rules_text: Bystander [i](Can't attack or block.)[/i]
+When this creature enters, gain control of target creature until end of turn. Untap it. Until end of turn, it gains haste and loses bystander. => Bystander [i](Can't attack or block.)[/i]
+When Hooded Conniver enters, gain control of target creature until end of turn. Untap it. Until end of turn, it gains haste and loses bystander.
+
+Heraldess of War
+
+Heavens Split
+
+Heartless Decree
+
+Haunted Harbinger
+
+Haunted Dreams
+
+Haunted Cavern
+
+Harrowed Scion
+
+Harbinger in White
+
+Halo Bud
+
+Halcyon Road
+
+Gutter Fighter
+
+Grief is Forbidden
+
+Great Beast of Sonradhach
+
+Gothic Puppet
+type: Artifact Creature — Horror Construct => Artifact Creature — Construct Horror
+
+Dreamer Gold Resonance
+
+Psionic Sentinel
+
+Gilded Wrath
+type: Creature — Horror => Artifact Creature — Construct Horror
+
+Friendly Doc
+
+Forge Apprentice
+
+Flameseek Avenger
+
+Fight
+
+Fatal Flaw
+
+Fantastical Role Play
+
+Stranger Things
+
+Eyeless Grouper
+
+Extraplanar Adventurer
+
+Evil Cackling
+
+Eternities Watcher
+
+Barhopping in Saulvinia
+rules_text: When Barhopping in Saulvinia enters, create a 3/3 green Horror creature token, then put up to four drink counters on it.
+Whenever a creature you control attacks, you may have it get +X/+X until end of turn, where X is the number of counters on it. If you do, you lose X life. => When Barhopping in Saulvinia enters, create a 3/3 green Horror creature token, then put up to four drink counters on it.
+Whenever a creature you control attacks, it gets +X/+X until end of turn, where X is the number of counters on it. Sacrifice that creature unless you pay X life.
+
+Empower
+
+Burning Heart
+
+Dreamer Emerald Empath
+
+Elemental
+
+Eldritch Sorcerer
+
+Coiling Nightmare
+
+Eerie Asterbearer
+
+Eastside Butcher
+
+Dreamspun Prowler
+
+Dreamsifters
+
+Dreams Don't Come True
+
+Magical Ensemble
+
+Brilliant Spectacle
+
+Dream
+
+Dreadnaught Prince
+
+Drama Extrodinaire
+
+Draconic Temptress
+
+Doomsday Maw
+
+Diviner of Tragedies
+
+Distorted Aberray
+
+Devilish Maiden
+
+Despair Horror
+
+Despair
+
+Demonic Conductor
+
+Dark Nebulae Invoker
+
+Dance of Starlight
+
+Cynette of a Thousand Hues
+
+Cursed Pianist
+
+Curious Kitten
+
+Crystal Grotto
+
+Crystal Chainer
+
+Cruel Osseomancer
+
+Cruel Anthem
+
+Crowned Advisor
+
+Crierlight Star
+
+Crash Out
+
+Corrupted Murmurer
+
+Corroded Nexus
+
+Copy
+
+Consecrated Reverie
+
+Collector of Forbidden Names
+
+Collateralist Cadre
+
+Fear the Dark
+
+Clockwork Reverie
+
+Cinderkiller
+
+Catkin Prototype
+
+Careening Car
+
+Butterfly Ringer
+
+Bureau Handler
+
+Bunny Summoner
+
+Wailing Bull
+
+Brightwing Avenger
+
+Born to Slay
+
+Blood Moon Lance
+
+Blood Sun Invoker
+
+Doomed Agent
+
+Black Silence Welcomes All
+
+Bane of Kantria
+
+Dreamer Azure Defiance
+
+Azalea's Mindrazor
+rules_text: Flying
+Sacrifice two Horrors: Return Azalea's Mindrazor from your graveyard to the battlefield tapped. Activate only as a sorcery.
+Horrorcycling {1}{B} [i]({1}{B}, Discard this card: Search your library for a Horror card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+Whenever Azalea's Mindrazor enters or attacks, conjure a card named Demonic Tutor into your hand. [i](It's a {1}{B} sorcery with “Search your library for a card, put it into your hand, then shuffle.”)[/i]
+
+Awestruck Stargazer
+
+Autumn Cruiser
+
+Astral Whalefall
+
+Astral Chainbreaker
+
+Astoria, the Deathless
+
+Ars Magika
+
+Antausia's Blood Sun
+
+Animated Anachronist
+
+Ancient Reverie
+
+Amethyne Baron
+
+Alone With My Thoughts
+
+Akane, the Liminal Girl
+
+Aerial Fortress
+
+Accidents Maker
+
+Lightning Bolt
+
+Treasure
+
+Stolen Spark
+rules_text: Indestructible
+This artifact has the loyalty abilities of each permanent and each permanent card in a graveyard. => Indestructible
+Stolen Spark has the loyalty abilities of each permanent and each permanent card in a graveyard.
+
+Lumbering Sky Tyrant
+
+Enriss, City Director
+
+Dr. Amsel, Rogue Concocter
+rules_text: When Vivian Amsel enters, reveal the top five cards of your library, choose a nonland card name from among them, then shuffle.
+Whenever you cast a spell with the chosen name, put X +1/+1 counters on target creature you control, where X is that spell's mana value. => When Vivian enters, reveal the top five cards of your library, choose a nonland card name from among them, then shuffle.
+Whenever you cast a spell with the chosen name, put X +1/+1 counters on target creature you control, where X is that spell's mana value.
+
+Sciamachy
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Sciamachy added.
