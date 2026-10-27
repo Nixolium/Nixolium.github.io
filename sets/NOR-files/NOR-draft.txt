@@ -1,0 +1,1719 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Cackling Fixer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Horror Scout",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/0.png"
+			}
+		},
+		{
+			"name": "CW02 Offenbarung Binder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Horror Cleric",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/1.png"
+			}
+		},
+		{
+			"name": "CW06 Corrupted Murmurer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Horror Scout",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/2.png"
+			}
+		},
+		{
+			"name": "CW07 Dark Day Trumpeteer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Human",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/3.png"
+			}
+		},
+		{
+			"name": "CW08 Songpyo Proxy",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/4.png"
+			}
+		},
+		{
+			"name": "CW09 Lantern Chimera",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Faerie Horror",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/5.png"
+			}
+		},
+		{
+			"name": "CW10 Lamenting Oracle",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/6.png"
+			}
+		},
+		{
+			"name": "CW11 Full Office Mobilization",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/7.png"
+			}
+		},
+		{
+			"name": "CW12 Leap Through Chaos",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/8.png"
+			}
+		},
+		{
+			"name": "CW13 Roseate Delusion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/9.png"
+			}
+		},
+		{
+			"name": "CU05 Weeping Fixer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/10.png"
+			}
+		},
+		{
+			"name": "CU04 Shortcutting Fixer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/11.png"
+			}
+		},
+		{
+			"name": "CU03 Bright Night Conductor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artist",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/12.png"
+			}
+		},
+		{
+			"name": "CU06 Ironwind Ascetic",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard Scout",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/13.png"
+			}
+		},
+		{
+			"name": "CU08 Wight Whale",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Zombie Whale Horror",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/14.png"
+			}
+		},
+		{
+			"name": "CU09 Sea's Repose",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/15.png"
+			}
+		},
+		{
+			"name": "CU10 CENSORED",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/16.png"
+			}
+		},
+		{
+			"name": "CU12 Fixer's Handbook",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact — Book",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/17.png"
+			}
+		},
+		{
+			"name": "CU14 Out of Memory",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/18.png"
+			}
+		},
+		{
+			"name": "CB02 Punishing Bird",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/19.png"
+			}
+		},
+		{
+			"name": "CR07 Flesh Twists",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/20.png"
+			}
+		},
+		{
+			"name": "CB08 Swansong Masked",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/21.png"
+			}
+		},
+		{
+			"name": "CB09 Lashblade Arbiter",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Human Scout Advisor",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/22.png"
+			}
+		},
+		{
+			"name": "CB10 Concept Incineration",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/23.png"
+			}
+		},
+		{
+			"name": "CB12 Cruel Science",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/24.png"
+			}
+		},
+		{
+			"name": "CB13 Through the Heart",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/25.png"
+			}
+		},
+		{
+			"name": "CB14 Innocent Bliss",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/26.png"
+			}
+		},
+		{
+			"name": "CB15 Slaying of the Old Guard",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/27.png"
+			}
+		},
+		{
+			"name": "CR05 Asynchrony Fixer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/28.png"
+			}
+		},
+		{
+			"name": "CR04 Red-hooded Mercenary",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Horror Scout",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/29.png"
+			}
+		},
+		{
+			"name": "CR01 Ashen Matchstick Boy",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Human Horror",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/30.png"
+			}
+		},
+		{
+			"name": "CR03 Feathered Arsonist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Phoenix Horror",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/31.png"
+			}
+		},
+		{
+			"name": "CG05 Strange Amity",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/32.png"
+			}
+		},
+		{
+			"name": "CR06 Miniature Seraph",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Angel Horror",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/33.png"
+			}
+		},
+		{
+			"name": "CB07 Spindle Spawning",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/34.png"
+			}
+		},
+		{
+			"name": "CR10 Trauma Bonding",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/35.png"
+			}
+		},
+		{
+			"name": "CR11 Visceral Testing",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/36.png"
+			}
+		},
+		{
+			"name": "CR12 Vision of Love",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/37.png"
+			}
+		},
+		{
+			"name": "CR14 Sixth Bullet",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/38.png"
+			}
+		},
+		{
+			"name": "CR15 Yi Blaze",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/39.png"
+			}
+		},
+		{
+			"name": "CG01 Vile Skitterer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/40.png"
+			}
+		},
+		{
+			"name": "UG09 Ordeals of Amber",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Gaint Insect Horror",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/41.png"
+			}
+		},
+		{
+			"name": "CG03 Screeching Wire",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Construct Horror",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/42.png"
+			}
+		},
+		{
+			"name": "CW05 Daseos Operator",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/43.png"
+			}
+		},
+		{
+			"name": "CG09 Rumbling Hound",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dog Horror",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/44.png"
+			}
+		},
+		{
+			"name": "CG04 Giant Toad",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Frog Horror",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/45.png"
+			}
+		},
+		{
+			"name": "CG10 Poisoned Queen",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Noble Horror",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/46.png"
+			}
+		},
+		{
+			"name": "CG12 Fury of the Wolf",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/47.png"
+			}
+		},
+		{
+			"name": "CG13 Ebony Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/48.png"
+			}
+		},
+		{
+			"name": "CG14 Apple Blade",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/49.png"
+			}
+		},
+		{
+			"name": "CG15 Shrimpfishing",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/50.png"
+			}
+		},
+		{
+			"name": "CA06 Corporate Nest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/51.png"
+			}
+		},
+		{
+			"name": "CA02 Tiphereth Core",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct Horror",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/52.png"
+			}
+		},
+		{
+			"name": "CA03 Sound of a Star",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/53.png"
+			}
+		},
+		{
+			"name": "CA01 Multicrack Worker",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Human Construct",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/54.png"
+			}
+		},
+		{
+			"name": "CA05 Storybook Fantasy",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Book",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/55.png"
+			}
+		},
+		{
+			"name": "CA04 Marked Vials",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/56.png"
+			}
+		},
+		{
+			"name": "CU01 Library Invitee",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/57.png"
+			}
+		},
+		{
+			"name": "Thorncrown Rites",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/58.png"
+			}
+		},
+		{
+			"name": "Daseos Blade Saint",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Scout Warrior",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/59.png"
+			}
+		},
+		{
+			"name": "Happy Everlaughing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/60.png"
+			}
+		},
+		{
+			"name": "Heart Taster",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/61.png"
+			}
+		},
+		{
+			"name": "Kinesis Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "111",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/62_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/62_front.png"
+			}
+		},
+		{
+			"name": "Hollow Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Horror Knight",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/63.png"
+			}
+		},
+		{
+			"name": "Muji Ringleader",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/64.png"
+			}
+		},
+		{
+			"name": "Reborn Rocinante",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Hero Avatar",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/65.png"
+			}
+		},
+		{
+			"name": "Cursed Responders",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/66.png"
+			}
+		},
+		{
+			"name": "Ten Thousand Bodies",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Horror",
+			"collector_number": "115",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/67_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/67_front.png"
+			}
+		},
+		{
+			"name": "Rizvan, the Beloved",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/68.png"
+			}
+		},
+		{
+			"name": "Artsor, Liturgy Usurper",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/69.png"
+			}
+		},
+		{
+			"name": "CG11 Carapace Hunt",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/70.png"
+			}
+		},
+		{
+			"name": "CG02 Violetta Muse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Human Cleric",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/71.png"
+			}
+		},
+		{
+			"name": "UG01 Enter the Dark Forest",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/72.png"
+			}
+		},
+		{
+			"name": "Bari, Knight of the Moon",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/73.png"
+			}
+		},
+		{
+			"name": "CG02 Dreamer of Gold",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Horror Cleric",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/74.png"
+			}
+		},
+		{
+			"name": "Santiana, the Voyager",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "80",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/75_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/75_front.png"
+			}
+		},
+		{
+			"name": "Isolan, Far Sea Bishop",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Merfolk Cleric",
+			"collector_number": "39",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/76_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/76_front.png"
+			}
+		},
+		{
+			"name": "Doomsday Ensemble",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Bird Horror",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/77.png"
+			}
+		},
+		{
+			"name": "CB06 Lantern Bird",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/78.png"
+			}
+		},
+		{
+			"name": "CB04 Balancing Bird",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/79.png"
+			}
+		},
+		{
+			"name": "CB11 Crimson Swiftness",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/80.png"
+			}
+		},
+		{
+			"name": "CW14 Honor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/81.png"
+			}
+		},
+		{
+			"name": "UW05 Midnight Vigilante",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/82.png"
+			}
+		},
+		{
+			"name": "CR13 Cold Precision",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/83.png"
+			}
+		},
+		{
+			"name": "CR02 Victorious Nugget",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Zombie Horror",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/84.png"
+			}
+		},
+		{
+			"name": "CB05 Red-eyed Weaver",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Spider Horror",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/85.png"
+			}
+		},
+		{
+			"name": "CW15 Bite of Lost Paradise",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/86.png"
+			}
+		},
+		{
+			"name": "The Silent Vigilante",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/87_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/87_front.png"
+			}
+		},
+		{
+			"name": "The Grand Librarian",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "123",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/88_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/88_front.png"
+			}
+		},
+		{
+			"name": "CR01 Unassuming Hostess",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Noble Scout",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/89.png"
+			}
+		},
+		{
+			"name": "The Child of the City",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/90_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/90_front.png"
+			}
+		},
+		{
+			"name": "Israfil, the Mourning",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/91_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/91_front.png"
+			}
+		},
+		{
+			"name": "Garion, Cruel Arbiter",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "60",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/92_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/92_front.png"
+			}
+		},
+		{
+			"name": "Serenyi, Saint of Serei",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Serenyi",
+			"collector_number": "62",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/93_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/93_front.png"
+			}
+		},
+		{
+			"name": "Sukoshi, the Desperate",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Dragon",
+			"collector_number": "81",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/94_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/94_front.png"
+			}
+		},
+		{
+			"name": "CU13 Arbiter's Decree",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/95.png"
+			}
+		},
+		{
+			"name": "CU07 Wrathful Guard",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Faerie Horror",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/96.png"
+			}
+		},
+		{
+			"name": "CU02 Exhausted Inspector",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/97.png"
+			}
+		},
+		{
+			"name": "CU11 Leviathan Stirs",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/98.png"
+			}
+		},
+		{
+			"name": "UU12 Thirst for Mystery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/99.png"
+			}
+		},
+		{
+			"name": "CU15 Warp Maneuver",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/100.png"
+			}
+		},
+		{
+			"name": "Samet, the Living Weapon",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Horror",
+			"collector_number": "99",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/101_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/101_front.png"
+			}
+		},
+		{
+			"name": "Yuri, Promising Future",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "102",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/102_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/102_front.png"
+			}
+		},
+		{
+			"name": "Clinging Chorus",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Hand Horror",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/103.png"
+			}
+		},
+		{
+			"name": "Wrathful Bladeweaver",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/104.png"
+			}
+		},
+		{
+			"name": "CB03 Warzone Medic",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/105.png"
+			}
+		},
+		{
+			"name": "CB01 Wounded Mariner",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/106.png"
+			}
+		},
+		{
+			"name": "Sylviane of the Ísuppskera",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/107.png"
+			}
+		},
+		{
+			"name": "Book of All Things Cute",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Artifact — Book",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/108.png"
+			}
+		},
+		{
+			"name": "The Concept Incinerator",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant — Nova",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/109.png"
+			}
+		},
+		{
+			"name": "Distort",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/110.png"
+			}
+		},
+		{
+			"name": "Follow the Prescripts",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/111.png"
+			}
+		},
+		{
+			"name": "CR09 Uncovered Mimic",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Shapeshifter Horror",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/112.png"
+			}
+		},
+		{
+			"name": "CR08 Wicked Saintly Wings",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Eldrazi Angel Horror",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/113.png"
+			}
+		},
+		{
+			"name": "Touka at Death's Gate",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "117",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nixolium.github.io/sets/NOR-files/img/114_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/114_front.png"
+			}
+		},
+		{
+			"name": "Alfonso, the Perfection",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/115.png"
+			}
+		},
+		{
+			"name": "Here Without You",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/116.png"
+			}
+		},
+		{
+			"name": "CW03 Keening Adoration",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Horror",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/117.png"
+			}
+		},
+		{
+			"name": "CW04 Holiday Maiden",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/118.png"
+			}
+		},
+		{
+			"name": "CB01 Mirrorworld Silencer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/119.png"
+			}
+		},
+		{
+			"name": "CG06 Violetta Muse",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/120.png"
+			}
+		},
+		{
+			"name": "CG07 Welcome to the Library",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/121.png"
+			}
+		},
+		{
+			"name": "CG08 Abnormality Breach",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/122.png"
+			}
+		},
+		{
+			"name": "Kozilek, the Inverse Void",
+			"rarity": "mythic",
+			"mana_cost": "{10}",
+			"type": "Legendary Creature — Eldrazi",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/NOR-files/img/123.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Rizvan, the Beloved
+	2 Artsor, Liturgy Usurper
+	2 Bari, Knight of the Moon
+	2 Santiana, the Voyager
+	2 Isolan, Far Sea Bishop
+	2 Doomsday Ensemble
+	2 The Silent Vigilante
+	1 The Grand Librarian
+	2 The Child of the City
+	2 Israfil, the Mourning
+	2 Garion, Cruel Arbiter
+	2 Serenyi, Saint of Serei
+	2 Sukoshi, the Desperate
+	2 Samet, the Living Weapon
+	2 Yuri, Promising Future
+	2 Clinging Chorus
+	2 Wrathful Bladeweaver
+	2 Book of All Things Cute
+	2 The Concept Incinerator
+	2 Distort
+	2 CR09 Uncovered Mimic
+	2 Touka at Death's Gate
+	2 Alfonso, the Perfection
+	1 Kozilek, the Inverse Void
+[uncommon(3)]
+	4 UG09 Ordeals of Amber
+	4 Thorncrown Rites
+	4 Daseos Blade Saint
+	4 Happy Everlaughing
+	4 Heart Taster
+	4 Kinesis Researcher
+	4 Hollow Sentinel
+	4 Muji Ringleader
+	4 Reborn Rocinante
+	4 Cursed Responders
+	4 Ten Thousand Bodies
+	4 CG02 Violetta Muse
+	4 UG01 Enter the Dark Forest
+	4 UW05 Midnight Vigilante
+	4 CR01 Unassuming Hostess
+	4 UU12 Thirst for Mystery
+	4 Sylviane of the Ísuppskera
+	4 Follow the Prescripts
+	4 Here Without You
+	4 CB01 Mirrorworld Silencer
+[common(7)]
+	8 CW01 Cackling Fixer
+	8 CW02 Offenbarung Binder
+	8 CW06 Corrupted Murmurer
+	8 CW07 Dark Day Trumpeteer
+	8 CW08 Songpyo Proxy
+	8 CW09 Lantern Chimera
+	8 CW10 Lamenting Oracle
+	8 CW11 Full Office Mobilization
+	8 CW12 Leap Through Chaos
+	8 CW13 Roseate Delusion
+	8 CU05 Weeping Fixer
+	8 CU04 Shortcutting Fixer
+	8 CU03 Bright Night Conductor
+	8 CU06 Ironwind Ascetic
+	8 CU08 Wight Whale
+	8 CU09 Sea's Repose
+	8 CU10 CENSORED
+	8 CU12 Fixer's Handbook
+	8 CU14 Out of Memory
+	8 CB02 Punishing Bird
+	8 CR07 Flesh Twists
+	8 CB08 Swansong Masked
+	8 CB09 Lashblade Arbiter
+	8 CB10 Concept Incineration
+	8 CB12 Cruel Science
+	8 CB13 Through the Heart
+	8 CB14 Innocent Bliss
+	8 CB15 Slaying of the Old Guard
+	8 CR05 Asynchrony Fixer
+	8 CR04 Red-hooded Mercenary
+	8 CR01 Ashen Matchstick Boy
+	8 CR03 Feathered Arsonist
+	8 CG05 Strange Amity
+	8 CR06 Miniature Seraph
+	8 CB07 Spindle Spawning
+	8 CR10 Trauma Bonding
+	8 CR11 Visceral Testing
+	8 CR12 Vision of Love
+	8 CR14 Sixth Bullet
+	8 CR15 Yi Blaze
+	8 CG01 Vile Skitterer
+	8 CG03 Screeching Wire
+	8 CW05 Daseos Operator
+	8 CG09 Rumbling Hound
+	8 CG04 Giant Toad
+	8 CG10 Poisoned Queen
+	8 CG12 Fury of the Wolf
+	8 CG13 Ebony Growth
+	8 CG14 Apple Blade
+	8 CG15 Shrimpfishing
+	8 CA06 Corporate Nest
+	8 CA02 Tiphereth Core
+	8 CA03 Sound of a Star
+	8 CA01 Multicrack Worker
+	8 CA05 Storybook Fantasy
+	8 CA04 Marked Vials
+	8 CU01 Library Invitee
+	8 CG11 Carapace Hunt
+	8 CG02 Dreamer of Gold
+	8 CB06 Lantern Bird
+	8 CB04 Balancing Bird
+	8 CB11 Crimson Swiftness
+	8 CW14 Honor
+	8 CR13 Cold Precision
+	8 CR02 Victorious Nugget
+	8 CB05 Red-eyed Weaver
+	8 CW15 Bite of Lost Paradise
+	8 CU13 Arbiter's Decree
+	8 CU07 Wrathful Guard
+	8 CU02 Exhausted Inspector
+	8 CU11 Leviathan Stirs
+	8 CU15 Warp Maneuver
+	8 CB03 Warzone Medic
+	8 CB01 Wounded Mariner
+	8 CR08 Wicked Saintly Wings
+	8 CW03 Keening Adoration
+	8 CW04 Holiday Maiden
+	8 CG06 Violetta Muse
+	8 CG07 Welcome to the Library
+	8 CG08 Abnormality Breach
+[foil(1)]
+	12 CW01 Cackling Fixer
+	12 CW02 Offenbarung Binder
+	12 CW06 Corrupted Murmurer
+	12 CW07 Dark Day Trumpeteer
+	12 CW08 Songpyo Proxy
+	12 CW09 Lantern Chimera
+	12 CW10 Lamenting Oracle
+	12 CW11 Full Office Mobilization
+	12 CW12 Leap Through Chaos
+	12 CW13 Roseate Delusion
+	12 CU05 Weeping Fixer
+	12 CU04 Shortcutting Fixer
+	12 CU03 Bright Night Conductor
+	12 CU06 Ironwind Ascetic
+	12 CU08 Wight Whale
+	12 CU09 Sea's Repose
+	12 CU10 CENSORED
+	12 CU12 Fixer's Handbook
+	12 CU14 Out of Memory
+	12 CB02 Punishing Bird
+	12 CR07 Flesh Twists
+	12 CB08 Swansong Masked
+	12 CB09 Lashblade Arbiter
+	12 CB10 Concept Incineration
+	12 CB12 Cruel Science
+	12 CB13 Through the Heart
+	12 CB14 Innocent Bliss
+	12 CB15 Slaying of the Old Guard
+	12 CR05 Asynchrony Fixer
+	12 CR04 Red-hooded Mercenary
+	12 CR01 Ashen Matchstick Boy
+	12 CR03 Feathered Arsonist
+	12 CG05 Strange Amity
+	12 CR06 Miniature Seraph
+	12 CB07 Spindle Spawning
+	12 CR10 Trauma Bonding
+	12 CR11 Visceral Testing
+	12 CR12 Vision of Love
+	12 CR14 Sixth Bullet
+	12 CR15 Yi Blaze
+	12 CG01 Vile Skitterer
+	6 UG09 Ordeals of Amber
+	12 CG03 Screeching Wire
+	12 CW05 Daseos Operator
+	12 CG09 Rumbling Hound
+	12 CG04 Giant Toad
+	12 CG10 Poisoned Queen
+	12 CG12 Fury of the Wolf
+	12 CG13 Ebony Growth
+	12 CG14 Apple Blade
+	12 CG15 Shrimpfishing
+	12 CA06 Corporate Nest
+	12 CA02 Tiphereth Core
+	12 CA03 Sound of a Star
+	12 CA01 Multicrack Worker
+	12 CA05 Storybook Fantasy
+	12 CA04 Marked Vials
+	12 CU01 Library Invitee
+	6 Thorncrown Rites
+	6 Daseos Blade Saint
+	6 Happy Everlaughing
+	6 Heart Taster
+	6 Kinesis Researcher
+	6 Hollow Sentinel
+	6 Muji Ringleader
+	6 Reborn Rocinante
+	6 Cursed Responders
+	6 Ten Thousand Bodies
+	2 Rizvan, the Beloved
+	2 Artsor, Liturgy Usurper
+	12 CG11 Carapace Hunt
+	6 CG02 Violetta Muse
+	6 UG01 Enter the Dark Forest
+	2 Bari, Knight of the Moon
+	12 CG02 Dreamer of Gold
+	2 Santiana, the Voyager
+	2 Isolan, Far Sea Bishop
+	2 Doomsday Ensemble
+	12 CB06 Lantern Bird
+	12 CB04 Balancing Bird
+	12 CB11 Crimson Swiftness
+	12 CW14 Honor
+	6 UW05 Midnight Vigilante
+	12 CR13 Cold Precision
+	12 CR02 Victorious Nugget
+	12 CB05 Red-eyed Weaver
+	12 CW15 Bite of Lost Paradise
+	2 The Silent Vigilante
+	1 The Grand Librarian
+	6 CR01 Unassuming Hostess
+	2 The Child of the City
+	2 Israfil, the Mourning
+	2 Garion, Cruel Arbiter
+	2 Serenyi, Saint of Serei
+	2 Sukoshi, the Desperate
+	12 CU13 Arbiter's Decree
+	12 CU07 Wrathful Guard
+	12 CU02 Exhausted Inspector
+	12 CU11 Leviathan Stirs
+	6 UU12 Thirst for Mystery
+	12 CU15 Warp Maneuver
+	2 Samet, the Living Weapon
+	2 Yuri, Promising Future
+	2 Clinging Chorus
+	2 Wrathful Bladeweaver
+	12 CB03 Warzone Medic
+	12 CB01 Wounded Mariner
+	6 Sylviane of the Ísuppskera
+	2 Book of All Things Cute
+	2 The Concept Incinerator
+	2 Distort
+	6 Follow the Prescripts
+	2 CR09 Uncovered Mimic
+	12 CR08 Wicked Saintly Wings
+	2 Touka at Death's Gate
+	2 Alfonso, the Perfection
+	6 Here Without You
+	12 CW03 Keening Adoration
+	12 CW04 Holiday Maiden
+	6 CB01 Mirrorworld Silencer
+	12 CG06 Violetta Muse
+	12 CG07 Welcome to the Library
+	12 CG08 Abnormality Breach
+	1 Kozilek, the Inverse Void
+[wildcard(1)]
+	6 CW01 Cackling Fixer
+	6 CW02 Offenbarung Binder
+	6 CW06 Corrupted Murmurer
+	6 CW07 Dark Day Trumpeteer
+	6 CW08 Songpyo Proxy
+	6 CW09 Lantern Chimera
+	6 CW10 Lamenting Oracle
+	6 CW11 Full Office Mobilization
+	6 CW12 Leap Through Chaos
+	6 CW13 Roseate Delusion
+	6 CU05 Weeping Fixer
+	6 CU04 Shortcutting Fixer
+	6 CU03 Bright Night Conductor
+	6 CU06 Ironwind Ascetic
+	6 CU08 Wight Whale
+	6 CU09 Sea's Repose
+	6 CU10 CENSORED
+	6 CU12 Fixer's Handbook
+	6 CU14 Out of Memory
+	6 CB02 Punishing Bird
+	6 CR07 Flesh Twists
+	6 CB08 Swansong Masked
+	6 CB09 Lashblade Arbiter
+	6 CB10 Concept Incineration
+	6 CB12 Cruel Science
+	6 CB13 Through the Heart
+	6 CB14 Innocent Bliss
+	6 CB15 Slaying of the Old Guard
+	6 CR05 Asynchrony Fixer
+	6 CR04 Red-hooded Mercenary
+	6 CR01 Ashen Matchstick Boy
+	6 CR03 Feathered Arsonist
+	6 CG05 Strange Amity
+	6 CR06 Miniature Seraph
+	6 CB07 Spindle Spawning
+	6 CR10 Trauma Bonding
+	6 CR11 Visceral Testing
+	6 CR12 Vision of Love
+	6 CR14 Sixth Bullet
+	6 CR15 Yi Blaze
+	6 CG01 Vile Skitterer
+	15 UG09 Ordeals of Amber
+	6 CG03 Screeching Wire
+	6 CW05 Daseos Operator
+	6 CG09 Rumbling Hound
+	6 CG04 Giant Toad
+	6 CG10 Poisoned Queen
+	6 CG12 Fury of the Wolf
+	6 CG13 Ebony Growth
+	6 CG14 Apple Blade
+	6 CG15 Shrimpfishing
+	6 CA06 Corporate Nest
+	6 CA02 Tiphereth Core
+	6 CA03 Sound of a Star
+	6 CA01 Multicrack Worker
+	6 CA05 Storybook Fantasy
+	6 CA04 Marked Vials
+	6 CU01 Library Invitee
+	15 Thorncrown Rites
+	15 Daseos Blade Saint
+	15 Happy Everlaughing
+	15 Heart Taster
+	15 Kinesis Researcher
+	15 Hollow Sentinel
+	15 Muji Ringleader
+	15 Reborn Rocinante
+	15 Cursed Responders
+	15 Ten Thousand Bodies
+	7 Rizvan, the Beloved
+	7 Artsor, Liturgy Usurper
+	6 CG11 Carapace Hunt
+	15 CG02 Violetta Muse
+	15 UG01 Enter the Dark Forest
+	7 Bari, Knight of the Moon
+	6 CG02 Dreamer of Gold
+	7 Santiana, the Voyager
+	7 Isolan, Far Sea Bishop
+	7 Doomsday Ensemble
+	6 CB06 Lantern Bird
+	6 CB04 Balancing Bird
+	6 CB11 Crimson Swiftness
+	6 CW14 Honor
+	15 UW05 Midnight Vigilante
+	6 CR13 Cold Precision
+	6 CR02 Victorious Nugget
+	6 CB05 Red-eyed Weaver
+	6 CW15 Bite of Lost Paradise
+	7 The Silent Vigilante
+	4 The Grand Librarian
+	15 CR01 Unassuming Hostess
+	7 The Child of the City
+	7 Israfil, the Mourning
+	7 Garion, Cruel Arbiter
+	7 Serenyi, Saint of Serei
+	7 Sukoshi, the Desperate
+	6 CU13 Arbiter's Decree
+	6 CU07 Wrathful Guard
+	6 CU02 Exhausted Inspector
+	6 CU11 Leviathan Stirs
+	15 UU12 Thirst for Mystery
+	6 CU15 Warp Maneuver
+	7 Samet, the Living Weapon
+	7 Yuri, Promising Future
+	7 Clinging Chorus
+	7 Wrathful Bladeweaver
+	6 CB03 Warzone Medic
+	6 CB01 Wounded Mariner
+	15 Sylviane of the Ísuppskera
+	7 Book of All Things Cute
+	7 The Concept Incinerator
+	7 Distort
+	15 Follow the Prescripts
+	7 CR09 Uncovered Mimic
+	6 CR08 Wicked Saintly Wings
+	7 Touka at Death's Gate
+	7 Alfonso, the Perfection
+	15 Here Without You
+	6 CW03 Keening Adoration
+	6 CW04 Holiday Maiden
+	15 CB01 Mirrorworld Silencer
+	6 CG06 Violetta Muse
+	6 CG07 Welcome to the Library
+	6 CG08 Abnormality Breach
+	4 Kozilek, the Inverse Void

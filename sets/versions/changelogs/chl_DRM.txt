@@ -1,4 +1,437 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Blackbody Catharsis added.
+The Witchsource Lyre added.
+Ringing Sanctuary added.
+Frightening Caretaker added.
+Fantasy Play added.
+Human Resources added.
+Bane of Antausia added.
+Search the Ruins added.
+Wretched Spine Sword added.
+Urban Reckoner added.
+Inexorable Tide added.
+Faceless Derranger added.
+
+Witness Eternity removed.
+Violet's Witchsource Lyre removed.
+Secluded Courtyard removed.
+Scratching Wings removed.
+Fantastical Role Play removed.
+Doomed Agent removed.
+Bane of Kantria removed.
+Ruin Vagabond removed.
+
+Weapons Distributor
+type: Creature — Human Civilian => Creature — Human Citizen
+
+Walk in the Park
+rules_text: Create two 2/2 red Human creature tokens with bystander. You gain 1 life for each creature you control. [i](They can't attack or block.)[/i]
+{2}, Discard Walk in the Park: Sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => Choose one —
+• Put a +1/+1 counter on each creature you control. Draw a card.
+• Create two 2/2 red Human creature tokens with bystander. You gain 1 life for each creature you control. [i](They can't attack or block.)[/i]
+
+Void Warden
+rules_text: When Void Warden enters, choose target creature you don't control.
+The chosen creature loses all abilities and has bystander. [i](It can't attack or block.)[/i] => When Void Warden enters, choose target creature an opponent controls.
+The chosen creature loses all abilities and has bystander. [i](It can't attack or block.)[/i]
+
+Trauma Bonding
+
+Sunset Driver
+rules_text: Haste
+{T}: Target creature an opponent controls can't block this turn. => Haste
+{T}: Target creature can't block this turn.
+
+Woodland Wanderer
+type: Creature — Human Civilian => Creature — Human Citizen
+
+Starcharged Intercessor
+rules_text: First strike
+Whenever Starcharged Intercessor deals combat damage to a player, put a +1/+1 counter on each creature you control with a counter on it. Then if there are twenty or more counters among creatures you control, you win the game. => Flash
+When Starcharged Intercessor enters, choose one —
+• Remove all counters from target permanent an opponent controls.
+• Return target permanent you control to its owner's hand.
+
+Shadow Elk
+rules_text: When Shadow Elk enters, look at target player's hand. You may exile a noncreature, nonland from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast. => When Shadow Elk enters, look at target player's hand. You may exile a nonland from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+pt: 3/3 => 3/2
+
+Serenyi, the Entropist
+type: Legendary Creature — Fractal Civilian => Legendary Creature — Fractal Citizen
+
+Screeching Greatbird
+rules_text: Flying
+Creatures you don't control lose flying and can't gain flying. => Flying
+Other creatures you control with flying get +2/+2.
+
+Rotting Halovian
+type: Creature — Angel Horror Avatar => Creature — Angel Horror
+rules_text: Flying
+When Rotting Halovian enters, you may remove a counter from a permanent you control. If you do, put two +1/+1 counters on Rotting Halovian. => Flying
+When Rotting Halovian enters, you may remove a counter from a permanent you control. If you do, put a +1/+1 counter on Rotting Halovian. Otherwise, put a -1/-1 counter on Rotting Halovian.
+pt: 2/2 => 3/3
+
+Resplendant Violinist
+rules_text: When Resplendant Violinist enters, return up to one target creature card with mana value 2 or less from your graveyard to the battlefield, then put a +1/+1 counter on each other creature you control. => Resplendant Violinist enters with two +1/+1 counters on it.
+Whenever Resplendant Violinist enters or attacks, put a +1/+1 counter on each creature you control with a counter on it.
+pt: 2/2 => 0/0
+
+Preperation for War
+rules_text: Target creature you control gets +3/+3 and gains indestructible until end of turn.
+Conjure a card named Fight into your hand. [i](It's a {G} sorcery with “Target creature you control fights another target creature an opponent controls.”)[/i] => Target creature you control gets +3/+3 until end of turn.
+Conjure a card named Fight into your hand. [i](It's a {G} sorcery with “Target creature you control fights another target creature an opponent controls.”)[/i]
+
+Nightbreaker
+type: Creature — Human Civilian => Creature — Human Citizen
+
+Myriad Mirror
+
+Money Printer
+
+Misery Loves Company
+
+Melancholy Seekers
+
+Mechanical Seraph
+
+Mascot Flag
+
+Mana Core
+
+Malicious Gaze
+
+Magekiller Aberrant
+
+Lycoris Betrayer
+rules_text: Flying
+Whenever you draw your second card each turn, increase your despair by 1. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => Flying
+Whenever you draw your second card each turn, increase your despair by 2. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i]
+
+Lunar Cruise
+
+Lunar Awe
+
+Lonely Reverie
+
+Sorrow Cries in the Night
+
+Horror (little)
+
+Laughing Madness
+
+Kraken
+
+Knight of the Moon
+
+Kinetic Vigilante
+
+Cloudbreak Eel
+
+Kasmina, the First Awakened
+
+Pondering Gambler
+
+Kantria Burns
+
+Kantria Belle
+
+Jellyfish
+
+Iridia, Bleeding Worldsoul
+
+Invasive Reverie
+
+Inokrana's Harbinger
+
+Inokrana, the Finality
+
+Inksyl, the Second Dusk
+
+Incorrigible Prince
+
+Idyllic Reverie
+
+Icefire Strix
+
+Ice Princess
+rules_text: Signature move — {3}{W}: Exile target player's graveyard. Put a +1/+1 counter on Ice Princess for each card type among cards exiled by it. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => Signature move — {3}{W}: Exile target opponent's graveyard. Put a +1/+1 counter on Ice Princess for each card type among cards exiled by it. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Human Citizen
+
+Horror (medium)
+
+Horned Infiltrator
+
+Hooded Conniver
+
+Heraldess of War
+
+Heavens Split
+
+Heartless Decree
+
+Haunted Harbinger
+
+Haunted Dreams
+
+Haunted Cavern
+rules_text: {T}: Add {C}.
+{5}, {T}, Sacrifice Haunted Cavern: Increase your despair by 3. [i](Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token if you haven't this turn. Sacrifice it next end step.)[/i] => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Horror spell or to activate an ability of a Horror source.
+{3}, {T}: Lament. Activate only as a sorcery. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+
+Harrowed Scion
+cost: {G} => {1}{G}
+rules_text: Harrowed Scion enters with four -1/-1 counters on it unless it entered from your graveyard.
+Signature move — {6}{G}: Remove all counters from target permanent. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => When Harrowed Scion enters, if you cast it, put three -1/-1 counters on it.
+Signature move — {6}{G}: Remove all counters from target permanent. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Harbinger in White
+
+Halo Bud
+
+Halcyon Road
+
+Gutter Fighter
+
+Grief is Forbidden
+
+Great Beast of Sonradhach
+
+Gothic Puppet
+
+Dreamer Gold Resonance
+rules_text: [i]Find stillness amid the chaos[/i] — If damage would be dealt to Gold, put that many +1/+1 counters on her instead.
+Signature move — {12}: Put an infinity counter on Gold. She gains “You can't lose the game and your opponents can't win the game.” [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => [i]Find stillness amid the chaos[/i] — If combat damage would be dealt to Gold, put that many +1/+1 counters on her instead.
+Signature move — {12}: Put an infinity counter on Gold. She gains “You can't lose the game and your opponents can't win the game.” [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Psionic Sentinel
+
+Gilded Wrath
+
+Friendly Doc
+
+Forge Apprentice
+
+Flameseek Avenger
+
+Fight
+
+Fatal Flaw
+
+Stranger Things
+
+Eyeless Grouper
+rules_text: Menace
+At the beginning of your end step, if you've lamented this turn, you may return Eyeless Grouper from your graveyard to your hand. => Menace
+At the beginning of your end step, return Eyeless Grouper from your graveyard to your hand if you've lamented this turn.
+
+Extraplanar Adventurer
+
+Evil Cackling
+
+Eternities Watcher
+type: Creature — Human Civilian => Creature — Human Citizen
+
+Barhopping in Saulvinia
+
+Empower
+
+Burning Heart
+
+Dreamer Emerald Empath
+
+Elemental
+
+Eldritch Sorcerer
+
+Coiling Nightmare
+
+Eerie Asterbearer
+
+Eastside Butcher
+
+Dreamspun Prowler
+
+Dreamsifters
+
+Skinbinder Parasite
+
+Dreams Don't Come True
+
+Magical Ensemble
+
+Brilliant Spectacle
+
+Dream
+
+Dreadnaught Prince
+
+Drama Extrodinaire
+
+Draconic Temptress
+
+Doomsday Maw
+
+Diviner of Tragedies
+
+Distorted Aberray
+
+Devilish Maiden
+
+Despair Horror
+
+Despair
+rules_text: [i](Use this to track your despair.)[/i]
+Whenever you attack while you have X despair, create a tapped and attacking X/X Horror creature token, if you haven't this combat. Sacrifice it at the beginning of your next end step. => [i](Use this to track your despair.)[/i]
+Whenever you attack while you have X despair, create a tapped and attacking colorless X/X Horror creature token, if you haven't this combat. Sacrifice it at the beginning of your next end step.
+
+Demonic Conductor
+
+Dark Nebulae Invoker
+
+Dance of Starlight
+
+Cynette of a Thousand Hues
+
+Cursed Pianist
+
+Curious Kitten
+
+Crystal Grotto
+
+Crystal Chainer
+
+Cruel Osseomancer
+
+Cruel Anthem
+
+Crowned Advisor
+
+Crierlight Star
+
+Crash Out
+
+Corrupted Murmurer
+
+Corroded Nexus
+
+Copy
+
+Consecrated Reverie
+
+Collector of Forbidden Names
+
+Collateralist Cadre
+
+Fear the Dark
+
+Clockwork Reverie
+
+Cinderkiller
+
+Catkin Prototype
+
+Careening Car
+
+Butterfly Ringer
+
+Bureau Handler
+
+Bunny Summoner
+
+Wailing Bull
+
+Brightwing Avenger
+
+Born to Slay
+
+Blood Moon Lance
+
+Blood Sun Invoker
+
+Black Silence Welcomes All
+
+Dreamer Azure Defiance
+
+Azalea's Mindrazor
+
+Awestruck Stargazer
+
+Autumn Cruiser
+
+Astral Whalefall
+
+Astral Chainbreaker
+cost: {2}{G}{G} => {3}{G}
+pt: 5/5 => 4/5
+
+Astoria, the Deathless
+type: Legendary Creature — Human Civilian => Legendary Creature — Human Citizen
+rules_text: Bystander [i](Can't attack or block.)[/i]
+When Astoria dies, each opponent loses 2 life unless they discard a card. If you sacrificed her, return her to the battlefield at the beginning of your next end step. => Bystander [i](Can't attack or block.)[/i]
+When Astoria dies, each opponent loses 2 life unless they discard a card. If you sacrificed her, return her to the battlefield at the beginning of the next end step.
+
+Ars Magika
+
+Antausia's Blood Sun
+
+Animated Anachronist
+
+Ancient Reverie
+
+Amethyne Baron
+type: Creature — Human Noble Citizen => Creature — Human Noble
+cost: {W}{B} => {3}{W}{B}
+rules_text: Bystander [i](Can't attack or block.)[/i]
+When Amethyne Baron enters, return up to one target creature card with mana value 2 or less from your graveyard to the battlefield.
+If Amethyne Baron would die, exile it instead. When you do, it deals 2 damage to any target. You gain 2 life. => Vigilance
+When Amethyne Baron enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Once each turn, when a creature enters from your graveyard, draw a card.
+pt: 2/2 => 3/2
+
+Alone With My Thoughts
+
+Akane, the Liminal Girl
+
+Aerial Fortress
+
+Accidents Maker
+
+Lightning Bolt
+
+Treasure
+
+Stolen Spark
+
+Lumbering Sky Tyrant
+
+Enriss, City Director
+
+Dr. Amsel, Rogue Concocter
+
+Sciamachy
+
+Stare Down the Abyss
+
+Avatar of Forsaken Gods
+
+Council of Constellations
+
+Demonic Tutor
+
+Burdened Blightmaw
+
+Reality Winder
+
+Scythe Augment Subject
+
+Navia, Lady of Amethyne
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Zenith Mage added.
