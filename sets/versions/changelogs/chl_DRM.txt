@@ -1,4 +1,15 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+Awestruck Stargazer
+rules_text: As long as there are three or more basic land types among lands you control, Awestruck Stargazer gets +3/+2.
+When Awestruck Stargazer dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => As long as there are three or more names among basic lands you control, Awestruck Stargazer gets +3/+2.
+When Awestruck Stargazer dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+
+VERSION 21 CHANGELOG
 ====================
 
 

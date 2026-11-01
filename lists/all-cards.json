@@ -15562,7 +15562,7 @@
             "number": 149,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "As long as there are three or more basic land types among lands you control, Awestruck Stargazer gets +3/+2.\nWhen Awestruck Stargazer dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
+            "rules_text": "As long as there are three or more names among basic lands you control, Awestruck Stargazer gets +3/+2.\nWhen Awestruck Stargazer dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
