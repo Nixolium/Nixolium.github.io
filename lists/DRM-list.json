@@ -29,7 +29,7 @@
     },
     {
         "card_name": "Dreamer Emerald Errant",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "DRM",
         "position": "194"
@@ -64,7 +64,7 @@
     },
     {
         "card_name": "Great Beast of Sonradhach",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "DRM",
         "position": "174"
@@ -168,11 +168,11 @@
         "position": "284"
     },
     {
-        "card_name": "Lumbering Sky Tyrant",
-        "number": 165,
+        "card_name": "Colossal Weaponry",
+        "number": 153,
         "shape": "normal",
         "set": "DRM",
-        "position": "275"
+        "position": "106"
     },
     {
         "card_name": "Dreadnaught Prince",
@@ -203,11 +203,11 @@
         "position": "163"
     },
     {
-        "card_name": "Oversized Weaponry",
-        "number": 168,
+        "card_name": "Lumbering Sky Tyrant",
+        "number": 166,
         "shape": "normal",
         "set": "DRM",
-        "position": "106"
+        "position": "275"
     },
     {
         "card_name": "Rin, Outerworld Exorcist",
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Corroded Nexus",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "DRM",
         "position": "230"
@@ -414,7 +414,7 @@
     },
     {
         "card_name": "Crierlight Star",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "DRM",
         "position": "227"
@@ -449,7 +449,7 @@
     },
     {
         "card_name": "Diviner of Tragedies",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "DRM",
         "position": "211"
@@ -484,7 +484,7 @@
     },
     {
         "card_name": "Extraplanar Adventurer",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "DRM",
         "position": "188"
@@ -519,7 +519,7 @@
     },
     {
         "card_name": "Halo Bud",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "DRM",
         "position": "170"
@@ -554,7 +554,7 @@
     },
     {
         "card_name": "Heartless Decree",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "DRM",
         "position": "164"
@@ -939,7 +939,7 @@
     },
     {
         "card_name": "Dreamsifters",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "DRM",
         "position": "201"
@@ -974,7 +974,7 @@
     },
     {
         "card_name": "Eerie Asterbearer",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "DRM",
         "position": "198"
@@ -1009,7 +1009,7 @@
     },
     {
         "card_name": "Evil Cackling",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "DRM",
         "position": "189"
@@ -1044,7 +1044,7 @@
     },
     {
         "card_name": "Harrowed Scion",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "DRM",
         "position": "168"
@@ -1079,7 +1079,7 @@
     },
     {
         "card_name": "Nourishing Aberrant",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "DRM",
         "position": "116"
@@ -1114,7 +1114,7 @@
     },
     {
         "card_name": "Otherside Specialist",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "DRM",
         "position": "108"

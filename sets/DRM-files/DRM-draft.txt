@@ -1061,11 +1061,11 @@
 			}
 		},
 		{
-			"name": "Oversized Weaponry",
+			"name": "Colossal Weaponry",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "168",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/106.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/108.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/116.png"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/164.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Horror Wizard",
-			"collector_number": "163",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/168.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Angel Horror",
-			"collector_number": "162",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/170.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{G}{G}{G}",
 			"type": "Legendary Creature — Elder Horror",
-			"collector_number": "161",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/174.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "160",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/188.png"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/189.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{G}{G}{G}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/194.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dinosaur Horror",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/198.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Horror",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/201.png"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/211.png"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Angel Horror",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/227.png"
 			}
@@ -2305,7 +2305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/230.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Whale Horror",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/275.png"
 			}
@@ -2962,7 +2962,7 @@
 	2 Rin, Outerworld Exorcist
 	2 Rend the Waking World
 	2 Reckless Apostle
-	2 Oversized Weaponry
+	2 Colossal Weaponry
 	1 Dreamer Onyx Solitude
 	1 Nyreza, Her Feathers Ash
 	2 Nyreza, Conflicted Self
@@ -3306,7 +3306,7 @@
 	6 Pale Knightess
 	12 Overwhelmed Student
 	6 Overthinking Mourner
-	2 Oversized Weaponry
+	2 Colossal Weaponry
 	6 Out of Reach
 	12 Otherside Specialist
 	12 Orb Enjoyer
@@ -3568,7 +3568,7 @@
 	15 Pale Knightess
 	6 Overwhelmed Student
 	15 Overthinking Mourner
-	7 Oversized Weaponry
+	7 Colossal Weaponry
 	15 Out of Reach
 	6 Otherside Specialist
 	6 Orb Enjoyer

@@ -1,4 +1,49 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+The Witchsource Lyre
+rules_text: If you would draw a card while your library is empty, instead exile The Witchsource Lyre and create ten 1/1 blue Elemental creature tokens. You can't draw cards for the rest of the game.
+{T}: If you have fewer cards in your hand than an opponent, draw cards equal to the difference. => If you would draw a card while your library is empty, instead exile The Witchsource Lyre. Create ten 1/1 blue Elemental creature tokens with flying. You can't draw cards for the rest of the game.
+{T}: If you have fewer cards in your hand than an opponent, draw cards equal to the difference.
+
+Woodland Wanderer
+rules_text: Bystander [i](Can't attack or block.)[/i]
+If you would create a Horror token during combat, create two of those tokens instead. [i](Despair creates two attacking Horrors instead. You still sacrifice them at end step.)[/i] => Bystander [i](Can't attack or block.)[/i]
+If you would create a Horror token, create two of those tokens instead. [i](Despair creates two attacking Horrors instead. You still sacrifice them at end step.)[/i]
+
+Council of Constellations
+rules_text: When Council of Constellations enters, if it isn't a token, create three tokens that are copies of it.
+{T}: Put a +1/+1 counter or loyalty counter on target creature or planeswalker. => Vigilance
+When Council of Constellations enters, if it isn't a token, create two tokens that are copies of it.
+{T}: Put a +1/+1 counter or loyalty counter on target creature or planeswalker. Activate only on your turn.
+
+
+VERSION 20 CHANGELOG
+====================
+
+Colossal Weaponry added.
+
+Oversized Weaponry removed.
+
+Dreadnaught Prince
+rules_text: Flash
+When Dreadnaught Prince enters, you may pay {2} or remove a counter from a permanent you control. When you do, exile up to one other target creature. That creature's controller gains life equal to its power. => Flash
+When Dreadnaught Prince enters, you may pay {2} or remove a counter from a permanent you control. When you do, exile up to one target creature. That creature's controller gains life equal to its power.
+
+Cinderkiller
+rules_text: Cinderkiller has first strike as long as it's attacking.
+Whenever you put a +1/+1 counter on another creature, put a +1/+1 counter on Cinderkiller. This ability triggers only once each turn. => Cinderkiller has first strike as long as it's attacking.
+Whenever you put a counter on a creature you control, put a +1/+1 counter on Cinderkiller. This ability triggers only once each turn.
+
+Overzealous Prodigy
+rules_text: When Overzealous Prodigy enters, you may reveal your library. If you do, you may choose a card with the greatest mana value, put it into your hand, then shuffle.
+Signature move — {6}{G}{G}: Put a permanent card from your hand onto the battlefield. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => When Overzealous Prodigy enters, you may reveal your library. If you do, choose a card with the highest mana value or tied for the highest mana value, put it into your hand, then shuffle.
+Signature move — {5}{G}{G}: Put a permanent card from your hand onto the battlefield. [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Dreamer Emerald Errant added.
