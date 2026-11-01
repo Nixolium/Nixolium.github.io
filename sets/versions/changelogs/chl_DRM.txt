@@ -1,4 +1,98 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Dreamer Emerald Errant added.
+Faceless Deranger added.
+Mox Sapphire added.
+Overzealous Prodigy added.
+
+Dreamer Emerald Empath removed.
+Faceless Derranger removed.
+
+Wayward Reverie
+
+Shiroyuki, Eon Princess
+rules_text: As Shiroyuki enters, you get X reality counters. Her loyalty abilities cost [+1] to activate for each reality counter you have.
+[-1]: You gain 3 life.
+[-3]: Draw two cards, then discard a card. You may play an additional land this turn.
+[-7]: Create Pocket Apotheosis, a blue enchantment token with “Whenever you conjure or draw a card, create a 1/1 blue Elemental creature token with flying.” => As Shiroyuki enters, you get X reality counters. Her loyalty abilities cost [+1] to activate for each reality counter you have.
+[-1]: You gain 3 life.
+[-3]: Draw two cards, then discard a card. You may play an additional land this turn.
+[-7]: Create Pocket Apotheosis, a green and blue enchantment token with “Whenever you conjure or draw a card, create a 1/1 blue Elemental creature token with flying.”
+special_text: As Shiroyuki enters, you get X reality counters. Her loyalty abilities cost [+1] to activate for each reality counter you have.
+[-1]: You gain 3 life.
+[-3]: Draw two cards, then discard a card. You may play an additional land this turn.
+[-7]: Create Pocket Apotheosis, a blue enchantment token with “Whenever you conjure or draw a card, create a 1/1 blue Elemental creature token with flying.” => As Shiroyuki enters, you get X reality counters. Her loyalty abilities cost [+1] to activate for each reality counter you have.
+[-1]: You gain 3 life.
+[-3]: Draw two cards, then discard a card. You may play an additional land this turn.
+[-7]: Create Pocket Apotheosis, a green and blue enchantment token with “Whenever you conjure or draw a card, create a 1/1 blue Elemental creature token with flying.”
+
+Portal to Black Void
+cost: {3}{G} => {4}
+rules_text: When Portal to Black Void enters, conjure cards named Plains, Island, Swamp, Mountain, and Forest into your hand.
+Whenever you discard a land card, you may exile it from your graveyard. If you do, put it onto the battlefield. => When Portal to Black Void enters, conjure cards named Plains, Island, Swamp, Mountain, and Forest into your hand.
+Whenever you discard a land card, you may exile it from your graveyard. If you do, put it onto the battlefield tapped.
+
+Pocket Apotheosis
+
+Overthinking Mourner
+rules_text: If you would lament, instead conjure a card named Thoughts into your hand then lament. [i](Draw a card, then discard a card unless you sacrifice a creature. Thoughts is a {U} instant with “Draw a card.”)[/i] => Prowess
+If you would lament, instead conjure a card named Thoughts into your hand then lament. [i](Draw a card, then discard a card unless you sacrifice a creature. Thoughts is a {U} instant with “Draw a card.”)[/i]
+pt: 1/3 => 1/1
+
+Dreamer Onyx Solitude
+rules_text: Lifelink
+[i]This desolate world[/i] — If a card would be put into an opponent's graveyard from anywhere, exile it instead.
+[i]Alone I brave the dark[/i] — Pay 2 life: Lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i] => Lifelink
+[i]Harrowing mistakes[/i] — When Onyx enters, if you control two or more other creatures, you may destroy all other creatures.
+[i]Alone I brave the dark[/i] — Pay 2 life: Lament. Activate only as a sorcery. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]
+
+Idyllic Reverie
+
+Heartless Decree
+
+Dreamer Gold Resonance
+rules_text: [i]Find stillness amid the chaos[/i] — If combat damage would be dealt to Gold, put that many +1/+1 counters on her instead.
+Signature move — {12}: Put an infinity counter on Gold. She gains “You can't lose the game and your opponents can't win the game.” [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => [i]Find stillness amid the chaos[/i] — If damage would be dealt to Gold, put that many +1/+1 counters on her instead.
+Signature move — {12}: Put an infinity counter on Gold. She gains “You can't lose the game and your opponents can't win the game.” [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Curious Kitten
+
+Crystal Chainer
+type: Creature => Creature — Human Wizard
+
+Cinderkiller
+rules_text: Reach
+Sacrifice Cinderkiller and another creature: Cinderkiller deals damage equal to the sacrificed creature's power to each opponent. => Cinderkiller has first strike as long as it's attacking.
+Whenever you put a +1/+1 counter on another creature, put a +1/+1 counter on Cinderkiller. This ability triggers only once each turn.
+
+Born to Slay
+
+Dreamer Azure Defiance
+rules_text: Flying
+[i]I've got big dreams[/i] — You may cast spells as though they had flash.
+[i]Of a world beautiful and pure[/i] — Once each turn, when you activate a nonmana ability, conjure a card named Island onto the battlefield tapped. [i](It's a basic land that produces {U}.)[/i] => [i]I've got big dreams[/i] — You may cast spells as though they had flash.
+[i]Of a world beautiful and pure[/i] — Once each turn, when you activate an ability, if it isn't a mana ability, conjure a card named Mox Sapphire into your hand. [i](It's a {0} artifact with “{T}: Add {U}.”)[/i]
+
+Awestruck Stargazer
+cost: {1}{G} => {G}
+rules_text: Whenever another creature you control enters, put a +1/+1 counter on Awestruck Stargazer.
+Whenever Awestruck Stargazer attacks, you may remove a counter from a permanent you control. If you do, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i] => As long as there are three or more basic land types among lands you control, Awestruck Stargazer gets +3/+2.
+When Awestruck Stargazer dies, sightsee. [i](Conjure the basic land of your choice into your hand.)[/i]
+
+Aerial Fortress
+rules_text: Flying, vigilance
+Whenever Aerial Fortress attacks, exile up to one other target tapped nontoken creature you control. At the beginning of the next end step, return that card to the battlefield under its owner's control. 
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Horror Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+Whenever Aerial Fortress attacks, exile up to one other target tapped nontoken creature you control. At the beginning of the next end step, return that card to the battlefield under its owner's control. 
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Horror Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Scythe Augment Subject
+
+Navia, Lady of Amethyne
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Blackbody Catharsis added.

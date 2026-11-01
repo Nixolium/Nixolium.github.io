@@ -5,7 +5,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/0.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/5.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{G/U}",
 			"type": "Creature — Horror",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/7.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/15.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Axiom",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/23.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}{B}",
 			"type": "Legendary Planeswalker — Vielle",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/25.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/27.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/42.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Artifact Creature — Horror Citizen",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/53.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Warrior Citizen",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/61.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{U}{U}",
 			"type": "Legendary Planeswalker — Shiroyuki",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/63.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/69.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/74.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/77.png"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/83.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{U}{R}",
 			"type": "Instant",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/88.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/91.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/94.png"
 			}
@@ -953,9 +953,9 @@
 		{
 			"name": "Portal to Black Void",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "170",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/95.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/96.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "9",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/97.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/98.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/102.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/107.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "common",
 			"mana_cost": "{B/G}",
 			"type": "Sorcery",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/111.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Chimera",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/114.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/121.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/122.png"
 			}
@@ -1235,7 +1235,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/123.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct Angel",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/127.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/128.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/129.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/133.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/148.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Citizen",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/158.png"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Horror",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/159.png"
 			}
@@ -1642,7 +1642,7 @@
 		},
 		{
 			"name": "Heartless Decree",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "164",
@@ -1775,7 +1775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Artifact Creature — Construct Horror",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/177.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/181.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/186.png"
 			}
@@ -1941,7 +1941,7 @@
 			}
 		},
 		{
-			"name": "Dreamer Emerald Empath",
+			"name": "Dreamer Emerald Errant",
 			"rarity": "mythic",
 			"mana_cost": "{G}{G}{G}{G}",
 			"type": "Legendary Creature — Human Wizard",
@@ -2065,7 +2065,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Sorcery",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/206.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/208.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Toy Horror",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/216.png"
 			}
@@ -2205,7 +2205,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Human Artist Citizen",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/220.png"
 			}
@@ -2234,7 +2234,7 @@
 			"name": "Crystal Chainer",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Wizard",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/223.png"
@@ -2255,7 +2255,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/225.png"
 			}
@@ -2265,7 +2265,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/W}{G/W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/226.png"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/239.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Cow Horror",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/243.png"
 			}
@@ -2533,7 +2533,7 @@
 		{
 			"name": "Awestruck Stargazer",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Creature — Human Scout",
 			"collector_number": "149",
 			"image_uris": {
@@ -2605,7 +2605,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Toy Wizard",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/260.png"
 			}
@@ -2795,7 +2795,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Instant",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/279.png"
 			}
@@ -2885,7 +2885,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Human Rogue Wizard",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/288.png"
 			}
@@ -2901,7 +2901,7 @@
 			}
 		},
 		{
-			"name": "Faceless Derranger",
+			"name": "Faceless Deranger",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Angel Horror",
@@ -2915,9 +2915,29 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Planeswalker — Navia",
-			"collector_number": "203",
+			"collector_number": "0",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/291.png"
+			}
+		},
+		{
+			"name": "Mox Sapphire",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/292.png"
+			}
+		},
+		{
+			"name": "Overzealous Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Nixolium.github.io/sets/DRM-files/img/293.png"
 			}
 		}
 	]
@@ -2960,13 +2980,12 @@
 	1 Inksyl, the Second Dusk
 	2 Incorrigible Prince
 	2 Heavens Split
-	2 Heartless Decree
 	2 Halcyon Road
 	1 Great Beast of Sonradhach
 	1 Dreamer Gold Resonance
 	2 Fantasy Play
 	2 Barhopping in Saulvinia
-	1 Dreamer Emerald Empath
+	1 Dreamer Emerald Errant
 	2 Skinbinder Parasite
 	1 Dreams Don't Come True
 	2 Magical Ensemble
@@ -2999,8 +3018,9 @@
 	2 Wretched Spine Sword
 	2 Urban Reckoner
 	2 Inexorable Tide
-	2 Faceless Derranger
+	2 Faceless Deranger
 	2 Navia, Lady of Amethyne
+	2 Overzealous Prodigy
 [uncommon(3)]
 	4 Blackbody Catharsis
 	4 Weeping Witch
@@ -3065,6 +3085,7 @@
 	4 Ice Princess
 	4 Hooded Conniver
 	4 Heraldess of War
+	4 Heartless Decree
 	4 Haunted Harbinger
 	4 Haunted Cavern
 	4 Halo Bud
@@ -3335,7 +3356,7 @@
 	6 Hooded Conniver
 	6 Heraldess of War
 	2 Heavens Split
-	2 Heartless Decree
+	6 Heartless Decree
 	6 Haunted Harbinger
 	12 Haunted Dreams
 	6 Haunted Cavern
@@ -3362,7 +3383,7 @@
 	12 Eternities Watcher
 	2 Barhopping in Saulvinia
 	6 Burning Heart
-	1 Dreamer Emerald Empath
+	1 Dreamer Emerald Errant
 	6 Eldritch Sorcerer
 	6 Coiling Nightmare
 	12 Eerie Asterbearer
@@ -3444,8 +3465,9 @@
 	2 Wretched Spine Sword
 	2 Urban Reckoner
 	2 Inexorable Tide
-	2 Faceless Derranger
+	2 Faceless Deranger
 	2 Navia, Lady of Amethyne
+	2 Overzealous Prodigy
 [wildcard(1)]
 	7 Zenith Mage
 	6 Young Apothecary
@@ -3596,7 +3618,7 @@
 	15 Hooded Conniver
 	15 Heraldess of War
 	7 Heavens Split
-	7 Heartless Decree
+	15 Heartless Decree
 	15 Haunted Harbinger
 	6 Haunted Dreams
 	15 Haunted Cavern
@@ -3623,7 +3645,7 @@
 	6 Eternities Watcher
 	7 Barhopping in Saulvinia
 	15 Burning Heart
-	4 Dreamer Emerald Empath
+	4 Dreamer Emerald Errant
 	15 Eldritch Sorcerer
 	15 Coiling Nightmare
 	6 Eerie Asterbearer
@@ -3705,5 +3727,6 @@
 	7 Wretched Spine Sword
 	7 Urban Reckoner
 	7 Inexorable Tide
-	7 Faceless Derranger
+	7 Faceless Deranger
 	7 Navia, Lady of Amethyne
+	7 Overzealous Prodigy
