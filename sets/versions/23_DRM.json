@@ -37,7 +37,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Whenever you draw your second card each turn, put a +1/+1 counter on Young Apothecary.",
-            "flavor_text": "[i]\u201cHmm... this is poison.\u201d[/i]",
+            "flavor_text": "[i]\u201cHmm . . . this is poison.\u201d[/i]",
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": ""
+            "notes": "5C land"
         },
         {
             "card_name": "Screeching Greatbird",
@@ -1843,7 +1843,7 @@
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "[i](This card is conjured and isn't otherwise legal.)[/i]\nDraw a card.",
-            "flavor_text": "[i]Nom nom nom... Delicious.[/i]",
+            "flavor_text": "[i]Nom nom nom . . . delicious.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2005,7 +2005,7 @@
         {
             "card_name": "Portal to Black Void",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 243,
             "color_identity": "C",
@@ -3032,25 +3032,25 @@
             "notes": ""
         },
         {
-            "card_name": "Pondering Gambler",
+            "card_name": "Player of Whimsy",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Citizen",
+            "type": "Creature \u2014 Human Rogue",
             "number": 135,
             "color_identity": "R",
-            "cost": "{R}",
-            "rules_text": "Bystander [i](Can't attack or block.)[/i]\nIf a source you control would deal damage to an opponent, you may prevent 1 of that damage. If you do, create a tapped Treasure token. Do this only once each turn.",
+            "cost": "{1}{R}",
+            "rules_text": "Once each turn, when a player casts a noncreature spell or conjures a card into their hand, Player of Whimsy deals 1 damage to that player and you create a tapped Treasure token.",
             "flavor_text": "[i]Becoming Scarlet Rebellion only enhanced Rebecca's love for playing the odds.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "DRM",
             "loyalty": "",
-            "artist": "tamitami",
+            "artist": "ezu",
             "alias": "",
             "position": "144",
             "rotated": false,
-            "notes": "impulse draw"
+            "notes": ""
         },
         {
             "card_name": "Kantria Burns",
@@ -3092,7 +3092,7 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": "3 creature"
+            "notes": "2 creature"
         },
         {
             "card_name": "Jellyfish",
@@ -3515,11 +3515,11 @@
             "notes": "creature removal via tapping/transform"
         },
         {
-            "card_name": "Haunted Cavern",
+            "card_name": "Accursed Cavern",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 253,
+            "number": 247,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Horror spell or to activate an ability of a Horror source.\n{3}, {T}: Lament. Activate only as a sorcery. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]",
@@ -3533,7 +3533,7 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": ""
+            "notes": "5C land"
         },
         {
             "card_name": "Harrowed Scion",
@@ -3603,7 +3603,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Land",
-            "number": 252,
+            "number": 253,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Halcyon Road enters tapped.\nWhen Halcyon Road enters, exile a card from your hand. If you do, draw a card.\n{T}: Choose a color of the exiled card or a color of mana it could produce. Add one mana of that color.",
@@ -3617,7 +3617,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": ""
+            "notes": "5C land"
         },
         {
             "card_name": "Gutter Fighter",
@@ -4670,25 +4670,25 @@
             "notes": "Toolbox mana value 1"
         },
         {
-            "card_name": "Crystal Grotto",
+            "card_name": "Anomalous Region",
             "color": "",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Land",
-            "number": 250,
+            "number": 249,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When Crystal Grotto enters, scry 1.\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]\u201cDo you dream? If so, you've met me.\u201d\n\u2014Azure Defiance[/i]",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color. This ability costs {1} less to activate if you control one or fewer other lands.",
+            "flavor_text": "[i]\u201cTravelers report glowing skies, distant giants, and altered time perception.\u201d\n\u2014Nyreza[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "DRM",
             "loyalty": "",
-            "artist": "aurahack",
+            "artist": "wubaiye zhu",
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": ""
+            "notes": "5C land"
         },
         {
             "card_name": "Crystal Chainer",
@@ -4884,7 +4884,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 249,
+            "number": 251,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "Consecrated Reverie enters tapped.\nWhen Consecrated Reverie enters, you may scry 2. If you do, an opponent may scry 2.\n{T}: Add {W} or {B}.",
@@ -4968,7 +4968,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 248,
+            "number": 250,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "Clockwork Reverie enters tapped.\nWhen Clockwork Reverie enters, you may scry 2. If you do, an opponent may scry 2.\n{T}: Add {B} or {R}.",
@@ -5014,7 +5014,7 @@
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Whenever Catkin Prototype attacks, you may have it gain trample or deathtouch until end of turn.",
-            "flavor_text": "[i]\u201cIt's useless... well it's actually a little cute. Hmm... further observation is required.\u201d\n\u2014Gold Resonance[/i]",
+            "flavor_text": "[i]\u201cIt's useless . . . well it's a little cute. Hmm . . . further observation is required.\u201d\n\u2014Gold Resonance[/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
@@ -5392,7 +5392,7 @@
             "color_identity": "WUBRG",
             "cost": "{3}{G}",
             "rules_text": "Astral Chainbreaker is all colors.",
-            "flavor_text": "[i]\u201cHa... ha... All four of you have come together for little ol' me?\u201d\n\u2014Scarlet to the Dreamers[/i]",
+            "flavor_text": "[i]\u201cHa . . . all four of you have come together for little ol' me?\u201d\n\u2014Scarlet to the Dreamers[/i]",
             "pt": "4/5",
             "special_text": "",
             "shape": "normal",
@@ -5493,7 +5493,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 247,
+            "number": 248,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "Ancient Reverie enters tapped.\nWhen Ancient Reverie enters, you may scry 2. If you do, an opponent may scry 2.\n{T}: Add {R} or {W}.",
@@ -5766,7 +5766,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 251,
+            "number": 252,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",

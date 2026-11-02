@@ -1,4 +1,32 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Player of Whimsy added.
+Accursed Cavern added.
+Anomalous Region added.
+
+Pondering Gambler removed.
+Haunted Cavern removed.
+Crystal Grotto removed.
+
+Young Apothecary
+
+Ringing Sanctuary
+
+Repose
+
+Portal to Black Void
+
+Kantria Belle
+
+Halcyon Road
+
+Catkin Prototype
+
+Astral Chainbreaker
+
+
+VERSION 22 CHANGELOG
 ====================
 
 

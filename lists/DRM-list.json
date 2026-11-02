@@ -651,7 +651,7 @@
         "position": "66"
     },
     {
-        "card_name": "Pondering Gambler",
+        "card_name": "Player of Whimsy",
         "number": 135,
         "shape": "normal",
         "set": "DRM",
@@ -1717,6 +1717,13 @@
         "position": "122"
     },
     {
+        "card_name": "Portal to Black Void",
+        "number": 243,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "95"
+    },
+    {
         "card_name": "Wretched Spine Sword",
         "number": 246,
         "shape": "normal",
@@ -1750,13 +1757,6 @@
         "shape": "normal",
         "set": "DRM",
         "position": "128"
-    },
-    {
-        "card_name": "Portal to Black Void",
-        "number": 243,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "95"
     },
     {
         "card_name": "Inokrana's Harbinger",
@@ -1820,7 +1820,7 @@
     },
     {
         "card_name": "Clockwork Reverie",
-        "number": 248,
+        "number": 250,
         "shape": "normal",
         "set": "DRM",
         "position": "236"
@@ -1856,7 +1856,7 @@
     },
     {
         "card_name": "Consecrated Reverie",
-        "number": 249,
+        "number": 251,
         "shape": "normal",
         "set": "DRM",
         "position": "232"
@@ -1877,7 +1877,7 @@
     },
     {
         "card_name": "Ancient Reverie",
-        "number": 247,
+        "number": 248,
         "shape": "normal",
         "set": "DRM",
         "position": "261"
@@ -1905,8 +1905,15 @@
         "card_name": "er"
     },
     {
+        "card_name": "Anomalous Region",
+        "number": 249,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "222"
+    },
+    {
         "card_name": "Halcyon Road",
-        "number": 252,
+        "number": 253,
         "shape": "normal",
         "set": "DRM",
         "position": "171"
@@ -1919,18 +1926,11 @@
         "position": "69"
     },
     {
-        "card_name": "Haunted Cavern",
-        "number": 253,
+        "card_name": "Accursed Cavern",
+        "number": 247,
         "shape": "normal",
         "set": "DRM",
         "position": "167"
-    },
-    {
-        "card_name": "Crystal Grotto",
-        "number": 250,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "222"
     },
     {
         "card_name": "Upturned Landscape",
@@ -1984,7 +1984,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 251,
+        "number": 252,
         "shape": "normal",
         "set": "DRM",
         "position": "274"

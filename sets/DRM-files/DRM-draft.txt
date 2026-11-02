@@ -952,7 +952,7 @@
 		},
 		{
 			"name": "Portal to Black Void",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "243",
@@ -1441,10 +1441,10 @@
 			}
 		},
 		{
-			"name": "Pondering Gambler",
+			"name": "Player of Whimsy",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Citizen",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
 			"collector_number": "135",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/144.png"
@@ -1671,11 +1671,11 @@
 			}
 		},
 		{
-			"name": "Haunted Cavern",
+			"name": "Accursed Cavern",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/167.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/171.png"
 			}
@@ -2221,11 +2221,11 @@
 			}
 		},
 		{
-			"name": "Crystal Grotto",
-			"rarity": "common",
+			"name": "Anomalous Region",
+			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/222.png"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/232.png"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/236.png"
 			}
@@ -2615,7 +2615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/261.png"
 			}
@@ -2745,7 +2745,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/274.png"
 			}
@@ -2962,6 +2962,7 @@
 	2 Rin, Outerworld Exorcist
 	2 Rend the Waking World
 	2 Reckless Apostle
+	2 Portal to Black Void
 	2 Colossal Weaponry
 	1 Dreamer Onyx Solitude
 	1 Nyreza, Her Feathers Ash
@@ -2990,6 +2991,7 @@
 	1 Dreams Don't Come True
 	2 Magical Ensemble
 	2 Dreadnaught Prince
+	2 Anomalous Region
 	2 Cruel Osseomancer
 	2 Collector of Forbidden Names
 	2 Brightwing Avenger
@@ -3059,7 +3061,6 @@
 	4 Preperation for War
 	4 Precipice of Hands
 	4 Prancing Carnality
-	4 Portal to Black Void
 	4 Poise
 	4 Partnered Apprentice
 	4 Paradox Reverie
@@ -3078,7 +3079,7 @@
 	4 Sorrow Cries in the Night
 	4 Kinetic Vigilante
 	4 Cloudbreak Eel
-	4 Pondering Gambler
+	4 Player of Whimsy
 	4 Invasive Reverie
 	4 Idyllic Reverie
 	4 Icefire Strix
@@ -3087,7 +3088,7 @@
 	4 Heraldess of War
 	4 Heartless Decree
 	4 Haunted Harbinger
-	4 Haunted Cavern
+	4 Accursed Cavern
 	4 Halo Bud
 	4 Gutter Fighter
 	4 Grief is Forbidden
@@ -3194,7 +3195,6 @@
 	8 Demonic Conductor
 	8 Dark Nebulae Invoker
 	8 Cursed Pianist
-	8 Crystal Grotto
 	8 Crystal Chainer
 	8 Crowned Advisor
 	8 Crash Out
@@ -3297,7 +3297,7 @@
 	6 Preperation for War
 	6 Precipice of Hands
 	6 Prancing Carnality
-	6 Portal to Black Void
+	2 Portal to Black Void
 	6 Poise
 	6 Partnered Apprentice
 	12 Part-time Assassin
@@ -3340,7 +3340,7 @@
 	6 Kinetic Vigilante
 	6 Cloudbreak Eel
 	2 Kasmina, the First Awakened
-	6 Pondering Gambler
+	6 Player of Whimsy
 	12 Kantria Burns
 	2 Kantria Belle
 	1 Iridia, Bleeding Worldsoul
@@ -3359,7 +3359,7 @@
 	6 Heartless Decree
 	6 Haunted Harbinger
 	12 Haunted Dreams
-	6 Haunted Cavern
+	6 Accursed Cavern
 	12 Harrowed Scion
 	12 Harbinger in White
 	6 Halo Bud
@@ -3408,7 +3408,7 @@
 	6 Cynette of a Thousand Hues
 	12 Cursed Pianist
 	6 Curious Kitten
-	12 Crystal Grotto
+	2 Anomalous Region
 	12 Crystal Chainer
 	2 Cruel Osseomancer
 	12 Crowned Advisor
@@ -3559,7 +3559,7 @@
 	15 Preperation for War
 	15 Precipice of Hands
 	15 Prancing Carnality
-	15 Portal to Black Void
+	7 Portal to Black Void
 	15 Poise
 	15 Partnered Apprentice
 	6 Part-time Assassin
@@ -3602,7 +3602,7 @@
 	15 Kinetic Vigilante
 	15 Cloudbreak Eel
 	7 Kasmina, the First Awakened
-	15 Pondering Gambler
+	15 Player of Whimsy
 	6 Kantria Burns
 	7 Kantria Belle
 	4 Iridia, Bleeding Worldsoul
@@ -3621,7 +3621,7 @@
 	15 Heartless Decree
 	15 Haunted Harbinger
 	6 Haunted Dreams
-	15 Haunted Cavern
+	15 Accursed Cavern
 	6 Harrowed Scion
 	6 Harbinger in White
 	15 Halo Bud
@@ -3670,7 +3670,7 @@
 	15 Cynette of a Thousand Hues
 	6 Cursed Pianist
 	15 Curious Kitten
-	6 Crystal Grotto
+	7 Anomalous Region
 	6 Crystal Chainer
 	7 Cruel Osseomancer
 	6 Crowned Advisor
