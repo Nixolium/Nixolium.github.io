@@ -6,11 +6,6 @@
             "formats": ""
         },
         {
-            "set_code": "CFS",
-            "set_name": "Chikyu: Foreign Stars",
-            "formats": ""
-        },
-        {
             "set_code": "DRM",
             "set_name": "Dreamers of Antausia",
             "formats": ""
@@ -18,16 +13,6 @@
         {
             "set_code": "EPS",
             "set_name": "Epsil",
-            "formats": ""
-        },
-        {
-            "set_code": "LOR",
-            "set_name": "Liturgies of Ruhnacht",
-            "formats": ""
-        },
-        {
-            "set_code": "NOR",
-            "set_name": "",
             "formats": ""
         }
     ]
