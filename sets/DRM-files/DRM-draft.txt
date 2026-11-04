@@ -61,7 +61,7 @@
 			}
 		},
 		{
-			"name": "Blackbody Catharsis",
+			"name": "Blackbody Trance",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
@@ -301,7 +301,7 @@
 			}
 		},
 		{
-			"name": "Twisted Catharsis",
+			"name": "Twisted Cleansing",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
@@ -551,9 +551,9 @@
 			}
 		},
 		{
-			"name": "Soul-Guide Lantern",
-			"rarity": "common",
-			"mana_cost": "{1}",
+			"name": "Silencing Trinket",
+			"rarity": "rare",
+			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "244",
 			"image_uris": {
@@ -755,7 +755,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{R}{R}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/75.png"
 			}
@@ -1222,7 +1222,7 @@
 		},
 		{
 			"name": "Myriad Mirror",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "242",
@@ -1292,7 +1292,7 @@
 		},
 		{
 			"name": "Mana Core",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "239",
@@ -1425,7 +1425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Fish Horror",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/142.png"
 			}
@@ -1933,9 +1933,9 @@
 		{
 			"name": "Burning Heart",
 			"rarity": "uncommon",
-			"mana_cost": "{X}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/193.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dragon Horror Avatar",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/209.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Horror Wizard",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/213.png"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/228.png"
 			}
@@ -2375,7 +2375,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental Horror",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/237.png"
 			}
@@ -2425,7 +2425,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Wizard Citizen",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/242.png"
 			}
@@ -2461,11 +2461,11 @@
 			}
 		},
 		{
-			"name": "Blood Moon Lance",
+			"name": "Fiery Catharsis",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Instant",
-			"collector_number": "113",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/246.png"
 			}
@@ -2845,7 +2845,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon Horror",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/284.png"
 			}
@@ -2953,6 +2953,7 @@
 	1 The Witchsource Lyre
 	2 Suspicious Gentleman
 	2 Stoic Philosopher
+	2 Silencing Trinket
 	2 Solemn Arbiter
 	1 Shiroyuki, Eon Princess
 	2 Shattered Dreamwalker
@@ -2970,7 +2971,6 @@
 	2 No Winners to War
 	2 Nixie, Drifting on Dreams
 	2 Nightbreaker
-	2 Myriad Mirror
 	2 Money Printer
 	1 Magekiller Aberrant
 	2 Laughing Madness
@@ -3024,7 +3024,7 @@
 	2 Navia, Lady of Amethyne
 	2 Overzealous Prodigy
 [uncommon(3)]
-	4 Blackbody Catharsis
+	4 Blackbody Trance
 	4 Weeping Witch
 	4 Weapons Distributor
 	4 Wayward Reverie
@@ -3033,7 +3033,7 @@
 	4 Virtual Depths
 	4 Vielle, the Rosebearer
 	4 Unsightly Abomination
-	4 Twisted Catharsis
+	4 Twisted Cleansing
 	4 Trauma Bonding
 	4 Stroke of Butterflies
 	4 Woodland Wanderer
@@ -3070,10 +3070,10 @@
 	4 Out of Reach
 	4 Nyreza, No Sky Untouchable
 	4 Nova Kite
+	4 Myriad Mirror
 	4 Misery Loves Company
 	4 Melancholy Seekers
 	4 Mascot Flag
-	4 Mana Core
 	4 Lunar Awe
 	4 Lonely Reverie
 	4 Sorrow Cries in the Night
@@ -3118,7 +3118,7 @@
 	4 Butterfly Ringer
 	4 Bureau Handler
 	4 Wailing Bull
-	4 Blood Moon Lance
+	4 Fiery Catharsis
 	4 Human Resources
 	4 Bane of Antausia
 	4 Ancient Reverie
@@ -3151,7 +3151,6 @@
 	8 Stalked Crow
 	8 Soulstore Boxes
 	8 Violet's Remorse
-	8 Soul-Guide Lantern
 	8 Soul Distortion
 	8 Sonradhach Serpent
 	8 Shining Valiant
@@ -3168,6 +3167,7 @@
 	8 Nourishing Aberrant
 	8 Noble Stargazer
 	8 Mechanical Seraph
+	8 Mana Core
 	8 Malicious Gaze
 	8 Lycoris Betrayer
 	8 Lunar Cruise
@@ -3213,7 +3213,7 @@
 	2 Wreck Explorer
 	12 Wrapped Operative
 	12 Worn Motorbike
-	6 Blackbody Catharsis
+	6 Blackbody Trance
 	12 Witch Companion
 	12 Wingscout
 	2 Wildrose Obliterator
@@ -3236,7 +3236,7 @@
 	12 Urban Ascendant
 	12 Upturned Landscape
 	6 Unsightly Abomination
-	6 Twisted Catharsis
+	6 Twisted Cleansing
 	6 Trauma Bonding
 	12 Trauma Plunge
 	12 Trapped in a Dream
@@ -3258,7 +3258,7 @@
 	6 Spectacle Flagbearer
 	12 Soulstore Boxes
 	12 Violet's Remorse
-	12 Soul-Guide Lantern
+	2 Silencing Trinket
 	12 Soul Distortion
 	12 Sonradhach Serpent
 	6 Somber Stormcaller
@@ -3321,13 +3321,13 @@
 	2 No Winners to War
 	2 Nixie, Drifting on Dreams
 	2 Nightbreaker
-	2 Myriad Mirror
+	6 Myriad Mirror
 	2 Money Printer
 	6 Misery Loves Company
 	6 Melancholy Seekers
 	12 Mechanical Seraph
 	6 Mascot Flag
-	6 Mana Core
+	12 Mana Core
 	12 Malicious Gaze
 	1 Magekiller Aberrant
 	12 Lycoris Betrayer
@@ -3430,7 +3430,7 @@
 	6 Wailing Bull
 	2 Brightwing Avenger
 	12 Born to Slay
-	6 Blood Moon Lance
+	6 Fiery Catharsis
 	2 Blood Sun Invoker
 	6 Human Resources
 	1 Black Silence Welcomes All
@@ -3475,7 +3475,7 @@
 	7 Wreck Explorer
 	6 Wrapped Operative
 	6 Worn Motorbike
-	15 Blackbody Catharsis
+	15 Blackbody Trance
 	6 Witch Companion
 	6 Wingscout
 	7 Wildrose Obliterator
@@ -3498,7 +3498,7 @@
 	6 Urban Ascendant
 	6 Upturned Landscape
 	15 Unsightly Abomination
-	15 Twisted Catharsis
+	15 Twisted Cleansing
 	15 Trauma Bonding
 	6 Trauma Plunge
 	6 Trapped in a Dream
@@ -3520,7 +3520,7 @@
 	15 Spectacle Flagbearer
 	6 Soulstore Boxes
 	6 Violet's Remorse
-	6 Soul-Guide Lantern
+	7 Silencing Trinket
 	6 Soul Distortion
 	6 Sonradhach Serpent
 	15 Somber Stormcaller
@@ -3583,13 +3583,13 @@
 	7 No Winners to War
 	7 Nixie, Drifting on Dreams
 	7 Nightbreaker
-	7 Myriad Mirror
+	15 Myriad Mirror
 	7 Money Printer
 	15 Misery Loves Company
 	15 Melancholy Seekers
 	6 Mechanical Seraph
 	15 Mascot Flag
-	15 Mana Core
+	6 Mana Core
 	6 Malicious Gaze
 	4 Magekiller Aberrant
 	6 Lycoris Betrayer
@@ -3692,7 +3692,7 @@
 	15 Wailing Bull
 	7 Brightwing Avenger
 	6 Born to Slay
-	15 Blood Moon Lance
+	15 Fiery Catharsis
 	7 Blood Sun Invoker
 	15 Human Resources
 	4 Black Silence Welcomes All

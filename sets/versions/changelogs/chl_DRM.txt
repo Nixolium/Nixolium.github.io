@@ -1,4 +1,40 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Blackbody Trance added.
+Twisted Cleansing added.
+Silencing Trinket added.
+Fiery Catharsis added.
+
+Blackbody Catharsis removed.
+Twisted Catharsis removed.
+Soul-Guide Lantern removed.
+Blood Moon Lance removed.
+
+Wandering Shroud
+
+Myriad Mirror
+
+Mana Core
+
+Player of Whimsy
+rules_text: Once each turn, when a player casts a noncreature spell or conjures a card into their hand, Player of Whimsy deals 1 damage to that player and you create a tapped Treasure token. => Whenever an opponent casts a noncreature spell or conjures a card into their hand, Player of Whimsy deals 1 damage to them. If this is the first time this ability has resolved this turn, create a tapped Treasure token.
+pt: 1/1 => 2/1
+
+Dreamer Gold Resonance
+rules_text: [i]Find stillness amid the chaos[/i] — If damage would be dealt to Gold, put that many +1/+1 counters on her instead.
+Signature move — {12}: Put an infinity counter on Gold. She gains “You can't lose the game and your opponents can't win the game.” [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i] => [i]Find stillness amid the chaos[/i] — If damage would be dealt to Gold, prevent that damage. Whenever damage is prevented this way, put that many +1/+1 counters on her.
+Signature move — {10}: Put an infinity counter on Gold. She gains “You can't lose the game and your opponents can't win the game.” [i](Activate each signature move only once. Reduce the cost by the number of other creatures you control.)[/i]
+
+Burning Heart
+cost: {X}{R} => {1}{R}
+rules_text: Burning Heart deals X damage to any target, where X is the number of amount of red mana spent to cast this spell. => Damage can't be prevented this turn.
+Burning Heart deals 3 damage to target creature. If it's a Human, Burning Heart deals 5 damage to it instead.
+
+Mox Sapphire
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Player of Whimsy added.

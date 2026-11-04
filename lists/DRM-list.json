@@ -22,7 +22,7 @@
     },
     {
         "card_name": "Dreamer Scarlet Rebellion",
-        "number": 122,
+        "number": 121,
         "shape": "normal",
         "set": "DRM",
         "position": "75"
@@ -162,7 +162,7 @@
     },
     {
         "card_name": "Burdened Blightmaw",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "DRM",
         "position": "284"
@@ -371,11 +371,11 @@
         "position": "250"
     },
     {
-        "card_name": "Blood Moon Lance",
-        "number": 113,
+        "card_name": "Burning Heart",
+        "number": 115,
         "shape": "normal",
         "set": "DRM",
-        "position": "246"
+        "position": "193"
     },
     {
         "card_name": "Corroded Nexus",
@@ -392,7 +392,7 @@
         "position": "229"
     },
     {
-        "card_name": "Blackbody Catharsis",
+        "card_name": "Blackbody Trance",
         "number": 40,
         "shape": "normal",
         "set": "DRM",
@@ -406,11 +406,11 @@
         "position": "240"
     },
     {
-        "card_name": "Burning Heart",
-        "number": 116,
+        "card_name": "Cloudbreak Eel",
+        "number": 117,
         "shape": "normal",
         "set": "DRM",
-        "position": "193"
+        "position": "142"
     },
     {
         "card_name": "Crierlight Star",
@@ -441,11 +441,11 @@
         "position": "234"
     },
     {
-        "card_name": "Cloudbreak Eel",
-        "number": 118,
+        "card_name": "Draconic Temptress",
+        "number": 120,
         "shape": "normal",
         "set": "DRM",
-        "position": "142"
+        "position": "209"
     },
     {
         "card_name": "Diviner of Tragedies",
@@ -476,11 +476,11 @@
         "position": "196"
     },
     {
-        "card_name": "Draconic Temptress",
-        "number": 121,
+        "card_name": "Fiery Catharsis",
+        "number": 122,
         "shape": "normal",
         "set": "DRM",
-        "position": "209"
+        "position": "246"
     },
     {
         "card_name": "Extraplanar Adventurer",
@@ -679,7 +679,7 @@
         "position": "81"
     },
     {
-        "card_name": "Twisted Catharsis",
+        "card_name": "Twisted Cleansing",
         "number": 105,
         "shape": "normal",
         "set": "DRM",
@@ -827,7 +827,7 @@
     },
     {
         "card_name": "Bunny Summoner",
-        "number": 114,
+        "number": 113,
         "shape": "normal",
         "set": "DRM",
         "position": "242"
@@ -862,7 +862,7 @@
     },
     {
         "card_name": "Cinderkiller",
-        "number": 117,
+        "number": 116,
         "shape": "normal",
         "set": "DRM",
         "position": "237"
@@ -897,7 +897,7 @@
     },
     {
         "card_name": "Crash Out",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "DRM",
         "position": "228"
@@ -932,7 +932,7 @@
     },
     {
         "card_name": "Devilish Maiden",
-        "number": 120,
+        "number": 119,
         "shape": "normal",
         "set": "DRM",
         "position": "213"
@@ -1710,18 +1710,18 @@
         "position": "260"
     },
     {
-        "card_name": "Myriad Mirror",
-        "number": 242,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "122"
-    },
-    {
         "card_name": "Portal to Black Void",
         "number": 243,
         "shape": "normal",
         "set": "DRM",
         "position": "95"
+    },
+    {
+        "card_name": "Silencing Trinket",
+        "number": 244,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "55"
     },
     {
         "card_name": "Wretched Spine Sword",
@@ -1745,18 +1745,18 @@
         "position": "206"
     },
     {
-        "card_name": "Mana Core",
-        "number": 239,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "129"
-    },
-    {
         "card_name": "Mascot Flag",
         "number": 240,
         "shape": "normal",
         "set": "DRM",
         "position": "128"
+    },
+    {
+        "card_name": "Myriad Mirror",
+        "number": 242,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "122"
     },
     {
         "card_name": "Inokrana's Harbinger",
@@ -1773,18 +1773,18 @@
         "position": "216"
     },
     {
+        "card_name": "Mana Core",
+        "number": 239,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "129"
+    },
+    {
         "card_name": "Mechanical Seraph",
         "number": 241,
         "shape": "normal",
         "set": "DRM",
         "position": "127"
-    },
-    {
-        "card_name": "Soul-Guide Lantern",
-        "number": 244,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "55"
     },
     {
         "card_name": "e"
