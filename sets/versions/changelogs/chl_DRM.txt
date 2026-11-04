@@ -1,4 +1,15 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Heartbreak added.
+Sailor Guardian added.
+
+Burning Heart removed.
+
+Watch This Awesome Move
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Lantern of Memories added.
