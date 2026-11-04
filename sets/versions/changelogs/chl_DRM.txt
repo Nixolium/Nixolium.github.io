@@ -1,4 +1,15 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Lantern of Memories added.
+
+Silencing Trinket removed.
+
+Fiery Catharsis
+cost: {3}{R} => {1}{R}{R}
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Blackbody Trance added.

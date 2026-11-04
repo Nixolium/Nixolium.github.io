@@ -1163,14 +1163,14 @@
             "notes": "bolt or strike"
         },
         {
-            "card_name": "Silencing Trinket",
+            "card_name": "Lantern of Memories",
             "color": "",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 244,
+            "number": 239,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Creatures attacking and dealing combat damage don't cause abilities of permanents to trigger.\n{1}, {T}, Sacrifice Silencing Trinket: Draw a card.",
+            "rules_text": "{T}, Exile a creature card from your graveyard: Put a +1/+1 counter on target creature you control.\n{3}, {T}, Sacrifice Lantern of Memories: Draw a card for each creature you control with a counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2007,7 +2007,7 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 243,
+            "number": 244,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "When Portal to Black Void enters, conjure cards named Plains, Island, Swamp, Mountain, and Forest into your hand.\nWhenever you discard a land card, you may exile it from your graveyard. If you do, put it onto the battlefield tapped.",
@@ -2574,7 +2574,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 242,
+            "number": 243,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "When Myriad Mirror enters, lament. [i](Draw a card, then discard a card unless you sacrifice a creature.)[/i]\n{1}, {T}: Copy target activated or triggered ability you control from a creature source. You may choose new targets for the copy.",
@@ -2679,7 +2679,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Construct Angel",
-            "number": 241,
+            "number": 242,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "Flying\nWhen Mechanical Seraph enters, you draw a card and gain 2 life.",
@@ -2700,7 +2700,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 240,
+            "number": 241,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "When Mascot Flag enters, create a 2/2 red Human Citizen creature token with bystander. [i](It can't attack or block.)[/i]\n{T}: Add one mana of any color.\n{2}, {T}, Sacrifice Mascot Flag: Creatures you control lose bystander until end of turn.",
@@ -2721,7 +2721,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 239,
+            "number": 240,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "When Mana Core enters, scry 2.\n{1}, {T}: Add one mana of any color. \n{5}, {T}, Sacrifice Mana Core: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",
@@ -5180,7 +5180,7 @@
             "type": "Sorcery",
             "number": 122,
             "color_identity": "R",
-            "cost": "{3}{R}",
+            "cost": "{1}{R}{R}",
             "rules_text": "Fiery Catharsis deals 4 damage to any target.\nWhen you discard Fiery Catharsis, you may pay {1}{R}. If you do, you may cast a copy of it without paying its mana cost.",
             "flavor_text": "[i]\u201cMagical power is closely tied to suffering. Training is never as effective as trauma.\u201d\n\u2014Vielle Singer[/i]",
             "pt": "",
@@ -6182,5 +6182,5 @@
             "notes": ""
         }
     ],
-    "version": 24
+    "version": 25
 }

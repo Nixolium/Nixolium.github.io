@@ -1710,18 +1710,18 @@
         "position": "260"
     },
     {
-        "card_name": "Portal to Black Void",
-        "number": 243,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "95"
-    },
-    {
-        "card_name": "Silencing Trinket",
-        "number": 244,
+        "card_name": "Lantern of Memories",
+        "number": 239,
         "shape": "normal",
         "set": "DRM",
         "position": "55"
+    },
+    {
+        "card_name": "Portal to Black Void",
+        "number": 244,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "95"
     },
     {
         "card_name": "Wretched Spine Sword",
@@ -1746,14 +1746,14 @@
     },
     {
         "card_name": "Mascot Flag",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "DRM",
         "position": "128"
     },
     {
         "card_name": "Myriad Mirror",
-        "number": 242,
+        "number": 243,
         "shape": "normal",
         "set": "DRM",
         "position": "122"
@@ -1774,14 +1774,14 @@
     },
     {
         "card_name": "Mana Core",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "DRM",
         "position": "129"
     },
     {
         "card_name": "Mechanical Seraph",
-        "number": 241,
+        "number": 242,
         "shape": "normal",
         "set": "DRM",
         "position": "127"

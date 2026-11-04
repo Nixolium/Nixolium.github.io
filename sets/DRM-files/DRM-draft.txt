@@ -551,11 +551,11 @@
 			}
 		},
 		{
-			"name": "Silencing Trinket",
+			"name": "Lantern of Memories",
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/55.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/95.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/122.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct Angel",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/127.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/128.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://Nixolium.github.io/sets/DRM-files/img/129.png"
 			}
@@ -2463,7 +2463,7 @@
 		{
 			"name": "Fiery Catharsis",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
@@ -2953,7 +2953,7 @@
 	1 The Witchsource Lyre
 	2 Suspicious Gentleman
 	2 Stoic Philosopher
-	2 Silencing Trinket
+	2 Lantern of Memories
 	2 Solemn Arbiter
 	1 Shiroyuki, Eon Princess
 	2 Shattered Dreamwalker
@@ -3258,7 +3258,7 @@
 	6 Spectacle Flagbearer
 	12 Soulstore Boxes
 	12 Violet's Remorse
-	2 Silencing Trinket
+	2 Lantern of Memories
 	12 Soul Distortion
 	12 Sonradhach Serpent
 	6 Somber Stormcaller
@@ -3520,7 +3520,7 @@
 	15 Spectacle Flagbearer
 	6 Soulstore Boxes
 	6 Violet's Remorse
-	7 Silencing Trinket
+	7 Lantern of Memories
 	6 Soul Distortion
 	6 Sonradhach Serpent
 	15 Somber Stormcaller
