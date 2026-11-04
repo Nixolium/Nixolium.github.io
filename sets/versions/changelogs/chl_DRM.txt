@@ -1,4 +1,12 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Magical Ensemble_Promo added.
+
+Sailor Guardian removed.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Heartbreak added.

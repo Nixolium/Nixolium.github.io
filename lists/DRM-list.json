@@ -1444,25 +1444,6 @@
         "position": "226"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sailor Guardian",
-        "number": 273,
-        "shape": "normal",
-        "set": "DRM",
-        "position": "294"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -2029,7 +2010,11 @@
         "position": "118"
     },
     {
-        "card_name": "e"
+        "card_name": "Magical Ensemble_Promo",
+        "number": 273,
+        "shape": "normal",
+        "set": "DRM",
+        "position": "294"
     },
     {
         "card_name": "e"

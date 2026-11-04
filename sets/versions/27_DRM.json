@@ -6182,7 +6182,7 @@
             "notes": ""
         },
         {
-            "card_name": "Sailor Guardian",
+            "card_name": "Magical Ensemble_Promo",
             "color": "RG",
             "rarity": "special",
             "type": "Creature \u2014 Human Wizard",
@@ -6200,7 +6200,7 @@
             "alias": "Magical Ensemble",
             "position": "294",
             "rotated": false,
-            "notes": "!tag promo"
+            "notes": "!group promo\n!exportname Magical Ensemble_Promo"
         }
     ]
 }

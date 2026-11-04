@@ -2941,7 +2941,7 @@
 			}
 		},
 		{
-			"name": "Sailor Guardian",
+			"name": "Magical Ensemble_Promo",
 			"rarity": "special",
 			"mana_cost": "{X}{R}{G}",
 			"type": "Creature — Human Wizard",
