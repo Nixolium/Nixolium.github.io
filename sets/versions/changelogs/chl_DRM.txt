@@ -1,4 +1,348 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+Dreamer Gold Resonance_Promo added.
+
+No Winners to War_Promo removed.
+
+No Winners to War
+
+Nixie, Drifting on Dreams
+
+Nightbreaker
+
+Myriad Mirror
+
+Money Printer
+
+Misery Loves Company
+
+Melancholy Seekers
+
+Mechanical Seraph
+
+Mascot Flag
+
+Mana Core
+
+Malicious Gaze
+
+Magekiller Aberrant
+
+Lycoris Betrayer
+
+Lunar Cruise
+
+Lunar Awe
+
+Lonely Reverie
+
+Sorrow Cries in the Night
+
+Horror (little)
+
+Laughing Madness
+
+Kraken
+
+Knight of the Moon
+
+Kinetic Vigilante
+
+Cloudbreak Eel
+
+Kasmina, the First Awakened
+
+Player of Whimsy
+
+Kantria Burns
+
+Kantria Belle
+
+Jellyfish
+
+Iridia, Bleeding Worldsoul
+
+Invasive Reverie
+
+Inokrana's Harbinger
+
+Inokrana, the Finality
+
+Inksyl, the Second Dusk
+
+Incorrigible Prince
+
+Idyllic Reverie
+
+Icefire Strix
+
+Ice Princess
+
+Human Citizen
+
+Horror (medium)
+
+Horned Infiltrator
+
+Hooded Conniver
+
+Heraldess of War
+
+Heavens Split
+
+Heartless Decree
+
+Haunted Harbinger
+
+Haunted Dreams
+
+Accursed Cavern
+
+Harrowed Scion
+
+Harbinger in White
+
+Halo Bud
+
+Halcyon Road
+
+Gutter Fighter
+
+Grief is Forbidden
+
+Great Beast of Sonradhach
+
+Gothic Puppet
+
+Dreamer Gold Resonance
+
+Psionic Sentinel
+
+Gilded Wrath
+
+Friendly Doc
+
+Forge Apprentice
+
+Flameseek Avenger
+
+Fight
+
+Fatal Flaw
+
+Fantasy Play
+
+Stranger Things
+
+Eyeless Grouper
+
+Extraplanar Adventurer
+
+Evil Cackling
+
+Eternities Watcher
+
+Barhopping in Saulvinia
+
+Empower
+
+Heartbreak
+
+Dreamer Emerald Errant
+
+Elemental
+
+Eldritch Sorcerer
+
+Coiling Nightmare
+
+Eerie Asterbearer
+
+Eastside Butcher
+
+Dreamspun Prowler
+
+Dreamsifters
+
+Skinbinder Parasite
+
+Dreams Don't Come True
+
+Magical Ensemble
+
+Brilliant Spectacle
+
+Dream
+
+Dreadnaught Prince
+
+Drama Extrodinaire
+
+Draconic Temptress
+
+Doomsday Maw
+
+Diviner of Tragedies
+
+Distorted Aberray
+
+Devilish Maiden
+
+Despair Horror
+
+Despair
+
+Demonic Conductor
+
+Dark Nebulae Invoker
+
+Dance of Starlight
+
+Cynette of a Thousand Hues
+
+Cursed Pianist
+
+Curious Kitten
+
+Anomalous Region
+
+Crystal Chainer
+
+Cruel Osseomancer
+
+Cruel Anthem
+
+Crowned Advisor
+
+Crierlight Star
+
+Crash Out
+
+Corrupted Murmurer
+
+Corroded Nexus
+
+Copy
+
+Consecrated Reverie
+
+Collector of Forbidden Names
+
+Collateralist Cadre
+
+Fear the Dark
+
+Clockwork Reverie
+
+Cinderkiller
+
+Catkin Prototype
+
+Careening Car
+
+Butterfly Ringer
+
+Bureau Handler
+
+Bunny Summoner
+
+Wailing Bull
+
+Brightwing Avenger
+
+Born to Slay
+
+Fiery Catharsis
+
+Blood Sun Invoker
+
+Human Resources
+
+Black Silence Welcomes All
+
+Bane of Antausia
+
+Dreamer Azure Defiance
+
+Azalea's Mindrazor
+
+Awestruck Stargazer
+
+Autumn Cruiser
+
+Astral Whalefall
+
+Astral Chainbreaker
+
+Astoria, the Deathless
+
+Ars Magika
+
+Antausia's Blood Sun
+
+Animated Anachronist
+
+Ancient Reverie
+
+Amethyne Baron
+
+Alone With My Thoughts
+
+Akane, the Liminal Girl
+
+Aerial Fortress
+
+Accidents Maker
+
+Lightning Bolt
+
+Treasure
+
+Stolen Spark
+
+Lumbering Sky Tyrant
+
+Enriss, City Director
+
+Dr. Amsel, Rogue Concocter
+
+Sciamachy
+
+Search the Ruins
+
+Stare Down the Abyss
+
+Avatar of Forsaken Gods
+
+Council of Constellations
+
+Demonic Tutor
+
+Burdened Blightmaw
+
+Reality Winder
+
+Scythe Augment Subject
+
+Wretched Spine Sword
+
+Urban Reckoner
+
+Inexorable Tide
+
+Faceless Deranger
+
+Navia, Lady of Amethyne
+
+Mox Sapphire
+
+Overzealous Prodigy
+
+Magical Ensemble_Promo
+
+
+VERSION 27 CHANGELOG
 ====================
 
 Magical Ensemble_Promo added.
